@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:588 No videos found under 'Live Now'.
+INFO     root:test_User_Interface.py:615 No videos found under 'Scheduled'.

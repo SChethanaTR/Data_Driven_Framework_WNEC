@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:769 Story added to playlist: View of Gaza strip as seen from the Israeli side
+INFO     root:test_User_Interface.py:788 Locator 1 text: ISRAEL-PALESTINIANS/GAZA-BORDER--UPDATED DETAILS--

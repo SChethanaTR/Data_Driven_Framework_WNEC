@@ -1,0 +1,8 @@
+INFO     root:test_User_Interface.py:159 CLIMATE-CHANGE/SWISS-GLACIERS
+INFO     root:test_User_Interface.py:159 CLIMATE-CHANGE/SWISS-GLACIERS
+INFO     root:test_User_Interface.py:159 ISRAEL-PALESTINIANS/PORTUGAL
+INFO     root:test_User_Interface.py:159 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY
+INFO     root:test_User_Interface.py:159 SOUTHSUDAN-POLITICS/COURT
+INFO     root:test_User_Interface.py:159 SOCCER-ENGLAND-LIN-CHE/PREVIEW
+INFO     root:test_User_Interface.py:159 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY-MOMENT
+INFO     root:test_User_Interface.py:159 UKRAINE-CRISIS/POLAND-AIRSPACE

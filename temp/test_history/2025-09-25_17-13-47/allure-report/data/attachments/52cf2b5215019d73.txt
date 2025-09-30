@@ -1,0 +1,4 @@
+INFO:root:Testing user - Username: dhpmku, Password: m2W%3%VsvV
+INFO:root:Login successful
+INFO:root:Logout message verified
+INFO:root:Successfully logged out

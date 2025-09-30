@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:517 Please select at least one service
+INFO     root:test_VFD.py:534 Please select at least one exclusion

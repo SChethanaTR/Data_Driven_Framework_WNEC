@@ -1,0 +1,9 @@
+INFO:root:Story 1: ISRAEL-PALESTINIANS/WEST BANK-REFUGEE CAMPS-CITYSHOTS
+INFO:root:Story 2: ISRAEL-PALESTINIANS/GAZA-STRIKES
+INFO:root:Story 3: USA-TRUMP/VISAS-INDIA-EXPERT
+INFO:root:
+INFO:root:
+INFO:root:('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Playing', 'Waiting', '', '', '', 'Now playing: Reuters Live Online', 'Reuters Live Online', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Playing', 'Waiting', 'fixed', '', 'tag:reuters.com,2025:newsml_AD2IWNXXQY', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, 'rl1')

@@ -1,0 +1,390 @@
+INFO     root:story.py:1350 Cell 1: 2025-09-24T232445Z_5_RW774324092025RP1_RTRMADC_0_PEOPLE-JAMESCOMEY-FILE.XML
+INFO     root:story.py:1350 Cell 2: TBD
+INFO     root:story.py:1350 Cell 3: Waiting
+INFO     root:story.py:1350 Cell 4: 
+INFO     root:story.py:1350 Cell 5: 2025-09-25T000852Z_5_RW778324092025RP1_RTRMADC_0_USA-SHOOTING-ICE-TRUMP.XML
+INFO     root:story.py:1350 Cell 6: TBD
+INFO     root:story.py:1350 Cell 7: Waiting
+INFO     root:story.py:1350 Cell 8: 
+INFO     root:story.py:1350 Cell 9: 2025-09-24T231529Z_2_RW777024092025RP1_RTRMADC_0_UN-ASSEMBLY-KENYA-INTERVIEW.XML
+INFO     root:story.py:1350 Cell 10: TBD
+INFO     root:story.py:1350 Cell 11: Waiting
+INFO     root:story.py:1350 Cell 12: 
+INFO     root:story.py:1350 Cell 13: 2025-09-24T222943Z_4_RW774924092025RP1_RTRMADC_0_GOLF-RYDERCUP.XML
+INFO     root:story.py:1350 Cell 14: TBD
+INFO     root:story.py:1350 Cell 15: Waiting
+INFO     root:story.py:1350 Cell 16: 
+INFO     root:story.py:1350 Cell 17: 2025-09-24T235533Z_2_RWMSCN9M1_RTRMADC_0_CHINA-XI-XINJIANG-ANNIVERSARY-GALA.XML
+INFO     root:story.py:1350 Cell 18: TBD
+INFO     root:story.py:1350 Cell 19: Waiting
+INFO     root:story.py:1350 Cell 20: 
+INFO     root:story.py:1350 Cell 21: 2025-09-24T225440Z_5_RW777324092025RP1_RTRMADC_0_UN-ASSEMBLY-BRAZIL.XML
+INFO     root:story.py:1350 Cell 22: TBD
+INFO     root:story.py:1350 Cell 23: Waiting
+INFO     root:story.py:1350 Cell 24: 
+INFO     root:story.py:1350 Cell 25: 2025-09-24T233208Z_6_RW776224092025RP1_RTRMADC_0_BRAZIL-POLITICS.XML
+INFO     root:story.py:1350 Cell 26: TBD
+INFO     root:story.py:1350 Cell 27: Waiting
+INFO     root:story.py:1350 Cell 28: 
+INFO     root:story.py:1350 Cell 29: 2025-09-24T221228Z_2_RWMSCNAEH_RTRMADC_0_VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.XML
+INFO     root:story.py:1350 Cell 30: TBD
+INFO     root:story.py:1350 Cell 31: Waiting
+INFO     root:story.py:1350 Cell 32: 
+INFO     root:story.py:1350 Cell 33: 2025-09-25T000420Z_11_RW735427092024RP1_RTRMADC_0_LEBANON-NASRALLAH-PROFILE-SHORT.XML
+INFO     root:story.py:1350 Cell 34: TBD
+INFO     root:story.py:1350 Cell 35: Waiting
+INFO     root:story.py:1350 Cell 36: 
+INFO     root:story.py:1350 Cell 37: 2025-09-24T231013Z_5_RW777524092025RP1_RTRMADC_0_USA-SHOOTING-ICE-SUSPECT.XML
+INFO     root:story.py:1350 Cell 38: TBD
+INFO     root:story.py:1350 Cell 39: Waiting
+INFO     root:story.py:1350 Cell 40: 
+INFO     root:story.py:1350 Cell 41: 2025-09-24T223740Z_4_RW776324092025RP1_RTRMADC_0_UN-ASSEMBLY-NORWAY.XML
+INFO     root:story.py:1350 Cell 42: TBD
+INFO     root:story.py:1350 Cell 43: Waiting
+INFO     root:story.py:1350 Cell 44: 
+INFO     root:story.py:1350 Cell 45: 2025-09-24T231304Z_2_RW755224092025RP1_RTRMADC_0_GUINNESS-RECORDS-BOOK.XML
+INFO     root:story.py:1350 Cell 46: TBD
+INFO     root:story.py:1350 Cell 47: Waiting
+INFO     root:story.py:1350 Cell 48: 
+INFO     root:story.py:1350 Cell 49: 2025-09-25T001317Z_4_RW777824092025RP1_RTRMADC_0_UN-ASSEMBLY-ESTONIA.XML
+INFO     root:story.py:1350 Cell 50: TBD
+INFO     root:story.py:1350 Cell 51: Waiting
+INFO     root:story.py:1350 Cell 52: 
+INFO     root:story.py:1350 Cell 53: 2025-09-24T225031Z_5_RW776624092025RP1_RTRMADC_0_CHILE-ECONOMY.XML
+INFO     root:story.py:1350 Cell 54: TBD
+INFO     root:story.py:1350 Cell 55: Waiting
+INFO     root:story.py:1350 Cell 56: 
+INFO     root:story.py:1350 Cell 57: 2025-09-24T223601Z_3_RW767524092025RP1_RTRMADC_0_USA-TRUMP-AUTISM-MOTHER.XML
+INFO     root:story.py:1350 Cell 58: TBD
+INFO     root:story.py:1350 Cell 59: Waiting
+INFO     root:story.py:1350 Cell 60: 
+INFO     root:story.py:1350 Cell 61: 2025-09-25T000431Z_2_RW777924092025RP1_RTRMADC_0_UN-ASSEMBLY-TRUMP-SOCIAL-MEDIA.XML
+INFO     root:story.py:1350 Cell 62: TBD
+INFO     root:story.py:1350 Cell 63: Waiting
+INFO     root:story.py:1350 Cell 64: 
+INFO     root:story.py:1350 Cell 65: 2025-09-24T224838Z_4_RW776724092025RP1_RTRMADC_0_MALAWI-ELECTION.XML
+INFO     root:story.py:1350 Cell 66: TBD
+INFO     root:story.py:1350 Cell 67: Waiting
+INFO     root:story.py:1350 Cell 68: 
+INFO     root:story.py:1350 Cell 69: 2025-09-24T230450Z_9_RW771324092025RP1_RTRMADC_0_UN-ASSEMBLY-CLIMATE.XML
+INFO     root:story.py:1350 Cell 70: TBD
+INFO     root:story.py:1350 Cell 71: Waiting
+INFO     root:story.py:1350 Cell 72: 
+INFO     root:story.py:1350 Cell 73: 2025-09-24T235545Z_5_RW778124092025RP1_RTRMADC_0_USA-SHOOTING-ICE-OFFICE.XML
+INFO     root:story.py:1350 Cell 74: TBD
+INFO     root:story.py:1350 Cell 75: Waiting
+INFO     root:story.py:1350 Cell 76: 
+INFO     root:story.py:1350 Cell 77: 2025-09-24T224832Z_5_RW776924092025RP1_RTRMADC_0_DENMARK-AIRPORT-DRONES.XML
+INFO     root:story.py:1350 Cell 78: TBD
+INFO     root:story.py:1350 Cell 79: Waiting
+INFO     root:story.py:1350 Cell 80: 
+INFO     root:test_VFD.py:918 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:926 
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                          |
++=====+====================================================================================================================================================================================+
+|   1 | 2025-09-25 12:37:42,834 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution command processor                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-25 12:37:42,838 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Starting...                                                                               |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-25 12:37:43,063 INFO  [main] com.zaxxer.hikari.pool.HikariPool : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64c63c79                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-25 12:37:43,066 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Start completed.                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-25 12:37:43,138 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-25 12:37:43,159 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-25 12:37:43,161 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-25 12:37:43,814 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 1 distribution processes.                                        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-25 12:37:43,819 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of auto files : 0                                                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-25 12:37:43,820 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of manual files : 0                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-25 12:37:43,822 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Filtering 0 new files for distribution queuing by "test1"                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-25 12:37:43,822 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : 0 files passed filters and were queued for distribution by process "test1" |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-25 12:37:43,823 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 0 processed/queued files from the distribution_files table.        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-25 12:37:43,825 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-25 12:37:43,825 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-25 12:37:43,837 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 60 files from queue for process 199                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-25 12:37:43,838 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-25 12:37:43,840 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 60 files                                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-25 12:37:43,847 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-25 12:37:44,873 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:929 
+📁 Files Present in Target Directory:
+INFO     root:story.py:1350 Cell 1: 2025-09-24T231529Z_2_RW777024092025RP1_RTRMADC_0_UN-ASSEMBLY-KENYA-INTERVIEW.XML
+INFO     root:story.py:1350 Cell 2: TBD
+INFO     root:story.py:1350 Cell 3: Waiting
+INFO     root:story.py:1350 Cell 4: 
+INFO     root:story.py:1350 Cell 5: 2025-09-24T222943Z_4_RW774924092025RP1_RTRMADC_0_GOLF-RYDERCUP.XML
+INFO     root:story.py:1350 Cell 6: TBD
+INFO     root:story.py:1350 Cell 7: Waiting
+INFO     root:story.py:1350 Cell 8: 
+INFO     root:story.py:1350 Cell 9: 2025-09-24T235533Z_2_RWMSCN9M1_RTRMADC_0_CHINA-XI-XINJIANG-ANNIVERSARY-GALA.XML
+INFO     root:story.py:1350 Cell 10: TBD
+INFO     root:story.py:1350 Cell 11: Waiting
+INFO     root:story.py:1350 Cell 12: 
+INFO     root:story.py:1350 Cell 13: 2025-09-24T225440Z_5_RW777324092025RP1_RTRMADC_0_UN-ASSEMBLY-BRAZIL.XML
+INFO     root:story.py:1350 Cell 14: TBD
+INFO     root:story.py:1350 Cell 15: Waiting
+INFO     root:story.py:1350 Cell 16: 
+INFO     root:story.py:1350 Cell 17: 2025-09-24T233208Z_6_RW776224092025RP1_RTRMADC_0_BRAZIL-POLITICS.XML
+INFO     root:story.py:1350 Cell 18: TBD
+INFO     root:story.py:1350 Cell 19: Waiting
+INFO     root:story.py:1350 Cell 20: 
+INFO     root:story.py:1350 Cell 21: 2025-09-24T221228Z_2_RWMSCNAEH_RTRMADC_0_VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.XML
+INFO     root:story.py:1350 Cell 22: TBD
+INFO     root:story.py:1350 Cell 23: Waiting
+INFO     root:story.py:1350 Cell 24: 
+INFO     root:story.py:1350 Cell 25: 2025-09-25T000420Z_11_RW735427092024RP1_RTRMADC_0_LEBANON-NASRALLAH-PROFILE-SHORT.XML
+INFO     root:story.py:1350 Cell 26: TBD
+INFO     root:story.py:1350 Cell 27: Waiting
+INFO     root:story.py:1350 Cell 28: 
+INFO     root:story.py:1350 Cell 29: 2025-09-24T231013Z_5_RW777524092025RP1_RTRMADC_0_USA-SHOOTING-ICE-SUSPECT.XML
+INFO     root:story.py:1350 Cell 30: TBD
+INFO     root:story.py:1350 Cell 31: Waiting
+INFO     root:story.py:1350 Cell 32: 
+INFO     root:story.py:1350 Cell 33: 2025-09-24T223740Z_4_RW776324092025RP1_RTRMADC_0_UN-ASSEMBLY-NORWAY.XML
+INFO     root:story.py:1350 Cell 34: TBD
+INFO     root:story.py:1350 Cell 35: Waiting
+INFO     root:story.py:1350 Cell 36: 
+INFO     root:story.py:1350 Cell 37: 2025-09-24T231304Z_2_RW755224092025RP1_RTRMADC_0_GUINNESS-RECORDS-BOOK.XML
+INFO     root:story.py:1350 Cell 38: TBD
+INFO     root:story.py:1350 Cell 39: Waiting
+INFO     root:story.py:1350 Cell 40: 
+INFO     root:story.py:1350 Cell 41: 2025-09-25T001317Z_4_RW777824092025RP1_RTRMADC_0_UN-ASSEMBLY-ESTONIA.XML
+INFO     root:story.py:1350 Cell 42: TBD
+INFO     root:story.py:1350 Cell 43: Waiting
+INFO     root:story.py:1350 Cell 44: 
+INFO     root:story.py:1350 Cell 45: 2025-09-24T225031Z_5_RW776624092025RP1_RTRMADC_0_CHILE-ECONOMY.XML
+INFO     root:story.py:1350 Cell 46: TBD
+INFO     root:story.py:1350 Cell 47: Waiting
+INFO     root:story.py:1350 Cell 48: 
+INFO     root:story.py:1350 Cell 49: 2025-09-24T223601Z_3_RW767524092025RP1_RTRMADC_0_USA-TRUMP-AUTISM-MOTHER.XML
+INFO     root:story.py:1350 Cell 50: TBD
+INFO     root:story.py:1350 Cell 51: Waiting
+INFO     root:story.py:1350 Cell 52: 
+INFO     root:story.py:1350 Cell 53: 2025-09-25T000431Z_2_RW777924092025RP1_RTRMADC_0_UN-ASSEMBLY-TRUMP-SOCIAL-MEDIA.XML
+INFO     root:story.py:1350 Cell 54: TBD
+INFO     root:story.py:1350 Cell 55: Waiting
+INFO     root:story.py:1350 Cell 56: 
+INFO     root:story.py:1350 Cell 57: 2025-09-24T224838Z_4_RW776724092025RP1_RTRMADC_0_MALAWI-ELECTION.XML
+INFO     root:story.py:1350 Cell 58: TBD
+INFO     root:story.py:1350 Cell 59: Waiting
+INFO     root:story.py:1350 Cell 60: 
+INFO     root:story.py:1350 Cell 61: 2025-09-24T230450Z_9_RW771324092025RP1_RTRMADC_0_UN-ASSEMBLY-CLIMATE.XML
+INFO     root:story.py:1350 Cell 62: TBD
+INFO     root:story.py:1350 Cell 63: Waiting
+INFO     root:story.py:1350 Cell 64: 
+INFO     root:story.py:1350 Cell 65: 2025-09-24T235545Z_5_RW778124092025RP1_RTRMADC_0_USA-SHOOTING-ICE-OFFICE.XML
+INFO     root:story.py:1350 Cell 66: TBD
+INFO     root:story.py:1350 Cell 67: Waiting
+INFO     root:story.py:1350 Cell 68: 
+INFO     root:story.py:1350 Cell 69: 2025-09-24T224832Z_5_RW776924092025RP1_RTRMADC_0_DENMARK-AIRPORT-DRONES.XML
+INFO     root:story.py:1350 Cell 70: TBD
+INFO     root:story.py:1350 Cell 71: Waiting
+INFO     root:story.py:1350 Cell 72: 
+INFO     root:story.py:1350 Cell 73: 2025-09-24T232445Z_5_RW774324092025RP1_RTRMADC_0_PEOPLE-JAMESCOMEY-FILE.XML
+INFO     root:story.py:1350 Cell 74: TBD
+INFO     root:story.py:1350 Cell 75: Waiting
+INFO     root:story.py:1350 Cell 76: 
+INFO     root:story.py:1350 Cell 77: 2025-09-25T000852Z_5_RW778324092025RP1_RTRMADC_0_USA-SHOOTING-ICE-TRUMP.XML
+INFO     root:story.py:1350 Cell 78: TBD
+INFO     root:story.py:1350 Cell 79: Waiting
+INFO     root:story.py:1350 Cell 80: 
+INFO     root:test_VFD.py:954 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:962 
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                       |
++=====+=================================================================================================================================================================================================================================================================================================+
+|   1 |                                                                                                                                                                                                                                                                                                 |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-25 12:40:17,609 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_C_7713-UN-ASSEMBLY-CLIMATE.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.    |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-25 12:40:19,040 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T231908Z_1_LWD774324092025RP1_RTRWNEV_C_7743-PEOPLE-JAMESCOMEY-FILE.MP4 to the server: 553 Can't open that file: No such file or directory            |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 |                                                                                                                                                                                                                                                                                                 |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-25 12:40:19,041 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T231908Z_1_LWD774324092025RP1_RTRWNEV_C_7743-PEOPLE-JAMESCOMEY-FILE.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer. |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-25 12:40:19,045 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : max consecutive failure exception occured                                                                                                                                         |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-25 12:40:19,047 ERROR [main] com.reuters.filedirect.db.DbLogger : Max number of consecutive failures (5) reached for process: test1. Please verify that the configuration for this process is correct.                                                                                  |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-25 12:40:19,049 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : AutoRestart is enabled and restarting the distribution process.                                                                                                                   |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-25 12:40:19,058 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...                                                                                                                                                         |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-25 12:40:19,078 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown completed.                                                                                                                                                           |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-25 12:40:20,995 INFO  [main] com.reuters.filedirect.FileDistributorApplication : Starting FileDistributorApplication v1.6.21 using Java 17.0.6 with PID 8 (/app/lib/filedistributor.jar started by ? in /)                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-25 12:40:20,997 INFO  [main] com.reuters.filedirect.FileDistributorApplication : The following 1 profile is active: "hardware"                                                                                                                                                          |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-25 12:40:22,010 INFO  [main] com.reuters.filedirect.FileDistributorApplication : Started FileDistributorApplication in 1.504 seconds (process running for 2.011)                                                                                                                        |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-25 12:40:22,012 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution command processor                                                                                                                                                 |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-25 12:40:22,016 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Starting...                                                                                                                                                                                            |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-25 12:40:22,251 INFO  [main] com.zaxxer.hikari.pool.HikariPool : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ce8d869                                                                                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-25 12:40:22,254 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Start completed.                                                                                                                                                                                       |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-25 12:40:22,308 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                                                                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-25 12:40:22,326 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                                                                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-25 12:40:22,329 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                                                                                                                                         |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:965 
+📁 Files Present in Target Directory:
+INFO     root:story.py:1350 Cell 1: 2025-09-24T235533Z_2_RWMSCN9M1_RTRMADC_0_CHINA-XI-XINJIANG-ANNIVERSARY-GALA.XML
+INFO     root:story.py:1350 Cell 2: TBD
+INFO     root:story.py:1350 Cell 3: Waiting
+INFO     root:story.py:1350 Cell 4: 
+INFO     root:story.py:1350 Cell 5: 2025-09-24T225440Z_5_RW777324092025RP1_RTRMADC_0_UN-ASSEMBLY-BRAZIL.XML
+INFO     root:story.py:1350 Cell 6: TBD
+INFO     root:story.py:1350 Cell 7: Waiting
+INFO     root:story.py:1350 Cell 8: 
+INFO     root:story.py:1350 Cell 9: 2025-09-24T233208Z_6_RW776224092025RP1_RTRMADC_0_BRAZIL-POLITICS.XML
+INFO     root:story.py:1350 Cell 10: TBD
+INFO     root:story.py:1350 Cell 11: Waiting
+INFO     root:story.py:1350 Cell 12: 
+INFO     root:story.py:1350 Cell 13: 2025-09-24T221228Z_2_RWMSCNAEH_RTRMADC_0_VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.XML
+INFO     root:story.py:1350 Cell 14: TBD
+INFO     root:story.py:1350 Cell 15: Waiting
+INFO     root:story.py:1350 Cell 16: 
+INFO     root:story.py:1350 Cell 17: 2025-09-25T000420Z_11_RW735427092024RP1_RTRMADC_0_LEBANON-NASRALLAH-PROFILE-SHORT.XML
+INFO     root:story.py:1350 Cell 18: TBD
+INFO     root:story.py:1350 Cell 19: Waiting
+INFO     root:story.py:1350 Cell 20: 
+INFO     root:story.py:1350 Cell 21: 2025-09-24T231013Z_5_RW777524092025RP1_RTRMADC_0_USA-SHOOTING-ICE-SUSPECT.XML
+INFO     root:story.py:1350 Cell 22: TBD
+INFO     root:story.py:1350 Cell 23: Waiting
+INFO     root:story.py:1350 Cell 24: 
+INFO     root:story.py:1350 Cell 25: 2025-09-24T223740Z_4_RW776324092025RP1_RTRMADC_0_UN-ASSEMBLY-NORWAY.XML
+INFO     root:story.py:1350 Cell 26: TBD
+INFO     root:story.py:1350 Cell 27: Waiting
+INFO     root:story.py:1350 Cell 28: 
+INFO     root:story.py:1350 Cell 29: 2025-09-24T231304Z_2_RW755224092025RP1_RTRMADC_0_GUINNESS-RECORDS-BOOK.XML
+INFO     root:story.py:1350 Cell 30: TBD
+INFO     root:story.py:1350 Cell 31: Waiting
+INFO     root:story.py:1350 Cell 32: 
+INFO     root:story.py:1350 Cell 33: 2025-09-25T001317Z_4_RW777824092025RP1_RTRMADC_0_UN-ASSEMBLY-ESTONIA.XML
+INFO     root:story.py:1350 Cell 34: TBD
+INFO     root:story.py:1350 Cell 35: Waiting
+INFO     root:story.py:1350 Cell 36: 
+INFO     root:story.py:1350 Cell 37: 2025-09-24T225031Z_5_RW776624092025RP1_RTRMADC_0_CHILE-ECONOMY.XML
+INFO     root:story.py:1350 Cell 38: TBD
+INFO     root:story.py:1350 Cell 39: Waiting
+INFO     root:story.py:1350 Cell 40: 
+INFO     root:story.py:1350 Cell 41: 2025-09-24T223601Z_3_RW767524092025RP1_RTRMADC_0_USA-TRUMP-AUTISM-MOTHER.XML
+INFO     root:story.py:1350 Cell 42: TBD
+INFO     root:story.py:1350 Cell 43: Waiting
+INFO     root:story.py:1350 Cell 44: 
+INFO     root:story.py:1350 Cell 45: 2025-09-25T000431Z_2_RW777924092025RP1_RTRMADC_0_UN-ASSEMBLY-TRUMP-SOCIAL-MEDIA.XML
+INFO     root:story.py:1350 Cell 46: TBD
+INFO     root:story.py:1350 Cell 47: Waiting
+INFO     root:story.py:1350 Cell 48: 
+INFO     root:story.py:1350 Cell 49: 2025-09-24T224838Z_4_RW776724092025RP1_RTRMADC_0_MALAWI-ELECTION.XML
+INFO     root:story.py:1350 Cell 50: TBD
+INFO     root:story.py:1350 Cell 51: Waiting
+INFO     root:story.py:1350 Cell 52: 
+INFO     root:story.py:1350 Cell 53: 2025-09-24T230450Z_9_RW771324092025RP1_RTRMADC_0_UN-ASSEMBLY-CLIMATE.XML
+INFO     root:story.py:1350 Cell 54: TBD
+INFO     root:story.py:1350 Cell 55: Waiting
+INFO     root:story.py:1350 Cell 56: 
+INFO     root:story.py:1350 Cell 57: 2025-09-24T235545Z_5_RW778124092025RP1_RTRMADC_0_USA-SHOOTING-ICE-OFFICE.XML
+INFO     root:story.py:1350 Cell 58: TBD
+INFO     root:story.py:1350 Cell 59: Waiting
+INFO     root:story.py:1350 Cell 60: 
+INFO     root:story.py:1350 Cell 61: 2025-09-24T224832Z_5_RW776924092025RP1_RTRMADC_0_DENMARK-AIRPORT-DRONES.XML
+INFO     root:story.py:1350 Cell 62: TBD
+INFO     root:story.py:1350 Cell 63: Waiting
+INFO     root:story.py:1350 Cell 64: 
+INFO     root:story.py:1350 Cell 65: 2025-09-24T232445Z_5_RW774324092025RP1_RTRMADC_0_PEOPLE-JAMESCOMEY-FILE.XML
+INFO     root:story.py:1350 Cell 66: TBD
+INFO     root:story.py:1350 Cell 67: Waiting
+INFO     root:story.py:1350 Cell 68: 
+INFO     root:story.py:1350 Cell 69: 2025-09-25T000852Z_5_RW778324092025RP1_RTRMADC_0_USA-SHOOTING-ICE-TRUMP.XML
+INFO     root:story.py:1350 Cell 70: TBD
+INFO     root:story.py:1350 Cell 71: Waiting
+INFO     root:story.py:1350 Cell 72: 
+INFO     root:story.py:1350 Cell 73: 2025-09-24T231529Z_2_RW777024092025RP1_RTRMADC_0_UN-ASSEMBLY-KENYA-INTERVIEW.XML
+INFO     root:story.py:1350 Cell 74: TBD
+INFO     root:story.py:1350 Cell 75: Waiting
+INFO     root:story.py:1350 Cell 76: 
+INFO     root:story.py:1350 Cell 77: 2025-09-24T222943Z_4_RW774924092025RP1_RTRMADC_0_GOLF-RYDERCUP.XML
+INFO     root:story.py:1350 Cell 78: TBD
+INFO     root:story.py:1350 Cell 79: Waiting
+INFO     root:story.py:1350 Cell 80: 
+INFO     root:test_VFD.py:989 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:997 
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                                |
++=====+==========================================================================================================================================================================================================================================================================================================+
+|   1 | 2025-09-25 12:42:47,018 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                                                                                                                                                    |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-25 12:42:47,028 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 60 files from queue for process 199                                                                                                                                                      |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-25 12:42:47,029 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                                                                                                                                               |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-25 12:42:47,031 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 60 files                                                                                                                                                                                           |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-25 12:42:47,037 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client                                                                                                                                                                                  |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-25 12:42:48,046 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11                                                                                                                                                    |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-25 12:42:49,485 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_C_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MP4 to the server: 553 Can't open that file: No such file or directory            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-25 12:42:49,485 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Failed to connect to primary, switching to standby...                                                                                                                                            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-25 12:42:49,485 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init standby FTP client                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-25 12:42:50,511 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11                                                                                                                                                    |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-25 12:42:51,958 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_C_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MP4 to the server: 553 Can't open that file: No such file or directory            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-25 12:42:51,959 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_C_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer. |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-25 12:42:53,414 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_C_7552-GUINNESS-RECORDS-BOOK.MP4 to the server: 553 Can't open that file: No such file or directory                      |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-25 12:42:53,414 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_C_7552-GUINNESS-RECORDS-BOOK.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.           |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-25 12:42:54,860 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T214053Z_1_LWD767524092025RP1_RTRWNEV_C_7675-USA-TRUMP-AUTISM-MOTHER.MP4 to the server: 553 Can't open that file: No such file or directory                    |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-25 12:42:54,861 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T214053Z_1_LWD767524092025RP1_RTRWNEV_C_7675-USA-TRUMP-AUTISM-MOTHER.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.         |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:1000 
+📁 Files Present in Target Directory:

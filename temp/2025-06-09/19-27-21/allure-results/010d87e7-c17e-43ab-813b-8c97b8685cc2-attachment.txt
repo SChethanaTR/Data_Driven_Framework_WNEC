@@ -1,0 +1,4 @@
+INFO:root:Story added: CANADA-DEFENSE/
+INFO:root:Story added: SERBIA-PROTESTS/
+INFO:root:Story added: ASIA-WEATHER/INDIA-HEATWAVE
+INFO:root:All stories collected: ['CANADA-DEFENSE/', 'SERBIA-PROTESTS/', 'ASIA-WEATHER/INDIA-HEATWAVE']

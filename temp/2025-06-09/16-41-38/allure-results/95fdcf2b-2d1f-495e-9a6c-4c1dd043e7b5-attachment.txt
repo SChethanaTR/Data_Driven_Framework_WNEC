@@ -1,0 +1,5 @@
+INFO:root:Story added: INDIA-SHIP/
+INFO:root:Story added: IRAN-NUCLEAR/IAEA
+INFO:root:Story added: USA-CHINA/TRADE-BRITAIN-FILE
+INFO:root:All stories collected: ['INDIA-SHIP/', 'IRAN-NUCLEAR/IAEA', 'USA-CHINA/TRADE-BRITAIN-FILE']
+ERROR:root:The story 'INDIA-SHIP/' is NOT present in the history page.

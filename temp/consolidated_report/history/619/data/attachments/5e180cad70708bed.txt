@@ -1,0 +1,6 @@
+INFO:root:Loop configuration is currently hidden. Enabling it now.
+INFO:root:Loop configuration is now visible.
+INFO:root:USA-TRUMP/INDIA-TRADE
+INFO:root:DEUTSCHLAND-BUNDESTAG/MERZ
+INFO:root:ISRAEL-PALESTINIANS/FRANCE-FLAGS
+INFO:root:JAPAN-POLITICS/

@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:630 Story added to playlist: View of Macau's Senado Square as Typhoon Ragasa passes nearby
+INFO     root:test_User_Interface.py:649 Locator 1 text: ASIA-WEATHER/MACAU

@@ -1,0 +1,5 @@
+INFO:root:Dialog did not become visible: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+waiting for locator("//div[@class=\"dialog-content\"]") to be visible
+
+INFO:root:Screenshot of the dialog saved as 'dialog_screenshot.png'

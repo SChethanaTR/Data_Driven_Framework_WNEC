@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: UN-RIGHTS/
+INFO     root:test_history.py:317 Story added: China-Portuguese PM/Arrival
+INFO     root:test_history.py:317 Story added: UN-RIGHTS/
+INFO     root:test_history.py:319 All stories collected: ['UN-RIGHTS/', 'China-Portuguese PM/Arrival', 'UN-RIGHTS/']

@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:1149 Playout and playlist button are present
+INFO     root:test_admin_playout.py:1176 No buttons visible

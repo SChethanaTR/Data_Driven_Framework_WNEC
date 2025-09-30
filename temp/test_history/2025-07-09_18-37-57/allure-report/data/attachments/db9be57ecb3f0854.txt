@@ -1,0 +1,10 @@
+INFO:root:Found 13 videos under 'Live Now'.
+INFO:root:Live Now Video: View of damage after deadly floods in Kerrville, Texas
+INFO:root:Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO:root:Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO:root:Live Now Video: Trump expected to meet with African leaders
+INFO:root:Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO:root:Live Now Video: Merz, Rutte press conference after talks in Berlin
+INFO:root:Live Now Video: Merz, Rutte mark the 70th anniversary of Germany joining the alliance
+INFO:root:Live Now Video: The Senate Foreign Relations Committee holds a hearing on nominations
+INFO:root:Live Now Video: Merz, Rutte press conference after talks in Berlin

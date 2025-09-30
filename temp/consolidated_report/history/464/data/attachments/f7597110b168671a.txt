@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:525 GUINEA-ELECTION/CASH
+INFO     root:test_User_Interface.py:530 Extracted text: GUINEA-ELECTION/CASH
+INFO     root:test_User_Interface.py:543 GUINEA-ELECTION/CASH

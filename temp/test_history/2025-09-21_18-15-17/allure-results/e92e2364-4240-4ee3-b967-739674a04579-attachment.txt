@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:878 Reset button clicked successfully.
+INFO     root:test_User_Interface.py:884 Update Settings button clicked successfully.

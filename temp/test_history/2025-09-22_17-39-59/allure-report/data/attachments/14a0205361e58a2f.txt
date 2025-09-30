@@ -1,0 +1,4 @@
+INFO     root:test_VFD.py:302 Selected protocol: FTP
+INFO     root:test_VFD.py:302 Selected protocol: FTP
+INFO     root:story.py:924 Please specify a valid Remote Base Directory.
+INFO     root:story.py:924 Please specify a valid Remote Base Directory.

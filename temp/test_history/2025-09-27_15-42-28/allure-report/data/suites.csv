@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the RLS broadcast playout functionality.
+    Verifies the currently playing and upcoming videos, with validation through logs and database checks.
+
+    ","47570","test_Administrator_RLS_preview_playout_Fixed[chromium]","tests.Automation_tests","Sat Sep 27 15:42:43 IST 2025","passed","Sat Sep 27 15:43:31 IST 2025","","test_admin_playout","",""

@@ -1,0 +1,5 @@
+INFO:root:Selected protocol: FTP
+INFO:root:Selected protocol: FTPS
+INFO:root:Error message: The server responded with an error. The operation was unsuccessful.
+INFO:root:Duplicate distribution name error validated successfully.
+INFO:root:(239, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)

@@ -1,0 +1,254 @@
+INFO:root:Cell 1: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-14T104652Z_5_RW480614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-14T124612Z_4_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-14T120233Z_4_RW483414092025RP1_RTRMADC_0_ETHIOPIA-DAM-CELEBRATION.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-14T120306Z_2_RWMQTPTUX_RTRMADC_0_CHINA-RAILWAY-JAN-AUG.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-14T124612Z_4_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-14T123130Z_6_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-14T130517Z_4_RW484514092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-SETTLEMENT.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-14T120233Z_4_RW483414092025RP1_RTRMADC_0_ETHIOPIA-DAM-CELEBRATION.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-14T125409Z_6_RW483514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-14T123130Z_6_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO:root:Cell 82: TBD
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 
+INFO:root:Cell 85: 2025-09-14T130517Z_4_RW484514092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-SETTLEMENT.XML
+INFO:root:Cell 86: TBD
+INFO:root:Cell 87: Waiting
+INFO:root:Cell 88: 
+INFO:root:Cell 89: 2025-09-14T124119Z_10_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO:root:Cell 90: TBD
+INFO:root:Cell 91: Waiting
+INFO:root:Cell 92: 
+INFO:root:Cell 93: 2025-09-14T125916Z_7_RW484614092025RP1_RTRMADC_0_BRAZIL-BOLSONARO.XML
+INFO:root:Cell 94: TBD
+INFO:root:Cell 95: Waiting
+INFO:root:Cell 96: 
+INFO:root:Cell 97: 2025-09-14T125409Z_6_RW483514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED.XML
+INFO:root:Cell 98: TBD
+INFO:root:Cell 99: Waiting
+INFO:root:Cell 100: 
+INFO:root:Cell 101: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO:root:Cell 102: TBD
+INFO:root:Cell 103: Waiting
+INFO:root:Cell 104: 
+INFO:root:Cell 105: 2025-09-14T124119Z_10_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO:root:Cell 106: TBD
+INFO:root:Cell 107: Waiting
+INFO:root:Cell 108: 
+INFO:root:Cell 109: 2025-09-14T125916Z_7_RW484614092025RP1_RTRMADC_0_BRAZIL-BOLSONARO.XML
+INFO:root:Cell 110: TBD
+INFO:root:Cell 111: Waiting
+INFO:root:Cell 112: 
+INFO:root:Cell 113: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO:root:Cell 114: TBD
+INFO:root:Cell 115: Waiting
+INFO:root:Cell 116: 
+INFO:root:Cell 117: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO:root:Cell 118: TBD
+INFO:root:Cell 119: Waiting
+INFO:root:Cell 120: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                          |
++=====+====================================================================================================================================================================================+
+|   1 | 2025-09-14 13:19:25,480 INFO  [main] com.reuters.filedirect.FileDistributorApplication : Started FileDistributorApplication in 1.484 seconds (process running for 2.049)           |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 13:19:25,483 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution command processor                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-14 13:19:25,486 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Starting...                                                                               |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 13:19:25,722 INFO  [main] com.zaxxer.hikari.pool.HikariPool : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64c63c79                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 13:19:25,725 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Start completed.                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 13:19:25,796 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-14 13:19:25,817 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 13:19:25,821 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 13:19:26,270 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 1 distribution processes.                                        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 13:19:26,274 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of auto files : 0                                                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-14 13:19:26,274 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of manual files : 0                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-14 13:19:26,276 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Filtering 0 new files for distribution queuing by "test1"                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 13:19:26,277 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : 0 files passed filters and were queued for distribution by process "test1" |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 13:19:26,278 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 0 processed/queued files from the distribution_files table.        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-14 13:19:26,278 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 13:19:26,278 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 13:19:26,288 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 63 files from queue for process 136                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-14 13:19:26,289 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 13:19:26,290 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 63 files                                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 13:19:26,296 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO:root:
+📁 Files Present in Target Directory:
+INFO:root:Cell 1: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-14T123620Z_5_RW483714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MORE.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-14T111707Z_5_RW481914092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-14T123948Z_2_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-14T120306Z_2_RWMQTPTUX_RTRMADC_0_CHINA-RAILWAY-JAN-AUG.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-14T124612Z_4_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-14T120233Z_4_RW483414092025RP1_RTRMADC_0_ETHIOPIA-DAM-CELEBRATION.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-14T123130Z_6_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-14T130517Z_4_RW484514092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-SETTLEMENT.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-14T125409Z_6_RW483514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-14T124119Z_10_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-14T125916Z_7_RW484614092025RP1_RTRMADC_0_BRAZIL-BOLSONARO.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO:root:Cell 82: TBD
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 

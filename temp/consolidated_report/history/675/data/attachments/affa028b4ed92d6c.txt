@@ -1,0 +1,5 @@
+INFO     root:test_admin_playout.py:728 Currently playing: China-Xi/Xinjiang/Anniversary Gala4603
+INFO     root:test_admin_playout.py:734 After stopping: PLAYOUT STOPPEDPress Start button, and/or add videos to Playlist, or press Play Now button in Stories page
+INFO     root:test_admin_playout.py:736 Playout stopped successfully
+INFO     root:test_admin_playout.py:746 After playing: NOW PLAYING:
+INFO     root:test_admin_playout.py:753 After pausing: NOW PLAYING:

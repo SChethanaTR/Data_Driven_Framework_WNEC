@@ -1,0 +1,10 @@
+INFO     root:test_User_Interface.py:563 View of Kyiv's Maidan Square as ceasefire deadline expires06:4911:45rl 6
+INFO     root:test_User_Interface.py:563 Border area between Israel and Gaza after Israeli cabinet approved a plan to take control of Gaza City07:3512:00rl 4
+INFO     root:test_User_Interface.py:563 A view of Khan Younis07:4812:00rl 3
+INFO     root:test_User_Interface.py:563 A view of Khan Younis10:2812:00rls
+INFO     root:test_User_Interface.py:563 Residents and tourists face high temperatures in Florence10:4912:10rl 2
+INFO     root:test_User_Interface.py:563 View of the Israel-Gaza border12:0012:00 (+1)rl 1
+INFO     root:test_User_Interface.py:563 View of smoke as wildfire rages in southern France12:0012:00rl 5
+INFO     root:test_User_Interface.py:563 Residents and tourists escape Spain's heatwave in Madrid public park14:0015:00rl 4
+INFO     root:test_User_Interface.py:563 Crew-10 returns to Earth after mission to ISS20:1021:10rl 2
+INFO     root:test_User_Interface.py:563 Statue of quarterback Tom Brady unveiled at Gillette Stadium21:4523:00rl 1

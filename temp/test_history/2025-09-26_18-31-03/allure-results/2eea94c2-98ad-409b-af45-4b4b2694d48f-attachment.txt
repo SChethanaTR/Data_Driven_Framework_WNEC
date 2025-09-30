@@ -1,0 +1,5 @@
+INFO:root:Story playout initiated for story index: 3
+INFO:root:Story playout initiated for story index: 4
+INFO:root:Story playout initiated for story index: 5
+INFO:root:Story playout initiated for story index: 6
+INFO:root:Story playout initiated for story index: 7

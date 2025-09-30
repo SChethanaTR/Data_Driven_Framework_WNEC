@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:582 Found 14 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:587 Live Now Video: Trading opens at Frankfurt stock exchange
+INFO     root:test_User_Interface.py:587 Live Now Video: Chinese Foreign Ministry daily news conference
+INFO     root:test_User_Interface.py:587 Live Now Video: Chinese Foreign Ministry daily news conference

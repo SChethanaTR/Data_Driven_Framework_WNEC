@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:579 Story added to playlist: World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:603 Neither locator is visible and actionable.

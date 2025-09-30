@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: IRAN-NUCLEAR/IAEA
+INFO     root:test_history.py:317 Story added: ISRAEL-PALESTINIANS/GAZA SHIP-KATZ
+INFO     root:test_history.py:317 Story added: UN-OCEAN/MACRON-BILATERALS
+INFO     root:test_history.py:319 All stories collected: ['IRAN-NUCLEAR/IAEA', 'ISRAEL-PALESTINIANS/GAZA SHIP-KATZ', 'UN-OCEAN/MACRON-BILATERALS']

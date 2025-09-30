@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: European Trade Commissioner briefs parliament on trade negotiations with the US
+INFO:root:Locator 1 text: USA-TRUMP/TARIFFS-EU-PARLIAMENT--UPDATED SOURCE--

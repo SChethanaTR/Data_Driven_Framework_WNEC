@@ -1,0 +1,5 @@
+INFO:root:Testing user - Username: kxkjii, Password: uh*Z3^P2eJ
+INFO:root:User successfully found
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_7.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:Log file content retrieved successfully

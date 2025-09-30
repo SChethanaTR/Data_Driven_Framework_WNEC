@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:770 Currently playing: 
+INFO     root:test_admin_playout.py:778 After stopping: 
+INFO     root:test_admin_playout.py:782 Playout did not stop as expected
+INFO     root:test_admin_playout.py:790 After playing: NOW PLAYING:EUROPE-WEATHER/SPAIN-WILDFIRE-DRONE8690

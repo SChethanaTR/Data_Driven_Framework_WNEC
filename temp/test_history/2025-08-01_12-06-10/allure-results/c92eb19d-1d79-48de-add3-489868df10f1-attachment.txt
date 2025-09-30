@@ -1,0 +1,20 @@
+INFO:root:&
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:test1
+INFO:root:FTP
+INFO:root:%
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:?
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:()
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:  
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:*
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.

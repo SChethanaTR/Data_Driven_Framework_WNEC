@@ -1,0 +1,2 @@
+INFO:root:Found 19 videos under 'Live Now'.
+INFO:root:Live Now Video: View of Taiwan town flooded by typhoon

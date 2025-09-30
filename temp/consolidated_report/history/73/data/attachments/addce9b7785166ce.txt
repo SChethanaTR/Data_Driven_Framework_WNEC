@@ -1,0 +1,2 @@
+INFO:root:View of damage after deadly floods in Kerrville, Texas
+INFO:root:Live page exists

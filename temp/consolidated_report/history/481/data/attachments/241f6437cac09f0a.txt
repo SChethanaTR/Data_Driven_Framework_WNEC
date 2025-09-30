@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:295 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:297 Loop configuration is now visible.
+INFO     root:test_User_Interface.py:308 USA-TRUMP/BRITAIN-DEPARTURE-HELICOPTER

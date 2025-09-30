@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: ISRAEL-PALESTINIANS/GAZA-AID-CASUALTIES
+INFO     root:test_history.py:123 Story added: UKRAINE-CRISIS/ATTACK-ODESA-MATERNITY WARD
+INFO     root:test_history.py:123 Story added: DEUTSCHLAND-NATIONALPREIS/MERZ
+INFO     root:test_history.py:125 All stories collected: ['ISRAEL-PALESTINIANS/GAZA-AID-CASUALTIES', 'UKRAINE-CRISIS/ATTACK-ODESA-MATERNITY WARD', 'DEUTSCHLAND-NATIONALPREIS/MERZ']
+ERROR    root:test_history.py:148 The story 'ISRAEL-PALESTINIANS/GAZA-AID-CASUALTIES' is NOT present in the history page.

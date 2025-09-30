@@ -1,0 +1,10 @@
+INFO     root:test_User_Interface.py:578 Found 13 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:583 Live Now Video: View of damage after deadly floods in Kerrville, Texas
+INFO     root:test_User_Interface.py:583 Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO     root:test_User_Interface.py:583 Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO     root:test_User_Interface.py:583 Live Now Video: Trump expected to meet with African leaders
+INFO     root:test_User_Interface.py:583 Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO     root:test_User_Interface.py:583 Live Now Video: Merz, Rutte press conference after talks in Berlin
+INFO     root:test_User_Interface.py:583 Live Now Video: Merz, Rutte mark the 70th anniversary of Germany joining the alliance
+INFO     root:test_User_Interface.py:583 Live Now Video: The Senate Foreign Relations Committee holds a hearing on nominations
+INFO     root:test_User_Interface.py:583 Live Now Video: Merz, Rutte press conference after talks in Berlin

@@ -1,0 +1,1 @@
+{"name": "test_verify_user_addition[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1756126209606, "stop": 1756126256348, "uuid": "80fcb20f-5008-4903-aec0-15ad9ac7d2af", "testCaseId": "d30f7825db26b0328ee2ccf2407ae53f", "fullName": "tests.Automation_tests.test_User_management#test_verify_user_addition"}

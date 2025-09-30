@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: World leaders gather at the U.N. for 80th General Assembly
+INFO:root:Neither locator is visible and actionable.

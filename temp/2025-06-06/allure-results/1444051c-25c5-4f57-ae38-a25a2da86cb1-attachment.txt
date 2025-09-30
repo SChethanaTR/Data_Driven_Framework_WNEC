@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: QA-JSON-DD-29-DAY-STORY-WITH-VIDEO-2
+INFO     root:test_history.py:123 Story added: CHINA-USA/XI-TRUMP-ANALYST
+INFO     root:test_history.py:123 Story added: DEUTSCHLAND-BRAUNKOHLE/KRAFTWERK
+INFO     root:test_history.py:125 All stories collected: ['QA-JSON-DD-29-DAY-STORY-WITH-VIDEO-2', 'CHINA-USA/XI-TRUMP-ANALYST', 'DEUTSCHLAND-BRAUNKOHLE/KRAFTWERK']
+ERROR    root:test_history.py:148 The story 'QA-JSON-DD-29-DAY-STORY-WITH-VIDEO-2' is NOT present in the history page.

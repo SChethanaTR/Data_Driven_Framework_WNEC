@@ -1,0 +1,2 @@
+INFO:root:Reset button clicked successfully.
+INFO:root:Update Settings button clicked successfully.

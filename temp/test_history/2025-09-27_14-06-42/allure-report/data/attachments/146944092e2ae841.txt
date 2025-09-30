@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:803 Story 1: China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_admin_playout.py:803 Story 2: Various-Zelensky/Putin/Meeting Location
+INFO     root:test_admin_playout.py:803 Story 3: UN-ASSEMBLY/ESTONIA
+INFO     root:test_admin_playout.py:809 Data exported

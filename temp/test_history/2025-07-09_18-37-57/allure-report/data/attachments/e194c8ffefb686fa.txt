@@ -1,0 +1,13 @@
+INFO     root:test_User_Interface.py:559 View of Israel-Gaza border as Netanyahu says Trump meeting focused on hostage release efforts12:1113:11rl 6
+INFO     root:test_User_Interface.py:559 European Trade Commissioner briefs parliament on trade negotiations with the US12:4313:43rl 3
+INFO     root:test_User_Interface.py:559 View of damage after deadly floods in Kerrville, Texas12:5913:59rlsCh 2
+INFO     root:test_User_Interface.py:559 Macron and Starmer deliver speeches in Central London12:0012:00rl 3
+INFO     root:test_User_Interface.py:559 Macron and Starmer deliver speeches in Central London12:0012:00rl 4
+INFO     root:test_User_Interface.py:559 Trump expected to meet with African leaders12:0012:00rl 5
+INFO     root:test_User_Interface.py:559 Macron and Starmer deliver speeches in Central London12:0012:00rls
+INFO     root:test_User_Interface.py:559 Merz, Rutte press conference after talks in Berlin13:4514:45rl 2
+INFO     root:test_User_Interface.py:559 Merz, Rutte mark the 70th anniversary of Germany joining the alliance13:4514:45rl 2
+INFO     root:test_User_Interface.py:559 The Senate Foreign Relations Committee holds a hearing on nominations13:4514:45rl 1
+INFO     root:test_User_Interface.py:559 Merz, Rutte press conference after talks in Berlin13:4514:45rlsCh 2
+INFO     root:test_User_Interface.py:559 England and the Netherlands press conferences after match18:3019:30rl 2
+INFO     root:test_User_Interface.py:559 Netanyahu meets with Senate Majority Leader John Thune20:0020:30rl 1

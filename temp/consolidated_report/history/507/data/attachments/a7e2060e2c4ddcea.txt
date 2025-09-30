@@ -1,0 +1,30 @@
+INFO     root:test_User_Interface.py:155 TENNIS-LAVERCUP/
+INFO     root:test_User_Interface.py:155 USA-KIMMEL/PROTEST
+INFO     root:test_User_Interface.py:155 MEXICO-CANADA/UPDATE
+INFO     root:test_User_Interface.py:155 USA-SHOOTING/KIRK-COLORADO
+INFO     root:test_User_Interface.py:155 AUSTRALIA-WHALE/
+INFO     root:test_User_Interface.py:155 USA-SHOOTING/KIRK-COLORADO
+INFO     root:test_User_Interface.py:155 AUSTRALIA-WHALE/
+INFO     root:test_User_Interface.py:155 AID-UN/
+INFO     root:test_User_Interface.py:155 ISRAEL-PALESTINIANS/UN ROUGH CUT
+INFO     root:test_User_Interface.py:155 USA-IGNOBEL/
+INFO     root:test_User_Interface.py:155 USA-KIMMEL/PROTEST
+INFO     root:test_User_Interface.py:155 MEXICO-CANADA/UPDATE
+INFO     root:test_User_Interface.py:155 AID-UN/
+INFO     root:test_User_Interface.py:155 ISRAEL-PALESTINIANS/UN ROUGH CUT
+INFO     root:test_User_Interface.py:155 USA-IGNOBEL/
+INFO     root:test_User_Interface.py:155 USA-KIMMEL/PROTEST
+INFO     root:test_User_Interface.py:155 MEXICO-CANADA/UPDATE
+INFO     root:test_User_Interface.py:155 AID-UN/
+INFO     root:test_User_Interface.py:155 ISRAEL-PALESTINIANS/UN ROUGH CUT
+INFO     root:test_User_Interface.py:155 USA-IGNOBEL/
+INFO     root:test_User_Interface.py:155 USA-KIMMEL/PROTEST
+INFO     root:test_User_Interface.py:155 MEXICO-CANADA/UPDATE
+INFO     root:test_User_Interface.py:155 AID-UN/
+INFO     root:test_User_Interface.py:155 ISRAEL-PALESTINIANS/UN ROUGH CUT
+INFO     root:test_User_Interface.py:155 MEXICO-CANADA/UPDATE
+INFO     root:test_User_Interface.py:155 USA-KIMMEL/PROTEST
+INFO     root:test_User_Interface.py:155 USA-IGNOBEL/
+INFO     root:test_User_Interface.py:155 USA-IGNOBEL/
+INFO     root:test_User_Interface.py:155 USA-TRUMP/ARRIVAL
+INFO     root:test_User_Interface.py:155 SOCCER-CHAMPIONS-MCI-NAP/

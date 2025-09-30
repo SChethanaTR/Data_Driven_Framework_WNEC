@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:525 LEBANON-VINTAGE/VINYL-STORE
+INFO     root:test_User_Interface.py:530 Extracted text: LEBANON-VINTAGE/VINYL-STORE

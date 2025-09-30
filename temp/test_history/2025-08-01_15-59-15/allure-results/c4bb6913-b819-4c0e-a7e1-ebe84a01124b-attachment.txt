@@ -1,0 +1,2 @@
+INFO:root:A view over Cape Town port activity as US tariffs come into effect
+INFO:root:Live page exists

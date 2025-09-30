@@ -1,0 +1,5 @@
+INFO     root:test_User_Interface.py:240 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:240 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:240 INDIA-ECONOMY/TAX
+INFO     root:test_User_Interface.py:245 Extracted text: USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:257 USA-SHOOTING/KIRK-YOUTH

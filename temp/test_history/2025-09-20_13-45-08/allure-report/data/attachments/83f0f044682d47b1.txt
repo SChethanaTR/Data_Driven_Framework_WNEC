@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:291 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:293 Loop configuration is now visible.

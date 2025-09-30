@@ -1,0 +1,9 @@
+INFO:root:View of the Israel-Gaza border14:4912:00 (+1)rl 3
+INFO:root:Turning Point USA holds memorial for Charlie Kirk15:0616:06rl 2
+INFO:root:Turning Point USA holds memorial for Charlie Kirk15:2016:20rl 4
+INFO:root:Turning Point USA holds memorial for Charlie Kirk15:3616:36rls
+INFO:root:View of the Israel-Gaza border13:55 (-2)12:00rl 2
+INFO:root:SpaceX launches a satellite for the National Reconnaissance Office17:2018:20rl 6
+INFO:root:Partial solar eclipse seen over New Zealand17:3023:00rl 1
+INFO:root:Portugal to recognize a Palestinian state ahead of UN General Assembly19:1520:15rl 3
+INFO:root:Trading opens at the Tokyo Stock Exchange23:4501:10 (+1)rl 2Ch 4

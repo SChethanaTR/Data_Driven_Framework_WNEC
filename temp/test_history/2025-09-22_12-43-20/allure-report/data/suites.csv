@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests file playout in a loop mode.
+    Configures the loop setting and verifies the playout of stories in a loop.
+    Checks logs and database entries for validation.
+    ","67426","test_Administrator_file_playout_loop[chromium]","tests.Automation_tests","Mon Sep 22 12:43:34 IST 2025","passed","Mon Sep 22 12:44:42 IST 2025","","test_admin_playout","",""

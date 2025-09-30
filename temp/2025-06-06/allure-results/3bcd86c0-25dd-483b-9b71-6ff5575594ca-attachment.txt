@@ -1,0 +1,9 @@
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 3
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 4
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 5
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 6
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 7
+INFO     root:test_admin_playout.py:150 Story 1: QA-JSON-DD-7-DAY-STORY-REFEED-2
+INFO     root:test_admin_playout.py:150 Story 2: China-Tianwen-2/Solar Panel
+INFO     root:test_admin_playout.py:150 Story 3: ISRAEL-PALESTINIANS/GAZA-EID-PRAYERS
+INFO     root:test_admin_playout.py:150 Story 4: UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH

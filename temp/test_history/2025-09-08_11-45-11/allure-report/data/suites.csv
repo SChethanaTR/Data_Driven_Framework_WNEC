@@ -1,0 +1,137 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the 6X live preview playout functionality.
+    Verifies the content being played out and checks logs for validation.
+    ","46730","test_Administrator_6xLive_preview_playout_Fixed[chromium]","tests.Automation_tests","Mon Sep 08 12:43:13 IST 2025","broken","Mon Sep 08 12:43:59 IST 2025","","test_admin_playout","",""
+"","71990","test_playout_export_as_cv[chromium]","tests.Automation_tests","Mon Sep 08 12:55:27 IST 2025","broken","Mon Sep 08 12:56:39 IST 2025","","test_history","",""
+"","32659","test_change_filter_on_active_process[chromium]","tests.Automation_tests","Mon Sep 08 12:22:00 IST 2025","broken","Mon Sep 08 12:22:32 IST 2025","","test_VFD","",""
+"
+    Tests manual live playout functionality.
+    Selects live content and manual mode, then verifies that the correct story is being played.
+    Validates the playout by checking logs and database entries.
+    ","50661","test_Administrator_live_playout_manual[chromium]","tests.Automation_tests","Mon Sep 08 12:41:39 IST 2025","passed","Mon Sep 08 12:42:29 IST 2025","","test_admin_playout","",""
+"
+    Tests the playout controls (play, pause, stop) functionality.
+    Verifies the behavior of the controls and logs the current status.
+    ","71589","test_playout_controls[chromium]","tests.Automation_tests","Mon Sep 08 12:46:45 IST 2025","broken","Mon Sep 08 12:47:57 IST 2025","","test_admin_playout","",""
+"","16907","test_MyVideos_Add_To_Distribution[chromium]","tests.Automation_tests","Mon Sep 08 11:53:41 IST 2025","broken","Mon Sep 08 11:53:58 IST 2025","","test_User_Interface","",""
+"
+    Tests the automatic file playout functionality.
+    Navigates to the admin playout page and selects 'fileplayout' and 'auto' options.
+    Verifies the addition of stories and checks logs.
+    Includes a negative scenario where it switches to 'manual' mode to ensure the automatic process is not active.
+    ","56968","test_playout_history[chromium]","tests.Automation_tests","Mon Sep 08 12:53:29 IST 2025","failed","Mon Sep 08 12:54:26 IST 2025","","test_history","",""
+"
+    Tests the RLS broadcast playout functionality.
+    Verifies the currently playing and upcoming videos, with validation through logs and database checks.
+
+    ","47408","test_Administrator_RLS_preview_playout_Fixed[chromium]","tests.Automation_tests","Mon Sep 08 12:44:01 IST 2025","broken","Mon Sep 08 12:44:48 IST 2025","","test_admin_playout","",""
+"","223551","test_create_with_empty_name_and_different_characters[chromium]","tests.Automation_tests","Mon Sep 08 12:12:45 IST 2025","passed","Mon Sep 08 12:16:29 IST 2025","","test_VFD","",""
+"","8279","test_create_with_empty_name[chromium]","tests.Automation_tests","Mon Sep 08 12:12:36 IST 2025","broken","Mon Sep 08 12:12:44 IST 2025","","test_VFD","",""
+"","13215","test_distribution_history_exportascv[chromium]","tests.Automation_tests","Mon Sep 08 12:57:40 IST 2025","broken","Mon Sep 08 12:57:53 IST 2025","","test_history","",""
+"","55854","test_pause_resume_FD[chromium]","tests.Automation_tests","Mon Sep 08 12:32:16 IST 2025","passed","Mon Sep 08 12:33:12 IST 2025","","test_VFD","",""
+"","95823","test_Add_Dist_for_nonAdmin_user[chromium]","tests.Automation_tests","Mon Sep 08 12:19:27 IST 2025","passed","Mon Sep 08 12:21:03 IST 2025","","test_VFD","",""
+"","16862","test_LivePage_live_page_view[chromium]","tests.Automation_tests","Mon Sep 08 11:52:41 IST 2025","passed","Mon Sep 08 11:52:58 IST 2025","","test_User_Interface","",""
+"","34968","test_File_distribution_using_the_following_configuration_No_Password_Directory_Passive_mode[chromium]","tests.Automation_tests","Mon Sep 08 12:28:56 IST 2025","passed","Mon Sep 08 12:29:31 IST 2025","","test_VFD","",""
+"","39727","test_hover_element[chromium]","tests.Automation_tests","Mon Sep 08 12:30:35 IST 2025","broken","Mon Sep 08 12:31:15 IST 2025","","test_VFD","",""
+"","61103","test_search_user[chromium]","tests.Automation_tests","Mon Sep 08 12:03:45 IST 2025","passed","Mon Sep 08 12:04:46 IST 2025","","test_User_management","",""
+"","9783","test_distribute_legacy_files[chromium]","tests.Automation_tests","Mon Sep 08 12:34:23 IST 2025","broken","Mon Sep 08 12:34:33 IST 2025","","test_VFD","",""
+"","50317","test_StoriesPage_CopyLink[chromium]","tests.Automation_tests","Mon Sep 08 11:46:39 IST 2025","passed","Mon Sep 08 11:47:29 IST 2025","","test_User_Interface","",""
+"
+    Tests file playout in a loop mode.
+    Configures the loop setting and verifies the playout of stories in a loop.
+    Checks logs and database entries for validation.
+    ","93488","test_Administrator_file_playout_loop[chromium]","tests.Automation_tests","Mon Sep 08 12:39:05 IST 2025","passed","Mon Sep 08 12:40:38 IST 2025","","test_admin_playout","",""
+"","20954","test_MyVideosPage_Print_My_Videos[chromium]","tests.Automation_tests","Mon Sep 08 11:54:44 IST 2025","passed","Mon Sep 08 11:55:04 IST 2025","","test_User_Interface","",""
+"
+    Tests the automatic file playout functionality.
+    Navigates to the admin playout page and selects 'fileplayout' and 'auto' options.
+    Verifies the addition of stories and checks logs.
+    Includes a negative scenario where it switches to 'manual' mode to ensure the automatic process is not active.
+    ","58128","test_Administrator_file_playout_auto[chromium]","tests.Automation_tests","Mon Sep 08 12:40:39 IST 2025","passed","Mon Sep 08 12:41:37 IST 2025","","test_admin_playout","",""
+"","8035","test_export_as_json[chromium]","tests.Automation_tests","Mon Sep 08 12:35:54 IST 2025","broken","Mon Sep 08 12:36:02 IST 2025","","test_VFD","",""
+"","58679","test_LivePage_Add_To_Playlist[chromium]","tests.Automation_tests","Mon Sep 08 11:55:26 IST 2025","broken","Mon Sep 08 11:56:25 IST 2025","","test_User_Interface","",""
+"","69665","test_Create_with_existing_name[chromium]","tests.Automation_tests","Mon Sep 08 12:11:25 IST 2025","passed","Mon Sep 08 12:12:35 IST 2025","","test_VFD","",""
+"
+    Tests enabling and disabling a channel on the admin playout page.
+    Navigates through various pages and verifies the channel status before and after enabling/disabling.
+    ","69379","test_enable_disable_channel[chromium]","tests.Automation_tests","Mon Sep 08 12:44:49 IST 2025","passed","Mon Sep 08 12:45:58 IST 2025","","test_admin_playout","",""
+"","118571","test_add_multiple_users[chromium]","tests.Automation_tests","Mon Sep 08 12:00:22 IST 2025","passed","Mon Sep 08 12:02:21 IST 2025","","test_User_management","",""
+"","56932","test_Check_Active_connection_with_Passive_Server[chromium]","tests.Automation_tests","Mon Sep 08 12:24:49 IST 2025","passed","Mon Sep 08 12:25:46 IST 2025","","test_VFD","",""
+"","13714","test_View_XML[chromium]","tests.Automation_tests","Mon Sep 08 11:56:26 IST 2025","passed","Mon Sep 08 11:56:40 IST 2025","","test_User_Interface","",""
+"","42913","test_FD_Service_Start_Stop[chromium]","tests.Automation_tests","Mon Sep 08 12:35:09 IST 2025","broken","Mon Sep 08 12:35:52 IST 2025","","test_VFD","",""
+"","42305","test_remove_distribution[chromium]","tests.Automation_tests","Mon Sep 08 12:31:31 IST 2025","passed","Mon Sep 08 12:32:14 IST 2025","","test_VFD","",""
+"","13818","test_add_to_distribution_with_no_active_distribution_possible[chromium]","tests.Automation_tests","Mon Sep 08 12:31:17 IST 2025","broken","Mon Sep 08 12:31:30 IST 2025","","test_VFD","",""
+"
+    Tests the lock and unlock functionality for a row with input area and dropdowns.
+    Verifies that the input area and dropdowns are not interactable when locked and interactable when unlocked.
+    ","75231","test_lock_unlock_configuration[chromium]","tests.Automation_tests","Mon Sep 08 12:51:25 IST 2025","passed","Mon Sep 08 12:52:41 IST 2025","","test_admin_playout","",""
+"","8054","test_StoriesPage_AddTo_Distribution_With_No_Active_Distribution[chromium]","tests.Automation_tests","Mon Sep 08 11:55:17 IST 2025","passed","Mon Sep 08 11:55:25 IST 2025","","test_User_Interface","",""
+"","14453","test_export_all_process[chromium]","tests.Automation_tests","Mon Sep 08 12:34:07 IST 2025","broken","Mon Sep 08 12:34:22 IST 2025","","test_VFD","",""
+"","44492","test_playout_print[chromium]","tests.Automation_tests","Mon Sep 08 12:54:41 IST 2025","broken","Mon Sep 08 12:55:26 IST 2025","","test_history","",""
+"","54819","test_delete_process_with_active_transfer[chromium]","tests.Automation_tests","Mon Sep 08 12:21:04 IST 2025","broken","Mon Sep 08 12:21:59 IST 2025","","test_VFD","",""
+"","13026","test_distribution_history_clear_all[chromium]","tests.Automation_tests","Mon Sep 08 12:57:54 IST 2025","broken","Mon Sep 08 12:58:07 IST 2025","","test_history","",""
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","47079","test_LivePage_Check_LivePreview[chromium]","tests.Automation_tests","Mon Sep 08 11:45:51 IST 2025","broken","Mon Sep 08 11:46:38 IST 2025","","test_User_Interface","",""
+"","92302","test_If_primary_and_standby_servers_are_provided_If_primary_working_files_should_arrive_to_it[chromium]","tests.Automation_tests","Mon Sep 08 12:27:21 IST 2025","passed","Mon Sep 08 12:28:53 IST 2025","","test_VFD","",""
+"","93281","test_without_valid_host[chromium]","tests.Automation_tests","Mon Sep 08 12:16:30 IST 2025","passed","Mon Sep 08 12:18:03 IST 2025","","test_VFD","",""
+"","62926","test_Check_when_primary_server_is_back_after_a_failover_fall_back_to_primary_server_should_happen[chromium]","tests.Automation_tests","Mon Sep 08 12:29:32 IST 2025","passed","Mon Sep 08 12:30:35 IST 2025","","test_VFD","",""
+"","53672","test_start_stop_FD[chromium]","tests.Automation_tests","Mon Sep 08 12:33:13 IST 2025","passed","Mon Sep 08 12:34:06 IST 2025","","test_VFD","",""
+"","49720","test_delete_user[chromium]","tests.Automation_tests","Mon Sep 08 11:59:31 IST 2025","passed","Mon Sep 08 12:00:21 IST 2025","","test_User_management","",""
+"","9151","test_verify_places_from_where_user_can_add_to_distribution[chromium]","tests.Automation_tests","Mon Sep 08 12:34:59 IST 2025","broken","Mon Sep 08 12:35:08 IST 2025","","test_VFD","",""
+"","121494","test_verify_user_addition[chromium]","tests.Automation_tests","Mon Sep 08 11:57:29 IST 2025","passed","Mon Sep 08 11:59:30 IST 2025","","test_User_management","",""
+"
+    Tests the functionality of manually playing out files.
+    Navigates to the admin playout page and selects 'fileplayout' and 'manual' options from dropdowns.
+    Initiates playout for stories and verifies logs.
+    Includes a negative scenario to verify that the playout button isn't clickable when 'manual' mode isn't selected.
+    ","180870","test_Administrator_file_playout_manual[chromium]","tests.Automation_tests","Mon Sep 08 12:36:03 IST 2025","passed","Mon Sep 08 12:39:04 IST 2025","","test_admin_playout","",""
+"","61321","test_HistoryPage_Distribution_History[chromium]","tests.Automation_tests","Mon Sep 08 11:48:42 IST 2025","passed","Mon Sep 08 11:49:43 IST 2025","","test_User_Interface","",""
+"","17000","test_HistoryPage_Search_Distribution_History[chromium]","tests.Automation_tests","Mon Sep 08 11:49:44 IST 2025","broken","Mon Sep 08 11:50:01 IST 2025","","test_User_Interface","",""
+"","82271","test_login_logout[chromium]","tests.Automation_tests","Mon Sep 08 12:02:22 IST 2025","failed","Mon Sep 08 12:03:44 IST 2025","","test_User_management","",""
+"","0","test_If_only_primary_server_information_is_provided_Primary_server_should_be_used_for_distribution[chromium]","tests.Automation_tests","Mon Sep 08 12:28:53 IST 2025","broken","Mon Sep 08 12:28:53 IST 2025","","test_VFD","",""
+"","13025","test_distribution_history_print[chromium]","tests.Automation_tests","Mon Sep 08 12:57:26 IST 2025","broken","Mon Sep 08 12:57:39 IST 2025","","test_history","",""
+"","29056","test_PlayoutNowPage_Playout_Now_Button_On_LivePage[chromium]","tests.Automation_tests","Mon Sep 08 11:53:11 IST 2025","failed","Mon Sep 08 11:53:40 IST 2025","","test_User_Interface","",""
+"","70379","test_HistoryPage_Playout_History[chromium]","tests.Automation_tests","Mon Sep 08 11:47:30 IST 2025","broken","Mon Sep 08 11:48:41 IST 2025","","test_User_Interface","",""
+"
+    Tests fixed live playout functionality.
+    Selects a channel for live playout and verifies that the correct content is being played.
+    Includes validation through logs and database checks.
+    ","41529","test_Administrator_live_playout_Fixed[chromium]","tests.Automation_tests","Mon Sep 08 12:42:30 IST 2025","passed","Mon Sep 08 12:43:12 IST 2025","","test_admin_playout","",""
+"","13034","test_distribution_history[chromium]","tests.Automation_tests","Mon Sep 08 12:54:27 IST 2025","broken","Mon Sep 08 12:54:40 IST 2025","","test_history","",""
+"","100066","test_clear_all_items_playout_history[chromium]","tests.Automation_tests","Mon Sep 08 12:49:44 IST 2025","broken","Mon Sep 08 12:51:24 IST 2025","","test_admin_playout","",""
+"","71449","test_HistoryPage_Search_Playout_History[chromium]","tests.Automation_tests","Mon Sep 08 11:51:29 IST 2025","broken","Mon Sep 08 11:52:40 IST 2025","","test_User_Interface","",""
+"","397390","test_FD_Create_dist_using_UI[chromium]","tests.Automation_tests","Mon Sep 08 12:04:47 IST 2025","passed","Mon Sep 08 12:11:24 IST 2025","","test_VFD","",""
+"","16493","test_HistoryPage_ClearHistory[chromium]","tests.Automation_tests","Mon Sep 08 11:51:12 IST 2025","failed","Mon Sep 08 11:51:28 IST 2025","","test_User_Interface","",""
+"","68041","test_HistoryPage_Hide_Or_Show_Loop_Configuration[chromium]","tests.Automation_tests","Mon Sep 08 11:50:02 IST 2025","broken","Mon Sep 08 11:51:10 IST 2025","","test_User_Interface","",""
+"","134663","test_Multiple_distributions_configured_result_in_a_file_distributed_to_all_of_them[chromium]","tests.Automation_tests","Mon Sep 08 12:22:33 IST 2025","passed","Mon Sep 08 12:24:48 IST 2025","","test_VFD","",""
+"","23068","test_distribute_with_Service_code[chromium]","tests.Automation_tests","Mon Sep 08 12:34:34 IST 2025","broken","Mon Sep 08 12:34:58 IST 2025","","test_VFD","",""
+"","92505","test_Check_when_primary_server_fails_failover_to_standby_server_happens[chromium]","tests.Automation_tests","Mon Sep 08 12:25:47 IST 2025","passed","Mon Sep 08 12:27:20 IST 2025","","test_VFD","",""
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","17035","test_PlayoutPage_Print_MyPlayout_page[chromium]","tests.Automation_tests","Mon Sep 08 11:45:33 IST 2025","passed","Mon Sep 08 11:45:50 IST 2025","","test_User_Interface","",""
+"","80938","test_without_target_directory[chromium]","tests.Automation_tests","Mon Sep 08 12:18:05 IST 2025","passed","Mon Sep 08 12:19:26 IST 2025","","test_VFD","",""
+"","23084","test_Admin_Settings_Page_Playout_Options[chromium]","tests.Automation_tests","Mon Sep 08 11:57:05 IST 2025","passed","Mon Sep 08 11:57:28 IST 2025","","test_User_Interface","",""
+"","44595","test_playout_clear_all[chromium]","tests.Automation_tests","Mon Sep 08 12:56:40 IST 2025","broken","Mon Sep 08 12:57:25 IST 2025","","test_history","",""
+"","22735","test_AdminSettingsPage_FileProcessor[chromium]","tests.Automation_tests","Mon Sep 08 11:56:41 IST 2025","passed","Mon Sep 08 11:57:04 IST 2025","","test_User_Interface","",""
+"","10933","test_Livepage_actions[chromium]","tests.Automation_tests","Mon Sep 08 11:52:59 IST 2025","passed","Mon Sep 08 11:53:10 IST 2025","","test_User_Interface","",""
+"","42778","test_MyVideosPage_Add_My_Videos_To_Playlist[chromium]","tests.Automation_tests","Mon Sep 08 11:54:00 IST 2025","broken","Mon Sep 08 11:54:42 IST 2025","","test_User_Interface","",""
+"
+
+    Tests the presence of playout and playlist buttons.
+    Navigates through different content sources and modes to verify the visibility of buttons on the UI.
+
+    ","44695","test_playout_playlist_button[chromium]","tests.Automation_tests","Mon Sep 08 12:45:59 IST 2025","broken","Mon Sep 08 12:46:44 IST 2025","","test_admin_playout","",""
+"","10874","test_StoriesPage_Add_To_Distribution[chromium]","tests.Automation_tests","Mon Sep 08 11:55:05 IST 2025","broken","Mon Sep 08 11:55:16 IST 2025","","test_User_Interface","",""
+"","46594","test_when_there_is_no_video_playout_a_waiting_video[chromium]","tests.Automation_tests","Mon Sep 08 12:52:42 IST 2025","broken","Mon Sep 08 12:53:28 IST 2025","","test_admin_playout","",""
+"","105211","test_export_as_cv[chromium]","tests.Automation_tests","Mon Sep 08 12:47:58 IST 2025","broken","Mon Sep 08 12:49:43 IST 2025","","test_admin_playout","",""

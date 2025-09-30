@@ -1,0 +1,2 @@
+INFO:root:Typhoon Lingling tracking towards Japan's Kyushu
+INFO:root:Live page exists

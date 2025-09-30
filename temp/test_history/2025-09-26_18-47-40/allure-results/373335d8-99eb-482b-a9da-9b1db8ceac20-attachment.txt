@@ -1,0 +1,8 @@
+INFO:root:Story playout initiated for story index: 3
+INFO:root:Story playout initiated for story index: 4
+INFO:root:Story playout initiated for story index: 5
+INFO:root:Story playout initiated for story index: 6
+INFO:root:Story playout initiated for story index: 7
+INFO:root:Story 1: LEBANON-NASRALLAH/PROFILE-SHORT
+INFO:root:Story 2: USA-SHOOTING/ICE-TRUMP
+INFO:root:Story 3: UN-ASSEMBLY/TRUMP-SOCIAL MEDIA

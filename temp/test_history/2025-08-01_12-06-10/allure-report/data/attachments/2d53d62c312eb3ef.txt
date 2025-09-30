@@ -1,0 +1,20 @@
+INFO     root:test_FD.py:145 &
+INFO     root:story.py:769 FTP
+INFO     root:story.py:755 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_FD.py:151 test1
+INFO     root:story.py:805 FTP
+INFO     root:test_FD.py:145 %
+INFO     root:story.py:769 FTP
+INFO     root:story.py:755 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_FD.py:145 ?
+INFO     root:story.py:769 FTP
+INFO     root:story.py:755 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_FD.py:145 ()
+INFO     root:story.py:769 FTP
+INFO     root:story.py:755 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_FD.py:145   
+INFO     root:story.py:769 FTP
+INFO     root:story.py:755 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_FD.py:145 *
+INFO     root:story.py:769 FTP
+INFO     root:story.py:755 Name must contain only letters, numbers and whitespaces.

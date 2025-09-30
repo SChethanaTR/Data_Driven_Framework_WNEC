@@ -1,0 +1,7 @@
+INFO     root:test_User_Interface.py:307 Found 4 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:313 Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:321 Playout button visible and clicked
+INFO     root:test_User_Interface.py:331 No channel options available.
+INFO     root:test_User_Interface.py:313 Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:321 Playout button visible and clicked
+INFO     root:test_User_Interface.py:331 No channel options available.

@@ -1,0 +1,28 @@
+INFO:root:Found 11 videos under 'Live Now'.
+INFO:root:Live Now Video: View of runway at Heathrow Airport after cyberattack causes disruption
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Danish presidency and EU commission press conference
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Barcelona coach Hansi Flick holds a press conference
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: View of Gaza City as seen from Israel
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Hostage families give statement in front of Israel's military headquarters
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Thousands of Israelis, including hostages families, gather at Hostage Square
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Hostages families and anti-government activists protest near PM residence in Jerusalem
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.

@@ -1,0 +1,8 @@
+INFO     root:test_admin_playout.py:330 Story 1: BRITAIN-CHESS/
+INFO     root:test_admin_playout.py:330 Story 2: QA-JSON-DD-35-DAY-STORY-REFEED
+INFO     root:test_admin_playout.py:330 Story 3: QA-JSON-DD-8-DAY-STORY-REFEED-2
+INFO     root:test_admin_playout.py:355 
+INFO     root:database.py:28 ('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Playing', 'Waiting', 'manual', '', '', 'Now playing: 2025-06-06T080530Z_1_LWD918804062025RP1_RTRWNEV_C_9188-BRITAIN-CHESS.MP4', '2025-06-06T080530Z_1_LWD918804062025RP1_RTRWNEV_C_9188-BRITAIN-CHESS.MP4', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Stopped', 'None', 0, 0, '', '', 0, '', '', '', 0, '')

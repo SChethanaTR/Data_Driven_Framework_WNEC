@@ -1,0 +1,4 @@
+INFO:root:Story added: UN-RIGHTS/
+INFO:root:Story added: China-Portuguese PM/Arrival
+INFO:root:Story added: UN-RIGHTS/
+INFO:root:All stories collected: ['UN-RIGHTS/', 'China-Portuguese PM/Arrival', 'UN-RIGHTS/']

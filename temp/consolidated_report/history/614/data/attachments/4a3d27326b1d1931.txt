@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:830 Story 1: China-Biosphere Reserves Congress/Opening
+INFO     root:test_admin_playout.py:830 Story 2: China-FM Briefing/Foreign Talent
+INFO     root:test_admin_playout.py:830 Story 3: China-Financel Sector/Progress
+INFO     root:test_admin_playout.py:837 Cleared all items

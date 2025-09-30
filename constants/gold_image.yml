@@ -1,0 +1,133 @@
+required_applications:
+  # These are the applications/executables that should be present in a Gold Image
+  - cgroupfs-mount
+  - teamviewer
+  - konsole
+  - firefox
+  - facter
+  - sddm
+  - gawk
+  - make
+  - wget
+  - curl
+  - vim
+  - man
+  - ifconfig
+  - netstat
+  - ssh
+  - sshd
+  - docker
+  - dockerd
+  - docker-compose
+  # Python requirements
+  - python3
+  - pip3
+  # BlackMagic S/W
+  - DesktopVideoUpdateTool
+  # Part of Health Reporter
+  - collect_host_info
+required_docker_images:
+  # These are the Docker images that should be present in a Gold Image
+  - /wnec/ui
+  - /wnec/player
+  - /wnec/dbmanager
+  - /wnec/pushclient
+  - /wnec/filedistributor
+  - /wnec/internetbackup
+  - /wnec/healthreporter
+  - /wnec/database
+  - /wnec/filepurger
+  - /wnec/fileprocessor
+  - /wnec/upgrader
+  - /wnec/sqitch
+  - /wnec/kencast
+required_logs:
+  # The Docker logs that should be present, indicating proper functioning of the system
+  - fileprocessor
+  - filedistributor
+  - filepurger
+  - internet_backup
+  - log1/bmdplayer
+  - log1/wnecplayer
+  - log2/bmdplayer
+  - log2/wnecplayer
+  - log3/bmdplayer
+  - log3/wnecplayer
+  - log4/bmdplayer
+  - log4/wnecplayer
+required_logs_modified:
+  # The logs that should have a recently modified timestamp, if the log was not
+  # modified over a certain period it could mean the system crashed
+  - fileprocessor
+  - filedistributor
+  - filepurger
+required_disk_partitions:
+  # How the partitions should formatted and their mountpoints
+  - mountpoint: /wneclient
+    fstype: ext4
+  - mountpoint: /wneclient/database
+    fstype: ext4
+  - mountpoint: /wneclient/data
+    fstype: ext4
+  - mountpoint: /var/lib/docker
+    fstype: ext4
+required_directories:
+  # Directories that should be present and be directories
+  - /wneclient
+  - /wneclient/database
+  - /wneclient/database/data.d
+  - /wneclient/database/sqitch
+  - /wneclient/apps
+  - /wneclient/apps/dbmanager/log
+  - /wneclient/apps/fazzt/log
+  - /wneclient/apps/fazzt/license
+  - /wneclient/apps/filedistributor/log
+  - /wneclient/apps/filedistributor/localcopy
+  - /wneclient/apps/fileprocessor/log
+  - /wneclient/apps/filepurger/log
+  - /wneclient/apps/healthreporter/log
+  - /wneclient/apps/healthreporter/stats
+  - /wneclient/apps/internet_backup/log
+  - /wneclient/apps/player/log1
+  - /wneclient/apps/player/log2
+  - /wneclient/apps/player/log3
+  - /wneclient/apps/player/log4
+  - /wneclient/apps/player/waiting_videos
+  - /wneclient/apps/push-client/log
+  - /wneclient/apps/push-client/task
+  - /wneclient/apps/teamviewermanager/cache
+  - /wneclient/apps/teamviewermanager/log
+  - /wneclient/apps/ui/log
+  - /wneclient/apps/upgrader/log
+  - /wneclient/apps/upgrader/tmp
+  - /wneclient/compose
+  - /wneclient/data
+  - /wneclient/data/RVN
+  - /wneclient/data/RVN-CDN
+  - /wneclient/patches
+  - /wneclient/upgrade/package/archive
+  - /wneclient/upgrade/package/backup
+  - /wneclient/upgrade/package/rollback
+  - /wneclient/upgrade/package/staging
+  # deb packages that should be copied over
+  - /usr/local/bin/reuters/debs/blackmagic
+  - /usr/local/bin/reuters/debs/docker.io
+  - /usr/local/bin/reuters/debs/kubuntu-desktop
+  - /usr/local/bin/reuters/debs/teamviewer-15.12.4
+  - /usr/local/bin/reuters/debs/wne
+  - /usr/local/bin/reuters/debs/docker-compose
+  # Local Repo (APT)
+  - /opt/debs
+  #  https://jira.thomsonreuters.com/browse/WNEC-5783
+  - /wneclient/data/upgrade/staging
+  - /wneclient/upgrade/upload
+directory_ownership:
+  - directory: /wneclient
+    owner: wnecadmin
+  - directory: /usr/local/bin/reuters
+    owner: wnecadmin
+  # https://jira.thomsonreuters.com/browse/WNEC-6181
+  - directory: /wneclient/upgrade/aptly
+    owner: wnecadmin
+  - directory: /wneclient/upgrade/upload
+    owner: wnecadmin

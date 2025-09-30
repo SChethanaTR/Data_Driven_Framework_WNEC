@@ -1,0 +1,9 @@
+INFO:root:A view of Khan Younis07:4812:00rl 3
+INFO:root:US VP Vance meets UK foreign sec Lammy12:4513:45rl 4
+INFO:root:A view of Khan Younis13:4214:42rls
+INFO:root:Residents and tourists escape Spain's heatwave in Madrid public park14:0015:00rl 2
+INFO:root:Texas Senate holds meeting amid redistricting standoff14:0015:00rl 5
+INFO:root:View of the Israel-Gaza border17:0012:00 (+1)rl 1
+INFO:root:Trump meets with Armenia prime minister, Azerbaijan president18:3019:30rl 6
+INFO:root:Crew-10 returns to Earth after mission to ISS20:1021:10rl 2
+INFO:root:Statue of quarterback Tom Brady unveiled at Gillette Stadium21:4523:00rl 1

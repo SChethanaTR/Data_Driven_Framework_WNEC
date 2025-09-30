@@ -1,0 +1,5 @@
+INFO     root:test_User_Interface.py:563 View of Oban Bay with Storm Floris set to bring strong wind and rains to UK04:1712:00rl 1Ch 3
+INFO     root:test_User_Interface.py:563 A view of the street and people's movements in Khan Younis04:5412:00rl 4
+INFO     root:test_User_Interface.py:563 A view of the street and people's movements in Khan Younis04:5412:00rls
+INFO     root:test_User_Interface.py:563 Reform UK leader Farage gives news conference09:5112:00rl 2
+INFO     root:test_User_Interface.py:563 View of the Israel-Gaza border01:50 (-1)12:00rls

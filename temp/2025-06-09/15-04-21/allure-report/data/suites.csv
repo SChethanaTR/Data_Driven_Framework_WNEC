@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","134223","test_add_multiple_users[chromium]","tests.Automation_tests","Mon Jun 09 15:07:46 IST 2025","passed","Mon Jun 09 15:10:00 IST 2025","","test_User_management","",""
+"","132238","test_verify_user_addition[chromium]","tests.Automation_tests","Mon Jun 09 15:04:39 IST 2025","passed","Mon Jun 09 15:06:51 IST 2025","","test_User_management","",""
+"","51717","test_delete_user[chromium]","tests.Automation_tests","Mon Jun 09 15:06:53 IST 2025","passed","Mon Jun 09 15:07:44 IST 2025","","test_User_management","",""
+"","176640","test_search_user[chromium]","tests.Automation_tests","Mon Jun 09 15:12:34 IST 2025","passed","Mon Jun 09 15:15:31 IST 2025","","test_User_management","",""
+"","151759","test_login_logout[chromium]","tests.Automation_tests","Mon Jun 09 15:10:01 IST 2025","broken","Mon Jun 09 15:12:33 IST 2025","","test_User_management","",""

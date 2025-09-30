@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: High waves in Taiwan's east coast as typhoon Ragasa sweeps across Philippines
+INFO:root:Locator 1 text: ASIA-WEATHER/TAIWAN

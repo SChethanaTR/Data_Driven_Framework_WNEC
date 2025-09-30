@@ -1,0 +1,4 @@
+INFO:root:World leaders gather at the U.N. for 80th General Assembly12:45 (-1)01:00rl 4
+INFO:root:World leaders gather at the U.N. for 80th General Assembly12:45 (-1)01:00rls
+INFO:root:World leaders gather at the U.N. for 80th General Assembly12:4501:00 (+1)rl 5
+INFO:root:World leaders gather at the U.N. for 80th General Assembly12:4501:00 (+1)rl 4

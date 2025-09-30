@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: BASKETBALL-NBA-OKC-IND/
+INFO     root:test_history.py:317 Story added: INDIA-ECONOMY/RATES
+INFO     root:test_history.py:317 Story added: QA-JSON-DD-30-DAY-FEATURE-REFEED-2
+INFO     root:test_history.py:319 All stories collected: ['BASKETBALL-NBA-OKC-IND/', 'INDIA-ECONOMY/RATES', 'QA-JSON-DD-30-DAY-FEATURE-REFEED-2']

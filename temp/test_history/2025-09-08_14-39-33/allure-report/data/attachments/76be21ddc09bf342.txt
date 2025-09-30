@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:525 NEPAL-PROTESTS/
+INFO     root:test_User_Interface.py:530 Extracted text: NEPAL-PROTESTS/
+INFO     root:test_User_Interface.py:543 NEPAL-PROTESTS/

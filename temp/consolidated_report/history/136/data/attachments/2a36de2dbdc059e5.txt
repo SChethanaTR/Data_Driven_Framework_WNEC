@@ -1,0 +1,4 @@
+INFO:root:Found 8 videos under 'Live Now'.
+INFO:root:Live Now Video: A view of the street and people's movements in Khan Younis
+INFO:root:Live Now Video: A view of street and people movements in Khan Younis, southern Gaza Strip
+INFO:root:Live Now Video: German Foreign Minister Wadephul in Ramallah

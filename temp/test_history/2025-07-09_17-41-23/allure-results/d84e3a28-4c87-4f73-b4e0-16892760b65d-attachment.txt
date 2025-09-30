@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:577 Found 17 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:581 Live Now Video: View of damage after deadly floods in Kerrville, Texas

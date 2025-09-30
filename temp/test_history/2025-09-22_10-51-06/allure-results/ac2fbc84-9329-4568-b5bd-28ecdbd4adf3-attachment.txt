@@ -1,0 +1,4 @@
+INFO     root:test_history.py:191 Story added: ASIA-WEATHER/PHILIPPINES-GRAPHICS
+INFO     root:test_history.py:191 Story added: ASIA-WEATHER/PHILIPPINES-GRAPHICS
+INFO     root:test_history.py:191 Story added: USA-SHOOTING/KIRK-MEMORIAL-WRAP
+INFO     root:test_history.py:193 All stories collected: ['ASIA-WEATHER/PHILIPPINES-GRAPHICS', 'ASIA-WEATHER/PHILIPPINES-GRAPHICS', 'USA-SHOOTING/KIRK-MEMORIAL-WRAP']

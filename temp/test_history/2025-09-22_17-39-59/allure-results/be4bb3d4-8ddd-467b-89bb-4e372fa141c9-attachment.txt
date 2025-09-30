@@ -1,0 +1,37 @@
+INFO:root:Found 14 videos under 'Live Now'.
+INFO:root:Live Now Video: Italians join a strike to stand in solidarity with Gaza and protest arm shipments
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: High-level Meeting to Commemorate the 80th Anniversary of the United Nations
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: High-level meeting to commemorate the 80th Anniversary of the United Nations
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Activists, hostage families protest by PM’s residence in Jerusalem
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: High-level meeting to mark 30th anniversary of key declaration on women's rights
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: NASA unveils its 2025 class of astronaut candidates
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Catholic groups led by Sant’Egidio hold Gaza peace vigil in Rome’s Trastevere
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Catholic groups led by Sant’Egidio hold Gaza peace vigil in Rome’s Trastevere
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: World leaders meet on two-state solution between Israel, Palestinians
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: World leaders meet on two-state solution between Israel, Palestinians
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Hong Kong braces for super typhoon Ragasa’s impact
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Reuters Editor-in-Chief Alessandra Galloni interviews Bill Gates
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.

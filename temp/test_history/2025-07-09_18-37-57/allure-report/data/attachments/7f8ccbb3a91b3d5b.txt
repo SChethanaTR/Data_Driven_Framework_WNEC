@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:52 View of damage after deadly floods in Kerrville, Texas
+INFO     root:test_User_Interface.py:54 Live page exists

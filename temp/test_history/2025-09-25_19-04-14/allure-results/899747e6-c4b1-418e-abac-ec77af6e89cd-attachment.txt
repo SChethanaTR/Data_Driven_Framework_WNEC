@@ -1,0 +1,12 @@
+INFO     root:test_admin_playout.py:523 Navigated to playout page
+INFO     root:test_admin_playout.py:529 Radio button to disable channel is clicked
+INFO     root:test_admin_playout.py:523 
+INFO     root:test_admin_playout.py:523 
+INFO     root:test_admin_playout.py:548 PLAYOUT READYAdd events to Playlist or press Play Now button in Live page
+INFO     root:test_admin_playout.py:552 Channel is enabled
+INFO     root:test_admin_playout.py:523 
+INFO     root:test_admin_playout.py:529 Radio button to enable channel is clicked
+INFO     root:test_admin_playout.py:523 
+INFO     root:test_admin_playout.py:523 
+INFO     root:test_admin_playout.py:568 PLAYOUT READYAdd events to Playlist or press Play Now button in Live page
+INFO     root:test_admin_playout.py:573 Channel is enabled

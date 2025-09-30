@@ -1,0 +1,3 @@
+INFO     root:story.py:1404 Dropdown options available:
+INFO     root:story.py:1406 Option 1: My Videos
+INFO     root:story.py:1410 ✅ 'Distribution' option is not available in the dropdown.

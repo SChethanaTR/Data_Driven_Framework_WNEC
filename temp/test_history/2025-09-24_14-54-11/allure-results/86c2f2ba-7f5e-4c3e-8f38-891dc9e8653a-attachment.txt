@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:408 Story name: Hong Kong braces as typhoon Ragasa’s draws closer
+INFO     root:test_User_Interface.py:419 Story playing: ASIA-WEATHER/HONGKONG-SKYLINE

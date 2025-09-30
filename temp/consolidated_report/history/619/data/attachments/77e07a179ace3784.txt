@@ -1,0 +1,4 @@
+INFO:root:(31, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)
+INFO:root:DB Query Result: [(31, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)]
+INFO:root:✅ Distribution process has been stopped successfully.
+INFO:root:✅ Distribution process has been started successfully.

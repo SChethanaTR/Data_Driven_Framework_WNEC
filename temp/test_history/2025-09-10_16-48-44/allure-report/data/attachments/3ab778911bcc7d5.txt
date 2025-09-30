@@ -1,0 +1,2 @@
+INFO:root:Distribution History is empty
+INFO:root:Added story: SOCCER-GERMANY-LEV/HJULMAND

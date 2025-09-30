@@ -1,0 +1,5 @@
+INFO:root:Found 12 videos under 'Live Now'.
+INFO:root:Live Now Video: View of runway at Heathrow Airport after cyberattack causes disruption
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: The world’s largest beer festival the Oktoberfest officially kicks off

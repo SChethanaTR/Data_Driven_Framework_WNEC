@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:1307 Storsie added to distribution from Stories page!!
+INFO     root:test_VFD.py:1312 Stories added to distribution from MyVideos page!!

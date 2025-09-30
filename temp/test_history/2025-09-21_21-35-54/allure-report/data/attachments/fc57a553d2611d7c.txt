@@ -1,0 +1,2 @@
+INFO:root:Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO:root:Live page exists

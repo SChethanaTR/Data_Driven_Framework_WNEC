@@ -1,0 +1,8 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"10","","0","FD","10","0","","0"
+"0","","0","FD","1","0","Multiple distributions configured result in a file distributed to all of them","0"
+"1","","0","FD","0","0","Pause and Resume FTP Distribution","0"
+"1","","0","FD","0","0","Remove FTP Distribution Configuration","0"
+"1","","0","FD","0","0","Check Active connection with Passive Server","0"
+"1","","0","FD","0","0","Start and Stop FTP Distribution","0"
+"1","","0","File Distribution","0","0","No Password - Directory - Passive Mode","0"

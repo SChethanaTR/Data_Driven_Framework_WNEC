@@ -1,0 +1,3 @@
+INFO     root:test_admin_playout.py:860 Story 1: TENNIS-MERIDA/
+INFO     root:test_admin_playout.py:860 Story 2: TENNIS-MERIDA/
+INFO     root:test_admin_playout.py:860 Story 3: TENNIS-MERIDA/

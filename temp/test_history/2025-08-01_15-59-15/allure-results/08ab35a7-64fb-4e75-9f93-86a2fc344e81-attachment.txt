@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:910 Story 1: CLIMATE CHANGE-HUNGARY/DROUGHT
+INFO     root:test_admin_playout.py:910 Story 2: USA-TRUMP/TARIFFS-TAIWAN-REAX
+INFO     root:test_admin_playout.py:910 Story 3: CLIMATE CHANGE-HUNGARY/DROUGHT
+INFO     root:test_admin_playout.py:917 Cleared all items

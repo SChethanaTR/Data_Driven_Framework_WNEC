@@ -1,0 +1,2 @@
+INFO:root:Deleted user: autoAdmin
+INFO:root:Deleted user: autoAdmin

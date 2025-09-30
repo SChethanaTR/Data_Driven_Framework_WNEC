@@ -1,0 +1,132 @@
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-OFFICE7781Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-POLITICS/7762Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-JAMESCOMEY/FILE7743Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/KENYA-INTERVIEW7770Reuters
+INFO     root:test_User_Interface.py:503 GUINNESS-RECORDS/BOOK7552Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-SUSPECT7775Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/CLIMATE7713Reuters
+INFO     root:test_User_Interface.py:503 CHILE-ECONOMY/7766Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/BRAZIL7773Reuters
+INFO     root:test_User_Interface.py:503 MALAWI-ELECTION/7767Reuters
+INFO     root:test_User_Interface.py:503 DENMARK-AIRPORT/DRONES7769Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/NORWAY7763Reuters
+INFO     root:test_User_Interface.py:503 USA- TRUMP/AUTISM-MOTHER7675Reuters
+INFO     root:test_User_Interface.py:503 GOLF-RYDERCUP/7749Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-OFFICE7781Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-POLITICS/7762Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-JAMESCOMEY/FILE7743Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/KENYA-INTERVIEW7770Reuters
+INFO     root:test_User_Interface.py:503 GUINNESS-RECORDS/BOOK7552Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-SUSPECT7775Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/CLIMATE7713Reuters
+INFO     root:test_User_Interface.py:503 CHILE-ECONOMY/7766Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/BRAZIL7773Reuters
+INFO     root:test_User_Interface.py:503 MALAWI-ELECTION/7767Reuters
+INFO     root:test_User_Interface.py:503 DENMARK-AIRPORT/DRONES7769Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/NORWAY7763Reuters
+INFO     root:test_User_Interface.py:503 USA- TRUMP/AUTISM-MOTHER7675Reuters
+INFO     root:test_User_Interface.py:503 GOLF-RYDERCUP/7749Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-OFFICE7781Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-POLITICS/7762Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-JAMESCOMEY/FILE7743Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/KENYA-INTERVIEW7770Reuters
+INFO     root:test_User_Interface.py:503 GUINNESS-RECORDS/BOOK7552Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-SUSPECT7775Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/CLIMATE7713Reuters
+INFO     root:test_User_Interface.py:503 CHILE-ECONOMY/7766Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/BRAZIL7773Reuters
+INFO     root:test_User_Interface.py:503 MALAWI-ELECTION/7767Reuters
+INFO     root:test_User_Interface.py:503 DENMARK-AIRPORT/DRONES7769Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/NORWAY7763Reuters
+INFO     root:test_User_Interface.py:503 USA- TRUMP/AUTISM-MOTHER7675Reuters
+INFO     root:test_User_Interface.py:503 GOLF-RYDERCUP/7749Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-WRAP7771Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-OFFICE7781Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-POLITICS/7762Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-JAMESCOMEY/FILE7743Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/KENYA-INTERVIEW7770Reuters
+INFO     root:test_User_Interface.py:503 GUINNESS-RECORDS/BOOK7552Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-SUSPECT7775Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/CLIMATE7713Reuters
+INFO     root:test_User_Interface.py:503 CHILE-ECONOMY/7766Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/BRAZIL7773Reuters
+INFO     root:test_User_Interface.py:503 MALAWI-ELECTION/7767Reuters
+INFO     root:test_User_Interface.py:503 DENMARK-AIRPORT/DRONES7769Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/NORWAY7763Reuters
+INFO     root:test_User_Interface.py:503 USA- TRUMP/AUTISM-MOTHER7675Reuters
+INFO     root:test_User_Interface.py:503 GOLF-RYDERCUP/7749Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-OFFICE7781Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-POLITICS/7762Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-JAMESCOMEY/FILE7743Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/KENYA-INTERVIEW7770Reuters
+INFO     root:test_User_Interface.py:503 GUINNESS-RECORDS/BOOK7552Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-SUSPECT7775Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/CLIMATE7713Reuters
+INFO     root:test_User_Interface.py:503 CHILE-ECONOMY/7766Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/BRAZIL7773Reuters
+INFO     root:test_User_Interface.py:503 MALAWI-ELECTION/7767Reuters
+INFO     root:test_User_Interface.py:503 DENMARK-AIRPORT/DRONES7769Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/NORWAY7763Reuters
+INFO     root:test_User_Interface.py:503 USA- TRUMP/AUTISM-MOTHER7675Reuters
+INFO     root:test_User_Interface.py:503 GOLF-RYDERCUP/7749Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-WRAP7771Reuters
+INFO     root:test_User_Interface.py:503 China-Xi/Xinjiang/Anniversary Gala4603CCTV
+INFO     root:test_User_Interface.py:503 Various-Zelensky/Putin/Meeting Location4604CCTV
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/ESTONIA7778Reuters
+INFO     root:test_User_Interface.py:503 LEBANON-NASRALLAH/PROFILE-SHORT7354Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-TRUMP7783Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/TRUMP-SOCIAL MEDIA7779Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-OFFICE7781Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-POLITICS/7762Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-JAMESCOMEY/FILE7743Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/KENYA-INTERVIEW7770Reuters
+INFO     root:test_User_Interface.py:503 GUINNESS-RECORDS/BOOK7552Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/ICE-SUSPECT7775Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/CLIMATE7713Reuters
+INFO     root:test_User_Interface.py:503 CHILE-ECONOMY/7766Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/BRAZIL7773Reuters
+INFO     root:test_User_Interface.py:503 MALAWI-ELECTION/7767Reuters
+INFO     root:test_User_Interface.py:503 DENMARK-AIRPORT/DRONES7769Reuters
+INFO     root:test_User_Interface.py:503 UN-ASSEMBLY/NORWAY7763Reuters
+INFO     root:test_User_Interface.py:503 USA- TRUMP/AUTISM-MOTHER7675Reuters
+INFO     root:test_User_Interface.py:503 GOLF-RYDERCUP/7749Reuters

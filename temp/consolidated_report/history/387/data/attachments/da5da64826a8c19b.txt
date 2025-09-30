@@ -1,0 +1,222 @@
+INFO:root:Cell 1: 2025-09-15T052249Z_5_RW493415092025RP1_RTRMADC_0_SOUTHKOREA-USA-JAPAN-DRILL.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-15T060512Z_2_RWMQYCJM7_RTRMADC_0_NEPAL-PROTESTS-MORNING.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-15T055928Z_2_RW494815092025RP1_RTRMADC_0_USA-TRUMP-CRIME-DC.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-15T052636Z_3_RW493615092025RP1_RTRMADC_0_AWARDS-EMMYS-ARRIVALS.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-15T035617Z_2_RWMQYPG89_RTRMADC_0_GAZA-STRIP-HOSPITAL-MEDICAL-RESOURCE-SHORTAGE.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-15T062458Z_14_RW494915092025RP1_RTRMADC_0_USA-SHOOTING-KIRK-CRUZ.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-15T045815Z_5_RW493715092025RP1_RTRMADC_0_PHILIPPINES-FIRE.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-15T054228Z_2_RWMQYPH0P_RTRMADC_0_CHINA-HOME-PRICES-AUG.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-15T065944Z_2_RW423301082025RP1_RTRMADC_0_NIGERIA-ENVIRONMENT-TURTLES.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-15T070831Z_6_RW495615092025RP1_RTRMADC_0_PHILIPPINES-FIRE-AFTERMATH.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-15T050901Z_4_RW494215092025RP1_RTRMADC_0_USA-TRUMP-CHICAGO-PARADE-ROUGH-CUT.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-15T061650Z_2_RWMQYPHT5_RTRMADC_0_CHINA-FOREIGN-TRADE-AUGUST.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-15T045615Z_6_RW480914092025RP1_RTRMADC_0_BASEBALL-MLB-SF-LAD.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-15T070650Z_5_RW496515092025RP1_RTRMADC_0_DEUTSCHALND-NRW-WAHL-UMFRAGE.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-15T045643Z_5_RW494315092025RP1_RTRMADC_0_USA-SHOOTING-KIRK-KENNEDY-CENTER-UPDATE.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-15T043636Z_2_RWMQYPILL_RTRMADC_0_RUSSIA-UKRAINE-CRISIS-UPDATE.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-15T044912Z_6_RW492215092025RP1_RTRMADC_0_CHINA-ECONOMY-ACTIVITY.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-15T070221Z_4_RW496615092025RP1_RTRMADC_0_CRIMEA-WILDFIRE.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-15T055210Z_5_RW494515092025RP1_RTRMADC_0_STARLINK-OUTAGES.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-15T041016Z_9_RW492815092025RP1_RTRMADC_0_AWARDS-EMMYS-FASHION-ROUGH-CUT.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-15T070018Z_2_RW940624082025RP1_RTRMADC_0_CONGO-SECURITY-COFFEE.XML
+INFO:root:Cell 82: TBD
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 
+INFO:root:Cell 85: 2025-09-15T064159Z_4_RW494715092025RP1_RTRMADC_0_AWARDS-EMMYS-BACKSTAGE-OWEN-COOPER-ROUGH-CUT.XML
+INFO:root:Cell 86: TBD
+INFO:root:Cell 87: Waiting
+INFO:root:Cell 88: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                      |
++=====+================================================================================================================================================================================+
+|   1 | 2025-09-15 07:06:40,275 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-15 07:06:40,282 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-15 07:06:40,284 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-15 07:06:40,284 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-15 07:06:40,285 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-15 07:07:40,289 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-15 07:07:40,294 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-15 07:07:40,296 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-15 07:07:40,296 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-15 07:07:40,297 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-15 07:08:40,301 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-15 07:08:40,303 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-15 07:08:40,304 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-15 07:08:40,304 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-15 07:08:40,304 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-15 07:09:40,311 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-15 07:09:40,314 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-15 07:09:40,316 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-15 07:09:40,316 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-15 07:09:40,316 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+--- Logging error ---
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/logging/__init__.py", line 1110, in emit
+    msg = self.format(record)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/logging/__init__.py", line 953, in format
+    return fmt.format(record)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/logging/__init__.py", line 687, in format
+    record.message = record.getMessage()
+                     ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/logging/__init__.py", line 377, in getMessage
+    msg = msg % self.args
+          ~~~~^~~~~~~~~~~
+TypeError: not all arguments converted during string formatting
+Call stack:
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pytest/__main__.py", line 5, in <module>
+    raise SystemExit(pytest.console_main())
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/config/__init__.py", line 192, in console_main
+    code = main()
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/config/__init__.py", line 169, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_hooks.py", line 513, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_manager.py", line 120, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_callers.py", line 103, in _multicall
+    res = hook_impl.function(*args)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/main.py", line 318, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/main.py", line 271, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/main.py", line 325, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_hooks.py", line 513, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_manager.py", line 120, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_callers.py", line 103, in _multicall
+    res = hook_impl.function(*args)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/main.py", line 350, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_hooks.py", line 513, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_manager.py", line 120, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_callers.py", line 103, in _multicall
+    res = hook_impl.function(*args)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 114, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 133, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 222, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 261, in call_runtest_hook
+    return CallInfo.from_call(
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 341, in from_call
+    result: Optional[TResult] = func()
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 262, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_hooks.py", line 513, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_manager.py", line 120, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_callers.py", line 103, in _multicall
+    res = hook_impl.function(*args)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/runner.py", line 169, in pytest_runtest_call
+    item.runtest()
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/python.py", line 1792, in runtest
+    self.ihook.pytest_pyfunc_call(pyfuncitem=self)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_hooks.py", line 513, in __call__
+    return self._hookexec(self.name, self._hookimpls.copy(), kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_manager.py", line 120, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/pluggy/_callers.py", line 103, in _multicall
+    res = hook_impl.function(*args)
+  File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/_pytest/python.py", line 194, in pytest_pyfunc_call
+    result = testfunction(**testargs)
+  File "/Users/s.chethana/PycharmProjects/Data_Driven_Framework_WNEC/tests/Automation_tests/test_VFD.py", line 1361, in test_add_to_distribution_with_no_active_distribution_possible
+    story_page.check_if_distribution_dropdown_is_visible()  # check if distribution dropdown is visible
+  File "/Users/s.chethana/PycharmProjects/Data_Driven_Framework_WNEC/pages/home/story.py", line 1396, in check_if_distribution_dropdown_is_visible
+    logging.info("Option 1:", option1.text_content())
+Message: 'Option 1:'
+Arguments: ('Distribution',)

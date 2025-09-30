@@ -1,0 +1,2 @@
+Show/Hide loop content is disabled.
+Show/Hide loop content is now enabled.

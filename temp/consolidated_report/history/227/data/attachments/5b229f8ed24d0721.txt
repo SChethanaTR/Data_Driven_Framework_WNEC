@@ -1,0 +1,4 @@
+INFO     root:test_history.py:360 Story added: UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV
+INFO     root:test_history.py:360 Story added: ISRAEL-PALESTINIANS/SETTLEMENT-E1
+INFO     root:test_history.py:360 Story added: China-FM/Thailand
+INFO     root:test_history.py:362 All stories collected: ['UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV', 'ISRAEL-PALESTINIANS/SETTLEMENT-E1', 'China-FM/Thailand']

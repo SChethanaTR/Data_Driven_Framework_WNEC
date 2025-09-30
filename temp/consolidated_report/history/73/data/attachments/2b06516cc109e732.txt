@@ -1,0 +1,1 @@
+INFO     root:test_User_Interface.py:1129 Story added to playlist: View of Israel-Gaza border as Netanyahu says Trump meeting focused on hostage release efforts

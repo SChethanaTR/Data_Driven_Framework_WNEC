@@ -1,0 +1,5 @@
+INFO:root:Testing user - Username: alerpo, Password: av5*ATu2I$
+INFO:root:User successfully created
+INFO:root:Login successful
+INFO:root:Logout message verified
+INFO:root:Successfully logged out

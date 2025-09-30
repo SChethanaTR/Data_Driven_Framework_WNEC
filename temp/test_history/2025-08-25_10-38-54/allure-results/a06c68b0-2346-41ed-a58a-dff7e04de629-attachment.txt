@@ -1,0 +1,1 @@
+INFO     root:test_User_Interface.py:1156 Screenshot of the dialog saved as 'dialog_screenshot.png'

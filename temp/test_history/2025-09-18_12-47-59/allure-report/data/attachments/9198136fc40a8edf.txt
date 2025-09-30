@@ -1,0 +1,15 @@
+INFO:root:Unions call for nationwide strike and protests in France05:1707:30rl 4
+INFO:root:View of Chequers as Trump makes second state visit to Britain06:2209:00rl 3
+INFO:root:Trump makes unprecedented second state visit to Britain - DAY 206:2412:00rls
+INFO:root:Trump makes unprecedented second state visit to Britain07:0018:00rl 1
+INFO:root:Russian foreign ministry spokeswoman holds weekly briefing10:4512:30rl 5
+INFO:root:Trump makes unprecedented second state visit to Britain12:0012:00rl 2Ch 4
+INFO:root:Trump makes unprecedented second state visit to Britain12:0012:00rl 3
+INFO:root:Gaza City as seen from Israeli side12:0012:00rl 5
+INFO:root:Trump makes unprecedented second state visit to Britain12:0012:00rls
+INFO:root:UN Security Council meeting on Syria13:4514:45rl 5
+INFO:root:CDC vaccine advisory panel meeting13:4514:45rl 6
+INFO:root:Merz and Sánchez hold a joint press conference in Madrid17:4519:00rl 2Ch 4
+INFO:root:The 35th First Annual Ig Nobel Prize ceremony in Boston21:4522:45rl 5
+INFO:root:Turning Point hosts a vigil at Colorado State University23:1512:00 (+1)rl 4
+INFO:root:Turning Point hosts vigil in Colorado for co-founder Charlie Kirk23:1500:15 (+1)rl 6

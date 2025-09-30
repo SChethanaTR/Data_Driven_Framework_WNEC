@@ -1,0 +1,4 @@
+INFO:root:Story added: TENNIS-MERIDA/
+INFO:root:Story added: TENNIS-MERIDA/
+INFO:root:Story added: TENNIS-MERIDA/
+INFO:root:All stories collected: ['TENNIS-MERIDA/', 'TENNIS-MERIDA/', 'TENNIS-MERIDA/']

@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:857 Story 1: ISRAEL-PALESTINIANS/GAZA-AID-TIMELINE-2025
+INFO     root:test_admin_playout.py:857 Story 2: ISRAEL-PALESTINIANS/GAZA-AID-TIMELINE-2025
+INFO     root:test_admin_playout.py:857 Story 3: ISRAEL-PALESTINIANS/GAZA-AID-TIMELINE-2025
+INFO     root:test_admin_playout.py:863 Data exported

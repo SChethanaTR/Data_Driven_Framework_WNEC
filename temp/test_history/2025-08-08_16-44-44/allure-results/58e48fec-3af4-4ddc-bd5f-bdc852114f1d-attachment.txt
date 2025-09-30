@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:582 Found 10 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:587 Live Now Video: A view of Khan Younis
+INFO     root:test_User_Interface.py:587 Live Now Video: A view of Khan Younis

@@ -1,0 +1,16 @@
+from pages.home.about_page import AboutPage
+from pages.home.admin_playout import AdminPlayoutPage
+from pages.home.AllSettings import AllSettingsPage
+from pages.home.Connection_tests import ConnectionTestPage
+from pages.home.file_logs import FileLogsPage
+from pages.home.file_processor_page import FileProcessorPage
+from pages.home.filedistribution import FileDistributorPage
+from pages.home.linkedboxes import LinkedBoxesPage
+from pages.home.login_page import LoginPage
+from pages.home.pushclient import PushClientPage
+from pages.home.services_page import ServicesPage
+from pages.home.software_upgrades_page import SoftwareUpgradesPage
+from pages.home.user_management import UserManagementPage
+from pages.home.history import HistoryPage
+from pages.home.file_logs import FileLogsPage
+

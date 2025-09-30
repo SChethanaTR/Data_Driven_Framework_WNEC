@@ -1,0 +1,2 @@
+INFO:root:Slug on subcon page: INDIA-MAURITIUS/WREATH LAYING
+INFO:root:Slug on cctv page: China-ASEAN Expo/Cooperation

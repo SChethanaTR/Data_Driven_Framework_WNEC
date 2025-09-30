@@ -1,0 +1,5 @@
+INFO     root:test_User_Interface.py:588 Found 16 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:593 Live Now Video: Trump makes unprecedented second state visit to Britain
+INFO     root:test_User_Interface.py:599 Playout button visible and clicked
+INFO     root:test_User_Interface.py:609 No channel options available.
+INFO     root:test_User_Interface.py:593 Live Now Video: Smoke over Gaza City as seen from Israel

@@ -1,0 +1,2 @@
+INFO:root:Germany's Merz discusses 2026 budget in parliament
+INFO:root:GERMANY-BUDGET/MERZ

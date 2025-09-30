@@ -1,0 +1,1 @@
+INFO     root:test_User_Interface.py:159 ISRAEL-PALESTINIANS/BRITAIN-ENVOY

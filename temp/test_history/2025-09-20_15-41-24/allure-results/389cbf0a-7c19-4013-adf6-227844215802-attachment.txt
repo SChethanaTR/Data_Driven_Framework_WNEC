@@ -1,0 +1,12 @@
+INFO     root:test_User_Interface.py:436 View of the Israel-Gaza border03:4912:00rls
+INFO     root:test_User_Interface.py:436 View of Gaza City as seen from Israel07:3312:00rl 4
+INFO     root:test_User_Interface.py:436 View of runway at Heathrow Airport after cyberattack causes disruption07:3612:00rl 1
+INFO     root:test_User_Interface.py:436 The world’s largest beer festival the Oktoberfest officially kicks off09:3610:15rl 3
+INFO     root:test_User_Interface.py:436 Danish presidency and EU commission press conference10:4512:00rl 6
+INFO     root:test_User_Interface.py:436 Barcelona coach Hansi Flick holds a press conference10:4511:45rl 2Ch 4
+INFO     root:test_User_Interface.py:436 View of Gaza City as seen from Israel12:0012:00rls
+INFO     root:test_User_Interface.py:436 Hostage families give statement in front of Israel's military headquarters14:3015:30rl 1
+INFO     root:test_User_Interface.py:436 Thousands of Israelis, including hostages families, gather at Hostage Square16:4517:45rl 2Ch 4
+INFO     root:test_User_Interface.py:436 Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday16:4517:45rl 5
+INFO     root:test_User_Interface.py:436 Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday17:0018:00rl 6
+INFO     root:test_User_Interface.py:436 Hostages families and anti-government activists protest near PM residence in Jerusalem17:1518:15rl 1

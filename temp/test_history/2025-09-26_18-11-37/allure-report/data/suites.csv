@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","52568","test_distribution_history_clear_all[chromium]","tests.Automation_tests","Fri Sep 26 18:14:18 IST 2025","broken","Fri Sep 26 18:15:11 IST 2025","","test_distribution_history","",""
+"","77391","test_distribution_history_print[chromium]","tests.Automation_tests","Fri Sep 26 18:11:54 IST 2025","passed","Fri Sep 26 18:13:11 IST 2025","","test_distribution_history","",""
+"","64306","test_distribution_history_exportascv[chromium]","tests.Automation_tests","Fri Sep 26 18:13:13 IST 2025","broken","Fri Sep 26 18:14:17 IST 2025","","test_distribution_history","",""

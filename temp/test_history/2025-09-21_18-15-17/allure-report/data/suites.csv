@@ -1,0 +1,32 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","138850","test_HistoryPage_Distribution_History[chromium]","tests.Automation_tests","Sun Sep 21 18:18:50 IST 2025","passed","Sun Sep 21 18:21:09 IST 2025","","test_User_Interface","",""
+"","26440","test_Admin_Settings_Page_Playout_Options[chromium]","tests.Automation_tests","Sun Sep 21 18:29:05 IST 2025","passed","Sun Sep 21 18:29:32 IST 2025","","test_User_Interface","",""
+"","51055","test_Livepage_actions[chromium]","tests.Automation_tests","Sun Sep 21 18:25:14 IST 2025","passed","Sun Sep 21 18:26:05 IST 2025","","test_User_Interface","",""
+"","55561","test_LivePage_Add_To_Playlist[chromium]","tests.Automation_tests","Sun Sep 21 18:27:21 IST 2025","passed","Sun Sep 21 18:28:16 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","20714","test_PlayoutPage_Print_MyPlayout_page[chromium]","tests.Automation_tests","Sun Sep 21 18:15:33 IST 2025","passed","Sun Sep 21 18:15:54 IST 2025","","test_User_Interface","",""
+"","26850","test_MyVideosPage_Add_My_Videos_To_Playlist[chromium]","tests.Automation_tests","Sun Sep 21 18:26:42 IST 2025","failed","Sun Sep 21 18:27:09 IST 2025","","test_User_Interface","",""
+"","8442","test_MyVideosPage_Print_My_Videos[chromium]","tests.Automation_tests","Sun Sep 21 18:27:11 IST 2025","failed","Sun Sep 21 18:27:19 IST 2025","","test_User_Interface","",""
+"","56475","test_StoriesPage_CopyLink[chromium]","tests.Automation_tests","Sun Sep 21 18:16:24 IST 2025","passed","Sun Sep 21 18:17:20 IST 2025","","test_User_Interface","",""
+"","33613","test_PlayoutNowPage_Playout_Now_Button_On_LivePage[chromium]","tests.Automation_tests","Sun Sep 21 18:26:07 IST 2025","failed","Sun Sep 21 18:26:40 IST 2025","","test_User_Interface","",""
+"","48874","test_HistoryPage_Hide_Or_Show_Loop_Configuration[chromium]","tests.Automation_tests","Sun Sep 21 18:21:49 IST 2025","passed","Sun Sep 21 18:22:38 IST 2025","","test_User_Interface","",""
+"","21898","test_LivePage_live_page_view[chromium]","tests.Automation_tests","Sun Sep 21 18:24:51 IST 2025","passed","Sun Sep 21 18:25:13 IST 2025","","test_User_Interface","",""
+"","110989","test_HistoryPage_Search_Playout_History[chromium]","tests.Automation_tests","Sun Sep 21 18:22:59 IST 2025","broken","Sun Sep 21 18:24:50 IST 2025","","test_User_Interface","",""
+"","86874","test_HistoryPage_Playout_History[chromium]","tests.Automation_tests","Sun Sep 21 18:17:22 IST 2025","broken","Sun Sep 21 18:18:49 IST 2025","","test_User_Interface","",""
+"","18362","test_Clear_Playout_History[chromium]","tests.Automation_tests","Sun Sep 21 18:22:39 IST 2025","passed","Sun Sep 21 18:22:57 IST 2025","","test_User_Interface","",""
+"","27715","test_AdminSettingsPage_FileProcessor[chromium]","tests.Automation_tests","Sun Sep 21 18:28:36 IST 2025","passed","Sun Sep 21 18:29:04 IST 2025","","test_User_Interface","",""
+"","17379","test_View_XML[chromium]","tests.Automation_tests","Sun Sep 21 18:28:18 IST 2025","passed","Sun Sep 21 18:28:35 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","27579","test_LivePage_Check_LivePreview[chromium]","tests.Automation_tests","Sun Sep 21 18:15:55 IST 2025","passed","Sun Sep 21 18:16:23 IST 2025","","test_User_Interface","",""
+"","37054","test_HistoryPage_Search_Distribution_History[chromium]","tests.Automation_tests","Sun Sep 21 18:21:10 IST 2025","broken","Sun Sep 21 18:21:47 IST 2025","","test_User_Interface","",""

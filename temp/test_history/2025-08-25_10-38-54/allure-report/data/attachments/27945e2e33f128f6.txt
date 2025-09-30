@@ -1,0 +1,12 @@
+INFO     root:test_admin_playout.py:596 Navigated to playout page
+INFO     root:test_admin_playout.py:602 Radio button to disable channel is clicked
+INFO     root:test_admin_playout.py:596 
+INFO     root:test_admin_playout.py:596 
+INFO     root:test_admin_playout.py:621 TENNIS-USOPEN/9317
+INFO     root:test_admin_playout.py:625 Channel is enabled
+INFO     root:test_admin_playout.py:596 
+INFO     root:test_admin_playout.py:602 Radio button to enable channel is clicked
+INFO     root:test_admin_playout.py:596 
+INFO     root:test_admin_playout.py:596 
+INFO     root:test_admin_playout.py:641 PLAYOUT READYWaiting for next video to be delivered
+INFO     root:test_admin_playout.py:646 Channel is enabled

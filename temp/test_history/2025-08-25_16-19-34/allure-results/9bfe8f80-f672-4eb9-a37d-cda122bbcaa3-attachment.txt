@@ -1,0 +1,5 @@
+INFO:root:Story added: UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV
+INFO:root:Story added: ISRAEL-PALESTINIANS/SETTLEMENT-E1
+INFO:root:Story added: China-FM/Thailand
+INFO:root:All stories collected: ['UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV', 'ISRAEL-PALESTINIANS/SETTLEMENT-E1', 'China-FM/Thailand']
+ERROR:root:The story 'UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV' is NOT present in the history page.

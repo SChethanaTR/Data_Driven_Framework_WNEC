@@ -1,0 +1,2 @@
+INFO:root:Please select at least one service
+INFO:root:Please select at least one exclusion

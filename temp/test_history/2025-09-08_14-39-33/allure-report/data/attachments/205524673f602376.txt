@@ -1,0 +1,8 @@
+INFO:root:Story 1: TURKEY-OPPOSITION/ISTANBUL MORNING
+INFO:root:Story 2: THAILAND-POLITICS/THAKSIN-UPDATE
+INFO:root:Story 3: PEOPLE-GIORGIO ARMANI/FUNERAL-CHURCH
+INFO:root:
+INFO:root:('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'auto', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Playing', 'Waiting', '', '', '', 'Now playing: Reuters Live Online', 'Reuters Live Online', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Playing', 'Waiting', 'fixed', '', 'tag:reuters.com,2025:newsml_AD2IUG08PM', 'Now playing: Thousands of Israelis, including hostages families, gather at Hostage Square', 'Thousands of Israelis, including hostages families, gather at Hostage Square', 0, 0, '', '', 0, '', '', '', 0, 'rl2')

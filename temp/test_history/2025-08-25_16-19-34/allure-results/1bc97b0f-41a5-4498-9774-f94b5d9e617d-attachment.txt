@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV
+INFO     root:test_history.py:123 Story added: ISRAEL-PALESTINIANS/SETTLEMENT-E1
+INFO     root:test_history.py:123 Story added: China-FM/Thailand
+INFO     root:test_history.py:125 All stories collected: ['UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV', 'ISRAEL-PALESTINIANS/SETTLEMENT-E1', 'China-FM/Thailand']
+ERROR    root:test_history.py:148 The story 'UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV' is NOT present in the history page.

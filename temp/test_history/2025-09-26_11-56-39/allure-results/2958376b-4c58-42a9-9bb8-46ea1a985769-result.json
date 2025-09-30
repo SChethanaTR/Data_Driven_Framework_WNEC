@@ -1,0 +1,1 @@
+{"name": "test_View_XML[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758868281788, "stop": 1758868284624, "uuid": "f469630f-12c2-4ab3-a55d-f0358e77e997", "testCaseId": "221d5449a2fe158b23a975c7a58f112f", "fullName": "tests.Automation_tests.test_User_Interface#test_View_XML"}

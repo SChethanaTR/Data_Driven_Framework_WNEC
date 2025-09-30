@@ -1,0 +1,6 @@
+INFO     root:test_User_Interface.py:222 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:224 Loop configuration is now visible.
+INFO     root:test_User_Interface.py:233 China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_User_Interface.py:233 China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_User_Interface.py:233 China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_User_Interface.py:233 China-Xi/Xinjiang/Anniversary Gala

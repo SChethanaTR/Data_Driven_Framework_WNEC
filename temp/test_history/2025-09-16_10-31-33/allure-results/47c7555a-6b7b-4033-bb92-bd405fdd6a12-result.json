@@ -1,0 +1,1 @@
+{"name": "test_Create_FD[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1757998913808, "stop": 1757999026356, "uuid": "2718d8d9-d966-4685-be57-e515b2cb250c", "testCaseId": "dd08a6a1832467120b3a3918bd3d5e10", "fullName": "tests.Automation_tests.test_VFD#test_Create_FD"}

@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:319 test1
+INFO     root:test_VFD.py:329 FTP

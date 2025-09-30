@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:578 Fixed channel is already enabled
+INFO     root:test_admin_playout.py:587 Now Playing

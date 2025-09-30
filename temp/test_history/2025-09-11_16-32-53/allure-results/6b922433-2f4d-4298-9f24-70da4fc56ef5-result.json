@@ -1,0 +1,1 @@
+{"name": "test_without_valid_host[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1757588577389, "stop": 1757588618618, "uuid": "f1aa99a1-33e8-44cb-a423-ceb0a57a4c9f", "testCaseId": "b1b27843a51a3285570508de2f3f6359", "fullName": "tests.Automation_tests.test_VFD#test_without_valid_host"}

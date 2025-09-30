@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:159 USA-TRUMP/INDIA-TRADE
+INFO     root:test_User_Interface.py:159 DEUTSCHLAND-BUNDESTAG/MERZ
+INFO     root:test_User_Interface.py:159 ISRAEL-PALESTINIANS/FRANCE-FLAGS
+INFO     root:test_User_Interface.py:159 JAPAN-POLITICS/

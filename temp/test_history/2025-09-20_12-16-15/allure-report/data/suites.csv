@@ -1,0 +1,9 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","25119","test_LivePage_Check_LivePreview[chromium]","tests.Automation_tests","Sat Sep 20 12:16:30 IST 2025","passed","Sat Sep 20 12:16:55 IST 2025","","test_User_Interface","",""

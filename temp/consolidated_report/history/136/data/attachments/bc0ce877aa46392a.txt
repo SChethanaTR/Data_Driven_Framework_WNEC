@@ -1,0 +1,8 @@
+INFO     root:test_User_Interface.py:563 View of the Israel-Gaza border07:5812:00rl 5
+INFO     root:test_User_Interface.py:563 A view of the White House as Trump further modifies reciprocal tariff rates08:4512:00rl 3
+INFO     root:test_User_Interface.py:563 A view of the street and people's movements in Khan Younis09:3012:00rl 4
+INFO     root:test_User_Interface.py:563 A view of street and people movements in Khan Younis, southern Gaza Strip09:3012:00rlsCh 3
+INFO     root:test_User_Interface.py:563 German Foreign Minister Wadephul in Ramallah12:0012:00rl 1
+INFO     root:test_User_Interface.py:563 Protesters rally in Yemen's Sanaa in solidarity with Palestinians12:3013:30rl 1Ch 1
+INFO     root:test_User_Interface.py:563 NYSE opening bell rings on Trump's Aug. 1 tariff deadline13:1514:15rl 5
+INFO     root:test_User_Interface.py:563 SpaceX Dragon launches with Crew-11 members to space station15:3016:30rl 6

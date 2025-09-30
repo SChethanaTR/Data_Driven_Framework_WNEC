@@ -1,0 +1,9 @@
+INFO:root:Story playout initiated for story index: 3
+INFO:root:Story playout initiated for story index: 4
+INFO:root:Story playout initiated for story index: 5
+INFO:root:Story playout initiated for story index: 6
+INFO:root:Story playout initiated for story index: 7
+INFO:root:Story 1: UKRAINE-CRISIS/WRAP
+INFO:root:Story 2: AUSTRIA-SCHOOL/ATTACK-EU
+INFO:root:Story 3: SWEDEN-THUNBERG/ARRESTS-FILE
+INFO:root:Story 4: ISRAEL-PALESTINIANS/GAZA-FUNERALS

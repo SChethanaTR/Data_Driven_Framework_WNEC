@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests enabling and disabling a channel on the admin playout page.
+    Navigates through various pages and verifies the channel status before and after enabling/disabling.
+    ","81426","test_enable_disable_channel[chromium]","tests.Automation_tests","Mon Sep 22 12:57:35 IST 2025","passed","Mon Sep 22 12:58:57 IST 2025","","test_admin_playout","",""

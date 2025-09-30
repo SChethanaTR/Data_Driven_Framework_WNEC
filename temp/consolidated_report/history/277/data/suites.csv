@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","445258","test_FD_Create_dist_using_UI[chromium]","tests.Automation_tests","Wed Sep 10 17:09:51 IST 2025","passed","Wed Sep 10 17:17:16 IST 2025","","test_VFD","",""

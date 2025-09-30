@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:231 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:233 Loop configuration is now visible.
+INFO     root:test_User_Interface.py:242 JAPAN-POLITICS/
+INFO     root:test_User_Interface.py:242 JAPAN-POLITICS/

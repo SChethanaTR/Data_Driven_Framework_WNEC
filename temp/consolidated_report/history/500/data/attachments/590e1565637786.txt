@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: Trump makes unprecedented second state visit to Britain
+INFO:root:Locator 1 text: USA-TRUMP/BRITAIN - DAY 2 -- SCHEDULE UPDATED / ACCESS ALL --

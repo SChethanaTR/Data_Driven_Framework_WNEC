@@ -1,0 +1,3 @@
+INFO     root:test_VFD.py:185 Testing with FD name: '  '
+INFO     root:story.py:788 FTP
+INFO     root:story.py:761 Name must contain only letters, numbers and whitespaces.

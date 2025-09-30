@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:121 Distribution History is empty
+INFO     root:test_VFD.py:129 Added story: SOCCER-GERMANY-LEV/HJULMAND

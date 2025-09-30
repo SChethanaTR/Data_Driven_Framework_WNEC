@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:1044 Distribution
+INFO     root:test_User_Interface.py:1049 Distribution is present.

@@ -1,0 +1,58 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the playout controls (play, pause, stop) functionality.
+    Verifies the behavior of the controls and logs the current status.
+    ","75727","test_playout_controls[chromium]","tests.Automation_tests","Thu Aug 21 15:29:38 IST 2025","broken","Thu Aug 21 15:30:53 IST 2025","","test_admin_playout","",""
+"
+    Tests fixed live playout functionality.
+    Selects a channel for live playout and verifies that the correct content is being played.
+    Includes validation through logs and database checks.
+    ","48908","test_Administrator_live_playout_Fixed[chromium]","tests.Automation_tests","Thu Aug 21 15:24:04 IST 2025","passed","Thu Aug 21 15:24:52 IST 2025","","test_admin_playout","",""
+"","85229","test_export_as_cv[chromium]","tests.Automation_tests","Thu Aug 21 15:30:55 IST 2025","passed","Thu Aug 21 15:32:20 IST 2025","","test_admin_playout","",""
+"
+    Tests the RLS broadcast playout functionality.
+    Verifies the currently playing and upcoming videos, with validation through logs and database checks.
+
+    ","64274","test_Administrator_RLS_preview_playout_Fixed[chromium]","tests.Automation_tests","Thu Aug 21 15:26:14 IST 2025","passed","Thu Aug 21 15:27:18 IST 2025","","test_admin_playout","",""
+"","79902","test_clear_all_items_playout_history[chromium]","tests.Automation_tests","Thu Aug 21 15:32:22 IST 2025","passed","Thu Aug 21 15:33:42 IST 2025","","test_admin_playout","",""
+"","50843","test_when_there_is_no_video_playout_a_waiting_video[chromium]","tests.Automation_tests","Thu Aug 21 15:35:03 IST 2025","broken","Thu Aug 21 15:35:54 IST 2025","","test_admin_playout","",""
+"
+    Tests the automatic file playout functionality.
+    Navigates to the admin playout page and selects 'fileplayout' and 'auto' options.
+    Verifies the addition of stories and checks logs.
+    Includes a negative scenario where it switches to 'manual' mode to ensure the automatic process is not active.
+    ","91175","test_Administrator_file_playout_auto[chromium]","tests.Automation_tests","Thu Aug 21 15:21:08 IST 2025","broken","Thu Aug 21 15:22:39 IST 2025","","test_admin_playout","",""
+"
+    Tests the lock and unlock functionality for a row with input area and dropdowns.
+    Verifies that the input area and dropdowns are not interactable when locked and interactable when unlocked.
+    ","78874","test_lock_unlock_configuration[chromium]","tests.Automation_tests","Thu Aug 21 15:33:43 IST 2025","passed","Thu Aug 21 15:35:02 IST 2025","","test_admin_playout","",""
+"
+    Tests the functionality of manually playing out files.
+    Navigates to the admin playout page and selects 'fileplayout' and 'manual' options from dropdowns.
+    Initiates playout for stories and verifies logs.
+    Includes a negative scenario to verify that the playout button isn't clickable when 'manual' mode isn't selected.
+    ","52343","test_Administrator_file_playout_manual[chromium]","tests.Automation_tests","Thu Aug 21 15:18:30 IST 2025","broken","Thu Aug 21 15:19:22 IST 2025","","test_admin_playout","",""
+"
+    Tests manual live playout functionality.
+    Selects live content and manual mode, then verifies that the correct story is being played.
+    Validates the playout by checking logs and database entries.
+    ","81902","test_Administrator_live_playout_manual[chromium]","tests.Automation_tests","Thu Aug 21 15:22:40 IST 2025","failed","Thu Aug 21 15:24:02 IST 2025","","test_admin_playout","",""
+"
+    Tests the 6X live preview playout functionality.
+    Verifies the content being played out and checks logs for validation.
+    ","78768","test_Administrator_6xLive_preview_playout_Fixed[chromium]","tests.Automation_tests","Thu Aug 21 15:24:54 IST 2025","passed","Thu Aug 21 15:26:13 IST 2025","","test_admin_playout","",""
+"
+    Tests file playout in a loop mode.
+    Configures the loop setting and verifies the playout of stories in a loop.
+    Checks logs and database entries for validation.
+    ","102349","test_Administrator_file_playout_loop[chromium]","tests.Automation_tests","Thu Aug 21 15:19:24 IST 2025","passed","Thu Aug 21 15:21:06 IST 2025","","test_admin_playout","",""
+"
+    Tests enabling and disabling a channel on the admin playout page.
+    Navigates through various pages and verifies the channel status before and after enabling/disabling.
+    ","86721","test_enable_disable_channel[chromium]","tests.Automation_tests","Thu Aug 21 15:27:19 IST 2025","passed","Thu Aug 21 15:28:46 IST 2025","","test_admin_playout","",""
+"
+
+    Tests the presence of playout and playlist buttons.
+    Navigates through different content sources and modes to verify the visibility of buttons on the UI.
+
+    ","48765","test_playout_playlist_button[chromium]","tests.Automation_tests","Thu Aug 21 15:28:48 IST 2025","broken","Thu Aug 21 15:29:36 IST 2025","","test_admin_playout","",""

@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:404 View of the Israel-Gaza border
+INFO     root:test_admin_playout.py:419 ASIA-WEATHER/PHILIPPINES

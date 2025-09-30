@@ -1,0 +1,2 @@
+INFO     root:test_User_management.py:120 Deleted user: autoProduction
+INFO     root:test_User_management.py:120 Deleted user: autoNewsRoom

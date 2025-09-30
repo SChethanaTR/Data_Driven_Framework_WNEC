@@ -1,0 +1,1 @@
+INFO     root:test_User_management.py:117 Deleted user: autoProduction

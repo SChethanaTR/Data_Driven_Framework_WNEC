@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the automatic file playout functionality.
+    Navigates to the admin playout page and selects 'fileplayout' and 'auto' options.
+    Verifies the addition of stories and checks logs.
+    Includes a negative scenario where it switches to 'manual' mode to ensure the automatic process is not active.
+    ","54822","test_Administrator_file_playout_auto[chromium]","tests.Automation_tests","Fri Aug 22 15:06:19 IST 2025","passed","Fri Aug 22 15:07:14 IST 2025","","test_admin_playout","",""

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","75538","test_delete_process_with_active_transfer[chromium]","tests.Automation_tests","Fri Sep 12 12:49:20 IST 2025","passed","Fri Sep 12 12:50:36 IST 2025","","test_VFD","",""

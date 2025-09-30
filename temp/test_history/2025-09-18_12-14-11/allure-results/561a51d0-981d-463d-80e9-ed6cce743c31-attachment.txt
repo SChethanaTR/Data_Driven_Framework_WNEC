@@ -1,0 +1,2 @@
+INFO:root:Deleted user: autoProduction
+INFO:root:Deleted user: autoNewsRoom

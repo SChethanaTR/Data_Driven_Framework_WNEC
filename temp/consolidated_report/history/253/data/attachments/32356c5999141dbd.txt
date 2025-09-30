@@ -1,0 +1,3 @@
+INFO:root:Testing user - Username: fmnyxv, Password: l&^zVL8G3n
+INFO:root:Logout message: Log out from BOX 1
+INFO:root:Testing user - Username: cakits, Password: y6#mRU9@Me

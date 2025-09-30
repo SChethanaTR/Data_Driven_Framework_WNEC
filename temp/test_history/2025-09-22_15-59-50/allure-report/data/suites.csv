@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the lock and unlock functionality for a row with input area and dropdowns.
+    Verifies that the input area and dropdowns are not interactable when locked and interactable when unlocked.
+    ","76686","test_lock_unlock_configuration[chromium]","tests.Automation_tests","Mon Sep 22 16:00:05 IST 2025","passed","Mon Sep 22 16:01:22 IST 2025","","test_admin_playout","",""

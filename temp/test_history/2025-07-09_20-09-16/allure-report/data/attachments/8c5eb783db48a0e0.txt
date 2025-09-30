@@ -1,0 +1,2 @@
+INFO:root:Story name: The Senate Foreign Relations Committee holds a hearing on nominations
+INFO:root:Story playing: USA-DIPLOMACY/SENATE HEARING--QUALITY AS INCOMING--

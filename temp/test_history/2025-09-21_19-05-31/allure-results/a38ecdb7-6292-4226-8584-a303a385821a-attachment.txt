@@ -1,0 +1,2 @@
+INFO:root:View of the Israel-Gaza border as UK, Canada and  Australia recognise Palestinian state
+INFO:root:Live page exists

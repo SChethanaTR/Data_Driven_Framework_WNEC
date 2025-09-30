@@ -1,0 +1,12 @@
+INFO     root:test_User_Interface.py:930 genlock offset done
+INFO     root:test_User_Interface.py:936 waiting video done
+INFO     root:test_User_Interface.py:945 rls done
+INFO     root:test_User_Interface.py:954 slug on video done
+INFO     root:test_User_Interface.py:958 video playout done
+INFO     root:test_User_Interface.py:964 sd525 done
+INFO     root:test_User_Interface.py:970 sd625 done
+INFO     root:test_User_Interface.py:976 hd50 done
+INFO     root:test_User_Interface.py:982 hd 60 done
+INFO     root:test_User_Interface.py:988 rlshd50 done
+INFO     root:test_User_Interface.py:994 rls hd60 done
+INFO     root:test_User_Interface.py:1002 Playoutpage tested successfully

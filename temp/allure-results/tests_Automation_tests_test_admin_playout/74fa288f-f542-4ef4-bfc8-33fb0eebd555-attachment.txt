@@ -1,0 +1,8 @@
+INFO:root:Story 1: USA-TRUMP/MIGRATION-BAN-NEW YORK
+INFO:root:Story 2: STOCKS-USA/OPEN
+INFO:root:Story 3: SPAIN-JORDAN/
+INFO:root:
+INFO:root:('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Playing', 'Waiting', 'manual', '', '', 'Now playing: 2025-06-05T134918Z_1_LWD955805062025RP1_RTRWNEV_C_9558-DEUTSCHLAND-MINISTERPRAESIDENTEN-PK.MP4', '2025-06-05T134918Z_1_LWD955805062025RP1_RTRWNEV_C_9558-DEUTSCHLAND-MINISTERPRAESIDENTEN-PK.MP4', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Stopped', 'None', 0, 0, '', '', 0, '', '', '', 0, '')

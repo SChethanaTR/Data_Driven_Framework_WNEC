@@ -1,0 +1,2 @@
+INFO     root:test_playout_history.py:137 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_playout_history.py:139 Loop configuration is now visible.

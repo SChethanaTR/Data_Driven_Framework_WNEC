@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: SERBIA-PROTESTS/
+INFO     root:test_history.py:123 Story added: ASIA-WEATHER/INDIA-HEATWAVE
+INFO     root:test_history.py:123 Story added: BRITAIN-ICE CREAM/
+INFO     root:test_history.py:125 All stories collected: ['SERBIA-PROTESTS/', 'ASIA-WEATHER/INDIA-HEATWAVE', 'BRITAIN-ICE CREAM/']
+ERROR    root:test_history.py:148 The story 'SERBIA-PROTESTS/' is NOT present in the history page.

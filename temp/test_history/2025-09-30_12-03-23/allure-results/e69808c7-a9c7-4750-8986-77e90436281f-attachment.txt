@@ -1,0 +1,11 @@
+INFO     root:test_admin_playout.py:239 Fixed channel is enabled
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 3
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 4
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 5
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 6
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 7
+INFO     root:test_admin_playout.py:150 Story 1: LEBANON-NASRALLAH/PROFILE-SHORT
+INFO     root:test_admin_playout.py:150 Story 2: USA-SHOOTING/ICE-TRUMP
+INFO     root:test_admin_playout.py:150 Story 3: UN-ASSEMBLY/TRUMP-SOCIAL MEDIA
+INFO     root:test_admin_playout.py:150 Story 4: USA-SHOOTING/ICE-OFFICE
+INFO     root:test_admin_playout.py:150 Story 5: BRAZIL-POLITICS/

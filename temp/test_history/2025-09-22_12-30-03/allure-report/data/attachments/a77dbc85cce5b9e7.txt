@@ -1,0 +1,2 @@
+INFO     root:test_history.py:264 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_history.py:266 Loop configuration is now visible.

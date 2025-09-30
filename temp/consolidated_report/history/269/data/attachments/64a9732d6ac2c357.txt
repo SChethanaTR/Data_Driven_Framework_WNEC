@@ -1,0 +1,9 @@
+INFO:root:Aftermath of shooting that killed four people in Jerusalem07:3912:00rl 5
+INFO:root:Aftermath of shooting that killed four people in Jerusalem07:3912:00rls
+INFO:root:U.N. human rights council meeting starts in Geneva07:5311:00rl 3
+INFO:root:View of Israel-Gaza border09:1512:00rl 4
+INFO:root:Chinese manufacturer BYD presents products at auto show in Munich09:5512:00rl 2Ch 4
+INFO:root:Norwegian PM casts vote in election, speaks to media11:0012:00rl 4
+INFO:root:Turkish protesters rally at the police barricade outside the Istanbul headquarters12:0012:00rl 3
+INFO:root:Exterior of Armani's flagship store on day of funeral12:1513:30rl 2Ch 4
+INFO:root:England coach, Thomas Tuchel and a player hold a press conference17:3018:30rl 3

@@ -1,0 +1,2 @@
+INFO     root:test_history.py:188 Story added: USA-TRUMP/WASHINGTON-ARRIVAL
+INFO     root:test_history.py:188 Story added: USA-SHOOTING/KIRK-MEMORIAL-WRAP

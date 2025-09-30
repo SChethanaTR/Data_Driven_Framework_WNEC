@@ -1,0 +1,1 @@
+{"name": "test_StoriesPage_CopyLink[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758350931237, "stop": 1758350971891, "uuid": "6dd59adf-7409-4a87-a699-317d2b682681", "testCaseId": "93ca4e682eaf398bea2dacf558454add", "fullName": "tests.Automation_tests.test_User_Interface#test_StoriesPage_CopyLink"}

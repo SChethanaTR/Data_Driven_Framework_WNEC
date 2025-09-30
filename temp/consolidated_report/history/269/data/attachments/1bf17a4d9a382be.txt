@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:1100 Story added to playlist: Aftermath of shooting that killed four people in Jerusalem
+INFO     root:test_User_Interface.py:1119 Locator 1 text: ISRAEL-PALESTINIANS/SHOOTING -- GRAPHIC WARNING --

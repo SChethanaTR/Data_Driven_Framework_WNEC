@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: A view of Khan Younis
+INFO:root:Locator 1 text: ISRAEL-PALESTINIANS/GAZA-KHAN YOUNIS

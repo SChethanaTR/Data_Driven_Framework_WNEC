@@ -1,0 +1,2 @@
+INFO     root:test_history.py:97 Print media emulated successfully.
+INFO     root:test_history.py:100 Print button clicked, and test passed without manual intervention.

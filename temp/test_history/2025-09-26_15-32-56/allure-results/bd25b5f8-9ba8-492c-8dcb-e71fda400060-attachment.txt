@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:860 China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_User_Interface.py:860 China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_User_Interface.py:866 Extracted text: China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_User_Interface.py:880 China-Xi/Xinjiang/Anniversary Gala

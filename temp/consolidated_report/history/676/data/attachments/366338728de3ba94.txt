@@ -1,0 +1,231 @@
+INFO:root:Cell 1: 2025-09-24T235545Z_5_RW778124092025RP1_RTRMADC_0_USA-SHOOTING-ICE-OFFICE.XML
+INFO:root:Cell 2: test1
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-24T215024Z_1_LWD774924092025RP1_RTRWNEV_B_7749-GOLF-RYDERCUP.MPG
+INFO:root:Cell 6: test1
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-24T224403Z_1_LWD776724092025RP1_RTRWNEV_C_7767-MALAWI-ELECTION.MP4
+INFO:root:Cell 10: test1
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-25T001317Z_4_RW777824092025RP1_RTRMADC_0_UN-ASSEMBLY-ESTONIA.XML
+INFO:root:Cell 14: test1
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_B_7713-UN-ASSEMBLY-CLIMATE.MPG
+INFO:root:Cell 18: test1
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-25T001207Z_1_LWD001ICUG57T_RTRWNEV_B_4603-CHINA-XI-XINJIANG-ANNIVERSARY-GALA.MPG
+INFO:root:Cell 22: test1
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-24T223325Z_1_LWD776324092025RP1_RTRWNEV_C_7763-UN-ASSEMBLY-NORWAY.MP4
+INFO:root:Cell 26: test1
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-24T225440Z_5_RW777324092025RP1_RTRMADC_0_UN-ASSEMBLY-BRAZIL.XML
+INFO:root:Cell 30: test1
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_B_7552-GUINNESS-RECORDS-BOOK.MPG
+INFO:root:Cell 34: test1
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-24T234225Z_1_LWD778124092025RP1_RTRWNEV_B_7781-USA-SHOOTING-ICE-OFFICE.MPG
+INFO:root:Cell 38: test1
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-24T215024Z_1_LWD774924092025RP1_RTRWNEV_C_7749-GOLF-RYDERCUP.MP4
+INFO:root:Cell 42: test1
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-24T224832Z_5_RW776924092025RP1_RTRMADC_0_DENMARK-AIRPORT-DRONES.XML
+INFO:root:Cell 46: test1
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-25T001036Z_1_LWD777824092025RP1_RTRWNEV_B_7778-UN-ASSEMBLY-ESTONIA.MPG
+INFO:root:Cell 50: test1
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_C_7713-UN-ASSEMBLY-CLIMATE.MP4
+INFO:root:Cell 54: test1
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-25T001207Z_1_LWD001ICUG57T_RTRWNEV_C_4603-CHINA-XI-XINJIANG-ANNIVERSARY-GALA.MP4
+INFO:root:Cell 58: test1
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-24T225031Z_5_RW776624092025RP1_RTRMADC_0_CHILE-ECONOMY.XML
+INFO:root:Cell 62: test1
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-24T223319Z_1_LWD777324092025RP1_RTRWNEV_B_7773-UN-ASSEMBLY-BRAZIL.MPG
+INFO:root:Cell 66: test1
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_C_7552-GUINNESS-RECORDS-BOOK.MP4
+INFO:root:Cell 70: test1
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-24T234225Z_1_LWD778124092025RP1_RTRWNEV_C_7781-USA-SHOOTING-ICE-OFFICE.MP4
+INFO:root:Cell 74: test1
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-24T233208Z_6_RW776224092025RP1_RTRMADC_0_BRAZIL-POLITICS.XML
+INFO:root:Cell 78: test1
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-24T220821Z_1_LWD776924092025RP1_RTRWNEV_B_7769-DENMARK-AIRPORT-DRONES.MPG
+INFO:root:Cell 82: test1
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 
+INFO:root:Cell 85: 2025-09-25T001036Z_1_LWD777824092025RP1_RTRWNEV_C_7778-UN-ASSEMBLY-ESTONIA.MP4
+INFO:root:Cell 86: test1
+INFO:root:Cell 87: Waiting
+INFO:root:Cell 88: 
+INFO:root:Cell 89: 2025-09-24T232445Z_5_RW774324092025RP1_RTRMADC_0_PEOPLE-JAMESCOMEY-FILE.XML
+INFO:root:Cell 90: test1
+INFO:root:Cell 91: Waiting
+INFO:root:Cell 92: 
+INFO:root:Cell 93: 2025-09-24T221228Z_2_RWMSCNAEH_RTRMADC_0_VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.XML
+INFO:root:Cell 94: test1
+INFO:root:Cell 95: Waiting
+INFO:root:Cell 96: 
+INFO:root:Cell 97: 2025-09-24T224822Z_1_LWD776624092025RP1_RTRWNEV_B_7766-CHILE-ECONOMY.MPG
+INFO:root:Cell 98: test1
+INFO:root:Cell 99: Waiting
+INFO:root:Cell 100: 
+INFO:root:Cell 101: 2025-09-24T223319Z_1_LWD777324092025RP1_RTRWNEV_C_7773-UN-ASSEMBLY-BRAZIL.MP4
+INFO:root:Cell 102: test1
+INFO:root:Cell 103: Waiting
+INFO:root:Cell 104: 
+INFO:root:Cell 105: 2025-09-24T223601Z_3_RW767524092025RP1_RTRMADC_0_USA-TRUMP-AUTISM-MOTHER.XML
+INFO:root:Cell 106: test1
+INFO:root:Cell 107: Waiting
+INFO:root:Cell 108: 
+INFO:root:Cell 109: 2025-09-25T000852Z_5_RW778324092025RP1_RTRMADC_0_USA-SHOOTING-ICE-TRUMP.XML
+INFO:root:Cell 110: test1
+INFO:root:Cell 111: Waiting
+INFO:root:Cell 112: 
+INFO:root:Cell 113: 2025-09-24T221102Z_1_LWD776224092025RP1_RTRWNEV_B_7762-BRAZIL-POLITICS.MPG
+INFO:root:Cell 114: test1
+INFO:root:Cell 115: Waiting
+INFO:root:Cell 116: 
+INFO:root:Cell 117: 2025-09-24T220821Z_1_LWD776924092025RP1_RTRWNEV_C_7769-DENMARK-AIRPORT-DRONES.MP4
+INFO:root:Cell 118: test1
+INFO:root:Cell 119: Waiting
+INFO:root:Cell 120: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                                |
++=====+==========================================================================================================================================================================================================================================================================================================+
+|   1 | 2025-09-27 15:05:19,337 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_C_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MP4 to the server: 553 Can't open that file: No such file or directory            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-27 15:05:19,339 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_C_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer. |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-27 15:05:20,799 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_C_7552-GUINNESS-RECORDS-BOOK.MP4 to the server: 553 Can't open that file: No such file or directory                      |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-27 15:05:20,799 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_C_7552-GUINNESS-RECORDS-BOOK.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.           |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-27 15:05:22,249 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T214053Z_1_LWD767524092025RP1_RTRWNEV_C_7675-USA-TRUMP-AUTISM-MOTHER.MP4 to the server: 553 Can't open that file: No such file or directory                    |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-27 15:05:22,249 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T214053Z_1_LWD767524092025RP1_RTRWNEV_C_7675-USA-TRUMP-AUTISM-MOTHER.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.         |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-27 15:05:23,700 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_C_7713-UN-ASSEMBLY-CLIMATE.MP4 to the server: 553 Can't open that file: No such file or directory                        |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-27 15:05:23,700 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_C_7713-UN-ASSEMBLY-CLIMATE.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.             |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-27 15:05:25,146 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T231908Z_1_LWD774324092025RP1_RTRWNEV_C_7743-PEOPLE-JAMESCOMEY-FILE.MP4 to the server: 553 Can't open that file: No such file or directory                     |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 |                                                                                                                                                                                                                                                                                                          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-27 15:05:25,146 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T231908Z_1_LWD774324092025RP1_RTRWNEV_C_7743-PEOPLE-JAMESCOMEY-FILE.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.          |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-27 15:05:25,151 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : max consecutive failure exception occured                                                                                                                                                  |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-27 15:05:25,153 ERROR [main] com.reuters.filedirect.db.DbLogger : Max number of consecutive failures (5) reached for process: test1. Please verify that the configuration for this process is correct.                                                                                           |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-27 15:05:25,156 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : AutoRestart is enabled and restarting the distribution process.                                                                                                                            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-27 15:05:25,160 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...                                                                                                                                                                  |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-27 15:05:25,170 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown completed.                                                                                                                                                                    |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO:root:
+📁 Files Present in Target Directory:
+INFO:root:Validation from database
+INFO:root:(33180, '2025-09-25T000420Z_11_RW735427092024RP1_RTRMADC_0_LEBANON-NASRALLAH-PROFILE-SHORT.XML', None, None, 'tag:reuters.com,2024:newsml_RW735427092024RP1', 519, '202409277354WD-LEBANON-NASRALLAHPROFILE-SHORT_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 15), None, 139291)
+INFO:root:(33181, '2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_B_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MPG', None, None, 'tag:reuters.com,2024:newsml_RW735427092024RP1', 519, '202409277354WD-LEBANON-NASRALLAHPROFILE-SHORT_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 15), None, 139291)
+INFO:root:(33182, '2025-09-25T000423Z_2_LWD735427092024RP1_RTRWNEV_C_7354-LEBANON-NASRALLAH-PROFILE-SHORT.MP4', datetime.datetime(2025, 9, 27, 15, 5, 18), None, 'tag:reuters.com,2024:newsml_RW735427092024RP1', 519, '202409277354WD-LEBANON-NASRALLAHPROFILE-SHORT_O_.mp4', 0, 1, datetime.datetime(2025, 9, 27, 15, 3, 15), None, 139291)
+INFO:root:(33183, '2025-09-24T231304Z_2_RW755224092025RP1_RTRMADC_0_GUINNESS-RECORDS-BOOK.XML', None, None, 'tag:reuters.com,2025:newsml_RW755224092025RP1', 519, '202509247552LI-GUINNESS-RECORDSBOOK_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 15), None, 139292)
+INFO:root:(33184, '2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_B_7552-GUINNESS-RECORDS-BOOK.MPG', None, None, 'tag:reuters.com,2025:newsml_RW755224092025RP1', 519, '202509247552LI-GUINNESS-RECORDSBOOK_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 15), None, 139292)
+INFO:root:(33185, '2025-09-24T231304Z_1_LWD755224092025RP1_RTRWNEV_C_7552-GUINNESS-RECORDS-BOOK.MP4', datetime.datetime(2025, 9, 27, 15, 5, 19), None, 'tag:reuters.com,2025:newsml_RW755224092025RP1', 519, '202509247552LI-GUINNESS-RECORDSBOOK_O_.mp4', 0, 1, datetime.datetime(2025, 9, 27, 15, 3, 15), None, 139292)
+INFO:root:(33186, '2025-09-24T223601Z_3_RW767524092025RP1_RTRMADC_0_USA-TRUMP-AUTISM-MOTHER.XML', None, None, 'tag:reuters.com,2025:newsml_RW767524092025RP1', 519, '202509247675WD-USA-_TRUMPAUTISM-MOTHER_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139293)
+INFO:root:(33187, '2025-09-24T214053Z_1_LWD767524092025RP1_RTRWNEV_B_7675-USA-TRUMP-AUTISM-MOTHER.MPG', None, None, 'tag:reuters.com,2025:newsml_RW767524092025RP1', 519, '202509247675WD-USA-_TRUMPAUTISM-MOTHER_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139293)
+INFO:root:(33188, '2025-09-24T214053Z_1_LWD767524092025RP1_RTRWNEV_C_7675-USA-TRUMP-AUTISM-MOTHER.MP4', datetime.datetime(2025, 9, 27, 15, 5, 21), None, 'tag:reuters.com,2025:newsml_RW767524092025RP1', 519, '202509247675WD-USA-_TRUMPAUTISM-MOTHER_O_.mp4', 0, 1, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139293)
+INFO:root:(33189, '2025-09-24T230450Z_9_RW771324092025RP1_RTRMADC_0_UN-ASSEMBLY-CLIMATE.XML', None, None, 'tag:reuters.com,2025:newsml_RW771324092025RP1', 519, '202509247713WD-UN-ASSEMBLYCLIMATE_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139294)
+INFO:root:(33190, '2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_B_7713-UN-ASSEMBLY-CLIMATE.MPG', None, None, 'tag:reuters.com,2025:newsml_RW771324092025RP1', 519, '202509247713WD-UN-ASSEMBLYCLIMATE_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139294)
+INFO:root:(33191, '2025-09-24T184254Z_1_LWD771324092025RP1_RTRWNEV_C_7713-UN-ASSEMBLY-CLIMATE.MP4', datetime.datetime(2025, 9, 27, 15, 5, 22), None, 'tag:reuters.com,2025:newsml_RW771324092025RP1', 519, '202509247713WD-UN-ASSEMBLYCLIMATE_O_.mp4', 0, 1, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139294)
+INFO:root:(33192, '2025-09-24T232445Z_5_RW774324092025RP1_RTRMADC_0_PEOPLE-JAMESCOMEY-FILE.XML', None, None, 'tag:reuters.com,2025:newsml_RW774324092025RP1', 519, '202509247743WD-PEOPLE-JAMESCOMEYFILE_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139295)
+INFO:root:(33193, '2025-09-24T231908Z_1_LWD774324092025RP1_RTRWNEV_B_7743-PEOPLE-JAMESCOMEY-FILE.MPG', None, None, 'tag:reuters.com,2025:newsml_RW774324092025RP1', 519, '202509247743WD-PEOPLE-JAMESCOMEYFILE_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139295)
+INFO:root:(33194, '2025-09-24T231908Z_1_LWD774324092025RP1_RTRWNEV_C_7743-PEOPLE-JAMESCOMEY-FILE.MP4', datetime.datetime(2025, 9, 27, 15, 5, 23), None, 'tag:reuters.com,2025:newsml_RW774324092025RP1', 519, '202509247743WD-PEOPLE-JAMESCOMEYFILE_O_.mp4', 0, 1, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139295)
+INFO:root:(33195, '2025-09-24T222943Z_4_RW774924092025RP1_RTRMADC_0_GOLF-RYDERCUP.XML', None, None, 'tag:reuters.com,2025:newsml_RW774924092025RP1', 519, '202509247749SP-GOLF-RYDERCUP_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139296)
+INFO:root:(33196, '2025-09-24T215024Z_1_LWD774924092025RP1_RTRWNEV_B_7749-GOLF-RYDERCUP.MPG', None, None, 'tag:reuters.com,2025:newsml_RW774924092025RP1', 519, '202509247749SP-GOLF-RYDERCUP_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139296)
+INFO:root:(33197, '2025-09-24T215024Z_1_LWD774924092025RP1_RTRWNEV_C_7749-GOLF-RYDERCUP.MP4', None, None, 'tag:reuters.com,2025:newsml_RW774924092025RP1', 519, '202509247749SP-GOLF-RYDERCUP_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139296)
+INFO:root:(33198, '2025-09-24T233208Z_6_RW776224092025RP1_RTRMADC_0_BRAZIL-POLITICS.XML', None, None, 'tag:reuters.com,2025:newsml_RW776224092025RP1', 519, '202509247762WD-BRAZIL-POLITICS_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139297)
+INFO:root:(33199, '2025-09-24T221102Z_1_LWD776224092025RP1_RTRWNEV_B_7762-BRAZIL-POLITICS.MPG', None, None, 'tag:reuters.com,2025:newsml_RW776224092025RP1', 519, '202509247762WD-BRAZIL-POLITICS_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139297)
+INFO:root:(33200, '2025-09-24T221102Z_1_LWD776224092025RP1_RTRWNEV_C_7762-BRAZIL-POLITICS.MP4', None, None, 'tag:reuters.com,2025:newsml_RW776224092025RP1', 519, '202509247762WD-BRAZIL-POLITICS_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139297)
+INFO:root:(33201, '2025-09-24T223740Z_4_RW776324092025RP1_RTRMADC_0_UN-ASSEMBLY-NORWAY.XML', None, None, 'tag:reuters.com,2025:newsml_RW776324092025RP1', 519, '202509247763WD-UN-ASSEMBLYNORWAY_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139298)
+INFO:root:(33202, '2025-09-24T223325Z_1_LWD776324092025RP1_RTRWNEV_B_7763-UN-ASSEMBLY-NORWAY.MPG', None, None, 'tag:reuters.com,2025:newsml_RW776324092025RP1', 519, '202509247763WD-UN-ASSEMBLYNORWAY_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139298)
+INFO:root:(33203, '2025-09-24T223325Z_1_LWD776324092025RP1_RTRWNEV_C_7763-UN-ASSEMBLY-NORWAY.MP4', None, None, 'tag:reuters.com,2025:newsml_RW776324092025RP1', 519, '202509247763WD-UN-ASSEMBLYNORWAY_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139298)
+INFO:root:(33204, '2025-09-24T225031Z_5_RW776624092025RP1_RTRMADC_0_CHILE-ECONOMY.XML', None, None, 'tag:reuters.com,2025:newsml_RW776624092025RP1', 519, '202509247766WD-CHILE-ECONOMY_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139299)
+INFO:root:(33205, '2025-09-24T224822Z_1_LWD776624092025RP1_RTRWNEV_B_7766-CHILE-ECONOMY.MPG', None, None, 'tag:reuters.com,2025:newsml_RW776624092025RP1', 519, '202509247766WD-CHILE-ECONOMY_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 16), None, 139299)
+INFO:root:(33206, '2025-09-24T224822Z_1_LWD776624092025RP1_RTRWNEV_C_7766-CHILE-ECONOMY.MP4', None, None, 'tag:reuters.com,2025:newsml_RW776624092025RP1', 519, '202509247766WD-CHILE-ECONOMY_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139299)
+INFO:root:(33207, '2025-09-24T224838Z_4_RW776724092025RP1_RTRMADC_0_MALAWI-ELECTION.XML', None, None, 'tag:reuters.com,2025:newsml_RW776724092025RP1', 519, '202509247767AJ-MALAWI-ELECTION.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139300)
+INFO:root:(33208, '2025-09-24T224403Z_1_LWD776724092025RP1_RTRWNEV_B_7767-MALAWI-ELECTION.MPG', None, None, 'tag:reuters.com,2025:newsml_RW776724092025RP1', 519, '202509247767AJ-MALAWI-ELECTION.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139300)
+INFO:root:(33209, '2025-09-24T224403Z_1_LWD776724092025RP1_RTRWNEV_C_7767-MALAWI-ELECTION.MP4', None, None, 'tag:reuters.com,2025:newsml_RW776724092025RP1', 519, '202509247767AJ-MALAWI-ELECTION.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139300)
+INFO:root:(33210, '2025-09-24T224832Z_5_RW776924092025RP1_RTRMADC_0_DENMARK-AIRPORT-DRONES.XML', None, None, 'tag:reuters.com,2025:newsml_RW776924092025RP1', 519, '202509247769WD-DENMARK-AIRPORTDRONES_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139301)
+INFO:root:(33211, '2025-09-24T220821Z_1_LWD776924092025RP1_RTRWNEV_B_7769-DENMARK-AIRPORT-DRONES.MPG', None, None, 'tag:reuters.com,2025:newsml_RW776924092025RP1', 519, '202509247769WD-DENMARK-AIRPORTDRONES_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139301)
+INFO:root:(33212, '2025-09-24T220821Z_1_LWD776924092025RP1_RTRWNEV_C_7769-DENMARK-AIRPORT-DRONES.MP4', None, None, 'tag:reuters.com,2025:newsml_RW776924092025RP1', 519, '202509247769WD-DENMARK-AIRPORTDRONES_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139301)
+INFO:root:(33213, '2025-09-24T231529Z_2_RW777024092025RP1_RTRMADC_0_UN-ASSEMBLY-KENYA-INTERVIEW.XML', None, None, 'tag:reuters.com,2025:newsml_RW777024092025RP1', 519, '202509247770WD-UN-ASSEMBLYKENYA-INTERVIEW_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139302)
+INFO:root:(33214, '2025-09-24T231529Z_1_LWD777024092025RP1_RTRWNEV_B_7770-UN-ASSEMBLY-KENYA-INTERVIEW.MPG', None, None, 'tag:reuters.com,2025:newsml_RW777024092025RP1', 519, '202509247770WD-UN-ASSEMBLYKENYA-INTERVIEW_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139302)
+INFO:root:(33215, '2025-09-24T231529Z_1_LWD777024092025RP1_RTRWNEV_C_7770-UN-ASSEMBLY-KENYA-INTERVIEW.MP4', None, None, 'tag:reuters.com,2025:newsml_RW777024092025RP1', 519, '202509247770WD-UN-ASSEMBLYKENYA-INTERVIEW_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139302)
+INFO:root:(33216, '2025-09-24T225440Z_5_RW777324092025RP1_RTRMADC_0_UN-ASSEMBLY-BRAZIL.XML', None, None, 'tag:reuters.com,2025:newsml_RW777324092025RP1', 519, '202509247773WD-UN-ASSEMBLYBRAZIL_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139303)
+INFO:root:(33217, '2025-09-24T223319Z_1_LWD777324092025RP1_RTRWNEV_B_7773-UN-ASSEMBLY-BRAZIL.MPG', None, None, 'tag:reuters.com,2025:newsml_RW777324092025RP1', 519, '202509247773WD-UN-ASSEMBLYBRAZIL_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139303)
+INFO:root:(33218, '2025-09-24T223319Z_1_LWD777324092025RP1_RTRWNEV_C_7773-UN-ASSEMBLY-BRAZIL.MP4', None, None, 'tag:reuters.com,2025:newsml_RW777324092025RP1', 519, '202509247773WD-UN-ASSEMBLYBRAZIL_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139303)
+INFO:root:(33219, '2025-09-24T231013Z_5_RW777524092025RP1_RTRMADC_0_USA-SHOOTING-ICE-SUSPECT.XML', None, None, 'tag:reuters.com,2025:newsml_RW777524092025RP1', 519, '202509247775WD-USA-SHOOTINGICE-SUSPECT_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139304)
+INFO:root:(33220, '2025-09-24T224635Z_1_LWD777524092025RP1_RTRWNEV_B_7775-USA-SHOOTING-ICE-SUSPECT.MPG', None, None, 'tag:reuters.com,2025:newsml_RW777524092025RP1', 519, '202509247775WD-USA-SHOOTINGICE-SUSPECT_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139304)
+INFO:root:(33221, '2025-09-24T224635Z_1_LWD777524092025RP1_RTRWNEV_C_7775-USA-SHOOTING-ICE-SUSPECT.MP4', None, None, 'tag:reuters.com,2025:newsml_RW777524092025RP1', 519, '202509247775WD-USA-SHOOTINGICE-SUSPECT_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139304)
+INFO:root:(33222, '2025-09-25T001317Z_4_RW777824092025RP1_RTRMADC_0_UN-ASSEMBLY-ESTONIA.XML', None, None, 'tag:reuters.com,2025:newsml_RW777824092025RP1', 519, '202509257778WD-UN-ASSEMBLYESTONIA_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139305)
+INFO:root:(33223, '2025-09-25T001036Z_1_LWD777824092025RP1_RTRWNEV_B_7778-UN-ASSEMBLY-ESTONIA.MPG', None, None, 'tag:reuters.com,2025:newsml_RW777824092025RP1', 519, '202509257778WD-UN-ASSEMBLYESTONIA_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139305)
+INFO:root:(33224, '2025-09-25T001036Z_1_LWD777824092025RP1_RTRWNEV_C_7778-UN-ASSEMBLY-ESTONIA.MP4', None, None, 'tag:reuters.com,2025:newsml_RW777824092025RP1', 519, '202509257778WD-UN-ASSEMBLYESTONIA_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139305)
+INFO:root:(33225, '2025-09-25T000431Z_2_RW777924092025RP1_RTRMADC_0_UN-ASSEMBLY-TRUMP-SOCIAL-MEDIA.XML', None, None, 'tag:reuters.com,2025:newsml_RW777924092025RP1', 519, '202509257779WD-UN-ASSEMBLYTRUMP-SOCIAL_MEDIA_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139306)
+INFO:root:(33226, '2025-09-25T000431Z_1_LWD777924092025RP1_RTRWNEV_B_7779-UN-ASSEMBLY-TRUMP-SOCIAL-MEDIA.MPG', None, None, 'tag:reuters.com,2025:newsml_RW777924092025RP1', 519, '202509257779WD-UN-ASSEMBLYTRUMP-SOCIAL_MEDIA_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139306)
+INFO:root:(33227, '2025-09-25T000431Z_1_LWD777924092025RP1_RTRWNEV_C_7779-UN-ASSEMBLY-TRUMP-SOCIAL-MEDIA.MP4', None, None, 'tag:reuters.com,2025:newsml_RW777924092025RP1', 519, '202509257779WD-UN-ASSEMBLYTRUMP-SOCIAL_MEDIA_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139306)
+INFO:root:(33228, '2025-09-24T235545Z_5_RW778124092025RP1_RTRMADC_0_USA-SHOOTING-ICE-OFFICE.XML', None, None, 'tag:reuters.com,2025:newsml_RW778124092025RP1', 519, '202509247781WD-USA-SHOOTINGICE-OFFICE_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139307)
+INFO:root:(33229, '2025-09-24T234225Z_1_LWD778124092025RP1_RTRWNEV_B_7781-USA-SHOOTING-ICE-OFFICE.MPG', None, None, 'tag:reuters.com,2025:newsml_RW778124092025RP1', 519, '202509247781WD-USA-SHOOTINGICE-OFFICE_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139307)
+INFO:root:(33230, '2025-09-24T234225Z_1_LWD778124092025RP1_RTRWNEV_C_7781-USA-SHOOTING-ICE-OFFICE.MP4', None, None, 'tag:reuters.com,2025:newsml_RW778124092025RP1', 519, '202509247781WD-USA-SHOOTINGICE-OFFICE_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139307)
+INFO:root:(33231, '2025-09-25T000852Z_5_RW778324092025RP1_RTRMADC_0_USA-SHOOTING-ICE-TRUMP.XML', None, None, 'tag:reuters.com,2025:newsml_RW778324092025RP1', 519, '202509247783WD-USA-SHOOTINGICE-TRUMP_O_.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139308)
+INFO:root:(33232, '2025-09-24T235658Z_1_LWD778324092025RP1_RTRWNEV_B_7783-USA-SHOOTING-ICE-TRUMP.MPG', None, None, 'tag:reuters.com,2025:newsml_RW778324092025RP1', 519, '202509247783WD-USA-SHOOTINGICE-TRUMP_O_.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139308)
+INFO:root:(33233, '2025-09-24T235658Z_1_LWD778324092025RP1_RTRWNEV_C_7783-USA-SHOOTING-ICE-TRUMP.MP4', None, None, 'tag:reuters.com,2025:newsml_RW778324092025RP1', 519, '202509247783WD-USA-SHOOTINGICE-TRUMP_O_.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139308)
+INFO:root:(33234, '2025-09-24T235533Z_2_RWMSCN9M1_RTRMADC_0_CHINA-XI-XINJIANG-ANNIVERSARY-GALA.XML', None, None, 'tag:reuters.com,2025:newsml_RWMSCN9M1', 519, '202509254603CC-CHINA-XIXINJIANGANNIVERSARY_GALA.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139309)
+INFO:root:(33235, '2025-09-25T001207Z_1_LWD001ICUG57T_RTRWNEV_B_4603-CHINA-XI-XINJIANG-ANNIVERSARY-GALA.MPG', None, None, 'tag:reuters.com,2025:newsml_RWMSCN9M1', 519, '202509254603CC-CHINA-XIXINJIANGANNIVERSARY_GALA.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139309)
+INFO:root:(33236, '2025-09-25T001207Z_1_LWD001ICUG57T_RTRWNEV_C_4603-CHINA-XI-XINJIANG-ANNIVERSARY-GALA.MP4', None, None, 'tag:reuters.com,2025:newsml_RWMSCN9M1', 519, '202509254603CC-CHINA-XIXINJIANGANNIVERSARY_GALA.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139309)
+INFO:root:(33237, '2025-09-24T221228Z_2_RWMSCNAEH_RTRMADC_0_VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.XML', None, None, 'tag:reuters.com,2025:newsml_RWMSCNAEH', 519, '202509254604CC-VARIOUS-ZELENSKYPUTINMEETING_LOCATION.xml', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139310)
+INFO:root:(33238, '2025-09-25T001210Z_1_LWD001ICUG609_RTRWNEV_B_4604-VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.MPG', None, None, 'tag:reuters.com,2025:newsml_RWMSCNAEH', 519, '202509254604CC-VARIOUS-ZELENSKYPUTINMEETING_LOCATION.mpg', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139310)
+INFO:root:(33239, '2025-09-25T001210Z_1_LWD001ICUG609_RTRWNEV_C_4604-VARIOUS-ZELENSKY-PUTIN-MEETING-LOCATION.MP4', None, None, 'tag:reuters.com,2025:newsml_RWMSCNAEH', 519, '202509254604CC-VARIOUS-ZELENSKYPUTINMEETING_LOCATION.mp4', 0, 0, datetime.datetime(2025, 9, 27, 15, 3, 17), None, 139310)

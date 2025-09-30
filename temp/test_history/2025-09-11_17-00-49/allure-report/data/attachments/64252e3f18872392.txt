@@ -1,0 +1,3 @@
+INFO     root:test_VFD.py:323 test1
+INFO     root:test_VFD.py:339 FTP
+INFO     root:story.py:866 Please specify a valid Host.

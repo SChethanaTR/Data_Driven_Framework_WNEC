@@ -1,0 +1,4 @@
+INFO:root:Story 1: QA-JSON-DD-7-DAY-FEATURE-REFEED-2
+INFO:root:Story 2: CHINA-USA/XI-TRUMP
+INFO:root:Story 3: QA-JSON-DD-6-DAY-FEATURE-REFEED-2
+INFO:root:Data exported

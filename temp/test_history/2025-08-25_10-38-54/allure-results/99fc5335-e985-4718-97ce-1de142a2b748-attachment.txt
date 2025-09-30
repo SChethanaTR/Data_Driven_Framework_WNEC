@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:916 Story 1: TENNIS-USOPEN/
+INFO     root:test_admin_playout.py:916 Story 2: TENNIS-USOPEN/
+INFO     root:test_admin_playout.py:916 Story 3: TENNIS-USOPEN/
+INFO     root:test_admin_playout.py:923 Cleared all items

@@ -1,0 +1,5 @@
+INFO     root:test_User_Interface.py:454 Found 12 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:459 Live Now Video: View of runway at Heathrow Airport after cyberattack causes disruption
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: The world’s largest beer festival the Oktoberfest officially kicks off

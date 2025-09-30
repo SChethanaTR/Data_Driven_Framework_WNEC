@@ -1,0 +1,12 @@
+INFO     root:test_admin_playout.py:599 Navigated to playout page
+INFO     root:test_admin_playout.py:605 Radio button to disable channel is clicked
+INFO     root:test_admin_playout.py:599 
+INFO     root:test_admin_playout.py:599 
+INFO     root:test_admin_playout.py:624 PLAYOUT READYAdd videos to Playlist or press Play Now button in Stories page
+INFO     root:test_admin_playout.py:628 Channel is enabled
+INFO     root:test_admin_playout.py:599 
+INFO     root:test_admin_playout.py:605 Radio button to enable channel is clicked
+INFO     root:test_admin_playout.py:599 
+INFO     root:test_admin_playout.py:599 
+INFO     root:test_admin_playout.py:644 6X LIVE PREVIEW
+INFO     root:test_admin_playout.py:649 Channel is enabled

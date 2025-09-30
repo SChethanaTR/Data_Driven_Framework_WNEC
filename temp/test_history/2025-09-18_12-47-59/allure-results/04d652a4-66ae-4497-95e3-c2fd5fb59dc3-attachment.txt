@@ -1,0 +1,2 @@
+INFO:root:Story name: View of Israel-Gaza border
+INFO:root:Story playing: ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER

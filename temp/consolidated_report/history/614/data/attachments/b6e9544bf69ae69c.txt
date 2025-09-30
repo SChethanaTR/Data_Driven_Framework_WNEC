@@ -1,0 +1,5 @@
+INFO     root:test_admin_playout.py:693 Currently playing: China-Biosphere Reserves Congress/Opening1616
+INFO     root:test_admin_playout.py:699 After stopping: PLAYOUT STOPPEDPress Start button, and/or add videos to Playlist, or press Play Now button in Stories page
+INFO     root:test_admin_playout.py:701 Playout stopped successfully
+INFO     root:test_admin_playout.py:711 After playing: NOW PLAYING:
+INFO     root:test_admin_playout.py:718 After pausing: NOW PLAYING:

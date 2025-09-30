@@ -1,0 +1,1 @@
+{"name": "test_HistoryPage_Playout_History[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758881213082, "stop": 1758881228548, "uuid": "e705865a-2413-4690-9d77-a81bd0abb5a0", "testCaseId": "a25230180e39657d047dbbef49a42fa1", "fullName": "tests.Automation_tests.test_User_Interface#test_HistoryPage_Playout_History"}

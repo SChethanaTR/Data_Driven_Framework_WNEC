@@ -1,0 +1,9 @@
+INFO     root:test_User_Interface.py:563 A view over Cape Town port activity as US tariffs come into effect07:0009:00rl 2Ch 1
+INFO     root:test_User_Interface.py:563 A view over Cape Town port activity as US tariffs come into effect07:1512:00rlsCh 3
+INFO     root:test_User_Interface.py:563 Malaysia's Trade and Industry Minister speaks on recent tariffs deal imposed on Malaysia07:3008:40rl 3
+INFO     root:test_User_Interface.py:563 EU court rules on Italy-Albania asylum-seeker transfer deal07:5212:00rl 4
+INFO     root:test_User_Interface.py:563 View of the Israel-Gaza border07:5812:00rl 5
+INFO     root:test_User_Interface.py:563 German Foreign Minister visits Christian community in West Bank08:3012:00rl 1
+INFO     root:test_User_Interface.py:563 Protesters rally in Yemen's Sanaa in solidarity with Palestinians12:3013:30rl 2Ch 1
+INFO     root:test_User_Interface.py:563 NYSE opening bell rings on Trump's Aug. 1 tariff deadline13:1514:15rl 5
+INFO     root:test_User_Interface.py:563 SpaceX Dragon launches with Crew-11 members to space station15:3016:30rl 6

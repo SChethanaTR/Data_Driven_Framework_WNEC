@@ -1,0 +1,8 @@
+INFO:root:Story 1: Mexico-China/Cultural Exchange/WWII
+INFO:root:Story 2: Mexico-China/Cultural Exchange/WWII
+INFO:root:Story 3: Mexico-China/Cultural Exchange/WWII
+INFO:root:
+INFO:root:('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', 'SDI output 02', 'file', 5, 1, 0, 'None', 'Playing', 'Waiting', 'loop', '', '', 'Now playing: 2025-08-25T045831Z_1_LWD001I8EMSMH_RTRWNEV_C_1610-MEXICO-CHINA-CULTURAL-EXCHANGE-WWII.MP4', '2025-08-25T045831Z_1_LWD001I8EMSMH_RTRWNEV_C_1610-MEXICO-CHINA-CULTURAL-EXCHANGE-WWII.MP4', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'auto', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'file', 5, 1, 0, 'None', 'Playing', 'Waiting', 'loop', '', '', 'Now playing: 2025-08-25T045831Z_1_LWD001I8EMSMH_RTRWNEV_C_1610-MEXICO-CHINA-CULTURAL-EXCHANGE-WWII.MP4', '2025-08-25T045831Z_1_LWD001I8EMSMH_RTRWNEV_C_1610-MEXICO-CHINA-CULTURAL-EXCHANGE-WWII.MP4', 0, 0, '', '', 0, '', '', '', 0, '')

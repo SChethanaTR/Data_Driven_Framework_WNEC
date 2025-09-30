@@ -1,0 +1,430 @@
+INFO:root:Cell 1: 2025-09-14T140131Z_2_RWMQTPXT5_RTRMADC_0_SPAIN-CHINA-US-TRADE-TALKS.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-14T135553Z_3_RW479414092025RP1_RTRMADC_0_LIBYA-SPORTS.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-14T125831Z_3_RWMQTPSA1_RTRMADC_0_CHINA-XINJIANG-TRANSPORTATION-NETWORK.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-14T133441Z_4_RW485114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED-ROUGH-CUT.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-14T144135Z_1_RW479414092025RP2_RTRMADC_0_LIBYA-SPORTS.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-14T120306Z_2_RWMQTPTUX_RTRMADC_0_CHINA-RAILWAY-JAN-AUG.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-14T134520Z_6_RW485214092025RP1_RTRMADC_0_UKRAINE-CRISIS-POLAND-FRANCE.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-14T132246Z_5_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-14T121110Z_2_RWMQTPUND_RTRMADC_0_CHINA-LEGISLATIVE-ASSEMBLY-MACAO.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-14T142543Z_2_RW485514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION-ROUGH-CUT.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-14T130517Z_4_RW484514092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-SETTLEMENT.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-14T123840Z_2_RWMQTPVFT_RTRMADC_0_CHINA-ACADEMIC-BAR-YOUTH-XINJIANG.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-14T142752Z_5_RW379010092025RP1_RTRMADC_0_DENMARK-WEDDINGS.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-14T144800Z_13_RW485714092025RP1_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-14T134130Z_6_RW484714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RUBIO-WESTERN-WALL.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-14T100007Z_2_RWMQTPW89_RTRMADC_0_CHINA-FILMMAKING-AI-EXPERTS.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-14T144544Z_4_RW478814092025RP1_RTRMADC_0_ATHLETICS-WORLD.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-14T141551Z_4_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-14T135324Z_5_RW484814092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS-UPDATE.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-14T132829Z_2_RWMQTPX0P_RTRMADC_0_CHINA-CIFTIS-ACHIEVEMENTS.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-14T135133Z_4_RW479014092025RP1_RTRMADC_0_GOLF-ASIAN.XML
+INFO:root:Cell 82: TBD
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 
+INFO:root:Cell 85: 2025-09-14T144505Z_4_RWMQTCKLR_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-FANS.XML
+INFO:root:Cell 86: TBD
+INFO:root:Cell 87: Waiting
+INFO:root:Cell 88: 
+INFO:root:Cell 89: 2025-09-14T141151Z_2_RW485014092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-ROUGH-CUT.XML
+INFO:root:Cell 90: TBD
+INFO:root:Cell 91: Waiting
+INFO:root:Cell 92: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                     |
++=====+===============================================================================================================================================================================================================================================================================================+
+|   1 | 2025-09-14 15:08:38,211 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T141711Z_1_LWD478814092025RP1_RTRWNEV_C_4788-ATHLETICS-WORLD.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 15:08:39,631 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-14T141711Z_1_LWD478814092025RP1_RTRWNEV_C_4788-ATHLETICS-WORLD.MP4 to the server: 553 Can't open that file: No such file or directory                 |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 |                                                                                                                                                                                                                                                                                               |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 15:08:39,632 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-14T141711Z_1_LWD478814092025RP1_RTRWNEV_C_4788-ATHLETICS-WORLD.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.      |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 15:08:39,640 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T133929Z_1_LWD479014092025RP1_RTRWNEV_C_4790-GOLF-ASIAN.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub      |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 15:08:41,072 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-14T133929Z_1_LWD479014092025RP1_RTRWNEV_C_4790-GOLF-ASIAN.MP4 to the server: 553 Can't open that file: No such file or directory                      |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 |                                                                                                                                                                                                                                                                                               |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 15:08:41,073 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-14T133929Z_1_LWD479014092025RP1_RTRWNEV_C_4790-GOLF-ASIAN.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.           |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 15:08:41,085 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T135541Z_1_LWD479414092025RP1_RTRWNEV_C_4794-LIBYA-SPORTS.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub    |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 15:08:42,514 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-14T135541Z_1_LWD479414092025RP1_RTRWNEV_C_4794-LIBYA-SPORTS.MP4 to the server: 553 Can't open that file: No such file or directory                    |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 |                                                                                                                                                                                                                                                                                               |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-14 15:08:42,515 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-14T135541Z_1_LWD479414092025RP1_RTRWNEV_C_4794-LIBYA-SPORTS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.         |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 15:08:42,524 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T135541Z_1_LWD479414092025RP1_RTRWNEV_C_4794-LIBYA-SPORTS.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub    |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 15:08:43,952 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-14T135541Z_1_LWD479414092025RP1_RTRWNEV_C_4794-LIBYA-SPORTS.MP4 to the server: 553 Can't open that file: No such file or directory                    |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 |                                                                                                                                                                                                                                                                                               |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 15:08:43,953 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-14T135541Z_1_LWD479414092025RP1_RTRWNEV_C_4794-LIBYA-SPORTS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.         |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 15:08:43,958 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : max consecutive failure exception occured                                                                                                                                       |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-14 15:08:43,960 ERROR [main] com.reuters.filedirect.db.DbLogger : Max number of consecutive failures (5) reached for process: test1. Please verify that the configuration for this process is correct.                                                                                |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 15:08:43,962 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : AutoRestart is enabled and restarting the distribution process.                                                                                                                 |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 15:08:43,971 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...                                                                                                                                                       |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO:root:
+📁 Files Present in Target Directory:
+INFO:root:Cell 1: 2025-09-14T141551Z_4_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-14T135324Z_5_RW484814092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS-UPDATE.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-14T132829Z_2_RWMQTPX0P_RTRMADC_0_CHINA-CIFTIS-ACHIEVEMENTS.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-14T135133Z_4_RW479014092025RP1_RTRMADC_0_GOLF-ASIAN.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-14T144505Z_4_RWMQTCKLR_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-FANS.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-14T141151Z_2_RW485014092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-ROUGH-CUT.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-14T140131Z_2_RWMQTPXT5_RTRMADC_0_SPAIN-CHINA-US-TRADE-TALKS.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-14T135553Z_3_RW479414092025RP1_RTRMADC_0_LIBYA-SPORTS.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-14T125831Z_3_RWMQTPSA1_RTRMADC_0_CHINA-XINJIANG-TRANSPORTATION-NETWORK.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-14T133441Z_4_RW485114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED-ROUGH-CUT.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-14T144135Z_1_RW479414092025RP2_RTRMADC_0_LIBYA-SPORTS.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-14T120306Z_2_RWMQTPTUX_RTRMADC_0_CHINA-RAILWAY-JAN-AUG.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-14T134520Z_6_RW485214092025RP1_RTRMADC_0_UKRAINE-CRISIS-POLAND-FRANCE.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-14T150502Z_4_RW483214092025RP1_RTRMADC_0_NEPAL-PROTESTS.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-14T121110Z_2_RWMQTPUND_RTRMADC_0_CHINA-LEGISLATIVE-ASSEMBLY-MACAO.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-14T142543Z_2_RW485514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION-ROUGH-CUT.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-14T132246Z_5_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-14T123840Z_2_RWMQTPVFT_RTRMADC_0_CHINA-ACADEMIC-BAR-YOUTH-XINJIANG.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-14T142752Z_5_RW379010092025RP1_RTRMADC_0_DENMARK-WEDDINGS.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-14T144800Z_13_RW485714092025RP1_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-14T134130Z_6_RW484714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RUBIO-WESTERN-WALL.XML
+INFO:root:Cell 82: TBD
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 
+INFO:root:Cell 85: 2025-09-14T100007Z_2_RWMQTPW89_RTRMADC_0_CHINA-FILMMAKING-AI-EXPERTS.XML
+INFO:root:Cell 86: TBD
+INFO:root:Cell 87: Waiting
+INFO:root:Cell 88: 
+INFO:root:Cell 89: 2025-09-14T144544Z_4_RW478814092025RP1_RTRMADC_0_ATHLETICS-WORLD.XML
+INFO:root:Cell 90: TBD
+INFO:root:Cell 91: Waiting
+INFO:root:Cell 92: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                          |
++=====+====================================================================================================================================================================================+
+|   1 | 2025-09-14 15:14:14,803 INFO  [main] com.reuters.filedirect.FileDistributorApplication : Started FileDistributorApplication in 1.551 seconds (process running for 2.101)           |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 15:14:14,806 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution command processor                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-14 15:14:14,812 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Starting...                                                                               |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 15:14:15,054 INFO  [main] com.zaxxer.hikari.pool.HikariPool : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@64c63c79                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 15:14:15,057 INFO  [main] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Start completed.                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 15:14:15,095 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-14 15:14:15,114 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 15:14:15,117 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 15:14:15,555 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 1 distribution processes.                                        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 15:14:15,559 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of auto files : 0                                                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-14 15:14:15,560 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of manual files : 0                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-14 15:14:15,562 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Filtering 0 new files for distribution queuing by "test1"                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 15:14:15,562 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : 0 files passed filters and were queued for distribution by process "test1" |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 15:14:15,563 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 0 processed/queued files from the distribution_files table.        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-14 15:14:15,563 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 15:14:15,563 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 15:14:15,572 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 69 files from queue for process 139                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-14 15:14:15,573 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 15:14:15,575 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 69 files                                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 15:14:15,582 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO:root:
+📁 Files Present in Target Directory:
+INFO:root:Cell 1: 2025-09-14T142543Z_2_RW485514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION-ROUGH-CUT.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-14T132246Z_5_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-14T123840Z_2_RWMQTPVFT_RTRMADC_0_CHINA-ACADEMIC-BAR-YOUTH-XINJIANG.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-14T151055Z_6_RW379010092025RP1_RTRMADC_0_DENMARK-WEDDINGS.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-14T144800Z_13_RW485714092025RP1_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-14T134130Z_6_RW484714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RUBIO-WESTERN-WALL.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-14T100007Z_2_RWMQTPW89_RTRMADC_0_CHINA-FILMMAKING-AI-EXPERTS.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-14T144544Z_4_RW478814092025RP1_RTRMADC_0_ATHLETICS-WORLD.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-14T141551Z_4_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-14T135324Z_5_RW484814092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS-UPDATE.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-14T132829Z_2_RWMQTPX0P_RTRMADC_0_CHINA-CIFTIS-ACHIEVEMENTS.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-14T135133Z_4_RW479014092025RP1_RTRMADC_0_GOLF-ASIAN.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-14T144505Z_4_RWMQTCKLR_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-FANS.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-14T141151Z_2_RW485014092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-ROUGH-CUT.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-14T140131Z_2_RWMQTPXT5_RTRMADC_0_SPAIN-CHINA-US-TRADE-TALKS.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-14T135553Z_3_RW479414092025RP1_RTRMADC_0_LIBYA-SPORTS.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-14T125831Z_3_RWMQTPSA1_RTRMADC_0_CHINA-XINJIANG-TRANSPORTATION-NETWORK.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-14T133441Z_4_RW485114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED-ROUGH-CUT.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-14T150307Z_2_RWMQTPYLL_RTRMADC_0_CHINA-TOURISM-EXPO-CLOSING.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-14T144135Z_1_RW479414092025RP2_RTRMADC_0_LIBYA-SPORTS.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:Cell 81: 2025-09-14T120306Z_2_RWMQTPTUX_RTRMADC_0_CHINA-RAILWAY-JAN-AUG.XML
+INFO:root:Cell 82: TBD
+INFO:root:Cell 83: Waiting
+INFO:root:Cell 84: 
+INFO:root:Cell 85: 2025-09-14T134520Z_6_RW485214092025RP1_RTRMADC_0_UKRAINE-CRISIS-POLAND-FRANCE.XML
+INFO:root:Cell 86: TBD
+INFO:root:Cell 87: Waiting
+INFO:root:Cell 88: 
+INFO:root:Cell 89: 2025-09-14T150502Z_4_RW483214092025RP1_RTRMADC_0_NEPAL-PROTESTS.XML
+INFO:root:Cell 90: TBD
+INFO:root:Cell 91: Waiting
+INFO:root:Cell 92: 
+INFO:root:Cell 93: 2025-09-14T121110Z_2_RWMQTPUND_RTRMADC_0_CHINA-LEGISLATIVE-ASSEMBLY-MACAO.XML
+INFO:root:Cell 94: TBD
+INFO:root:Cell 95: Waiting
+INFO:root:Cell 96: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                      |
++=====+================================================================================================================================================================================================================================================================================================+
+|   1 | 2025-09-14 15:20:31,299 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 0 processed/queued files from the distribution_files table.                                                                                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 15:20:31,300 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : --------------------------------------------------------------------------                                                                                                             |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-14 15:20:31,300 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                                                                                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 15:20:31,311 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 72 files from queue for process 139                                                                                                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 15:20:31,312 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                                                                                                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 15:20:31,313 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 72 files                                                                                                                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-14 15:20:31,319 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client                                                                                                                                                                        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 15:20:32,349 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11                                                                                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 15:20:32,350 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : FTP client connected to-->10.99.13.11                                                                                                                                                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 15:20:32,355 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T133601Z_1_LWD379010092025RP1_RTRWNEV_C_3790-DENMARK-WEDDINGS.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-14 15:20:33,799 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-14T133601Z_1_LWD379010092025RP1_RTRWNEV_C_3790-DENMARK-WEDDINGS.MP4 to the server: 553 Can't open that file: No such file or directory                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 |                                                                                                                                                                                                                                                                                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 15:20:33,800 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Failed to connect to primary, switching to standby...                                                                                                                                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 15:20:33,800 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init standby FTP client                                                                                                                                                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-14 15:20:34,817 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11                                                                                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 15:20:34,820 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T133601Z_1_LWD379010092025RP1_RTRWNEV_C_3790-DENMARK-WEDDINGS.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 15:20:36,260 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-14T133601Z_1_LWD379010092025RP1_RTRWNEV_C_3790-DENMARK-WEDDINGS.MP4 to the server: 553 Can't open that file: No such file or directory                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 |                                                                                                                                                                                                                                                                                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 15:20:36,261 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-14T133601Z_1_LWD379010092025RP1_RTRWNEV_C_3790-DENMARK-WEDDINGS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 15:20:36,266 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-14T141711Z_1_LWD478814092025RP1_RTRWNEV_C_4788-ATHLETICS-WORLD.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO:root:
+📁 Files Present in Target Directory:

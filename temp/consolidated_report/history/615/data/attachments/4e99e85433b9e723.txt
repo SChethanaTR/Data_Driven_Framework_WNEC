@@ -1,0 +1,14 @@
+INFO:root:High waves in Taiwan's east coast as typhoon Ragasa sweeps across Philippines11:2812:00rl 3
+INFO:root:Italians join a strike to stand in solidarity with Gaza and protest arm shipments11:3112:00rls
+INFO:root:Italians join a strike to stand in solidarity with Gaza and protest arm shipments11:3212:00rl 1
+INFO:root:High-level Meeting to Commemorate the 80th Anniversary of the United Nations12:4513:45rl 6
+INFO:root:High-level meeting to commemorate the 80th Anniversary of the United Nations12:4513:45rls
+INFO:root:Activists, hostage families protest by PM’s residence in Jerusalem13:3014:30rl 4
+INFO:root:High-level meeting to mark 30th anniversary of key declaration on women's rights13:4514:45rl 5
+INFO:root:NASA unveils its 2025 class of astronaut candidates16:1517:30rl 6
+INFO:root:Catholic groups led by Sant’Egidio hold Gaza peace vigil in Rome’s Trastevere16:5017:50rl 4
+INFO:root:Catholic groups led by Sant’Egidio hold Gaza peace vigil in Rome’s Trastevere16:5017:50rls
+INFO:root:World leaders meet on two-state solution between Israel, Palestinians18:4519:45rl 5
+INFO:root:World leaders meet on two-state solution between Israel, Palestinians18:4519:45rls
+INFO:root:Hong Kong braces for super typhoon Ragasa’s impact22:3009:30 (+1)rl 2
+INFO:root:Reuters Editor-in-Chief Alessandra Galloni interviews Bill Gates23:0000:00 (+1)rl 3

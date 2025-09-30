@@ -1,0 +1,18 @@
+INFO:root:View of Macau's Senado Square as Typhoon Ragasa passes nearby02:2912:00rl 6
+INFO:root:Germany's Merz discusses 2026 budget in parliament07:0112:00rl 5
+INFO:root:Hong Kong braces as typhoon Ragasa’s draws closer07:2609:30rls
+INFO:root:Typhoon Ragasa takes aim at China after leaving 14 dead in Taiwan, lashing Hong Kong08:4812:00rl 4
+INFO:root:Greta Thunberg speaks from the Global Sumud Flotilla10:0012:00rl 2
+INFO:root:Report into possible use of surveillance against journalists by Northern Irish police10:1511:30rl 2
+INFO:root:NASA launches a trio of spacecraft in a mission to study space weather10:2512:00rl 6
+INFO:root:Thai PM Anutin and cabinet to take oath before King Vajiralongkorn10:4511:30rl 1
+INFO:root:Barcelona hold press conference ahead of their LaLiga game against Oviedo11:0012:00rl 3Ch 4
+INFO:root:World leaders gather at the U.N. for 80th General Assembly11:4501:00 (+1)rl 5
+INFO:root:World leaders gather at the U.N. for 80th General Assembly11:4501:00 (+1)rl 4
+INFO:root:World leaders gather at the U.N. for 80th General Assembly11:4501:00 (+1)rls
+INFO:root:Hong Kong assesses damage after typhoon Ragasa sweeps past12:0012:00rl 4
+INFO:root:Reuters Climate Frontlines: The Corporate Climate Dilemma12:1513:30rl 1
+INFO:root:Artemis II astronauts hold news conference13:4515:00rl 1
+INFO:root:Zelenskiy attends annual Crimea meeting on UNGA sidelines16:4517:45rl 3Ch 4
+INFO:root:Jeffrey Sachs sits down with Reuters Climate & Environment Editor Katy Daigle17:1518:00rl 2
+INFO:root:Climate summit on sidelines of the UN General Assembly17:4518:45rl 6

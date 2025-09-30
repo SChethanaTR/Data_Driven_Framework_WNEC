@@ -1,0 +1,4 @@
+INFO:root:Loop configuration is currently hidden. Enabling it now.
+INFO:root:Loop configuration is now visible.
+INFO:root:JAPAN-POLITICS/
+INFO:root:JAPAN-POLITICS/

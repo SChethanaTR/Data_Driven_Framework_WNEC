@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:202 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:202 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:202 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:202 INDIA-ECONOMY/TAX

@@ -1,0 +1,5 @@
+INFO     root:test_admin_playout.py:769 Currently playing: ISRAEL-PALESTINIANS/ITALY6789
+INFO     root:test_admin_playout.py:775 After stopping: PLAYOUT STOPPEDPress Start button, and/or add videos to Playlist, or press Play Now button in Stories page
+INFO     root:test_admin_playout.py:777 Playout stopped successfully
+INFO     root:test_admin_playout.py:787 After playing: NOW PLAYING:
+INFO     root:test_admin_playout.py:794 After pausing: NOW PLAYING:

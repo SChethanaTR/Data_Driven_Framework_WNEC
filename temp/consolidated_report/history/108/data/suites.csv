@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15748","test_Admin_Settings_Page_Playout_Options[chromium]","tests.Automation_tests","Fri Aug 01 13:11:11 IST 2025","passed","Fri Aug 01 13:11:27 IST 2025","","test_User_Interface","",""

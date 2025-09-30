@@ -1,0 +1,3 @@
+INFO:root:(379, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)
+INFO:root:DB Query Result: [(379, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)]
+INFO:root:✅ Distribution process removed successfully.

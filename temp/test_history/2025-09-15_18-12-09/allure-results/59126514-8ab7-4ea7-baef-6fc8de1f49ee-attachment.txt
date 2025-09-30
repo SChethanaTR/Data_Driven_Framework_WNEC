@@ -1,0 +1,2 @@
+INFO:root:Slug on subcon page: ASIA-WEATHER/INDIA
+INFO:root:Slug on cctv page: China-FM Briefing/Tariffs/Opposition

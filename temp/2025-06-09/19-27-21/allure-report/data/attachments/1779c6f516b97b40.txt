@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: CANADA-DEFENSE/
+INFO     root:test_history.py:317 Story added: SERBIA-PROTESTS/
+INFO     root:test_history.py:317 Story added: ASIA-WEATHER/INDIA-HEATWAVE
+INFO     root:test_history.py:319 All stories collected: ['CANADA-DEFENSE/', 'SERBIA-PROTESTS/', 'ASIA-WEATHER/INDIA-HEATWAVE']

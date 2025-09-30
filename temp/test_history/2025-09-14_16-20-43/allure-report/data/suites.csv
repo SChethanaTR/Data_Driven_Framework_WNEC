@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Test to verify error message when attempting FTP distribution without specifying a password.
+    Configuration: No Password, Directory, Passive Mode
+    ","34076","test_file_distribution_without_password[chromium]","tests.Automation_tests","Sun Sep 14 16:20:59 IST 2025","passed","Sun Sep 14 16:21:34 IST 2025","","test_VFD","",""

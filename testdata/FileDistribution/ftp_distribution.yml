@@ -1,0 +1,19 @@
+version: '3'
+services:
+  ftp_server:
+    image: stilliard/pure-ftpd
+    container_name: ftp
+    ports:
+      - "21:21"
+      - "30000-31399:30000-31399"
+    volumes: 
+      - "/wneclient/data/QA/ftp/files:/home/test/"
+      - "/wneclient/data/QA/ftp/passwd:/etc/pure-ftpd/passwd"
+    environment:
+      PUBLICHOST: "dummy_host"
+      FTP_USER_NAME: dummy_name
+      FTP_USER_PASS: dummy_pass
+      FTP_USER_HOME: /home/test
+      FTP_MAX_CLIENTS: 300
+      ADDED_FLAGS: "-d -d"
+    restart: always

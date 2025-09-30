@@ -1,0 +1,208 @@
+INFO     root:story.py:1350 Cell 1: 2025-09-24T102117Z_2_RW756724092025RP1_RTRMADC_0_ASIA-WEATHER-AVIATION.XML
+INFO     root:story.py:1350 Cell 2: TBD
+INFO     root:story.py:1350 Cell 3: Waiting
+INFO     root:story.py:1350 Cell 4: 
+INFO     root:story.py:1350 Cell 5: 2025-09-24T101650Z_4_RW719123092025RP1_RTRMADC_0_SEYCHELLES-ELECTIONS-VICTORIA-CITYSHOTS.XML
+INFO     root:story.py:1350 Cell 6: TBD
+INFO     root:story.py:1350 Cell 7: Waiting
+INFO     root:story.py:1350 Cell 8: 
+INFO     root:story.py:1350 Cell 9: 2025-09-24T091127Z_4_RW753224092025RP1_RTRMADC_0_BRITAIN-CHURCH.XML
+INFO     root:story.py:1350 Cell 10: TBD
+INFO     root:story.py:1350 Cell 11: Waiting
+INFO     root:story.py:1350 Cell 12: 
+INFO     root:story.py:1350 Cell 13: 2025-09-24T094114Z_6_RW751224092025RP1_RTRMADC_0_GERMANY-ECONOMY-MERZ.XML
+INFO     root:story.py:1350 Cell 14: TBD
+INFO     root:story.py:1350 Cell 15: Waiting
+INFO     root:story.py:1350 Cell 16: 
+INFO     root:story.py:1350 Cell 17: 2025-09-24T094222Z_2_RWMS7AYJ3_RTRMADC_0_ASIA-WEATHER-INDIA.XML
+INFO     root:story.py:1350 Cell 18: TBD
+INFO     root:story.py:1350 Cell 19: Waiting
+INFO     root:story.py:1350 Cell 20: 
+INFO     root:story.py:1350 Cell 21: 2025-09-24T095955Z_5_RW746724092025RP1_RTRMADC_0_JAPAN-POLITICS.XML
+INFO     root:story.py:1350 Cell 22: TBD
+INFO     root:story.py:1350 Cell 23: Waiting
+INFO     root:story.py:1350 Cell 24: 
+INFO     root:story.py:1350 Cell 25: 2025-09-24T100725Z_2_RW753324092025RP1_RTRMADC_0_SYRIA-SECURITY-LATAKIA-WILDFIRE.XML
+INFO     root:story.py:1350 Cell 26: TBD
+INFO     root:story.py:1350 Cell 27: Waiting
+INFO     root:story.py:1350 Cell 28: 
+INFO     root:story.py:1350 Cell 29: 2025-09-24T093816Z_2_RW751424092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-AFTERMATH-ROUGH-CUT.XML
+INFO     root:story.py:1350 Cell 30: TBD
+INFO     root:story.py:1350 Cell 31: Waiting
+INFO     root:story.py:1350 Cell 32: 
+INFO     root:story.py:1350 Cell 33: 2025-09-24T092246Z_4_RW747924092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-FRANCE-FLAGS.XML
+INFO     root:story.py:1350 Cell 34: TBD
+INFO     root:story.py:1350 Cell 35: Waiting
+INFO     root:story.py:1350 Cell 36: 
+INFO     root:story.py:1350 Cell 37: 2025-09-24T102503Z_5_RW754024092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-FUNERALS.XML
+INFO     root:story.py:1350 Cell 38: TBD
+INFO     root:story.py:1350 Cell 39: Waiting
+INFO     root:story.py:1350 Cell 40: 
+INFO     root:story.py:1350 Cell 41: 2025-09-24T102356Z_4_RW751724092025RP1_RTRMADC_0_DEUTSCHLAND-BUNDESTAG-DEBATTE.XML
+INFO     root:story.py:1350 Cell 42: TBD
+INFO     root:story.py:1350 Cell 43: Waiting
+INFO     root:story.py:1350 Cell 44: 
+INFO     root:story.py:1350 Cell 45: 2025-09-24T095242Z_4_RW748024092025RP1_RTRMADC_0_THAILAND-ACCIDENT.XML
+INFO     root:story.py:1350 Cell 46: TBD
+INFO     root:story.py:1350 Cell 47: Waiting
+INFO     root:story.py:1350 Cell 48: 
+INFO     root:story.py:1350 Cell 49: 2025-09-24T100218Z_3_RW754324092025RP1_RTRMADC_0_ASIA-WEATHER-HONGKONG-UGC3.XML
+INFO     root:story.py:1350 Cell 50: TBD
+INFO     root:story.py:1350 Cell 51: Waiting
+INFO     root:story.py:1350 Cell 52: 
+INFO     root:story.py:1350 Cell 53: 2025-09-24T100105Z_4_RW752024092025RP1_RTRMADC_0_UKRAINE-CRISIS-TRUMP-REACTION.XML
+INFO     root:story.py:1350 Cell 54: TBD
+INFO     root:story.py:1350 Cell 55: Waiting
+INFO     root:story.py:1350 Cell 56: 
+INFO     root:story.py:1350 Cell 57: 2025-09-24T092325Z_4_RW748424092025RP1_RTRMADC_0_ASIA-WEATHER-TAIWAN-SHELTER.XML
+INFO     root:story.py:1350 Cell 58: TBD
+INFO     root:story.py:1350 Cell 59: Waiting
+INFO     root:story.py:1350 Cell 60: 
+INFO     root:story.py:1350 Cell 61: 2025-09-24T100944Z_3_RW754624092025RP1_RTRMADC_0_USA-TRUMP-INDIA-TRADE.XML
+INFO     root:story.py:1350 Cell 62: TBD
+INFO     root:story.py:1350 Cell 63: Waiting
+INFO     root:story.py:1350 Cell 64: 
+INFO     root:story.py:1350 Cell 65: 2025-09-24T094121Z_4_RW752824092025RP1_RTRMADC_0_ASIA-WEATHER-TAIWAN-ROUGH-CUT.XML
+INFO     root:story.py:1350 Cell 66: TBD
+INFO     root:story.py:1350 Cell 67: Waiting
+INFO     root:story.py:1350 Cell 68: 
+INFO     root:story.py:1350 Cell 69: 2025-09-24T102230Z_4_RW749224092025RP1_RTRMADC_0_USA-KIMMEL-DISNEY.XML
+INFO     root:story.py:1350 Cell 70: TBD
+INFO     root:story.py:1350 Cell 71: Waiting
+INFO     root:story.py:1350 Cell 72: 
+INFO     root:story.py:1350 Cell 73: 2025-09-24T102652Z_4_RW754924092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA.XML
+INFO     root:story.py:1350 Cell 74: TBD
+INFO     root:story.py:1350 Cell 75: Waiting
+INFO     root:story.py:1350 Cell 76: 
+INFO     root:story.py:1350 Cell 77: 2025-09-24T090450Z_3_RW678122092025RP1_RTRMADC_0_IRAQ-BEEKEEPERS-WATER-CRISIS.XML
+INFO     root:story.py:1350 Cell 78: TBD
+INFO     root:story.py:1350 Cell 79: Waiting
+INFO     root:story.py:1350 Cell 80: 
+INFO     root:story.py:1350 Cell 81: 2025-09-24T100200Z_7_RW753124092025RP1_RTRMADC_0_EUROPE-MIGRATION-HUNGARY.XML
+INFO     root:story.py:1350 Cell 82: TBD
+INFO     root:story.py:1350 Cell 83: Waiting
+INFO     root:story.py:1350 Cell 84: 
+INFO     root:story.py:1350 Cell 85: 2025-09-24T095512Z_5_RW750524092025RP1_RTRMADC_0_DEUTSCHLAND-BUNDESTAG-MERZ.XML
+INFO     root:story.py:1350 Cell 86: TBD
+INFO     root:story.py:1350 Cell 87: Waiting
+INFO     root:story.py:1350 Cell 88: 
+INFO     root:test_VFD.py:1237 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1245 
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                                        |
++=====+==================================================================================================================================================================================================================================================================================================================+
+|   1 | 2025-09-24 10:32:40,816 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 0 processed/queued files from the distribution_files table.                                                                                                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-24 10:32:40,816 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : --------------------------------------------------------------------------                                                                                                                               |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-24 10:32:40,817 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                                                                                                                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-24 10:32:40,829 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 66 files from queue for process 33                                                                                                                                                               |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-24 10:32:40,831 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                                                                                                                                                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-24 10:32:40,833 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 66 files                                                                                                                                                                                                   |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-24 10:32:40,840 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client                                                                                                                                                                                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-24 10:32:41,863 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11                                                                                                                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-24 10:32:43,304 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T084507Z_1_LWD678122092025RP1_RTRWNEV_C_6781-IRAQ-BEEKEEPERS-WATER-CRISIS.MP4 to the server: 553 Can't open that file: No such file or directory                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 |                                                                                                                                                                                                                                                                                                                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-24 10:32:43,305 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T084507Z_1_LWD678122092025RP1_RTRWNEV_C_6781-IRAQ-BEEKEEPERS-WATER-CRISIS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-24 10:32:44,742 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T101157Z_1_LWD719123092025RP1_RTRWNEV_C_7191-SEYCHELLES-ELECTIONS-VICTORIA-CITYSHOTS.MP4 to the server: 553 Can't open that file: No such file or directory            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 |                                                                                                                                                                                                                                                                                                                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-24 10:32:44,742 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T101157Z_1_LWD719123092025RP1_RTRWNEV_C_7191-SEYCHELLES-ELECTIONS-VICTORIA-CITYSHOTS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer. |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-24 10:32:46,177 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T090839Z_1_LWD746724092025RP1_RTRWNEV_C_7467-JAPAN-POLITICS.MP4 to the server: 553 Can't open that file: No such file or directory                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 |                                                                                                                                                                                                                                                                                                                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-24 10:32:46,178 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T090839Z_1_LWD746724092025RP1_RTRWNEV_C_7467-JAPAN-POLITICS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.                          |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-24 10:32:47,618 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-24T090945Z_1_LWD747924092025RP1_RTRWNEV_C_7479-ISRAEL-PALESTINIANS-FRANCE-FLAGS.MP4 to the server: 553 Can't open that file: No such file or directory                   |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 |                                                                                                                                                                                                                                                                                                                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-24 10:32:47,618 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-24T090945Z_1_LWD747924092025RP1_RTRWNEV_C_7479-ISRAEL-PALESTINIANS-FRANCE-FLAGS.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:1248 
+📁 Files Present in Target Directory:
+INFO     root:test_VFD.py:1250 Validation from database
+INFO     root:database.py:28 (29251, '2025-09-24T095512Z_5_RW750524092025RP1_RTRMADC_0_DEUTSCHLAND-BUNDESTAG-MERZ.XML', None, None, 'tag:reuters.com,2025:newsml_RW750524092025RP1', 16, '2025-09-24T095512Z_5_RW750524092025RP1_RTRMADC_0_DEUTSCHLAND-BUNDESTAG-MERZ.XML', 0, 0, datetime.datetime(2025, 9, 24, 9, 59), None, 137925)
+INFO     root:database.py:28 (29252, '2025-09-24T090704Z_1_LWD750524092025RP1_RTRWNEV_B_7505-DEUTSCHLAND-BUNDESTAG-MERZ.MPG', None, None, 'tag:reuters.com,2025:newsml_RW750524092025RP1', 16, '2025-09-24T090704Z_1_LWD750524092025RP1_RTRWNEV_B_7505-DEUTSCHLAND-BUNDESTAG-MERZ.MPG', 0, 0, datetime.datetime(2025, 9, 24, 9, 59), None, 137925)
+INFO     root:database.py:28 (29253, '2025-09-24T090704Z_1_LWD750524092025RP1_RTRWNEV_C_7505-DEUTSCHLAND-BUNDESTAG-MERZ.MP4', None, None, 'tag:reuters.com,2025:newsml_RW750524092025RP1', 16, '2025-09-24T090704Z_1_LWD750524092025RP1_RTRWNEV_C_7505-DEUTSCHLAND-BUNDESTAG-MERZ.MP4', 0, 0, datetime.datetime(2025, 9, 24, 9, 59), None, 137925)
+INFO     root:database.py:28 (29551, '2025-09-24T090450Z_3_RW678122092025RP1_RTRMADC_0_IRAQ-BEEKEEPERS-WATER-CRISIS.XML', None, None, 'tag:reuters.com,2025:newsml_RW678122092025RP1', 33, '202509246781ME-IRAQ-BEEKEEPERSWATER-CRISIS_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138027)
+INFO     root:database.py:28 (29552, '2025-09-24T084507Z_1_LWD678122092025RP1_RTRWNEV_B_6781-IRAQ-BEEKEEPERS-WATER-CRISIS.MPG', None, None, 'tag:reuters.com,2025:newsml_RW678122092025RP1', 33, '202509246781ME-IRAQ-BEEKEEPERSWATER-CRISIS_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138027)
+INFO     root:database.py:28 (29553, '2025-09-24T084507Z_1_LWD678122092025RP1_RTRWNEV_C_6781-IRAQ-BEEKEEPERS-WATER-CRISIS.MP4', datetime.datetime(2025, 9, 24, 10, 32, 42), None, 'tag:reuters.com,2025:newsml_RW678122092025RP1', 33, '202509246781ME-IRAQ-BEEKEEPERSWATER-CRISIS_O_.mp4', 0, 1, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138027)
+INFO     root:database.py:28 (29554, '2025-09-24T101650Z_4_RW719123092025RP1_RTRMADC_0_SEYCHELLES-ELECTIONS-VICTORIA-CITYSHOTS.XML', None, None, 'tag:reuters.com,2025:newsml_RW719123092025RP1', 33, '202509247191WD-SEYCHELLES-ELECTIONSVICTORIA-CITYSHOTS_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138028)
+INFO     root:database.py:28 (29555, '2025-09-24T101157Z_1_LWD719123092025RP1_RTRWNEV_B_7191-SEYCHELLES-ELECTIONS-VICTORIA-CITYSHOTS.MPG', None, None, 'tag:reuters.com,2025:newsml_RW719123092025RP1', 33, '202509247191WD-SEYCHELLES-ELECTIONSVICTORIA-CITYSHOTS_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138028)
+INFO     root:database.py:28 (29556, '2025-09-24T101157Z_1_LWD719123092025RP1_RTRWNEV_C_7191-SEYCHELLES-ELECTIONS-VICTORIA-CITYSHOTS.MP4', datetime.datetime(2025, 9, 24, 10, 32, 43), None, 'tag:reuters.com,2025:newsml_RW719123092025RP1', 33, '202509247191WD-SEYCHELLES-ELECTIONSVICTORIA-CITYSHOTS_O_.mp4', 0, 1, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138028)
+INFO     root:database.py:28 (29557, '2025-09-24T095955Z_5_RW746724092025RP1_RTRMADC_0_JAPAN-POLITICS.XML', None, None, 'tag:reuters.com,2025:newsml_RW746724092025RP1', 33, '202509247467WD-JAPAN-POLITICS_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138029)
+INFO     root:database.py:28 (29558, '2025-09-24T090839Z_1_LWD746724092025RP1_RTRWNEV_B_7467-JAPAN-POLITICS.MPG', None, None, 'tag:reuters.com,2025:newsml_RW746724092025RP1', 33, '202509247467WD-JAPAN-POLITICS_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138029)
+INFO     root:database.py:28 (29559, '2025-09-24T090839Z_1_LWD746724092025RP1_RTRWNEV_C_7467-JAPAN-POLITICS.MP4', datetime.datetime(2025, 9, 24, 10, 32, 44), None, 'tag:reuters.com,2025:newsml_RW746724092025RP1', 33, '202509247467WD-JAPAN-POLITICS_O_.mp4', 0, 1, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138029)
+INFO     root:database.py:28 (29560, '2025-09-24T092246Z_4_RW747924092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-FRANCE-FLAGS.XML', None, None, 'tag:reuters.com,2025:newsml_RW747924092025RP1', 33, '202509247479RR-ISRAEL-PALESTINIANSFRANCE-FLAGS.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138030)
+INFO     root:database.py:28 (29561, '2025-09-24T090945Z_1_LWD747924092025RP1_RTRWNEV_B_7479-ISRAEL-PALESTINIANS-FRANCE-FLAGS.MPG', None, None, 'tag:reuters.com,2025:newsml_RW747924092025RP1', 33, '202509247479RR-ISRAEL-PALESTINIANSFRANCE-FLAGS.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138030)
+INFO     root:database.py:28 (29562, '2025-09-24T090945Z_1_LWD747924092025RP1_RTRWNEV_C_7479-ISRAEL-PALESTINIANS-FRANCE-FLAGS.MP4', datetime.datetime(2025, 9, 24, 10, 32, 46), None, 'tag:reuters.com,2025:newsml_RW747924092025RP1', 33, '202509247479RR-ISRAEL-PALESTINIANSFRANCE-FLAGS.mp4', 0, 1, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138030)
+INFO     root:database.py:28 (29563, '2025-09-24T095242Z_4_RW748024092025RP1_RTRMADC_0_THAILAND-ACCIDENT.XML', None, None, 'tag:reuters.com,2025:newsml_RW748024092025RP1', 33, '202509247480WD-THAILAND-ACCIDENT_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138031)
+INFO     root:database.py:28 (29564, '2025-09-24T054427Z_1_LWD748024092025RP1_RTRWNEV_B_7480-THAILAND-ACCIDENT.MPG', None, None, 'tag:reuters.com,2025:newsml_RW748024092025RP1', 33, '202509247480WD-THAILAND-ACCIDENT_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138031)
+INFO     root:database.py:28 (29565, '2025-09-24T054427Z_1_LWD748024092025RP1_RTRWNEV_C_7480-THAILAND-ACCIDENT.MP4', datetime.datetime(2025, 9, 24, 10, 32, 47), None, 'tag:reuters.com,2025:newsml_RW748024092025RP1', 33, '202509247480WD-THAILAND-ACCIDENT_O_.mp4', 0, 1, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138031)
+INFO     root:database.py:28 (29566, '2025-09-24T092325Z_4_RW748424092025RP1_RTRMADC_0_ASIA-WEATHER-TAIWAN-SHELTER.XML', None, None, 'tag:reuters.com,2025:newsml_RW748424092025RP1', 33, '202509247484WD-ASIA-WEATHERTAIWAN-SHELTER_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138032)
+INFO     root:database.py:28 (29567, '2025-09-24T074746Z_1_LWD748424092025RP1_RTRWNEV_B_7484-ASIA-WEATHER-TAIWAN-SHELTER.MPG', None, None, 'tag:reuters.com,2025:newsml_RW748424092025RP1', 33, '202509247484WD-ASIA-WEATHERTAIWAN-SHELTER_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138032)
+INFO     root:database.py:28 (29568, '2025-09-24T074746Z_1_LWD748424092025RP1_RTRWNEV_C_7484-ASIA-WEATHER-TAIWAN-SHELTER.MP4', None, None, 'tag:reuters.com,2025:newsml_RW748424092025RP1', 33, '202509247484WD-ASIA-WEATHERTAIWAN-SHELTER_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138032)
+INFO     root:database.py:28 (29569, '2025-09-24T102230Z_4_RW749224092025RP1_RTRMADC_0_USA-KIMMEL-DISNEY.XML', None, None, 'tag:reuters.com,2025:newsml_RW749224092025RP1', 33, '202509247492UO-USA-KIMMELDISNEY_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138033)
+INFO     root:database.py:28 (29570, '2025-09-24T100322Z_1_LWD749224092025RP1_RTRWNEV_B_7492-USA-KIMMEL-DISNEY.MPG', None, None, 'tag:reuters.com,2025:newsml_RW749224092025RP1', 33, '202509247492UO-USA-KIMMELDISNEY_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138033)
+INFO     root:database.py:28 (29571, '2025-09-24T100322Z_1_LWD749224092025RP1_RTRWNEV_C_7492-USA-KIMMEL-DISNEY.MP4', None, None, 'tag:reuters.com,2025:newsml_RW749224092025RP1', 33, '202509247492UO-USA-KIMMELDISNEY_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138033)
+INFO     root:database.py:28 (29572, '2025-09-24T095512Z_5_RW750524092025RP1_RTRMADC_0_DEUTSCHLAND-BUNDESTAG-MERZ.XML', None, None, 'tag:reuters.com,2025:newsml_RW750524092025RP1', 33, '202509247505GE-DEUTSCHLAND-BUNDESTAGMERZ.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138034)
+INFO     root:database.py:28 (29573, '2025-09-24T090704Z_1_LWD750524092025RP1_RTRWNEV_B_7505-DEUTSCHLAND-BUNDESTAG-MERZ.MPG', None, None, 'tag:reuters.com,2025:newsml_RW750524092025RP1', 33, '202509247505GE-DEUTSCHLAND-BUNDESTAGMERZ.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138034)
+INFO     root:database.py:28 (29574, '2025-09-24T090704Z_1_LWD750524092025RP1_RTRWNEV_C_7505-DEUTSCHLAND-BUNDESTAG-MERZ.MP4', None, None, 'tag:reuters.com,2025:newsml_RW750524092025RP1', 33, '202509247505GE-DEUTSCHLAND-BUNDESTAGMERZ.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138034)
+INFO     root:database.py:28 (29575, '2025-09-24T094114Z_6_RW751224092025RP1_RTRMADC_0_GERMANY-ECONOMY-MERZ.XML', None, None, 'tag:reuters.com,2025:newsml_RW751224092025RP1', 33, '202509247512WD-GERMANY-ECONOMYMERZ_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138035)
+INFO     root:database.py:28 (29576, '2025-09-24T084844Z_1_LWD751224092025RP1_RTRWNEV_B_7512-GERMANY-ECONOMY-MERZ.MPG', None, None, 'tag:reuters.com,2025:newsml_RW751224092025RP1', 33, '202509247512WD-GERMANY-ECONOMYMERZ_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138035)
+INFO     root:database.py:28 (29577, '2025-09-24T084844Z_1_LWD751224092025RP1_RTRWNEV_C_7512-GERMANY-ECONOMY-MERZ.MP4', None, None, 'tag:reuters.com,2025:newsml_RW751224092025RP1', 33, '202509247512WD-GERMANY-ECONOMYMERZ_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138035)
+INFO     root:database.py:28 (29578, '2025-09-24T093816Z_2_RW751424092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-AFTERMATH-ROUGH-CUT.XML', None, None, 'tag:reuters.com,2025:newsml_RW751424092025RP1', 33, '202509247514AR-ISRAEL-PALESTINIANSGAZA-AFTERMATH_ROUGH_CU.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138036)
+INFO     root:database.py:28 (29579, '2025-09-24T093816Z_1_LWD751424092025RP1_RTRWNEV_B_7514-ISRAEL-PALESTINIANS-GAZA-AFTERMATH-ROUGH-CUT.MPG', None, None, 'tag:reuters.com,2025:newsml_RW751424092025RP1', 33, '202509247514AR-ISRAEL-PALESTINIANSGAZA-AFTERMATH_ROUGH_CU.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138036)
+INFO     root:database.py:28 (29580, '2025-09-24T093816Z_1_LWD751424092025RP1_RTRWNEV_C_7514-ISRAEL-PALESTINIANS-GAZA-AFTERMATH-ROUGH-CUT.MP4', None, None, 'tag:reuters.com,2025:newsml_RW751424092025RP1', 33, '202509247514AR-ISRAEL-PALESTINIANSGAZA-AFTERMATH_ROUGH_CU.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138036)
+INFO     root:database.py:28 (29581, '2025-09-24T102356Z_4_RW751724092025RP1_RTRMADC_0_DEUTSCHLAND-BUNDESTAG-DEBATTE.XML', None, None, 'tag:reuters.com,2025:newsml_RW751724092025RP1', 33, '202509247517GE-DEUTSCHLAND-BUNDESTAGDEBATTE.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138037)
+INFO     root:database.py:28 (29582, '2025-09-24T100910Z_1_LWD751724092025RP1_RTRWNEV_B_7517-DEUTSCHLAND-BUNDESTAG-DEBATTE.MPG', None, None, 'tag:reuters.com,2025:newsml_RW751724092025RP1', 33, '202509247517GE-DEUTSCHLAND-BUNDESTAGDEBATTE.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138037)
+INFO     root:database.py:28 (29583, '2025-09-24T100910Z_1_LWD751724092025RP1_RTRWNEV_C_7517-DEUTSCHLAND-BUNDESTAG-DEBATTE.MP4', None, None, 'tag:reuters.com,2025:newsml_RW751724092025RP1', 33, '202509247517GE-DEUTSCHLAND-BUNDESTAGDEBATTE.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138037)
+INFO     root:database.py:28 (29584, '2025-09-24T100105Z_4_RW752024092025RP1_RTRMADC_0_UKRAINE-CRISIS-TRUMP-REACTION.XML', None, None, 'tag:reuters.com,2025:newsml_RW752024092025RP1', 33, '202509247520WD-UKRAINE-CRISISTRUMP-REACTION_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138038)
+INFO     root:database.py:28 (29585, '2025-09-24T095107Z_1_LWD752024092025RP1_RTRWNEV_B_7520-UKRAINE-CRISIS-TRUMP-REACTION.MPG', None, None, 'tag:reuters.com,2025:newsml_RW752024092025RP1', 33, '202509247520WD-UKRAINE-CRISISTRUMP-REACTION_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138038)
+INFO     root:database.py:28 (29586, '2025-09-24T095107Z_1_LWD752024092025RP1_RTRWNEV_C_7520-UKRAINE-CRISIS-TRUMP-REACTION.MP4', None, None, 'tag:reuters.com,2025:newsml_RW752024092025RP1', 33, '202509247520WD-UKRAINE-CRISISTRUMP-REACTION_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138038)
+INFO     root:database.py:28 (29587, '2025-09-24T094121Z_4_RW752824092025RP1_RTRMADC_0_ASIA-WEATHER-TAIWAN-ROUGH-CUT.XML', None, None, 'tag:reuters.com,2025:newsml_RW752824092025RP1', 33, '202509247528AR-ASIA-WEATHERTAIWAN_ROUGH_CUT.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138039)
+INFO     root:database.py:28 (29588, '2025-09-24T094040Z_1_LWD752824092025RP1_RTRWNEV_B_7528-ASIA-WEATHER-TAIWAN-ROUGH-CUT.MPG', None, None, 'tag:reuters.com,2025:newsml_RW752824092025RP1', 33, '202509247528AR-ASIA-WEATHERTAIWAN_ROUGH_CUT.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138039)
+INFO     root:database.py:28 (29589, '2025-09-24T094040Z_1_LWD752824092025RP1_RTRWNEV_C_7528-ASIA-WEATHER-TAIWAN-ROUGH-CUT.MP4', None, None, 'tag:reuters.com,2025:newsml_RW752824092025RP1', 33, '202509247528AR-ASIA-WEATHERTAIWAN_ROUGH_CUT.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138039)
+INFO     root:database.py:28 (29590, '2025-09-24T100200Z_7_RW753124092025RP1_RTRMADC_0_EUROPE-MIGRATION-HUNGARY.XML', None, None, 'tag:reuters.com,2025:newsml_RW753124092025RP1', 33, '202509247531WD-EUROPE-MIGRATIONHUNGARY_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138040)
+INFO     root:database.py:28 (29591, '2025-09-24T084523Z_1_LWD753124092025RP1_RTRWNEV_B_7531-EUROPE-MIGRATION-HUNGARY.MPG', None, None, 'tag:reuters.com,2025:newsml_RW753124092025RP1', 33, '202509247531WD-EUROPE-MIGRATIONHUNGARY_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138040)
+INFO     root:database.py:28 (29592, '2025-09-24T084523Z_1_LWD753124092025RP1_RTRWNEV_C_7531-EUROPE-MIGRATION-HUNGARY.MP4', None, None, 'tag:reuters.com,2025:newsml_RW753124092025RP1', 33, '202509247531WD-EUROPE-MIGRATIONHUNGARY_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138040)
+INFO     root:database.py:28 (29593, '2025-09-24T091127Z_4_RW753224092025RP1_RTRMADC_0_BRITAIN-CHURCH.XML', None, None, 'tag:reuters.com,2025:newsml_RW753224092025RP1', 33, '202509247532WD-BRITAIN-CHURCH_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138041)
+INFO     root:database.py:28 (29594, '2025-09-24T085331Z_1_LWD753224092025RP1_RTRWNEV_B_7532-BRITAIN-CHURCH.MPG', None, None, 'tag:reuters.com,2025:newsml_RW753224092025RP1', 33, '202509247532WD-BRITAIN-CHURCH_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138041)
+INFO     root:database.py:28 (29595, '2025-09-24T085331Z_1_LWD753224092025RP1_RTRWNEV_C_7532-BRITAIN-CHURCH.MP4', None, None, 'tag:reuters.com,2025:newsml_RW753224092025RP1', 33, '202509247532WD-BRITAIN-CHURCH_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138041)
+INFO     root:database.py:28 (29596, '2025-09-24T100725Z_2_RW753324092025RP1_RTRMADC_0_SYRIA-SECURITY-LATAKIA-WILDFIRE.XML', None, None, 'tag:reuters.com,2025:newsml_RW753324092025RP1', 33, '202509247533WD-SYRIA-SECURITYLATAKIA-WILDFIRE_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138042)
+INFO     root:database.py:28 (29597, '2025-09-24T100725Z_1_LWD753324092025RP1_RTRWNEV_B_7533-SYRIA-SECURITY-LATAKIA-WILDFIRE.MPG', None, None, 'tag:reuters.com,2025:newsml_RW753324092025RP1', 33, '202509247533WD-SYRIA-SECURITYLATAKIA-WILDFIRE_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138042)
+INFO     root:database.py:28 (29598, '2025-09-24T100725Z_1_LWD753324092025RP1_RTRWNEV_C_7533-SYRIA-SECURITY-LATAKIA-WILDFIRE.MP4', None, None, 'tag:reuters.com,2025:newsml_RW753324092025RP1', 33, '202509247533WD-SYRIA-SECURITYLATAKIA-WILDFIRE_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138042)
+INFO     root:database.py:28 (29599, '2025-09-24T102503Z_5_RW754024092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-FUNERALS.XML', None, None, 'tag:reuters.com,2025:newsml_RW754024092025RP1', 33, '202509247540WD-ISRAEL-PALESTINIANSGAZA-FUNERALS_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138043)
+INFO     root:database.py:28 (29600, '2025-09-24T093345Z_1_LWD754024092025RP1_RTRWNEV_B_7540-ISRAEL-PALESTINIANS-GAZA-FUNERALS.MPG', None, None, 'tag:reuters.com,2025:newsml_RW754024092025RP1', 33, '202509247540WD-ISRAEL-PALESTINIANSGAZA-FUNERALS_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138043)
+INFO     root:database.py:28 (29601, '2025-09-24T093345Z_1_LWD754024092025RP1_RTRWNEV_C_7540-ISRAEL-PALESTINIANS-GAZA-FUNERALS.MP4', None, None, 'tag:reuters.com,2025:newsml_RW754024092025RP1', 33, '202509247540WD-ISRAEL-PALESTINIANSGAZA-FUNERALS_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138043)
+INFO     root:database.py:28 (29602, '2025-09-24T100218Z_3_RW754324092025RP1_RTRMADC_0_ASIA-WEATHER-HONGKONG-UGC3.XML', None, None, 'tag:reuters.com,2025:newsml_RW754324092025RP1', 33, '202509247543WD-ASIA-WEATHERHONGKONG-UGC3_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138044)
+INFO     root:database.py:28 (29603, '2025-09-24T094302Z_1_LWD754324092025RP1_RTRWNEV_B_7543-ASIA-WEATHER-HONGKONG-UGC3.MPG', None, None, 'tag:reuters.com,2025:newsml_RW754324092025RP1', 33, '202509247543WD-ASIA-WEATHERHONGKONG-UGC3_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138044)
+INFO     root:database.py:28 (29604, '2025-09-24T094302Z_1_LWD754324092025RP1_RTRWNEV_C_7543-ASIA-WEATHER-HONGKONG-UGC3.MP4', None, None, 'tag:reuters.com,2025:newsml_RW754324092025RP1', 33, '202509247543WD-ASIA-WEATHERHONGKONG-UGC3_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138044)
+INFO     root:database.py:28 (29605, '2025-09-24T100944Z_3_RW754624092025RP1_RTRMADC_0_USA-TRUMP-INDIA-TRADE.XML', None, None, 'tag:reuters.com,2025:newsml_RW754624092025RP1', 33, '202509247546WD-USA-TRUMPINDIA-TRADE_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138045)
+INFO     root:database.py:28 (29606, '2025-09-24T093704Z_1_LWD754624092025RP1_RTRWNEV_B_7546-USA-TRUMP-INDIA-TRADE.MPG', None, None, 'tag:reuters.com,2025:newsml_RW754624092025RP1', 33, '202509247546WD-USA-TRUMPINDIA-TRADE_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138045)
+INFO     root:database.py:28 (29607, '2025-09-24T093704Z_1_LWD754624092025RP1_RTRWNEV_C_7546-USA-TRUMP-INDIA-TRADE.MP4', None, None, 'tag:reuters.com,2025:newsml_RW754624092025RP1', 33, '202509247546WD-USA-TRUMPINDIA-TRADE_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138045)
+INFO     root:database.py:28 (29608, '2025-09-24T102652Z_4_RW754924092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA.XML', None, None, 'tag:reuters.com,2025:newsml_RW754924092025RP1', 33, '202509247549WD-UKRAINE-CRISISRUSSIA_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138046)
+INFO     root:database.py:28 (29609, '2025-09-24T101557Z_1_LWD754924092025RP1_RTRWNEV_B_7549-UKRAINE-CRISIS-RUSSIA.MPG', None, None, 'tag:reuters.com,2025:newsml_RW754924092025RP1', 33, '202509247549WD-UKRAINE-CRISISRUSSIA_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138046)
+INFO     root:database.py:28 (29610, '2025-09-24T101557Z_1_LWD754924092025RP1_RTRWNEV_C_7549-UKRAINE-CRISIS-RUSSIA.MP4', None, None, 'tag:reuters.com,2025:newsml_RW754924092025RP1', 33, '202509247549WD-UKRAINE-CRISISRUSSIA_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138046)
+INFO     root:database.py:28 (29611, '2025-09-24T102117Z_2_RW756724092025RP1_RTRMADC_0_ASIA-WEATHER-AVIATION.XML', None, None, 'tag:reuters.com,2025:newsml_RW756724092025RP1', 33, '202509247567WD-ASIA-WEATHERAVIATION_O_.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138047)
+INFO     root:database.py:28 (29612, '2025-09-24T102117Z_1_LWD756724092025RP1_RTRWNEV_B_7567-ASIA-WEATHER-AVIATION.MPG', None, None, 'tag:reuters.com,2025:newsml_RW756724092025RP1', 33, '202509247567WD-ASIA-WEATHERAVIATION_O_.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138047)
+INFO     root:database.py:28 (29613, '2025-09-24T102117Z_1_LWD756724092025RP1_RTRWNEV_C_7567-ASIA-WEATHER-AVIATION.MP4', None, None, 'tag:reuters.com,2025:newsml_RW756724092025RP1', 33, '202509247567WD-ASIA-WEATHERAVIATION_O_.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138047)
+INFO     root:database.py:28 (29614, '2025-09-24T094222Z_2_RWMS7AYJ3_RTRMADC_0_ASIA-WEATHER-INDIA.XML', None, None, 'tag:reuters.com,2025:newsml_RWMS7AYJ3', 33, '202509243033SC-ASIA-WEATHERINDIA.xml', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138048)
+INFO     root:database.py:28 (29615, '2025-09-24T094222Z_1_LWD001ICP3U4V_RTRWNEV_B_3033-ASIA-WEATHER-INDIA.MPG', None, None, 'tag:reuters.com,2025:newsml_RWMS7AYJ3', 33, '202509243033SC-ASIA-WEATHERINDIA.mpg', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138048)
+INFO     root:database.py:28 (29616, '2025-09-24T094222Z_1_LWD001ICP3U4V_RTRWNEV_C_3033-ASIA-WEATHER-INDIA.MP4', None, None, 'tag:reuters.com,2025:newsml_RWMS7AYJ3', 33, '202509243033SC-ASIA-WEATHERINDIA.mp4', 0, 0, datetime.datetime(2025, 9, 24, 10, 30, 59), None, 138048)

@@ -1,0 +1,36 @@
+required_keys_whitelisted_appsettings:
+  authorized_admin:
+    website_enableGoogleAnalytics: false
+    website_showPlayedOrCopied: Played
+    website_AdvisoryMainCount: 5
+    website_StoryMainCount: 10
+    website_HostIp: 10.99.135.99
+    website_showPreview: true
+    website_Locale: US
+  authorized_user:
+    website_enableGoogleAnalytics: false
+    website_showPlayedOrCopied: Played
+    website_AdvisoryMainCount: 5
+    website_StoryMainCount: 10
+    website_HostIp: 10.99.135.99
+    website_showPreview: true
+    website_Locale: US
+  unauthorized:
+    website_enableGoogleAnalytics: false
+    website_showPlayedOrCopied: Played
+    website_AdvisoryMainCount: 5
+    website_StoryMainCount: 10
+    website_HostIp: 10.99.135.99
+    website_showPreview: true
+    website_Locale: US
+sensitive_keys_appsettings:
+  # Keys that should be have a hidden value when returned by appsettings request
+  # (Case-sensitive)
+  - CDNR.Password
+  - CDNR.ProxyPassword
+  - Live.streamManager.accessKey
+  - Live.streamManager.secretKey
+  - PushClient.Password
+  - PushClient.ProxyPassword
+  - RLOB.ProxyPassword
+  - TeamViewer.Password

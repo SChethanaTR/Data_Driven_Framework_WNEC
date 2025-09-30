@@ -1,0 +1,1 @@
+INFO:root:Logout message: Log out from BOX 1

@@ -1,0 +1,1 @@
+{"name": "test_delete_user[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1754379352756, "stop": 1754379353385, "uuid": "2ea08664-3243-409f-855e-b78aa2178eaf", "testCaseId": "5b6f26f6d8b855476136d0c1cd56cfda", "fullName": "tests.Automation_tests.test_User_management#test_delete_user"}

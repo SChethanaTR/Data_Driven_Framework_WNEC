@@ -1,0 +1,8 @@
+INFO:root:Story playout initiated for story index: 3
+INFO:root:Story playout initiated for story index: 4
+INFO:root:Story playout initiated for story index: 5
+INFO:root:Story playout initiated for story index: 6
+INFO:root:Story playout initiated for story index: 7
+INFO:root:Story 1: UKRAINE-CRISIS/ATTACK-KYIV
+INFO:root:Story 2: BASKETBALL-NBA-OKC-IND/
+INFO:root:Story 3: 9947-QA-DELIVERY-DECIDER-IMAGE-INGEST-V7-REFEED-3

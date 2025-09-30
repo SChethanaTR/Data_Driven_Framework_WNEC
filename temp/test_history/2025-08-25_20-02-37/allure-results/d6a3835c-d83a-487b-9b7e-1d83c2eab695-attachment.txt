@@ -1,0 +1,1 @@
+INFO     root:test_User_management.py:323 Testing user - Username: qkcorj, Password: AR8*Fq5%ym

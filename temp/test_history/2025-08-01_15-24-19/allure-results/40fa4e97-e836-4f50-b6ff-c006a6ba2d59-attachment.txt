@@ -1,0 +1,2 @@
+INFO:root:Stories added to distribution from my videos page
+INFO:root:Stories added to distribution from stories page

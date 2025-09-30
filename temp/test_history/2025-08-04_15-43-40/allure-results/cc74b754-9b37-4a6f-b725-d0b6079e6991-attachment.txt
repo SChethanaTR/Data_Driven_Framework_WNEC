@@ -1,0 +1,2 @@
+INFO:root:View of Oban Bay with Storm Floris set to bring strong wind and rains to UK
+INFO:root:EUROPE-WEATHER/BRITAIN-STORM

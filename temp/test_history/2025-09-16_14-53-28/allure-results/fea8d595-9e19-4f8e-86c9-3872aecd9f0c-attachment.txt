@@ -1,0 +1,3 @@
+INFO:root:Testing with FD name: '  '
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.

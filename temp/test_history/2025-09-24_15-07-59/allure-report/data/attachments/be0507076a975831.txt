@@ -1,0 +1,8 @@
+INFO     root:test_admin_playout.py:334 Story 1: PEOPLE-GIORGIO ARMANI/DEATH-MORNING
+INFO     root:test_admin_playout.py:334 Story 2: USA-RUSSIA/IRRITANTS-KREMLIN
+INFO     root:test_admin_playout.py:334 Story 3: ASIA-WEATHER/AVIATION
+INFO     root:test_admin_playout.py:363 
+INFO     root:database.py:28 ('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Disabled', 'Waiting', 'auto', '', '', 'Stopped', 'None', 1, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('3', 'SDI output 03', 'file', 5, 1, 0, 'None', 'Playing', 'Waiting', 'loop', '', '', 'Now playing: 2025-09-05T080309Z_1_LWD238005092025RP1_RTRWNEV_C_2380-PEOPLE-GIORGIO-ARMANI-DEATH-MORNING.MP4', '2025-09-05T080309Z_1_LWD238005092025RP1_RTRWNEV_C_2380-PEOPLE-GIORGIO-ARMANI-DEATH-MORNING.MP4', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Playing', 'Waiting', 'fixed', '', 'tag:reuters.com,2025:newsml_AD2J4G1ZX6', 'Now playing: Report into possible use of surveillance against journalists by Northern Irish police', 'Report into possible use of surveillance against journalists by Northern Irish police', 0, 0, '', '', 0, '', '', '', 0, 'rl3')

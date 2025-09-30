@@ -1,0 +1,19 @@
+INFO     root:test_FD.py:33 FTP
+INFO     root:test_FD.py:45 Distribution History is empty
+INFO     root:test_FD.py:57 China-Flood/Rescue/Beijing
+INFO     root:test_FD.py:57 Gaza Strip-Humanitarian Operation/Obstacles
+INFO     root:test_FD.py:57 USA-TRUMP/TAIWAN-ANALYST
+INFO     root:test_FD.py:59 Files added to FTP distribution
+INFO     root:test_FD.py:63 2025-08-01T072352Z_1_LWD001I52RN8P_RTRWNEV_C_5609-GAZA-STRIP-HUMANITARIAN-OPERATION-OBSTACLES.MP4
+INFO     root:test_FD.py:63 2025-08-01T070659Z_5_RW425801082025RP1_RTRMADC_0_USA-TRUMP-TAIWAN-ANALYST.XML
+INFO     root:test_FD.py:63 2025-08-01T063748Z_2_RWMKKYQUH_RTRMADC_0_CHINA-FLOOD-RESCUE-BEIJING.XML
+INFO     root:test_FD.py:65 Files distributed to FTP
+INFO     root:test_FD.py:33 FTPS
+INFO     root:test_FD.py:51 Distribution History is empty
+INFO     root:test_FD.py:57 ADVISORY-SUBCON - AUGUST 01, 2025 ADVISORY
+INFO     root:test_FD.py:57 ADVISORY-SUBCON - AUGUST 01, 2025 ADVISORY
+INFO     root:test_FD.py:57 China-Flood/Rescue/Beijing
+INFO     root:test_FD.py:59 Files added to FTPS distribution
+INFO     root:test_FD.py:63 2025-08-01T072352Z_1_LWD001I52RN8P_RTRWNEV_B_5609-GAZA-STRIP-HUMANITARIAN-OPERATION-OBSTACLES.MPG
+INFO     root:test_FD.py:63 2025-08-01T063748Z_2_RWMKKYQUH_RTRMADC_0_CHINA-FLOOD-RESCUE-BEIJING.XML
+INFO     root:test_FD.py:63 2025-08-01T072352Z_1_LWD001I52RN8P_RTRWNEV_B_5609-GAZA-STRIP-HUMANITARIAN-OPERATION-OBSTACLES.MPG

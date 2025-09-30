@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: China-Xinjiang/Kashgar Ancient City
+INFO     root:test_history.py:123 Story added: TENNIS-LAVERCUP/
+INFO     root:test_history.py:123 Story added: China-Xinjiang/Kashgar Ancient City
+INFO     root:test_history.py:125 All stories collected: ['China-Xinjiang/Kashgar Ancient City', 'TENNIS-LAVERCUP/', 'China-Xinjiang/Kashgar Ancient City']
+ERROR    root:test_history.py:148 The story 'China-Xinjiang/Kashgar Ancient City' is NOT present in the history page.

@@ -1,0 +1,9 @@
+INFO     root:test_admin_playout.py:333 Story 1: NIGERIA-MUSIC/XYLOPHONE
+INFO     root:test_admin_playout.py:333 Story 2: INDIA-STOCKS/
+INFO     root:test_admin_playout.py:333 Story 3: China-Xinjiang/Duku Highway/Traffic Police
+INFO     root:test_admin_playout.py:362 
+INFO     root:test_admin_playout.py:362 
+INFO     root:database.py:28 ('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Playing', 'Waiting', '', '', '', 'Now playing: Reuters Live Online', 'Reuters Live Online', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Playing', 'Waiting', 'fixed', '', 'tag:reuters.com,2025:newsml_AD2IWNXXQY', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, 'rl2')

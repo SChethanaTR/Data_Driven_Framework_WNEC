@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:205 Copied value: http://10.189.200.4/stories?storyid=tag%3Areuters.com%2C2025%3Anewsml_RWMRSODWP
+INFO     root:test_User_Interface.py:211 Copied link opened in a new tab.
+INFO     root:test_User_Interface.py:214 Waited for 1 minutes.

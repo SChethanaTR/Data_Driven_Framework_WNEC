@@ -1,0 +1,3 @@
+INFO     root:test_VFD.py:654 Validation from database
+INFO     root:database.py:28 (36, 'xOmTVmvx', '$2a$10$lZ/aInAcGFQQXcf9L0owJe/XKJvtBY3iA/oKIvFPq7EFUDcUv6uUq', None, None, 1, 1, 1, 1)
+INFO     root:database.py:28 (73, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)

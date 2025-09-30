@@ -1,0 +1,46 @@
+INFO     root:test_User_Interface.py:316 Found 17 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:322 Live Now Video: Typhoon Ragasa takes aim at China after leaving 14 dead in Taiwan, lashing Hong Kong
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Greta Thunberg speaks from the Global Sumud Flotilla
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Report into possible use of surveillance against journalists by Northern Irish police
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: NASA launches a trio of spacecraft in a mission to study space weather
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Thai PM Anutin and cabinet to take oath before King Vajiralongkorn
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Barcelona hold press conference ahead of their LaLiga game against Oviedo
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Hong Kong assesses damage after typhoon Ragasa sweeps past
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Reuters Climate Frontlines: The Corporate Climate Dilemma
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Artemis II astronauts hold news conference
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Zelenskiy attends annual Crimea meeting on UNGA sidelines
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Jeffrey Sachs sits down with Reuters Climate & Environment Editor Katy Daigle
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Climate summit on sidelines of the UN General Assembly
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.

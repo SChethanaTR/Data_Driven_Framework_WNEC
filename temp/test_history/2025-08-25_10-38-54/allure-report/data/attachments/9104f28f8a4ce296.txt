@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:525 USA-MIGRATION/MEXICO-BOXER
+INFO     root:test_User_Interface.py:530 Extracted text: USA-FARM/SCREWWORM-HUMAN
+INFO     root:test_User_Interface.py:543 USA-FARM/SCREWWORM-HUMAN

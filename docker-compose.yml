@@ -1,0 +1,13 @@
+version: "3"
+services:
+  wnec:
+    container_name: wnec_auto
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        aws_access_key: "user aws_access_key"
+        aws_secret_access_key: "user aws_secret_access_key"
+        aws_region: "eu-west-1"
+        git_user: "user git_user"
+        git_token: "user git_token"

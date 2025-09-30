@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:847 Story 1: SOUTHKOREA-POLITICS/UNIFICATION CHURCH-UPDATE
+INFO     root:test_admin_playout.py:847 Story 2: CLIMATE-CHANGE/HURRICANES-EXPLAINER
+INFO     root:test_admin_playout.py:847 Story 3: DEUTSCHLAND-BAHN/SCHNIEDER
+INFO     root:test_admin_playout.py:853 Data exported

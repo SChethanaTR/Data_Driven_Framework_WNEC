@@ -1,0 +1,8 @@
+INFO     root:test_admin_playout.py:330 Story 1: ISRAEL-PALESTINIANS/GAZA-FAMINE-WFP
+INFO     root:test_admin_playout.py:330 Story 2: ISRAEL-PALESTINIANS/GAZA-FAMINE-WFP
+INFO     root:test_admin_playout.py:330 Story 3: ISRAEL-PALESTINIANS/GAZA-FAMINE-WFP
+INFO     root:test_admin_playout.py:359 
+INFO     root:database.py:28 ('1', 'SDI output 01', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('2', 'SDI output 02', 'file', 5, 1, 0, 'None', 'Playing', 'Waiting', 'loop', '', '', 'Now playing: 2025-08-22T105716Z_1_LWD901022082025RP1_RTRWNEV_C_9010-ISRAEL-PALESTINIANS-GAZA-FAMINE-WFP.MP4', '2025-08-22T105716Z_1_LWD901022082025RP1_RTRWNEV_C_9010-ISRAEL-PALESTINIANS-GAZA-FAMINE-WFP.MP4', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('3', 'SDI output 03', 'file', None, 1, 0, 'None', 'Playing', 'Waiting', 'auto', '', '', 'Now playing: 2025-08-22T105716Z_1_LWD901022082025RP1_RTRWNEV_C_9010-ISRAEL-PALESTINIANS-GAZA-FAMINE-WFP.MP4', '2025-08-22T105716Z_1_LWD901022082025RP1_RTRWNEV_C_9010-ISRAEL-PALESTINIANS-GAZA-FAMINE-WFP.MP4', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('4', 'SDI output 04', 'file', 5, 1, 0, 'None', 'Playing', 'Waiting', 'loop', '', '', 'Now playing: 2025-08-22T105716Z_1_LWD901022082025RP1_RTRWNEV_C_9010-ISRAEL-PALESTINIANS-GAZA-FAMINE-WFP.MP4', '2025-08-22T105716Z_1_LWD901022082025RP1_RTRWNEV_C_9010-ISRAEL-PALESTINIANS-GAZA-FAMINE-WFP.MP4', 0, 0, '', '', 0, '', '', '', 0, '')

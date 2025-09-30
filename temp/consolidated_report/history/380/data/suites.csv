@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","424370","test_fallback_to_primary_server_after_failover[chromium]","tests.Automation_tests","Sun Sep 14 20:55:43 IST 2025","broken","Sun Sep 14 21:02:48 IST 2025","","test_VFD","",""

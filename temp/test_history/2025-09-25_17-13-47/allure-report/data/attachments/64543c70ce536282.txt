@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:257 Loop items checkbox is unchecked. Checking it to reveal Clear button.
+INFO     root:test_User_Interface.py:266 Clear button is visible. Clicking to clear history.
+INFO     root:test_User_Interface.py:273 Confirmation dialog appeared. Confirming clear action.

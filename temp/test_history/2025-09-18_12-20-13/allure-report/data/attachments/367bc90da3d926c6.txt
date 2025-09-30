@@ -1,0 +1,4 @@
+INFO     root:test_User_management.py:412 Testing user - Username: ooooun, Password: 3PgrE!0V^f
+INFO     root:test_User_management.py:429 Login successful
+INFO     root:test_User_management.py:441 Logout message verified
+INFO     root:test_User_management.py:446 Successfully logged out

@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:769 Currently playing: FRANCE-WEATHER/FLOODS-UGC6853
+INFO     root:test_admin_playout.py:775 After stopping: PLAYOUT READYAdd videos to Playlist or press Play Now button in Stories page
+INFO     root:test_admin_playout.py:779 Playout did not stop as expected
+INFO     root:test_admin_playout.py:787 After playing: NOW PLAYING:

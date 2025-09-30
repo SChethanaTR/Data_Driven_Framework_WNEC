@@ -1,0 +1,4 @@
+INFO:root:Found 9 videos under 'Live Now'.
+INFO:root:Live Now Video: Malaysia's Trade and Industry Minister speaks on recent tariffs deal imposed on Malaysia
+INFO:root:Live Now Video: EU court rules on Italy-Albania asylum-seeker transfer deal
+INFO:root:Live Now Video: View of the Israel-Gaza border

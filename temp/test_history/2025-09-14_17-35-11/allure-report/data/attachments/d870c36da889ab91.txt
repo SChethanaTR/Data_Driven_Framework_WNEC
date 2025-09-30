@@ -1,0 +1,120 @@
+INFO     root:story.py:1348 Cell 1: 2025-09-14T094103Z_5_RW479514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 2: TBD
+INFO     root:story.py:1348 Cell 3: Waiting
+INFO     root:story.py:1348 Cell 4: 
+INFO     root:story.py:1348 Cell 5: 2025-09-14T094735Z_2_RWMQTPQP5_RTRMADC_0_CHINA-HAINAN-DUTY-FREE-SHOPPING.XML
+INFO     root:story.py:1348 Cell 6: TBD
+INFO     root:story.py:1348 Cell 7: Waiting
+INFO     root:story.py:1348 Cell 8: 
+INFO     root:story.py:1348 Cell 9: 2025-09-14T092251Z_2_RWMQTPSA1_RTRMADC_0_CHINA-XINJIANG-TRANSPORTATION-NETWORK.XML
+INFO     root:story.py:1348 Cell 10: TBD
+INFO     root:story.py:1348 Cell 11: Waiting
+INFO     root:story.py:1348 Cell 12: 
+INFO     root:story.py:1348 Cell 13: 2025-09-14T095821Z_5_RW477214092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 14: TBD
+INFO     root:story.py:1348 Cell 15: Waiting
+INFO     root:story.py:1348 Cell 16: 
+INFO     root:story.py:1348 Cell 17: 2025-09-14T111707Z_5_RW481914092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 18: TBD
+INFO     root:story.py:1348 Cell 19: Waiting
+INFO     root:story.py:1348 Cell 20: 
+INFO     root:story.py:1348 Cell 21: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 22: TBD
+INFO     root:story.py:1348 Cell 23: Waiting
+INFO     root:story.py:1348 Cell 24: 
+INFO     root:story.py:1348 Cell 25: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1348 Cell 26: TBD
+INFO     root:story.py:1348 Cell 27: Waiting
+INFO     root:story.py:1348 Cell 28: 
+INFO     root:story.py:1348 Cell 29: 2025-09-14T104652Z_5_RW480614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.XML
+INFO     root:story.py:1348 Cell 30: TBD
+INFO     root:story.py:1348 Cell 31: Waiting
+INFO     root:story.py:1348 Cell 32: 
+INFO     root:story.py:1348 Cell 33: 2025-09-14T092101Z_2_RWMQTPRHL_RTRMADC_0_SYRIA-PARLIAMENTARY-ELECTION.XML
+INFO     root:story.py:1348 Cell 34: TBD
+INFO     root:story.py:1348 Cell 35: Waiting
+INFO     root:story.py:1348 Cell 36: 
+INFO     root:story.py:1348 Cell 37: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 38: TBD
+INFO     root:story.py:1348 Cell 39: Waiting
+INFO     root:story.py:1348 Cell 40: 
+INFO     root:story.py:1348 Cell 41: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 42: TBD
+INFO     root:story.py:1348 Cell 43: Waiting
+INFO     root:story.py:1348 Cell 44: 
+INFO     root:story.py:1348 Cell 45: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 46: TBD
+INFO     root:story.py:1348 Cell 47: Waiting
+INFO     root:story.py:1348 Cell 48: 
+INFO     root:story.py:1348 Cell 49: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO     root:story.py:1348 Cell 50: TBD
+INFO     root:story.py:1348 Cell 51: Waiting
+INFO     root:story.py:1348 Cell 52: 
+INFO     root:story.py:1348 Cell 53: 2025-09-14T104652Z_5_RW480614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.XML
+INFO     root:story.py:1348 Cell 54: TBD
+INFO     root:story.py:1348 Cell 55: Waiting
+INFO     root:story.py:1348 Cell 56: 
+INFO     root:story.py:1348 Cell 57: 2025-09-14T120004Z_5_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO     root:story.py:1348 Cell 58: TBD
+INFO     root:story.py:1348 Cell 59: Waiting
+INFO     root:story.py:1348 Cell 60: 
+INFO     root:story.py:1348 Cell 61: 2025-09-14T092251Z_2_RWMQTPSA1_RTRMADC_0_CHINA-XINJIANG-TRANSPORTATION-NETWORK.XML
+INFO     root:story.py:1348 Cell 62: TBD
+INFO     root:story.py:1348 Cell 63: Waiting
+INFO     root:story.py:1348 Cell 64: 
+INFO     root:story.py:1348 Cell 65: 2025-09-14T095821Z_5_RW477214092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 66: TBD
+INFO     root:story.py:1348 Cell 67: Waiting
+INFO     root:story.py:1348 Cell 68: 
+INFO     root:story.py:1348 Cell 69: 2025-09-14T072914Z_6_RW478214092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RUBIO-ARRIVAL.XML
+INFO     root:story.py:1348 Cell 70: TBD
+INFO     root:story.py:1348 Cell 71: Waiting
+INFO     root:story.py:1348 Cell 72: 
+INFO     root:story.py:1348 Cell 73: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO     root:story.py:1348 Cell 74: TBD
+INFO     root:story.py:1348 Cell 75: Waiting
+INFO     root:story.py:1348 Cell 76: 
+INFO     root:story.py:1348 Cell 77: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 78: TBD
+INFO     root:story.py:1348 Cell 79: Waiting
+INFO     root:story.py:1348 Cell 80: 
+INFO     root:story.py:1348 Cell 81: 2025-09-14T120004Z_5_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO     root:story.py:1348 Cell 82: TBD
+INFO     root:story.py:1348 Cell 83: Waiting
+INFO     root:story.py:1348 Cell 84: 
+INFO     root:story.py:1348 Cell 85: 2025-09-14T120017Z_4_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO     root:story.py:1348 Cell 86: TBD
+INFO     root:story.py:1348 Cell 87: Waiting
+INFO     root:story.py:1348 Cell 88: 
+INFO     root:story.py:1348 Cell 89: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 90: TBD
+INFO     root:story.py:1348 Cell 91: Waiting
+INFO     root:story.py:1348 Cell 92: 
+INFO     root:story.py:1348 Cell 93: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 94: TBD
+INFO     root:story.py:1348 Cell 95: Waiting
+INFO     root:story.py:1348 Cell 96: 
+INFO     root:story.py:1348 Cell 97: 2025-09-14T095128Z_1_RW478214092025RP2_RTRMADC_0_ISRAEL-PALESTINIANS-RUBIO-ARRIVAL.XML
+INFO     root:story.py:1348 Cell 98: TBD
+INFO     root:story.py:1348 Cell 99: Waiting
+INFO     root:story.py:1348 Cell 100: 
+INFO     root:story.py:1348 Cell 101: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 102: TBD
+INFO     root:story.py:1348 Cell 103: Waiting
+INFO     root:story.py:1348 Cell 104: 
+INFO     root:story.py:1348 Cell 105: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO     root:story.py:1348 Cell 106: TBD
+INFO     root:story.py:1348 Cell 107: Waiting
+INFO     root:story.py:1348 Cell 108: 
+INFO     root:story.py:1348 Cell 109: 2025-09-14T120017Z_4_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO     root:story.py:1348 Cell 110: TBD
+INFO     root:story.py:1348 Cell 111: Waiting
+INFO     root:story.py:1348 Cell 112: 
+INFO     root:story.py:1348 Cell 113: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO     root:story.py:1348 Cell 114: TBD
+INFO     root:story.py:1348 Cell 115: Waiting
+INFO     root:story.py:1348 Cell 116: 
+INFO     root:story.py:1348 Cell 117: 2025-09-14T072914Z_6_RW478214092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RUBIO-ARRIVAL.XML
+INFO     root:story.py:1348 Cell 118: TBD
+INFO     root:story.py:1348 Cell 119: Waiting
+INFO     root:story.py:1348 Cell 120:

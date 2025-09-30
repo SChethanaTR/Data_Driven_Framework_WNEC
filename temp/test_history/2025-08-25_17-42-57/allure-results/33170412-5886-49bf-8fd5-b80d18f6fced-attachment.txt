@@ -1,0 +1,46 @@
+INFO     root:test_User_Interface.py:893 EUROPE-WEATHER/GREECE-WILDFIRE-OLIVE GROVE7184Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-MUELLVERBRENNUNG/7144Reuters
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/SETTLEMENT-E17219Reuters
+INFO     root:test_User_Interface.py:893 EUROPE-WEATHER/TURKEY-WILDFIRE7204Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-EXPERTE/TRUMP PUTIN7193Reuters
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV7208Reuters
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/SETTLEMENT-E1-REACTIONS7191Reuters
+INFO     root:test_User_Interface.py:893 INDIA-PAKISTAN/WATER-TREATY4034ANI
+INFO     root:test_User_Interface.py:893 China-FM/Thailand4620CCTV
+INFO     root:test_User_Interface.py:893 IRAN-RELIGION/ARBAEEN7207Reuters
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/RUSSIA-POW-SWAP7210Reuters
+INFO     root:test_User_Interface.py:893 EUROPE-WEATHER/GREECE-WILDFIRE-GAS-STATION7176Reuters
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/BRITAIN-ZELENSKIY-UPDATE7217Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-ZOO/FLUSSPFERD7148Reuters
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/KHAN-YOUNIS-SMOKE7205Reuters
+INFO     root:test_User_Interface.py:893 China-Manufacturing Industry/Globalization4619CCTV
+INFO     root:test_User_Interface.py:893 S Korea-Comfort Women/Protest4618CCTV
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/SETTLEMENT-E1-PRESSER7163Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-DOBRINDT/HALLE7145Reuters
+INFO     root:test_User_Interface.py:893 ROMANIA-DEFENCE/7189Reuters
+INFO     root:test_User_Interface.py:893 UN-PLASTIC/PRODUCTION7132Reuters
+INFO     root:test_User_Interface.py:893 Jerusalem/Gaza Strip-Peace/Expert4617CCTV
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/SUMMIT-PUTIN7200Reuters
+INFO     root:test_User_Interface.py:893 EUROPE-WEATHER/GREECE-WILDFIRE-OLIVE GROVE7184Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-MUELLVERBRENNUNG/7144Reuters
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/SETTLEMENT-E17219Reuters
+INFO     root:test_User_Interface.py:893 EUROPE-WEATHER/TURKEY-WILDFIRE7204Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-EXPERTE/TRUMP PUTIN7193Reuters
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/RUSSIA-DRONES-ROSTOV7208Reuters
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/SETTLEMENT-E1-REACTIONS7191Reuters
+INFO     root:test_User_Interface.py:893 INDIA-PAKISTAN/WATER-TREATY4034ANI
+INFO     root:test_User_Interface.py:893 China-FM/Thailand4620CCTV
+INFO     root:test_User_Interface.py:893 IRAN-RELIGION/ARBAEEN7207Reuters
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/RUSSIA-POW-SWAP7210Reuters
+INFO     root:test_User_Interface.py:893 EUROPE-WEATHER/GREECE-WILDFIRE-GAS-STATION7176Reuters
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/BRITAIN-ZELENSKIY-UPDATE7217Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-ZOO/FLUSSPFERD7148Reuters
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/KHAN-YOUNIS-SMOKE7205Reuters
+INFO     root:test_User_Interface.py:893 China-Manufacturing Industry/Globalization4619CCTV
+INFO     root:test_User_Interface.py:893 S Korea-Comfort Women/Protest4618CCTV
+INFO     root:test_User_Interface.py:893 ISRAEL-PALESTINIANS/SETTLEMENT-E1-PRESSER7163Reuters
+INFO     root:test_User_Interface.py:893 DEUTSCHLAND-DOBRINDT/HALLE7145Reuters
+INFO     root:test_User_Interface.py:893 ROMANIA-DEFENCE/7189Reuters
+INFO     root:test_User_Interface.py:893 UN-PLASTIC/PRODUCTION7132Reuters
+INFO     root:test_User_Interface.py:893 Jerusalem/Gaza Strip-Peace/Expert4617CCTV
+INFO     root:test_User_Interface.py:893 UKRAINE-CRISIS/SUMMIT-PUTIN7200Reuters

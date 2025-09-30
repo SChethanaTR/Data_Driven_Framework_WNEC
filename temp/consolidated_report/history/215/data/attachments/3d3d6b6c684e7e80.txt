@@ -1,0 +1,6 @@
+INFO:root:Input area is not interactable when locked, as expected.
+ERROR:root:Source dropdown is interactable when locked, which is incorrect.
+ERROR:root:Mode dropdown is interactable when locked, which is incorrect.
+ERROR:root:Input area is not interactable when unlocked, which is incorrect.
+INFO:root:Source dropdown is interactable when unlocked, as expected.
+INFO:root:Mode dropdown is interactable when unlocked, as expected.

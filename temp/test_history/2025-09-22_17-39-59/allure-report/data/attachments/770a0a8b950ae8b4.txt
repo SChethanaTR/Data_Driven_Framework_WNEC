@@ -1,0 +1,4 @@
+INFO:root:Testing user - Username: qhcfsf, Password: zF1@@c2StH
+INFO:root:Login successful
+INFO:root:Logout message verified
+INFO:root:Successfully logged out

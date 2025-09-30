@@ -1,0 +1,16 @@
+INFO:root:Filter name: Subcon
+INFO:root:No story items in the page.
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_7.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:Tail command output:
+INFO:root:	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+INFO:root:	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+INFO:root:	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+INFO:root:	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+INFO:root:	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+INFO:root:	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95)
+INFO:root:	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+INFO:root:	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+INFO:root:2025-03-27 13:03:44,892 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...
+INFO:root:2025-03-27 13:03:44,911 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown completed.
+INFO:root:Validation from database

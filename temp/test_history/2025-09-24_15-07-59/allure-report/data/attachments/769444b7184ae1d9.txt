@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: Germany's Merz discusses 2026 budget in parliament
+INFO:root:Locator 1 text: GERMANY-BUDGET/MERZ

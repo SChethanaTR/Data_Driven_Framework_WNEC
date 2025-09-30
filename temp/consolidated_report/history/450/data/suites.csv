@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","54337","test_delete_user[chromium]","tests.Automation_tests","Wed Sep 17 17:49:30 IST 2025","passed","Wed Sep 17 17:50:24 IST 2025","","test_User_management","",""

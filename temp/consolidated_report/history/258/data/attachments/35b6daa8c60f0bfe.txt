@@ -1,0 +1,2 @@
+INFO:root:Testing user - Username: qcsiuj, Password: 4^fY%Dyc7G
+INFO:root:Logout message: Log out from BOX 1

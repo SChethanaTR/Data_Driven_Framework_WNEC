@@ -1,0 +1,3 @@
+INFO:root:Story 1: Mexico-China/Cultural Exchange/WWII
+INFO:root:Story 2: Mexico-China/Cultural Exchange/WWII
+INFO:root:Story 3: Mexico-China/Cultural Exchange/WWII

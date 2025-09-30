@@ -1,0 +1,9 @@
+INFO     root:test_User_Interface.py:435 ISRAEL-PALESTINIANS/GAZA-SMOKE
+INFO     root:test_User_Interface.py:435 META PLATFORMS-VIRTUAL REALITY/
+INFO     root:test_User_Interface.py:435 UAE-INDIA/
+INFO     root:test_User_Interface.py:435 USA-TRUMP/BRITAIN-DEPARTURE-HELICOPTER
+INFO     root:test_User_Interface.py:435 META PLATFORMS-VIRTUAL REALITY/
+INFO     root:test_User_Interface.py:435 DEUTSCHLAND-EU/VON-DER-LEYEN
+INFO     root:test_User_Interface.py:435 BASEBALL-MLB-LAD-PHI/
+INFO     root:test_User_Interface.py:441 Extracted text: META PLATFORMS-VIRTUAL REALITY/
+INFO     root:test_User_Interface.py:454 META PLATFORMS-VIRTUAL REALITY/

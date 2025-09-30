@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:906 Story 1: ISRAEL-PALESTINIANS/ITALY
+INFO     root:test_admin_playout.py:906 Story 2: ISRAEL-PALESTINIANS/GAZA-STRIKES
+INFO     root:test_admin_playout.py:906 Story 3: ASEAN-MALAYSIA/ECONOMY
+INFO     root:test_admin_playout.py:913 Cleared all items

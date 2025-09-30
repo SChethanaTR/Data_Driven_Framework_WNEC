@@ -1,0 +1,12 @@
+INFO     root:test_admin_playout.py:623 Navigated to playout page
+INFO     root:test_admin_playout.py:629 Radio button to disable channel is clicked
+INFO     root:test_admin_playout.py:623 
+INFO     root:test_admin_playout.py:623 
+INFO     root:test_admin_playout.py:648 PLAYOUT READYWaiting for next video to be delivered
+INFO     root:test_admin_playout.py:652 Channel is enabled
+INFO     root:test_admin_playout.py:623 
+INFO     root:test_admin_playout.py:629 Radio button to enable channel is clicked
+INFO     root:test_admin_playout.py:623 
+INFO     root:test_admin_playout.py:623 
+INFO     root:test_admin_playout.py:668 PLAYOUT READYWaiting for next video to be delivered
+INFO     root:test_admin_playout.py:673 Channel is enabled

@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:910 Story 1: AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE
+INFO     root:test_admin_playout.py:910 Story 2: USA-VENEZUELA/MADURO-BONDI
+INFO     root:test_admin_playout.py:910 Story 3: AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE
+INFO     root:test_admin_playout.py:917 Cleared all items

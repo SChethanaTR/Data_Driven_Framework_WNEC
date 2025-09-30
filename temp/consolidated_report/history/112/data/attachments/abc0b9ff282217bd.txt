@@ -1,0 +1,2 @@
+INFO     root:test_FD.py:334 Please select at least one service
+INFO     root:test_FD.py:346 Please select at least one exclusion

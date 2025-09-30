@@ -1,0 +1,33 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","16394","test_add_my_videos_to_playlist[chromium]","tests.Automation_tests","Wed Jul 09 18:46:49 IST 2025","failed","Wed Jul 09 18:47:06 IST 2025","","test_User_Interface","",""
+"","64133","test_live_page_actions[chromium]","tests.Automation_tests","Wed Jul 09 18:45:07 IST 2025","failed","Wed Jul 09 18:46:11 IST 2025","","test_User_Interface","",""
+"","71250","test_playout_history[chromium]","tests.Automation_tests","Wed Jul 09 18:39:49 IST 2025","passed","Wed Jul 09 18:41:00 IST 2025","","test_User_Interface","",""
+"","73298","test_distribution_history[chromium]","tests.Automation_tests","Wed Jul 09 18:41:01 IST 2025","passed","Wed Jul 09 18:42:14 IST 2025","","test_User_Interface","",""
+"","39152","test_copy_link[chromium]","tests.Automation_tests","Wed Jul 09 18:39:08 IST 2025","broken","Wed Jul 09 18:39:47 IST 2025","","test_User_Interface","",""
+"","76835","test_add_to_playlist_from_live_page[chromium]","tests.Automation_tests","Wed Jul 09 18:48:39 IST 2025","broken","Wed Jul 09 18:49:56 IST 2025","","test_User_Interface","",""
+"","21322","test_search_distribution_history[chromium]","tests.Automation_tests","Wed Jul 09 18:42:16 IST 2025","broken","Wed Jul 09 18:42:37 IST 2025","","test_User_Interface","",""
+"","10309","test_Add_to_distribution_with_no_active_distribution[chromium]","tests.Automation_tests","Wed Jul 09 18:48:27 IST 2025","passed","Wed Jul 09 18:48:38 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","19803","test_print_my_playout_page_UI_PLAYOUT[chromium]","tests.Automation_tests","Wed Jul 09 18:38:17 IST 2025","passed","Wed Jul 09 18:38:37 IST 2025","","test_User_Interface","",""
+"","19661","test_live_page[chromium]","tests.Automation_tests","Wed Jul 09 18:44:46 IST 2025","passed","Wed Jul 09 18:45:06 IST 2025","","test_User_Interface","",""
+"","54554","test_hide_or_show_loop_configuration[chromium]","tests.Automation_tests","Wed Jul 09 18:42:38 IST 2025","broken","Wed Jul 09 18:43:33 IST 2025","","test_User_Interface","",""
+"","24387","test_add_to_distribution_from_my_videos[chromium]","tests.Automation_tests","Wed Jul 09 18:46:23 IST 2025","failed","Wed Jul 09 18:46:48 IST 2025","","test_User_Interface","",""
+"","18109","test_Clear_history[chromium]","tests.Automation_tests","Wed Jul 09 18:43:34 IST 2025","failed","Wed Jul 09 18:43:52 IST 2025","","test_User_Interface","",""
+"","15182","test_View_XML[chromium]","tests.Automation_tests","Wed Jul 09 18:49:57 IST 2025","passed","Wed Jul 09 18:50:12 IST 2025","","test_User_Interface","",""
+"","9387","test_playout_now_button_on_live_page[chromium]","tests.Automation_tests","Wed Jul 09 18:46:13 IST 2025","failed","Wed Jul 09 18:46:22 IST 2025","","test_User_Interface","",""
+"","54913","test_add_to_distribution_from_story_page[chromium]","tests.Automation_tests","Wed Jul 09 18:47:31 IST 2025","passed","Wed Jul 09 18:48:26 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","28121","test_live_preview_UI_LIVE_PREVIEW[chromium]","tests.Automation_tests","Wed Jul 09 18:38:38 IST 2025","passed","Wed Jul 09 18:39:06 IST 2025","","test_User_Interface","",""
+"","22605","test_print_my_videos[chromium]","tests.Automation_tests","Wed Jul 09 18:47:07 IST 2025","passed","Wed Jul 09 18:47:30 IST 2025","","test_User_Interface","",""
+"","51598","test_search_playout_history[chromium]","tests.Automation_tests","Wed Jul 09 18:43:53 IST 2025","broken","Wed Jul 09 18:44:45 IST 2025","","test_User_Interface","",""

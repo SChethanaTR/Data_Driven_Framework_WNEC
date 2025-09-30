@@ -1,0 +1,2 @@
+INFO:root:Print media emulated successfully.
+INFO:root:Print button clicked, and test passed without manual intervention.

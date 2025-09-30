@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","19720","test_print_my_playout_page_UI_PLAYOUT[chromium]","tests.Automation_tests","Tue Jun 10 12:08:18 IST 2025","passed","Tue Jun 10 12:08:38 IST 2025","","test_User_Interface","",""

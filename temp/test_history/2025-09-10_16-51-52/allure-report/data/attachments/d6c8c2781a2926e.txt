@@ -1,0 +1,9 @@
+INFO     root:test_VFD.py:121 Distribution History is empty
+INFO     root:test_VFD.py:129 Added story: FRANCE-PROTEST/PARIS
+INFO     root:test_VFD.py:129 Added story: UKRAINE-CRISIS/POLAND-ATTACK-NATO
+INFO     root:test_VFD.py:129 Added story: UKRAINE-CRISIS/POLAND-ATTACK-BUILDING
+INFO     root:test_VFD.py:131 Files added to FTP distribution
+INFO     root:test_VFD.py:137 Distributed content: 2025-09-10T111701Z_11_RW374410092025RP1_RTRMADC_0_UKRAINE-CRISIS-POLAND-ATTACK-BUILDING.XML
+INFO     root:test_VFD.py:137 Distributed content: 2025-09-10T111912Z_4_RW372510092025RP1_RTRMADC_0_FRANCE-PROTEST-PARIS.XML
+INFO     root:test_VFD.py:137 Distributed content: 2025-09-10T111701Z_2_LWD374410092025RP1_RTRWNEV_B_3744-UKRAINE-CRISIS-POLAND-ATTACK-BUILDING.MPG
+INFO     root:test_VFD.py:139 Files distributed to FTP

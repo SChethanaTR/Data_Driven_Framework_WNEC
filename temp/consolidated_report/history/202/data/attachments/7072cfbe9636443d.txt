@@ -1,0 +1,4 @@
+INFO:root:Story added: USA-WILDFIRES/OREGON
+INFO:root:Story added: USA-WILDFIRES/OREGON
+INFO:root:Story added: Mexico-China/Cultural Exchange/WWII
+INFO:root:All stories collected: ['USA-WILDFIRES/OREGON', 'USA-WILDFIRES/OREGON', 'Mexico-China/Cultural Exchange/WWII']

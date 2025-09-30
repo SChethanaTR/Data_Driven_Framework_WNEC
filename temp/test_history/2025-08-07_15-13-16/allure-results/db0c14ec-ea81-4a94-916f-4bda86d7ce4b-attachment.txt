@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:52 A view of the street and people's movements in Khan Younis
+INFO     root:test_User_Interface.py:54 Live page exists

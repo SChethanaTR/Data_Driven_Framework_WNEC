@@ -1,0 +1,5 @@
+INFO     root:test_User_management.py:308 Testing user - Username: fveabp, Password: L2Zi^eF8q%
+INFO     root:test_User_management.py:321 User successfully found
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_7.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_User_management.py:334 Log file content retrieved successfully

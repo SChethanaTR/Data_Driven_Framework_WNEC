@@ -1,0 +1,2 @@
+INFO     root:test_User_management.py:323 Testing user - Username: genpbx, Password: **dW8WvuG3
+INFO     root:test_User_management.py:340 Login successful

@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: Aftermath of shooting that killed four people in Jerusalem
+INFO:root:Locator 1 text: ISRAEL-PALESTINIANS/SHOOTING -- GRAPHIC WARNING --

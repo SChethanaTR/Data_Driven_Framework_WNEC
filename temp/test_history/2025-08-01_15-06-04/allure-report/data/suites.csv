@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","195804","test_create_with_empty_name_and_different_characters[chromium]","tests.Automation_tests","Fri Aug 01 15:06:08 IST 2025","passed","Fri Aug 01 15:09:24 IST 2025","","test_FD","",""

@@ -1,0 +1,32 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","23174","test_print_my_playout_page_UI_PLAYOUT[chromium]","tests.Automation_tests","Tue Jun 10 13:50:35 IST 2025","passed","Tue Jun 10 13:50:58 IST 2025","","test_User_Interface","",""
+"","77624","test_hide_or_show_loop_configuration[chromium]","tests.Automation_tests","Tue Jun 10 13:55:58 IST 2025","broken","Tue Jun 10 13:57:16 IST 2025","","test_User_Interface","",""
+"","81591","test_search_playout_history[chromium]","tests.Automation_tests","Tue Jun 10 13:57:40 IST 2025","broken","Tue Jun 10 13:59:01 IST 2025","","test_User_Interface","",""
+"","26860","test_print_my_videos[chromium]","tests.Automation_tests","Tue Jun 10 14:03:12 IST 2025","passed","Tue Jun 10 14:03:39 IST 2025","","test_User_Interface","",""
+"","15422","test_live_page_actions[chromium]","tests.Automation_tests","Tue Jun 10 13:59:25 IST 2025","passed","Tue Jun 10 13:59:41 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","27519","test_live_preview_UI_LIVE_PREVIEW[chromium]","tests.Automation_tests","Tue Jun 10 13:50:59 IST 2025","passed","Tue Jun 10 13:51:27 IST 2025","","test_User_Interface","",""
+"","24396","test_search_distribution_history[chromium]","tests.Automation_tests","Tue Jun 10 13:55:33 IST 2025","broken","Tue Jun 10 13:55:57 IST 2025","","test_User_Interface","",""
+"","16088","test_add_to_distribution_from_story_page[chromium]","tests.Automation_tests","Tue Jun 10 14:03:40 IST 2025","broken","Tue Jun 10 14:03:56 IST 2025","","test_User_Interface","",""
+"","83035","test_copy_link[chromium]","tests.Automation_tests","Tue Jun 10 13:51:28 IST 2025","passed","Tue Jun 10 13:52:51 IST 2025","","test_User_Interface","",""
+"","39469","test_playout_now_button_on_live_page[chromium]","tests.Automation_tests","Tue Jun 10 13:59:42 IST 2025","broken","Tue Jun 10 14:00:21 IST 2025","","test_User_Interface","",""
+"","141578","test_add_my_videos_to_playlist[chromium]","tests.Automation_tests","Tue Jun 10 14:00:49 IST 2025","passed","Tue Jun 10 14:03:10 IST 2025","","test_User_Interface","",""
+"","81929","test_playout_history[chromium]","tests.Automation_tests","Tue Jun 10 13:52:52 IST 2025","broken","Tue Jun 10 13:54:14 IST 2025","","test_User_Interface","",""
+"","38858","test_add_to_playlist_from_live_page[chromium]","tests.Automation_tests","Tue Jun 10 14:04:09 IST 2025","broken","Tue Jun 10 14:04:48 IST 2025","","test_User_Interface","",""
+"","75758","test_distribution_history[chromium]","tests.Automation_tests","Tue Jun 10 13:54:16 IST 2025","passed","Tue Jun 10 13:55:31 IST 2025","","test_User_Interface","",""
+"","10863","test_Add_to_distribution_with_no_active_distribution[chromium]","tests.Automation_tests","Tue Jun 10 14:03:57 IST 2025","passed","Tue Jun 10 14:04:08 IST 2025","","test_User_Interface","",""
+"","21157","test_live_page[chromium]","tests.Automation_tests","Tue Jun 10 13:59:03 IST 2025","passed","Tue Jun 10 13:59:24 IST 2025","","test_User_Interface","",""
+"","21063","test_Clear_history[chromium]","tests.Automation_tests","Tue Jun 10 13:57:17 IST 2025","failed","Tue Jun 10 13:57:38 IST 2025","","test_User_Interface","",""
+"","24929","test_add_to_distribution_from_my_videos[chromium]","tests.Automation_tests","Tue Jun 10 14:00:23 IST 2025","broken","Tue Jun 10 14:00:48 IST 2025","","test_User_Interface","",""

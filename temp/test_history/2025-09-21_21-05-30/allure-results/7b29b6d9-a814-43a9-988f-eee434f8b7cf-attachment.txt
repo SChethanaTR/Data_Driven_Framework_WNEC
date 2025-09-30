@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:655 Story added to playlist: View of the Israel-Gaza border
+INFO     root:test_User_Interface.py:674 Locator 1 text: ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER --INTERRUPTIBLE--

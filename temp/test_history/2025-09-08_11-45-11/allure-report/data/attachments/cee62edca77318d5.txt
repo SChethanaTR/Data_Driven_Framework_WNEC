@@ -1,0 +1,2 @@
+INFO:root:Testing user - Username: genpbx, Password: **dW8WvuG3
+INFO:root:Login successful

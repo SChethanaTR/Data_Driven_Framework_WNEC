@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:957 Distribution
+INFO     root:test_User_Interface.py:957 My Videos
+INFO     root:test_User_Interface.py:962 Distribution is present.

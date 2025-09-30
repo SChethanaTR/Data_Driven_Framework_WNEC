@@ -1,0 +1,2 @@
+INFO:root:A view of the street and people's movements in Khan Younis
+INFO:root:Live page exists

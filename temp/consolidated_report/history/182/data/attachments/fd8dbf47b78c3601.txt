@@ -1,0 +1,4 @@
+INFO:root:Story 1: SOCCER-GERMANY-FCB/KOMPANY
+INFO:root:Story 2: SOCCER-GERMANY-FCB/KOMPANY
+INFO:root:Story 3: RUSSIA-INDIA/
+INFO:root:Cleared all items

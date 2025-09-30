@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:395 View of Khan Younis in Gaza
+INFO     root:test_admin_playout.py:410 ISRAEL-PALESTINIANS/GAZA-KHAN YOUNIS

@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:525 SUDAN-POLITICS/CHOLERA
+INFO     root:test_User_Interface.py:530 Extracted text: SUDAN-POLITICS/CHOLERA
+INFO     root:test_User_Interface.py:543 SUDAN-POLITICS/CHOLERA

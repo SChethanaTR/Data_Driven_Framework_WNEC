@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:1278 Slug on subcon page: ASIA-WEATHER/INDIA
+INFO     root:test_VFD.py:1282 Slug on cctv page: USA-Gaza Genocide/Protest

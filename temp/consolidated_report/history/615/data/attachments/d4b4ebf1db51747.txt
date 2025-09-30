@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:56 View of the Israel-Gaza border
+INFO     root:test_User_Interface.py:58 Live page exists

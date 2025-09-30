@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the playout controls (play, pause, stop) functionality.
+    Verifies the behavior of the controls and logs the current status.
+    ","77144","test_playout_controls[chromium]","tests.Automation_tests","Mon Aug 25 13:35:54 IST 2025","passed","Mon Aug 25 13:37:11 IST 2025","","test_admin_playout","",""

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","100005","test_add_my_videos_to_playlist[chromium]","tests.Automation_tests","Wed Jul 09 16:45:59 IST 2025","passed","Wed Jul 09 16:47:39 IST 2025","","test_User_Interface","",""

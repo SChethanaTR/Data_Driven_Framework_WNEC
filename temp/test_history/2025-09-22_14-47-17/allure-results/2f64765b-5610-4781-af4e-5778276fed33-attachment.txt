@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:690 Playout and playlist button are present
+INFO     root:test_admin_playout.py:715 Playout and playlist button are present

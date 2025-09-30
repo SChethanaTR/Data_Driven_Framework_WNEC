@@ -1,0 +1,3 @@
+INFO     root:test_admin_playout.py:704 Story 1: LEBANON-NASRALLAH/PROFILE-SHORT
+INFO     root:test_admin_playout.py:704 Story 2: China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_admin_playout.py:704 Story 3: Various-Zelensky/Putin/Meeting Location

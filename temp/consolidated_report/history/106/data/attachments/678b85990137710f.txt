@@ -1,0 +1,6 @@
+INFO     root:test_admin_playout.py:953 Input area is not interactable when locked, as expected.
+ERROR    root:test_admin_playout.py:959 Source dropdown is interactable when locked, which is incorrect.
+ERROR    root:test_admin_playout.py:967 Mode dropdown is interactable when locked, which is incorrect.
+ERROR    root:test_admin_playout.py:984 Input area is not interactable when unlocked, which is incorrect.
+INFO     root:test_admin_playout.py:989 Source dropdown is interactable when unlocked, as expected.
+INFO     root:test_admin_playout.py:996 Mode dropdown is interactable when unlocked, as expected.

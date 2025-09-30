@@ -1,0 +1,1 @@
+INFO     root:test_User_Interface.py:1003 Story added to playlist: Israel, Slovakia foreign ministers to hold presser in Bratislava

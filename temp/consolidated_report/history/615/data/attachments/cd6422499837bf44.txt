@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:704 Story 1: ISRAEL-PALESTINIANS/WEST BANK-E1-DISPLACEMENT
+INFO     root:test_admin_playout.py:704 Story 2: DEUTSCHLAND-BAHN/GEWERKSCHAFT
+INFO     root:test_admin_playout.py:704 Story 3: USA-TRUMP/VISAS-INDIA-EXPERT UPDATE
+INFO     root:test_admin_playout.py:710 Data exported

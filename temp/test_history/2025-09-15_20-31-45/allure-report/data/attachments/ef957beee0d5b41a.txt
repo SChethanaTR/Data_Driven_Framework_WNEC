@@ -1,0 +1,20 @@
+INFO:root:Testing with FD name: '^'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:Testing with FD name: ';'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:Testing with FD name: 'test1'
+INFO:root:FTP
+INFO:root:Testing with FD name: '-'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:Testing with FD name: '%'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:Testing with FD name: ':'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:Testing with FD name: '@'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.

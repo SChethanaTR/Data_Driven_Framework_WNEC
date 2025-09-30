@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:52 Typhoon Lingling tracking towards Japan's Kyushu
+INFO     root:test_User_Interface.py:54 Live page exists

@@ -1,0 +1,49 @@
+INFO     root:story.py:1348 Cell 1: No records found
+INFO     root:test_VFD.py:1340 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1348 
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                      |
++=====+================================================================================================================================================================================+
+|   1 | 2025-09-15 08:25:15,737 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-15 08:25:15,740 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-15 08:25:15,741 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-15 08:25:15,742 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-15 08:25:15,742 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-15 08:26:15,748 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-15 08:26:15,750 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-15 08:26:15,752 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-15 08:26:15,753 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-15 08:26:15,753 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-15 08:27:15,758 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-15 08:27:15,762 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-15 08:27:15,764 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-15 08:27:15,765 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-15 08:27:15,765 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-15 08:28:15,769 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-15 08:28:15,771 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-15 08:28:15,773 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-15 08:28:15,773 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-15 08:28:15,773 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

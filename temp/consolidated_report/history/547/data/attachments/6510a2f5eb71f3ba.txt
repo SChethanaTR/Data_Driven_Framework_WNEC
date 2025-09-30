@@ -1,0 +1,1 @@
+INFO:root:Screenshot of the dialog saved as 'dialog_screenshot.png'

@@ -1,0 +1,177 @@
+INFO     root:test_VFD.py:1141 
+📄 Distribution History Table Content:
+INFO     root:test_VFD.py:1151 
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T071359Z_6_RW521416092025RP1_RTRMADC_0_MEXICO-INDEPENDENCE-SHOUT.XML                    | TBD   | Waiting   |    |
++===================================================================================================+=======+===========+====+
+| 2025-09-16T074646Z_4_RW523316092025RP1_RTRMADC_0_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-AFTERMATH.XML | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T074633Z_3_RW521616092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-REAX.XML                 | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T074401Z_10_RW310808092025RP1_RTRMADC_0_UKRAINE-CRISIS-BODIES.XML                       | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T071848Z_5_RW524416092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-DEPARTS.XML        | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T071752Z_5_RW521816092025RP1_RTRMADC_0_USA-SHOOTING-KIRK-SOUTHKOREA.XML                 | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T070100Z_2_RW473613092025RP1_RTRMADC_0_AGRICULTURE-CYPRUS-OLIVE-OIL.XML                 | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T074216Z_5_RW524716092025RP1_RTRMADC_0_UKRAINE-CRISIS-POLAND-AIRSPACE.XML               | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T073604Z_2_RW522316092025RP1_RTRMADC_0_NEPAL-PROTESTS-ANALYST.XML                       | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T070740Z_4_RW515015092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-UN.XML                  | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T074716Z_32_RW597811042025RP1_RTRMADC_0_GLOBAL-PRECIOUS-GOLD-FILE.XML                   | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T073345Z_3_RW522716092025RP1_RTRMADC_0_BASEBALL-MLB-LAD-PHI.XML                         | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T074116Z_4_RW518215092025RP1_RTRMADC_0_ENVIRONMENT-AI-WILDEBEEST.XML                    | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T071158Z_2_RWMR3CCB3_RTRMADC_0_ASIA-WEATHER-INDIA-UPDATE.XML                            | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T072751Z_3_RW522916092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-UNOCHA.XML              | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T072116Z_4_RW520616092025RP1_RTRMADC_0_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA.XML           | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+| 2025-09-16T073212Z_5_RW523216092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-PROTEST.XML             | TBD   | Waiting   |    |
++---------------------------------------------------------------------------------------------------+-------+-----------+----+
+INFO     root:test_VFD.py:1156 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1163 
+  • 2025-09-16 07:55:11,322 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : --------------------------------------------------------------------------
+  • 2025-09-16 07:55:11,323 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test2
+  • 2025-09-16 07:55:11,327 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 6 files from queue for process 276
+  • 2025-09-16 07:55:11,328 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test2"
+  • 2025-09-16 07:55:11,330 INFO  [main] com.reuters.filedirect.db.DbLogger : Kicking off distribution of 6 files
+  • 2025-09-16 07:55:11,337 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Init FTP client
+  • 2025-09-16 07:55:12,350 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Logged in as wneqa to the server /10.99.13.11
+  • 2025-09-16 07:55:12,350 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : FTP client connected to-->10.99.13.11
+  • 2025-09-16 07:55:12,353 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-16T073337Z_1_LWD522716092025RP1_RTRWNEV_C_5227-BASEBALL-MLB-LAD-PHI.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub
+  • 2025-09-16 07:55:13,790 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-16T073337Z_1_LWD522716092025RP1_RTRWNEV_C_5227-BASEBALL-MLB-LAD-PHI.MP4 to the server: 553 Can't open that file: No such file or directory
+  • 
+  • 2025-09-16 07:55:13,791 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-16T073337Z_1_LWD522716092025RP1_RTRWNEV_C_5227-BASEBALL-MLB-LAD-PHI.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.
+  • 2025-09-16 07:55:13,795 WARN  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : No process status for 276!
+  • 2025-09-16 07:55:13,795 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : Stop distributing because process has stopped
+  • 2025-09-16 07:55:13,796 ERROR [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Failed to change last update time for process "test2"
+  • 2025-09-16 07:55:13,796 INFO  [main] com.reuters.filedirect.db.DbLogger : "test2" has completed.  Successfully distributed 0 files of 6 queued files.
+  • 2025-09-16 07:55:14,036 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Finished distribution process with name test2
+  • 2025-09-16 07:55:14,036 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : --------------------------------------------------------------------------
+  • 2025-09-16 07:55:14,036 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied
+  • 2025-09-16 07:55:14,037 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute
+INFO     root:test_VFD.py:1168 
+📁 Files Present in Target Directory:
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_7.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1175 
+  • total 14G
+  • -rw-r--r-- 1 wnecadmin wnecadmin 119M Sep 13 15:02 2025-09-12T084609Z_1_LWD001IB1J4VD_RTRWNEV_B_5619-CHINA-XINJIANG-LOCAL-DEVELOPMENT-ALTAY.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  65M Sep 13 15:04 2025-09-12T100244Z_1_LWD001IB1J78P_RTRWNEV_B_5622-AFGHANISTAN-EARTHQUAKE-REBUILDING.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  70M Sep 13 15:04 2025-09-12T104628Z_1_LWD001IB1J6G9_RTRWNEV_B_5621-S-AFRICA-ISRAEL-INTERNATIONAL-LAW.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 102M Sep 13 15:12 2025-09-12T110924Z_1_LWD001IB1JAEH_RTRWNEV_B_5626-CHINA-CIFTIS-FINANCIAL-SERVICES.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 158M Sep 13 15:03 2025-09-12T114744Z_1_LWD001IB1J5NT_RTRWNEV_B_5620-CHINA-SALMON-INDUSTRY-XINJIANG.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  79M Sep 13 15:05 2025-09-12T120250Z_1_LWD001IB1J8TL_RTRWNEV_B_5624-JAPAN-GOLD-PRICE-RECORD.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  51M Sep 13 15:01 2025-09-12T125527Z_1_LWD001IB1J42X_RTRWNEV_B_5618-CHINA-FM-BRIEFING-MIDDLE-EAST.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  74M Sep 13 15:11 2025-09-12T130328Z_1_LWD001IB1J9M1_RTRWNEV_B_5625-VARIOUS-PALESTINE-STATE-ISRAELI-PM.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  20M Sep 13 15:04 2025-09-12T132231Z_1_LWD001IB1J815_RTRWNEV_B_5623-CHINA-ROCKET-STATIC-FIRE-TEST.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 150M Sep 13 15:00 2025-09-12T132324Z_1_LWD448312092025RP1_RTRWNEV_B_4483-SOCCER-ENGLAND-MCI-MUN-PREVIEW.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 138M Sep 13 15:00 2025-09-12T132337Z_2_LWD442212092025RP1_RTRWNEV_B_4422-UKRAINE-CRISIS-GERMANY-POLAND.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 174M Sep 13 15:01 2025-09-12T132824Z_1_LWD444912092025RP1_RTRWNEV_B_4449-RUSSIA-CENBANK-RATES.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  88M Sep 13 15:02 2025-09-12T133218Z_1_LWD450812092025RP1_RTRWNEV_B_4508-BRAZIL-BOLSONARO-DEMONSTRATORS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 152M Sep 13 15:05 2025-09-12T134001Z_1_LWD449312092025RP1_RTRWNEV_B_4493-PAKISTAN-AFGHANISTAN-REFUGEES-UN.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 102M Sep 13 15:05 2025-09-12T134039Z_1_LWD447312092025RP1_RTRWNEV_B_4473-BELARUS-RUSSIA-DRILLS-MORE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  85M Sep 13 15:06 2025-09-12T135014Z_1_LWD448712092025RP1_RTRWNEV_B_4487-ISRAEL-PALESTINIANS-JORDAN-PROTESTS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  45M Sep 13 15:06 2025-09-12T135211Z_1_LWD450912092025RP1_RTRWNEV_B_4509-USA-STOCKS-OPEN.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 199M Sep 13 15:07 2025-09-12T135351Z_1_LWD448912092025RP1_RTRWNEV_B_4489-USA-BELARUS-PRISONERS-PRESSER.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  46M Sep 13 15:07 2025-09-12T135723Z_1_LWD451812092025RP1_RTRWNEV_B_4518-BRAZIL-POLITICS-LULA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  49M Sep 13 15:08 2025-09-12T135757Z_1_LWD450512092025RP1_RTRWNEV_B_4505-USA-TRUMP-TARIFFS-SWATCH.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  84M Sep 13 15:07 2025-09-12T135847Z_1_LWD445812092025RP1_RTRWNEV_B_4458-UKRAINE-CRISIS-DENMARK.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 146M Sep 13 15:08 2025-09-12T140439Z_1_LWD451512092025RP1_RTRWNEV_B_4515-ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 101M Sep 13 15:09 2025-09-12T140650Z_1_LWD450312092025RP1_RTRWNEV_B_4503-USA-TRUMP-AID-CONTRACEPTION-BELGIUM-FILE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 131M Sep 13 15:09 2025-09-12T141212Z_1_LWD449412092025RP1_RTRWNEV_B_4494-NORTHKOREA-UN-RIGHTS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 128M Sep 13 15:10 2025-09-12T141833Z_1_LWD447812092025RP1_RTRWNEV_B_4478-MUSIC-GORILLAZ.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  23M Sep 13 15:10 2025-09-12T141843Z_1_LWD452312092025RP1_RTRWNEV_B_4523-UKRAINE-CRISIS-POLAND-FM-ZELENSKIY.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  32M Sep 13 15:10 2025-09-12T141946Z_1_LWD452512092025RP1_RTRWNEV_B_4525-USA-SHOOTING-KIRK-BRIEFING-SUSPECT-MOMENT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 145M Sep 13 15:11 2025-09-12T142218Z_1_LWD450612092025RP1_RTRWNEV_B_4506-USA-SHOOTING-KIRK-BRIEFING-SUSPECT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 102M Sep 13 15:11 2025-09-12T144049Z_1_LWD001IB15UTR_RTRWNEV_B_5014-NEPAL-PROTESTS-PMO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  74M Sep 13 15:12 2025-09-12T144755Z_1_LWD445312092025RP1_RTRWNEV_B_4453-SOUTHSUDAN-SECURITY.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  52M Sep 13 15:12 2025-09-12T145101Z_1_LWD453612092025RP1_RTRWNEV_B_4536-USA-SHOOTING-KIRK-FBI-ROUGH-CUT_O_.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  46M Sep 13 15:13 2025-09-12T145746Z_2_LWD451812092025RP1_RTRWNEV_B_4518-BRAZIL-POLITICS-LULA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  37M Sep 13 15:13 2025-09-12T150003Z_1_LWD454012092025RP1_RTRWNEV_B_4540-USA-SHOOTING-KIRK-MUG-SHOT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 185M Sep 13 15:13 2025-09-12T150823Z_1_LWD451212092025RP1_RTRWNEV_B_4512-USA-SHOOTING-KIRK-BRIEFING-SUSPECT-UPDATE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 140M Sep 13 15:14 2025-09-12T151221Z_1_LWD453812092025RP1_RTRWNEV_B_4538-USA-VENEZUELA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 316M Sep 13 15:16 2025-09-12T151300Z_1_LWD437512092025RP1_RTRWNEV_B_4375-AUSTRIA-NUNS-CONVENT-OCCUPATION.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 136M Sep 13 15:18 2025-09-12T151301Z_2_LWD001IB15UTR_RTRWNEV_B_5014-NEPAL-PROTESTS-PMO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 247M Sep 13 15:17 2025-09-12T151328Z_1_LWD445212092025RP1_RTRWNEV_B_4452-SOCCER-SPAIN-SOC-RMA-PREVIEW.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  64M Sep 13 15:21 2025-09-12T151702Z_1_LWD001IB1JB6X_RTRWNEV_B_5627-SYRIA-DROUGHT-AGRICULTURE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  77M Sep 13 15:18 2025-09-12T151947Z_1_LWD453512092025RP1_RTRWNEV_B_4535-UKRAINE-CRISIS-ZELENSKIY-KELLOGG.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 244M Sep 13 15:20 2025-09-12T152047Z_1_LWD447012092025RP1_RTRWNEV_B_4470-DEUTSCHLAND-ISRAEL-DIRIGENT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  75M Sep 13 15:21 2025-09-12T153054Z_1_LWD001IB1JBZD_RTRWNEV_B_5628-CHINA-XINJIANG-HIGHWAY-TOURISM.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 134M Sep 13 15:22 2025-09-12T153449Z_1_LWD453312092025RP1_RTRWNEV_B_4533-NEPAL-PROTESTS-PM-REACTION.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 195M Sep 13 15:23 2025-09-12T154002Z_1_LWD452712092025RP1_RTRWNEV_B_4527-UKRAINE-CRISIS-NATO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 440M Sep 13 15:25 2025-09-12T154642Z_11_LWD568510042025RP1_RTRWNEV_B_5685-USA-TRUMP-TARIFFS-CHINA-TIMELINE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  96M Sep 13 15:25 2025-09-12T154800Z_1_LWD001IB15VM7_RTRWNEV_B_5015-INDIA-EU-TRADE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  78M Sep 13 15:25 2025-09-12T154803Z_1_LWD446212092025RP1_RTRWNEV_B_4462-MOTOR-RALLY-CHILE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  19M Sep 13 15:26 2025-09-12T154839Z_1_LWD454212092025RP1_RTRWNEV_B_4542-UKRAINE-CRISIS-BRITAIN-FM.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 131M Sep 13 15:26 2025-09-12T155018Z_1_LWD451912092025RP1_RTRWNEV_B_4519-SRI-LANKA-ECONOMY.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 234M Sep 13 15:27 2025-09-12T155859Z_1_LWD454612092025RP1_RTRWNEV_B_4546-CROATIA-RESCUE-CHALLENGE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 407M Sep 13 15:29 2025-09-12T160119Z_1_LWD450212092025RP1_RTRWNEV_B_4502-USA-UTAH-SHOOTING-CHARLIE-KIRK-TIMELINE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 185M Sep 13 15:30 2025-09-12T160242Z_1_LWD454412092025RP1_RTRWNEV_B_4544-UKRAINE-CRISIS-KHARKIV-AMPUTEES.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 193M Sep 13 15:32 2025-09-12T160550Z_1_LWD451412092025RP1_RTRWNEV_B_4514-UKRAINE-CRISIS-SIKORSKI.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 175M Sep 13 15:33 2025-09-12T161215Z_1_LWD452612092025RP1_RTRWNEV_B_4526-NEPAL-PROTESTS-FUNERALS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  80M Sep 13 15:33 2025-09-12T161406Z_1_LWD448512092025RP1_RTRWNEV_B_4485-SOCCER-ENGLAND-MCI-MUN-PREVIEW.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 327M Sep 14 15:01 2025-09-12T161450Z_1_LWD443512092025RP1_RTRWNEV_B_4435-SOUTHSUDAN-MACHAR-PROFILE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  88M Sep 14 15:02 2025-09-12T161632Z_1_LWD447912092025RP1_RTRWNEV_B_4479-MUSIC-JADE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 146M Sep 14 15:02 2025-09-12T162103Z_1_LWD455412092025RP1_RTRWNEV_B_4554-MEXICO-TARIFFS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 116M Sep 14 15:03 2025-09-12T162629Z_1_LWD452412092025RP1_RTRWNEV_B_4524-ISRAEL-PALESTINIANS-YEMEN-PROTESTS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  54M Sep 14 15:04 2025-09-12T163815Z_2_LWD455912092025RP1_RTRWNEV_B_4559-UKRAINE-CRISIS-NATO-ROUGH-CUT_O_.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 175M Sep 14 15:04 2025-09-12T163900Z_1_LWD001IB15WEN_RTRWNEV_B_5016-NEPAL-PROTESTS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 102M Sep 14 15:05 2025-09-12T164253Z_1_LWD455812092025RP1_RTRWNEV_B_4558-UKRAINE-CRISIS-BRITAIN-FM-MEMORIAL.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  13M Sep 14 15:05 2025-09-12T165301Z_1_LWD456812092025RP1_RTRWNEV_B_4568-ISRAEL-PALESTINIANS-UN-REACTION.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 420M Sep 14 15:08 2025-09-12T165923Z_1_LWD452212092025RP1_RTRWNEV_B_4522-ISRAEL-PALESTINIANS-UN.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 131M Sep 14 15:08 2025-09-12T165924Z_1_LWD456912092025RP1_RTRWNEV_B_4569-POPE-LEO-MEETING.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 196M Sep 14 15:09 2025-09-12T170406Z_1_LWD457012092025RP1_RTRWNEV_B_4570-KENYA-AID.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  76M Sep 14 15:10 2025-09-12T170943Z_1_LWD451712092025RP1_RTRWNEV_B_4517-USA-SHOOTING-KIRK.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 210M Sep 14 15:11 2025-09-12T171809Z_1_LWD455612092025RP1_RTRWNEV_B_4556-ISRAEL-PALESTINIANS-GERMANY-CONDUCTOR.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 157M Sep 14 15:12 2025-09-12T171906Z_1_LWD446112092025RP1_RTRWNEV_B_4461-CYCLING-VUELTA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 101M Sep 14 15:13 2025-09-12T172309Z_1_LWD455712092025RP1_RTRWNEV_B_4557-USA-SHOOTING-KIRK-JAIL.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 175M Sep 14 15:14 2025-09-12T173338Z_1_LWD457412092025RP1_RTRWNEV_B_4574-NEPAL-PROTESTS-SWEARING-IN.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 166M Sep 14 15:15 2025-09-12T173419Z_1_LWD449112092025RP1_RTRWNEV_B_4491-UKRAINE-CRISIS-RUSSIA-MONUMENT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 131M Sep 14 15:15 2025-09-12T174001Z_2_LWD456912092025RP1_RTRWNEV_B_4569-POPE-LEO-MEETING.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  89M Sep 14 15:15 2025-09-12T181511Z_1_LWD457212092025RP1_RTRWNEV_B_4572-USA-TAIWAN-CHINA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 246M Sep 14 15:17 2025-09-12T182832Z_1_LWD410111092025RP1_RTRWNEV_B_4101-MALAWI-ELECTION-KABAMBE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  63M Sep 14 15:18 2025-09-12T182957Z_1_LWD459212092025RP1_RTRWNEV_B_4592-USA-TRUMP-CHICAGO-PROTEST.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  44M Sep 14 19:33 2025-09-12T202636Z_1_LWD459912092025RP1_RTRWNEV_B_4599-USA-SOUTHKOREA-MIGRATION-WORKER-ROUGH-CUT_O_.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  20M Sep 14 22:01 2025-09-12T222902Z_1_LWD461912092025RP1_RTRWNEV_B_4619-USA-TRUMP-CHICAGO-FRANKLIN-PARK-ROUGH-CUT_O_.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  94M Sep 15 15:00 2025-09-13T151605Z_1_LWD471613092025RP1_RTRWNEV_B_4716-ISRAEL-PALESTINIANS-HOSTAGES-FAMILIES-STATEMENT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 186M Sep 15 15:00 2025-09-13T152029Z_1_LWD471213092025RP1_RTRWNEV_B_4712-AUTOSHOW-MUNICH-PROTEST.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  30M Sep 15 15:02 2025-09-13T153149Z_1_LWD001IB6J33D_RTRWNEV_B_6626-CHINA-VIETNAM-PORT-UPGRADE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 164M Sep 15 15:01 2025-09-13T153333Z_1_LWD472213092025RP1_RTRWNEV_B_4722-BRITAIN-PROTESTS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  64M Sep 15 15:02 2025-09-13T153339Z_1_LWD472813092025RP1_RTRWNEV_B_4728-SPAIN-BLAST.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 154M Sep 15 15:02 2025-09-13T154059Z_1_LWD465313092025RP1_RTRWNEV_B_4653-MOTOR-MOTOGP-SANMARINO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 463M Sep 15 15:05 2025-09-13T155620Z_1_LWD462512092025RP1_RTRWNEV_B_4625-ATHLETICS-WORLD-REACTIONS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  44M Sep 15 15:05 2025-09-13T155656Z_1_LWD472413092025RP1_RTRWNEV_B_4724-PAKISTAN-ATTACK.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  94M Sep 15 15:06 2025-09-13T160713Z_2_LWD471613092025RP1_RTRWNEV_B_4716-ISRAEL-PALESTINIANS-HOSTAGES-FAMILIES-STATEMENT.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 171M Sep 15 15:06 2025-09-13T164405Z_1_LWD465613092025RP1_RTRWNEV_B_4656-RUGBY-UNION-WORLDCUP-NZL-ZAF.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 123M Sep 15 15:07 2025-09-13T165118Z_1_LWD473513092025RP1_RTRWNEV_B_4735-BELARUS-RUSSIA-DRILLS-UPDATE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 211M Sep 15 15:09 2025-09-13T165623Z_1_LWD001IB65P3J_RTRWNEV_B_6016-CRICKET-ASIACUP-IND-PAK-PREVIEW.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 177M Sep 15 15:10 2025-09-13T170046Z_1_LWD466313092025RP1_RTRWNEV_B_4663-CYCLING-VUELTA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  79M Sep 15 15:10 2025-09-13T170438Z_1_LWD466413092025RP1_RTRWNEV_B_4664-MOTOR-RALLY-CHILE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  93M Sep 15 15:10 2025-09-13T170847Z_1_LWD472913092025RP1_RTRWNEV_B_4729-BRITAIN-PROTESTS-SCUFFLES-UPDATE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 230M Sep 15 15:12 2025-09-13T171014Z_1_LWD473013092025RP1_RTRWNEV_B_4730-BRITAIN-PROTESTS-COUNTER.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 111M Sep 15 15:11 2025-09-13T171032Z_1_LWD473213092025RP1_RTRWNEV_B_4732-SPAIN-BLAST-UPDATE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  92M Sep 15 15:13 2025-09-13T171456Z_1_LWD474313092025RP1_RTRWNEV_B_4743-UTAH-SHOOTING-KIRK-RUBIO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 142M Sep 15 15:14 2025-09-13T171555Z_1_LWD474113092025RP1_RTRWNEV_B_4741-ISRAEL-PALESTINIANS-RUBIO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  50M Sep 15 15:14 2025-09-13T172120Z_1_LWD474413092025RP1_RTRWNEV_B_4744-UKRAINE-CRISIS-POLAND-RUBIO.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  17M Sep 15 15:14 2025-09-13T172731Z_1_LWD474813092025RP1_RTRWNEV_B_4748-ISRAEL-PALESTINIANS-NETANYAHU-QATAR.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 156M Sep 15 15:15 2025-09-13T173448Z_1_LWD474513092025RP1_RTRWNEV_B_4745-ISRAEL-PALESTINIANS-ARGENTINA.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  13M Sep 15 15:15 2025-09-13T174438Z_1_LWD474913092025RP1_RTRWNEV_B_4749-UKRAINE-CRISIS-ROMANIA-DRONE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 137M Sep 15 15:15 2025-09-13T175132Z_1_LWD466613092025RP1_RTRWNEV_B_4666-RUGBY-UNION-WORLDCUP-CAN-AUS.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  72M Sep 15 15:16 2025-09-13T180056Z_1_LWD474213092025RP1_RTRWNEV_B_4742-ISRAEL-PALESTINIANS-GAZA-SCHOOL-AFTERMATH.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  49M Sep 15 15:16 2025-09-13T181124Z_1_LWD475513092025RP1_RTRWNEV_B_4755-ISRAEL-PALESTINIAS-HOSTAGES-RALLY-DRONE.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  52M Sep 15 15:16 2025-09-13T181406Z_1_LWD475413092025RP1_RTRWNEV_B_4754-BELARUS-RUSSIA-DRILLS-MISSILES.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin 262M Sep 15 15:17 2025-09-13T181832Z_1_LWD474013092025RP1_RTRWNEV_B_4740-BRITAIN-ANIMALS-DOG-SWIMMING.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  57M Sep 15 15:18 2025-09-13T185958Z_1_LWD466813092025RP1_RTRWNEV_B_4668-RUGBY-UNION-WORLDCUP-DIGITAL.MPG
+  • -rw-r--r-- 1 wnecadmin wnecadmin  13M Sep 15 20:04 2025-09-13T205004Z_1_LWD473713092025RP1_RTRWNEV_B_4737-VATICAN-CONCERT.MPG

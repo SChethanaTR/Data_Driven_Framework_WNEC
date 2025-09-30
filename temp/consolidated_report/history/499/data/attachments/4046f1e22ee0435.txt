@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:807 Story added to playlist: Trump makes unprecedented second state visit to Britain
+INFO     root:test_User_Interface.py:826 Locator 1 text: USA-TRUMP/BRITAIN - DAY 2 -- SCHEDULE UPDATED / ACCESS ALL --

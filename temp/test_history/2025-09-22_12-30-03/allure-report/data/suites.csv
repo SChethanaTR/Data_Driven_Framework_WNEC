@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","52524","test_playout_export_as_cv[chromium]","tests.Automation_tests","Mon Sep 22 12:34:18 IST 2025","passed","Mon Sep 22 12:35:10 IST 2025","","test_history","",""
+"","58684","test_distribution_history_print[chromium]","tests.Automation_tests","Mon Sep 22 12:31:16 IST 2025","passed","Mon Sep 22 12:32:15 IST 2025","","test_history","",""
+"","56988","test_distribution_history_exportascv[chromium]","tests.Automation_tests","Mon Sep 22 12:30:18 IST 2025","passed","Mon Sep 22 12:31:15 IST 2025","","test_history","",""
+"","66683","test_distribution_history_clear_all[chromium]","tests.Automation_tests","Mon Sep 22 12:32:16 IST 2025","passed","Mon Sep 22 12:33:23 IST 2025","","test_history","",""
+"","52173","test_playout_print[chromium]","tests.Automation_tests","Mon Sep 22 12:33:24 IST 2025","passed","Mon Sep 22 12:34:16 IST 2025","","test_history","",""

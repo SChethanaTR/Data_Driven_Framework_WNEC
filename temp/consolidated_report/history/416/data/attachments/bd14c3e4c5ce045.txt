@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:1675 Slug on subcon page: ASIA-WEATHER/INDIA
+INFO     root:test_VFD.py:1678 Slug on cctv page: China-FM Briefing/Tariffs/Opposition

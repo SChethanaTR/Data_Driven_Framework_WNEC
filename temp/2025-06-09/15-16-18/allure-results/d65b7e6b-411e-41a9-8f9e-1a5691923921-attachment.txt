@@ -1,0 +1,8 @@
+INFO:root:Story 1: QA-JSON-DD-186-DAY-STORY-REFEED-AFTER-VIDEO-186-DAYS-2
+INFO:root:Story 2: USA-TRUMP/TARIFFS-CHINA-TIMELINE
+INFO:root:Story 3: USA-TRUMP/MUSK
+INFO:root:
+INFO:root:('1', 'SDI output 01', 'file', None, 1, 0, 'PlayNow', 'Playing', 'Waiting', 'manual', '', 'tag:reuters.com,2025:newsml_RW968509062025RA1', 'Now playing: Reuters Live Online', 'Reuters Live Online', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Stopped', 'None', 0, 0, '', '', 0, '', '', '', 0, '')

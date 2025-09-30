@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:779 Currently playing: 
+INFO     root:test_admin_playout.py:787 After stopping: 
+INFO     root:test_admin_playout.py:791 Playout did not stop as expected
+INFO     root:test_admin_playout.py:799 After playing: NOW PLAYING:ISRAEL-PALESTINIANS/TWO STATE SOLUTION-EXPLAINER5030

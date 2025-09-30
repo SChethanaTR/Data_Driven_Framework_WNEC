@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:159 LEBANON-NASRALLAH/PROFILE-SHORT
+INFO     root:test_User_Interface.py:159 LEBANON-NASRALLAH/PROFILE-SHORT

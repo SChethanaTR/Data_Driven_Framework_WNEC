@@ -1,0 +1,5 @@
+INFO:root:Story added: IRAQ-FARMERS/DATES-WATER
+INFO:root:Story added: PEOPLE-PHIL COLLINS/
+INFO:root:Story added: SUDAN-POLITICS/ALFASHIR
+INFO:root:All stories collected: ['IRAQ-FARMERS/DATES-WATER', 'PEOPLE-PHIL COLLINS/', 'SUDAN-POLITICS/ALFASHIR']
+ERROR:root:The story 'IRAQ-FARMERS/DATES-WATER' is NOT present in the history page.

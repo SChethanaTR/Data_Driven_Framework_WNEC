@@ -1,0 +1,1 @@
+{"name": "test_search_user[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1756129059032, "stop": 1756129079634, "uuid": "dbeb7e4c-13e0-4d3c-a14f-4bc652fbe8a1", "testCaseId": "79ff57147a2ee86e7559883a80fc8057", "fullName": "tests.Automation_tests.test_User_management#test_search_user"}

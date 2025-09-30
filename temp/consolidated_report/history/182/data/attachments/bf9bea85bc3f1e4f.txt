@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:851 Story 1: SOCCER-GERMANY-FCB/KOMPANY
+INFO     root:test_admin_playout.py:851 Story 2: SOCCER-GERMANY-FCB/KOMPANY
+INFO     root:test_admin_playout.py:851 Story 3: RUSSIA-INDIA/
+INFO     root:test_admin_playout.py:857 Data exported

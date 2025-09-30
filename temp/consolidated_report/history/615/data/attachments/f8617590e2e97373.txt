@@ -1,0 +1,460 @@
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/UPDATE4643Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-WIDOW ROUGH CUT4651Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/MORNING4635Reuters
+INFO     root:test_User_Interface.py:503 China-UK/Trade6610CCTV
+INFO     root:test_User_Interface.py:503 TENNIS-DAVISCUP-USA-CZE/4466Reuters
+INFO     root:test_User_Interface.py:503 MYANMAR-BLAST/UGC4636Reuters
+INFO     root:test_User_Interface.py:503 China-Golden Panda Awards/Tourism6609CCTV
+INFO     root:test_User_Interface.py:503 NESTLE-CHAIRMAN/FILE1416Reuters
+INFO     root:test_User_Interface.py:503 Gaza Strip-Oslo Accord/Hope6608CCTV
+INFO     root:test_User_Interface.py:503 USA-Stocks6607CCTV
+INFO     root:test_User_Interface.py:503 China-Social Financing Stock/Aug6606CCTV
+INFO     root:test_User_Interface.py:503 BASEBALL-MLB-MIL-STL/4634Reuters
+INFO     root:test_User_Interface.py:503 USA-Consumer Sentiment/Sept6605CCTV
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/MORNING6011ANI
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-UTAH-VIGIL4630Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/NEWZEALAND4632Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-GUADALAJARA/4539Reuters
+INFO     root:test_User_Interface.py:503 UN-Chief/Resolution/Two-state Solution6604CCTV
+INFO     root:test_User_Interface.py:503 Austria-China/FMs6603CCTV
+INFO     root:test_User_Interface.py:503 COLOMBIA-MINE/ACCIDENT4631Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-BORDER4839Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/USA-RUBIO-JERUSALEM-RESTRICTED4835Reuters
+INFO     root:test_User_Interface.py:503 BRAZIL-BOLSONARO/4846Reuters
+INFO     root:test_User_Interface.py:503 PEOPLE-BOXING-HATTON/FILE4844Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-ARRIVALS4842Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/EPSTEIN-BRITAIN4814Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA CITY-STRIKE-MORE4837Reuters
+INFO     root:test_User_Interface.py:503 POPE-LEO/ANGELUS-BIRTHDAY4812Reuters
+INFO     root:test_User_Interface.py:503 ETHIOPIA-DAM/CELEBRATION4834Reuters
+INFO     root:test_User_Interface.py:503 China-Canal/Xinjiang7617CCTV
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/MEDALS4773Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-EVACUATION4815Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-SPAIN4824Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA CITY-STRIKE-MOMENT4836Reuters
+INFO     root:test_User_Interface.py:503 CRICKET-ASIACUP/IND-PAK-REAX7012ANI
+INFO     root:test_User_Interface.py:503 BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD/4819Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/QATAR-SUMMIT-PREPS4791Reuters
+INFO     root:test_User_Interface.py:503 USA-AFGHANISTAN/TALIBAN-STILLS4829Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-STRIKE-AFTERMATH4806Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-KOMMUNALWAHL/NRW4783Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-CRUZ4949Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/MORNING1022ANI
+INFO     root:test_User_Interface.py:503 USA-TRUMP/CRIME-DC4948Reuters
+INFO     root:test_User_Interface.py:503 STARLINK-OUTAGES/4945Reuters
+INFO     root:test_User_Interface.py:503 AWARDS-EMMYS/ARRIVALS4936Reuters
+INFO     root:test_User_Interface.py:503 SOUTHKOREA-USA/JAPAN-DRILL4934Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/CHICAGO-PARADE ROUGH CUT4942Reuters
+INFO     root:test_User_Interface.py:503 PHILIPPINES-FIRE/4937Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-KENNEDY-CENTER-UPDATE4943Reuters
+INFO     root:test_User_Interface.py:503 BASEBALL-MLB-SF-LAD/4809Reuters
+INFO     root:test_User_Interface.py:503 CHINA-ECONOMY/ACTIVITY4922Reuters
+INFO     root:test_User_Interface.py:503 AWARDS-EMMYS/FASHION ROUGH CUT4928Reuters
+INFO     root:test_User_Interface.py:503 Gaza Strip-Hospital/Medical Resource Shortage1610CCTV
+INFO     root:test_User_Interface.py:503 AWARDS-EMMYS/WINNERS-DRAMA4914Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/TIMELINE4641Reuters
+INFO     root:test_User_Interface.py:503 China-Macao/Legislative Assembly Election1609CCTV
+INFO     root:test_User_Interface.py:503 Spain-China/US/Trade Talks/Day 11608CCTV
+INFO     root:test_User_Interface.py:503 China-Unilever VP1607CCTV
+INFO     root:test_User_Interface.py:503 AWARDS-EMMYS/WINNERS-CLIPS4921Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/GEN Z4746Reuters
+INFO     root:test_User_Interface.py:503 AWARDS-EMMYS/WINNERS-COMEDY4912Reuters
+INFO     root:test_User_Interface.py:503 AUSTRALIA-CLIMATE/4911Reuters
+INFO     root:test_User_Interface.py:503 AWARDS-EMMYS/BACKSTAGE-OWEN COOPER4925Reuters
+INFO     root:test_User_Interface.py:503 HYBE-INVESTIGATION/4915Reuters
+INFO     root:test_User_Interface.py:503 Yemen-Israeli Airstrikes/Newspapers1606CCTV
+INFO     root:test_User_Interface.py:503 POPE-LEO/BIRTHDAY-PERU-CELEBRATION4926Reuters
+INFO     root:test_User_Interface.py:503 Poland-NATO Troops/Deployment1605CCTV
+INFO     root:test_User_Interface.py:503 MEXICO-GENTRIFICATION/4920Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-TRUMP ROUGH CUT4918Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-GUADALAJARA/4810Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-TIKTOK-FILE4979Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/CABINET1023ANI
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-RALLY4932Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/USA-RUBIO-NETANYAHU-GPO4994Reuters
+INFO     root:test_User_Interface.py:503 LIBYA-SPORTS/ ROUGH CUT4944Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH4957Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-BESSENT4959Reuters
+INFO     root:test_User_Interface.py:503 BELARUS-RUSSIA/DRILLS-USA4970Reuters
+INFO     root:test_User_Interface.py:503 MIGRATION-EUROPE/GAZA0705Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-NRW/WAHL UMFRAGE4965Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/GOUT4951Reuters
+INFO     root:test_User_Interface.py:503 JAPAN-USA/DEFENCE-TYPHON4955Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-SPAIN4973Reuters
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-COURT-MORNING4963Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/QATAR-SUMMIT-PREPS4958Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-USA-PRESIDENTS-FILE4529Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-TIKTOK-FILE4979Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/CABINET1023ANI
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-RALLY4932Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/USA-RUBIO-NETANYAHU-GPO4994Reuters
+INFO     root:test_User_Interface.py:503 LIBYA-SPORTS/ ROUGH CUT4944Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH4957Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-BESSENT4959Reuters
+INFO     root:test_User_Interface.py:503 BELARUS-RUSSIA/DRILLS-USA4970Reuters
+INFO     root:test_User_Interface.py:503 MIGRATION-EUROPE/GAZA0705Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-NRW/WAHL UMFRAGE4965Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/GOUT4951Reuters
+INFO     root:test_User_Interface.py:503 JAPAN-USA/DEFENCE-TYPHON4955Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-SPAIN4973Reuters
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-COURT-MORNING4963Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/QATAR-SUMMIT-PREPS4958Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-USA-PRESIDENTS-FILE4529Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-TIKTOK-FILE4979Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/CABINET1023ANI
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-RALLY4932Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/USA-RUBIO-NETANYAHU-GPO4994Reuters
+INFO     root:test_User_Interface.py:503 LIBYA-SPORTS/ ROUGH CUT4944Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH4957Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-BESSENT4959Reuters
+INFO     root:test_User_Interface.py:503 BELARUS-RUSSIA/DRILLS-USA4970Reuters
+INFO     root:test_User_Interface.py:503 MIGRATION-EUROPE/GAZA0705Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-NRW/WAHL UMFRAGE4965Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/GOUT4951Reuters
+INFO     root:test_User_Interface.py:503 JAPAN-USA/DEFENCE-TYPHON4955Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-SPAIN4973Reuters
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-COURT-MORNING4963Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/QATAR-SUMMIT-PREPS4958Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-USA-PRESIDENTS-FILE4529Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH4957Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-STOCKS/4968Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-TIKTOK-FILE4979Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/CABINET1023ANI
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-RALLY4932Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/USA-RUBIO-NETANYAHU-GPO4994Reuters
+INFO     root:test_User_Interface.py:503 LIBYA-SPORTS/ ROUGH CUT4944Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-BESSENT4959Reuters
+INFO     root:test_User_Interface.py:503 BELARUS-RUSSIA/DRILLS-USA4970Reuters
+INFO     root:test_User_Interface.py:503 MIGRATION-EUROPE/GAZA0705Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-NRW/WAHL UMFRAGE4965Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/GOUT4951Reuters
+INFO     root:test_User_Interface.py:503 JAPAN-USA/DEFENCE-TYPHON4955Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-SPAIN4973Reuters
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-COURT-MORNING4963Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/QATAR-SUMMIT-PREPS4958Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH4957Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-STOCKS/4968Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-TIKTOK-FILE4979Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/CABINET1023ANI
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-RALLY4932Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/USA-RUBIO-NETANYAHU-GPO4994Reuters
+INFO     root:test_User_Interface.py:503 LIBYA-SPORTS/ ROUGH CUT4944Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-CHINA-BESSENT4959Reuters
+INFO     root:test_User_Interface.py:503 BELARUS-RUSSIA/DRILLS-USA4970Reuters
+INFO     root:test_User_Interface.py:503 MIGRATION-EUROPE/GAZA0705Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-NRW/WAHL UMFRAGE4965Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/GOUT4951Reuters
+INFO     root:test_User_Interface.py:503 JAPAN-USA/DEFENCE-TYPHON4955Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-SPAIN4973Reuters
+INFO     root:test_User_Interface.py:503 TURKEY-OPPOSITION/CRACKDOWN-COURT-MORNING4963Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/QATAR-SUMMIT-PREPS4958Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PREPARATIONS5894Reuters
+INFO     root:test_User_Interface.py:503 USA-STOCKS/OPEN6027Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/TWO STATE SOLUTION-EXPLAINER5030Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/SHOOTING-CROSSING6032Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/MEDALS5881Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-BUSINESS RECEPTION5909Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED5983Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/5989Reuters
+INFO     root:test_User_Interface.py:503 SPAIN-GAUDI/5919Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-GARDENS-UPDATE6001Reuters
+INFO     root:test_User_Interface.py:503 ALBANIA-POLITICS/AI-MINISTER5993Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-OKTOBERFEST/VORSCHAU6004Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ZELENSKIY5994Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-BENFICA/MOURINHO6018Reuters
+INFO     root:test_User_Interface.py:503 FASHION-LONDON/PREVIEW5598Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-HOSPITAL5680Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-TARIFFS6015Reuters
+INFO     root:test_User_Interface.py:503 MOLDOVA-ELECTION/RUSSIA5996Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/UNIONS5949Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-DOLLS HOUSE5896Reuters
+INFO     root:test_User_Interface.py:503 RUSSIA-KREMLIN/KOZAK5975Reuters
+INFO     root:test_User_Interface.py:503 UAE-INDIA/NEWSER4026ANI
+INFO     root:test_User_Interface.py:503 USA-TRUMP/AID-CONTRACEPTION-BELGIUM5717Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/TARIFFS-INDIA5991Reuters
+INFO     root:test_User_Interface.py:503 China-Japanese War Crimes/Evidence4612CCTV
+INFO     root:test_User_Interface.py:503 SPAIN-GAUDI/5919Reuters
+INFO     root:test_User_Interface.py:503 ITALY-MOTORSPORT/SPEEDRECORD5721Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PREPARATIONS5894Reuters
+INFO     root:test_User_Interface.py:503 CALIFORNIA-WILDFIRES/LABOR5446Reuters
+INFO     root:test_User_Interface.py:503 USA-STOCKS/OPEN6027Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/TWO STATE SOLUTION-EXPLAINER5030Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/SHOOTING-CROSSING6032Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/MEDALS5881Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-BUSINESS RECEPTION5909Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED5983Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/5989Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-GARDENS-UPDATE6001Reuters
+INFO     root:test_User_Interface.py:503 ALBANIA-POLITICS/AI-MINISTER5993Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-OKTOBERFEST/VORSCHAU6004Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ZELENSKIY5994Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-BENFICA/MOURINHO6018Reuters
+INFO     root:test_User_Interface.py:503 FASHION-LONDON/PREVIEW5598Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-HOSPITAL5680Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-TARIFFS6015Reuters
+INFO     root:test_User_Interface.py:503 MOLDOVA-ELECTION/RUSSIA5996Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/UNIONS5949Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-DOLLS HOUSE5896Reuters
+INFO     root:test_User_Interface.py:503 RUSSIA-KREMLIN/KOZAK5975Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/RUSSIA-ZAPAD6031Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-BUSINESS RECEPTION5909Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-BORDER5973Reuters
+INFO     root:test_User_Interface.py:503 BANGLADESH-PROTESTS/5999Reuters
+INFO     root:test_User_Interface.py:503 SPAIN-GAUDI/5919Reuters
+INFO     root:test_User_Interface.py:503 ITALY-MOTORSPORT/SPEEDRECORD5721Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PREPARATIONS5894Reuters
+INFO     root:test_User_Interface.py:503 CALIFORNIA-WILDFIRES/LABOR5446Reuters
+INFO     root:test_User_Interface.py:503 USA-STOCKS/OPEN6027Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/TWO STATE SOLUTION-EXPLAINER5030Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/SHOOTING-CROSSING6032Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/MEDALS5881Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED5983Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/5989Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-GARDENS-UPDATE6001Reuters
+INFO     root:test_User_Interface.py:503 ALBANIA-POLITICS/AI-MINISTER5993Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-OKTOBERFEST/VORSCHAU6004Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ZELENSKIY5994Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-BENFICA/MOURINHO6018Reuters
+INFO     root:test_User_Interface.py:503 FASHION-LONDON/PREVIEW5598Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-HOSPITAL5680Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-TARIFFS6015Reuters
+INFO     root:test_User_Interface.py:503 MOLDOVA-ELECTION/RUSSIA5996Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-ART/PICASSO ROUGH CUT6022Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/RUSSIA-ZAPAD6031Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-BUSINESS RECEPTION5909Reuters
+INFO     root:test_User_Interface.py:503 SPAIN-GAUDI/5919Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PREPARATIONS5894Reuters
+INFO     root:test_User_Interface.py:503 USA-STOCKS/OPEN6027Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/TWO STATE SOLUTION-EXPLAINER5030Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/SHOOTING-CROSSING6032Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/MEDALS5881Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED5983Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/5989Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-GARDENS-UPDATE6001Reuters
+INFO     root:test_User_Interface.py:503 ALBANIA-POLITICS/AI-MINISTER5993Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-OKTOBERFEST/VORSCHAU6004Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ZELENSKIY5994Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-BENFICA/MOURINHO6018Reuters
+INFO     root:test_User_Interface.py:503 FASHION-LONDON/PREVIEW5598Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-HOSPITAL5680Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-TARIFFS6015Reuters
+INFO     root:test_User_Interface.py:503 MOLDOVA-ELECTION/RUSSIA5996Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/UNIONS5949Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-DOLLS HOUSE5896Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-ART/PICASSO ROUGH CUT6022Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/RUSSIA-ZAPAD6031Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-BUSINESS RECEPTION5909Reuters
+INFO     root:test_User_Interface.py:503 SPAIN-GAUDI/5919Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PREPARATIONS5894Reuters
+INFO     root:test_User_Interface.py:503 USA-STOCKS/OPEN6027Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/TWO STATE SOLUTION-EXPLAINER5030Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/SHOOTING-CROSSING6032Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/MEDALS5881Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED5983Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/5989Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-GARDENS-UPDATE6001Reuters
+INFO     root:test_User_Interface.py:503 ALBANIA-POLITICS/AI-MINISTER5993Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-OKTOBERFEST/VORSCHAU6004Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ZELENSKIY5994Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-BENFICA/MOURINHO6018Reuters
+INFO     root:test_User_Interface.py:503 FASHION-LONDON/PREVIEW5598Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-HOSPITAL5680Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-TARIFFS6015Reuters
+INFO     root:test_User_Interface.py:503 MOLDOVA-ELECTION/RUSSIA5996Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-PROTEST/UNIONS5949Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/BRITAIN-MELANIA-DOLLS HOUSE5896Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ESTONIA-NATO6506Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/NATO-INCURSION-TIMELINE6467Reuters
+INFO     root:test_User_Interface.py:503 SINGAPORE-ROBOTAXIS/FILE6469Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH6505Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK6115Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-STRIKES6488Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ATTACK-KYIV6470Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-AIRPORTS/CYBERATTACK-BRUSSELS6482Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ESTONIA6424Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/6478Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-AIRPORTS/CYBERATTACK-HEATHROW6474Reuters
+INFO     root:test_User_Interface.py:503 INDIA-DISEASE/6021ANI
+INFO     root:test_User_Interface.py:503 EUROPE-AIRPORTS/CYBERATTACK-FILE6468Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ESTONIA-RUSSIA6447Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/TOURISM2025ANI
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/LYLES6472Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-MESSI/ONEVONE6445Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DEMOLITIONS5947Reuters
+INFO     root:test_User_Interface.py:503 Russia/Estonia-Airspace Violation6614CCTV
+INFO     root:test_User_Interface.py:503 Portugal-Palestine/Recognition6613CCTV
+INFO     root:test_User_Interface.py:503 France-Notre-Dame Cathedral/Towers6612CCTV
+INFO     root:test_User_Interface.py:503 China-Xinjiang/Economic Achievements6611CCTV
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ATTACK-DNIPRO6463Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ESTONIA-NATO6506Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/JAMES INVESTIGATION6457Reuters
+INFO     root:test_User_Interface.py:503 SINGAPORE-ROBOTAXIS/FILE6469Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH6505Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK6115Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-STRIKES6488Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ATTACK-KYIV6470Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-AIRPORTS/CYBERATTACK-BRUSSELS6482Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ESTONIA6424Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/6478Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-AIRPORTS/CYBERATTACK-HEATHROW6474Reuters
+INFO     root:test_User_Interface.py:503 INDIA-DISEASE/6021ANI
+INFO     root:test_User_Interface.py:503 EUROPE-AIRPORTS/CYBERATTACK-FILE6468Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ESTONIA-RUSSIA6447Reuters
+INFO     root:test_User_Interface.py:503 NEPAL-PROTESTS/TOURISM2025ANI
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/LYLES6472Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-MESSI/ONEVONE6445Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DEMOLITIONS5947Reuters
+INFO     root:test_User_Interface.py:503 Russia/Estonia-Airspace Violation6614CCTV
+INFO     root:test_User_Interface.py:503 Portugal-Palestine/Recognition6613CCTV
+INFO     root:test_User_Interface.py:503 France-Notre-Dame Cathedral/Towers6612CCTV
+INFO     root:test_User_Interface.py:503 China-Xinjiang/Economic Achievements6611CCTV
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/ATTACK-DNIPRO6463Reuters
+INFO     root:test_User_Interface.py:503 INDIA-ECONOMY/TAX7023ANI
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/NETANYAHU6648Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PARADE6636Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-YOUTH6585Reuters
+INFO     root:test_User_Interface.py:503 GUINEA-POLITICS/6637Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/POLITICS-RAMALLAH-FM6616Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-SYRIA/NETANYAHU6647Reuters
+INFO     root:test_User_Interface.py:503 RUSSIA-ODDLY/PUMPKIN MAN6311Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/VISAS-CHINA-ANALYST ROUGH CUT6645Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-BERLIN/6610Reuters
+INFO     root:test_User_Interface.py:503 RUSSIA-POLAR BEARS/6622Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ODDLY/DOG SWIMMING6626Reuters
+INFO     root:test_User_Interface.py:503 PHILIPPINES-POLITICS/PROTESTS-UPDATE6635Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-WAITERS RACE/6596Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/POPE6599Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/HOSTAGES-PROTESTS ROUGH CUT6629Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-PREPS ROUGH CUT6631Reuters
+INFO     root:test_User_Interface.py:503 PHILIPPINES-POLITICS/PROTEST-CLASH ROUGH CUT6627Reuters
+INFO     root:test_User_Interface.py:503 China-Power Transmission/Xinjiang7613CCTV
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-FUNERALS6597Reuters
+INFO     root:test_User_Interface.py:503 USA-CHINA/CONGRESS-ROUGH CUT6641Reuters
+INFO     root:test_User_Interface.py:503 INDIA-ECONOMY/TAX7023ANI
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/NETANYAHU6648Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-OKTOBERFEST/PARADE6636Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-YOUTH6585Reuters
+INFO     root:test_User_Interface.py:503 GUINEA-POLITICS/6637Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/POLITICS-RAMALLAH-FM6616Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-SYRIA/NETANYAHU6647Reuters
+INFO     root:test_User_Interface.py:503 RUSSIA-ODDLY/PUMPKIN MAN6311Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/VISAS-CHINA-ANALYST ROUGH CUT6645Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-BERLIN/6610Reuters
+INFO     root:test_User_Interface.py:503 RUSSIA-POLAR BEARS/6622Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ODDLY/DOG SWIMMING6626Reuters
+INFO     root:test_User_Interface.py:503 PHILIPPINES-POLITICS/PROTESTS-UPDATE6635Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-WAITERS RACE/6596Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/POPE6599Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/HOSTAGES-PROTESTS ROUGH CUT6629Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-PREPS ROUGH CUT6631Reuters
+INFO     root:test_User_Interface.py:503 PHILIPPINES-POLITICS/PROTEST-CLASH ROUGH CUT6627Reuters
+INFO     root:test_User_Interface.py:503 China-Power Transmission/Xinjiang7613CCTV
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-FUNERALS6597Reuters
+INFO     root:test_User_Interface.py:503 USA-CHINA/CONGRESS-ROUGH CUT6641Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-MOMENT6659Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/NEW HAMPSHIRE6581Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-BJKCUP/6613Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-LINES-SECURITY6668Reuters
+INFO     root:test_User_Interface.py:503 VENEZUELA-RUSSIA/6677Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/FM-REACTION6678Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-BAHN/ARCHIV6671Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-INTERIORS6676Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-GAZA REAX6661Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-REAX6628Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-ENVOY6672Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-ITALY6601Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/HOSTAGES-MOTHER6673Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-TRUMP-DEPARTURE6674Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-TRUMP6669Reuters
+INFO     root:test_User_Interface.py:503 Gaza Strip-Gaza City/Staying Civilians7611CCTV
+INFO     root:test_User_Interface.py:503 MOTOR-F1-AZERBAIJAN/6612Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ODDLY/DOG SWIMMING6626Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-SEOUL/6605Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/AFGHANISTAN-TALIBAN6651Reuters
+INFO     root:test_User_Interface.py:503 INDIA-ECONOMY/TAX6652Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-MOMENT6659Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/NEW HAMPSHIRE6581Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-BJKCUP/6613Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-LINES-SECURITY6668Reuters
+INFO     root:test_User_Interface.py:503 VENEZUELA-RUSSIA/6677Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/FM-REACTION6678Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-BAHN/ARCHIV6671Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-INTERIORS6676Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-GAZA REAX6661Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-REAX6628Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-ENVOY6672Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-ITALY6601Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-TRUMP-DEPARTURE6674Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-TRUMP6669Reuters
+INFO     root:test_User_Interface.py:503 Gaza Strip-Gaza City/Staying Civilians7611CCTV
+INFO     root:test_User_Interface.py:503 MOTOR-F1-AZERBAIJAN/6612Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ODDLY/DOG SWIMMING6626Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-SEOUL/6605Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/AFGHANISTAN-TALIBAN6651Reuters
+INFO     root:test_User_Interface.py:503 INDIA-ECONOMY/TAX6652Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED-TRANSPORT6646Reuters
+INFO     root:test_User_Interface.py:503 ATHLETICS-WORLD/6611Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-INTERIORS6676Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-ITALY6601Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-NETANYAHU6681Reuters
+INFO     root:test_User_Interface.py:503 CYCLING-WORLD/RWANDA6660Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-BAHN/ARCHIV6671Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-REAX6675Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-ENVOY6672Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-MOMENT6659Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/NEW HAMPSHIRE6581Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-BJKCUP/6613Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-LINES-SECURITY6668Reuters
+INFO     root:test_User_Interface.py:503 VENEZUELA-RUSSIA/6677Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/FM-REACTION6678Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-GAZA REAX6661Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-REAX6628Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/HOSTAGES-MOTHER6673Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-TRUMP-DEPARTURE6674Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-TRUMP6669Reuters
+INFO     root:test_User_Interface.py:503 Gaza Strip-Gaza City/Staying Civilians7611CCTV
+INFO     root:test_User_Interface.py:503 MOTOR-F1-AZERBAIJAN/6612Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ODDLY/DOG SWIMMING6626Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-INTERIORS6676Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-ITALY6601Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-NETANYAHU6681Reuters
+INFO     root:test_User_Interface.py:503 CYCLING-WORLD/RWANDA6660Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-BAHN/ARCHIV6671Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-REAX6675Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-ENVOY6672Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-MOMENT6659Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/NEW HAMPSHIRE6581Reuters
+INFO     root:test_User_Interface.py:503 TENNIS-BJKCUP/6613Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-LINES-SECURITY6668Reuters
+INFO     root:test_User_Interface.py:503 VENEZUELA-RUSSIA/6677Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/FM-REACTION6678Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-GAZA REAX6661Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-REAX6628Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-TRUMP-DEPARTURE6674Reuters
+INFO     root:test_User_Interface.py:503 USA-SHOOTING/KIRK-MEMORIAL-TRUMP6669Reuters
+INFO     root:test_User_Interface.py:503 Gaza Strip-Gaza City/Staying Civilians7611CCTV
+INFO     root:test_User_Interface.py:503 MOTOR-F1-AZERBAIJAN/6612Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ODDLY/DOG SWIMMING6626Reuters
+INFO     root:test_User_Interface.py:503 EGYPT-RIGHTS/BRITAIN-ABDELFATTAH2131Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-BRITAIN COOPER6784Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/WEST BANK-SETTLEMENTS-EXPLAINER5447Reuters
+INFO     root:test_User_Interface.py:503 SOUTHSUDAN-MACHAR/PROFILE6768Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-IRAQ6866Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GERMANY RECOGNITION6786Reuters
+INFO     root:test_User_Interface.py:503 CLIMATE-CHANGE/SWISS-GLACIERS6890Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-SPAIN-LEV-RMA/PREVIEW6833Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/PORTUGAL6847Reuters
+INFO     root:test_User_Interface.py:503 MOTOR-F1-REDBULL-HORNER/6892Reuters
+INFO     root:test_User_Interface.py:503 USA-CHINA/CONGRESS6824Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/POLAND-AIRSPACE6876Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY6846Reuters
+INFO     root:test_User_Interface.py:503 SOCCER-ENGLAND-LIN-CHE/PREVIEW6882Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY-MOMENT6872Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-WEST BANK-MORE-REAX6856Reuters
+INFO     root:test_User_Interface.py:503 SOUTHSUDAN-POLITICS/COURT6794Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-BAHN/SCHNIEDER6798Reuters
+INFO     root:test_User_Interface.py:503 FRANCE-WEATHER/FLOODS-TOULON-UGC6883Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/NATO-ANALYST6829Reuters
+INFO     root:test_User_Interface.py:503 MIGRATION-BRITAIN/REFORM6850Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/RECOGNITION-WEST BANK-REAX6788Reuters
+INFO     root:test_User_Interface.py:503 CYBER-ATTACKS/EXPLAINER2541Reuters

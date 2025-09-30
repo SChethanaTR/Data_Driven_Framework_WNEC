@@ -1,0 +1,8 @@
+INFO:root:Story 1: UKRAINE-CRISIS/ATTACK-ODESA-MATERNITY WARD
+INFO:root:Story 2: ISRAEL-PALESTINIANS/GAZA-FUNERALS
+INFO:root:Story 3: SWEDEN-THUNBERG/ARRESTS-FILE
+INFO:root:
+INFO:root:('1', 'SDI output 01', 'file', None, 1, 0, 'PlayNow', 'Playing', 'Waiting', 'manual', '', 'tag:reuters.com,2025:newsml_RWMCXWTVZ', 'Now playing: Reuters Live Online', 'Reuters Live Online', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Stopped', 'None', 0, 0, '', '', 0, '', '', '', 0, '')

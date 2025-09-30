@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests fixed live playout functionality.
+    Selects a channel for live playout and verifies that the correct content is being played.
+    Includes validation through logs and database checks.
+    ","50496","test_Administrator_live_playout_Fixed[chromium]","tests.Automation_tests","Mon Sep 22 13:41:16 IST 2025","passed","Mon Sep 22 13:42:07 IST 2025","","test_admin_playout","",""

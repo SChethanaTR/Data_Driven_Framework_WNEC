@@ -1,0 +1,6 @@
+INFO:root:Story 1: Various-Zelensky/Putin/Meeting Location
+INFO:root:Story 2: UN-ASSEMBLY/ESTONIA
+INFO:root:Story 3: LEBANON-NASRALLAH/PROFILE-SHORT
+INFO:root:Loop items checkbox is unchecked. Checking it to reveal Clear button.
+INFO:root:Clear button is visible. Clicking to clear history.
+INFO:root:Confirmation dialog appeared. Confirming clear action.

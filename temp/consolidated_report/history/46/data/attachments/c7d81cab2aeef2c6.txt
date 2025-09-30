@@ -1,0 +1,1 @@
+INFO     root:test_User_Interface.py:1003 Story added to playlist: German Chancellor Merz addresses Bundestag during budget session

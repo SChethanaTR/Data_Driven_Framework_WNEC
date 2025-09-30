@@ -1,0 +1,2 @@
+INFO     root:test_FD.py:569 Spanish Video Report
+INFO     root:test_FD.py:577

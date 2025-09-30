@@ -1,0 +1,4 @@
+INFO:root:Testing user - Username: obdgni, Password: 2T3Vcl!*Fv
+INFO:root:Login successful
+INFO:root:Logout message verified
+INFO:root:Successfully logged out

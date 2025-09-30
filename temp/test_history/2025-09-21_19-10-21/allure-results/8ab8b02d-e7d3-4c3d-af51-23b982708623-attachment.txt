@@ -1,0 +1,16 @@
+INFO:root:View of the Gaza strip as UK, Canada and  Australia recognise Palestinian state08:4712:00rl 2
+INFO:root:Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday12:4613:46rl 5
+INFO:root:Trump departs for Charlie Kirk's memorial service13:4314:43rl 1
+INFO:root:View of the Israel-Gaza border13:55 (-2)12:00rl 2
+INFO:root:Portugal to recognize a Palestinian state ahead of UN General Assembly12:0012:00rl 1
+INFO:root:Donald Trump leaves Joint Base Andrews en route to Charlie Kirk's memorial service12:0012:00rls
+INFO:root:Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday12:0012:00rls
+INFO:root:Mother of Israeli hostage delivers statement14:3015:30rl 4
+INFO:root:View of the Israel-Gaza border14:3212:00 (+1)rl 3
+INFO:root:Thousands attend a memorial service for conservative activist Charlie Kirk16:0017:00rl 4
+INFO:root:Turning Point USA holds memorial for Charlie Kirk17:0018:00rl 3
+INFO:root:Turning Point USA holds memorial for Charlie Kirk17:0018:00rl 2Ch 4
+INFO:root:Turning Point USA holds memorial for Charlie Kirk17:0018:00rls
+INFO:root:SpaceX launches a satellite for the National Reconnaissance Office17:2018:20rl 6
+INFO:root:Partial solar eclipse seen over New Zealand17:3023:00rl 1
+INFO:root:Trading opens at the Tokyo Stock Exchange23:4501:10 (+1)rl 2Ch 4

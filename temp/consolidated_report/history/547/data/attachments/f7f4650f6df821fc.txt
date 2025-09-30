@@ -1,0 +1,7 @@
+INFO     root:test_User_Interface.py:291 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:291 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:291 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:291 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:291 INDIA-ECONOMY/TAX
+INFO     root:test_User_Interface.py:297 Extracted text: TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:311 TENNIS-SEOUL/

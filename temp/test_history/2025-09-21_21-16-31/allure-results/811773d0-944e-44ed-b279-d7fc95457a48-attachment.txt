@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:939 ISRAEL-PALESTINIANS/BRITAIN-MOMENT
+INFO     root:test_User_Interface.py:939 NEPAL-PROTESTS/UPDATE
+INFO     root:test_User_Interface.py:945 Extracted text: NEPAL-PROTESTS/UPDATE

@@ -1,0 +1,3 @@
+INFO:root:Dropdown options available:
+INFO:root:Option 1: My Videos
+INFO:root:✅ 'Distribution' option is not available in the dropdown.

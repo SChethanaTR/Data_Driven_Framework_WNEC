@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: MUSIC-BTS/MILITARY-FANS
+INFO     root:test_history.py:317 Story added: China-Road Logistics/May
+INFO     root:test_history.py:317 Story added: UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH
+INFO     root:test_history.py:319 All stories collected: ['MUSIC-BTS/MILITARY-FANS', 'China-Road Logistics/May', 'UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH']

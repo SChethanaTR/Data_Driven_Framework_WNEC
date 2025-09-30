@@ -1,0 +1,5 @@
+INFO:root:Story added: Belgium-U.S. Steel Tariffs/Expert
+INFO:root:Story added: UKRAINE-CRISIS/ATTACK-KHARKIV-MOMENT-CLEAN
+INFO:root:Story added: CHINA-USA/XI-TRUMP-FILE
+INFO:root:All stories collected: ['Belgium-U.S. Steel Tariffs/Expert', 'UKRAINE-CRISIS/ATTACK-KHARKIV-MOMENT-CLEAN', 'CHINA-USA/XI-TRUMP-FILE']
+ERROR:root:The story 'Belgium-U.S. Steel Tariffs/Expert' is NOT present in the history page.

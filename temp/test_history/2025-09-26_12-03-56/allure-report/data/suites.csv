@@ -1,0 +1,32 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","42752","test_HistoryPage_Search_Distribution_History[chromium]","tests.Automation_tests","Fri Sep 26 12:11:43 IST 2025","passed","Fri Sep 26 12:12:25 IST 2025","","test_User_Interface","",""
+"","67252","test_HistoryPage_Playout_History[chromium]","tests.Automation_tests","Fri Sep 26 12:05:10 IST 2025","broken","Fri Sep 26 12:06:17 IST 2025","","test_User_Interface","",""
+"","9763","test_View_XML[chromium]","tests.Automation_tests","Fri Sep 26 12:09:26 IST 2025","passed","Fri Sep 26 12:09:35 IST 2025","","test_User_Interface","",""
+"","43589","test_StoriesPage_CopyLink[chromium]","tests.Automation_tests","Fri Sep 26 12:04:26 IST 2025","passed","Fri Sep 26 12:05:09 IST 2025","","test_User_Interface","",""
+"","9425","test_LivePage_live_page_view[chromium]","tests.Automation_tests","Fri Sep 26 12:06:57 IST 2025","passed","Fri Sep 26 12:07:06 IST 2025","","test_User_Interface","",""
+"","40110","test_LivePage_Add_To_Playlist[chromium]","tests.Automation_tests","Fri Sep 26 12:08:45 IST 2025","passed","Fri Sep 26 12:09:25 IST 2025","","test_User_Interface","",""
+"","15611","test_AdminSettingsPage_FileProcessor[chromium]","tests.Automation_tests","Fri Sep 26 12:09:36 IST 2025","passed","Fri Sep 26 12:09:51 IST 2025","","test_User_Interface","",""
+"","9522","test_Livepage_actions[chromium]","tests.Automation_tests","Fri Sep 26 12:07:07 IST 2025","passed","Fri Sep 26 12:07:16 IST 2025","","test_User_Interface","",""
+"","50021","test_MyVideosPage_Add_My_Videos_To_Playlist[chromium]","tests.Automation_tests","Fri Sep 26 12:07:42 IST 2025","failed","Fri Sep 26 12:08:32 IST 2025","","test_User_Interface","",""
+"","12523","test_MyVideosPage_Print_My_Videos[chromium]","tests.Automation_tests","Fri Sep 26 12:08:32 IST 2025","passed","Fri Sep 26 12:08:45 IST 2025","","test_User_Interface","",""
+"","24690","test_PlayoutNowPage_Playout_Now_Button_On_LivePage[chromium]","tests.Automation_tests","Fri Sep 26 12:07:17 IST 2025","failed","Fri Sep 26 12:07:41 IST 2025","","test_User_Interface","",""
+"","15756","test_Admin_Settings_Page_Playout_Options[chromium]","tests.Automation_tests","Fri Sep 26 12:09:52 IST 2025","passed","Fri Sep 26 12:10:08 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","15470","test_LivePage_Check_LivePreview[chromium]","tests.Automation_tests","Fri Sep 26 12:04:10 IST 2025","passed","Fri Sep 26 12:04:25 IST 2025","","test_User_Interface","",""
+"","121226","test_HistoryPage_Distribution_History[chromium]","tests.Automation_tests","Fri Sep 26 12:12:26 IST 2025","passed","Fri Sep 26 12:14:27 IST 2025","","test_User_Interface","",""
+"","12368","test_Clear_Playout_History[chromium]","tests.Automation_tests","Fri Sep 26 12:06:44 IST 2025","passed","Fri Sep 26 12:06:56 IST 2025","","test_User_Interface","",""
+"","26100","test_HistoryPage_Hide_Or_Show_Loop_Configuration[chromium]","tests.Automation_tests","Fri Sep 26 12:06:18 IST 2025","passed","Fri Sep 26 12:06:44 IST 2025","","test_User_Interface","",""
+"","94249","test_HistoryPage_Search_Playout_History[chromium]","tests.Automation_tests","Fri Sep 26 12:10:08 IST 2025","broken","Fri Sep 26 12:11:42 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","10451","test_PlayoutPage_Print_MyPlayout_page[chromium]","tests.Automation_tests","Fri Sep 26 12:03:59 IST 2025","passed","Fri Sep 26 12:04:10 IST 2025","","test_User_Interface","",""

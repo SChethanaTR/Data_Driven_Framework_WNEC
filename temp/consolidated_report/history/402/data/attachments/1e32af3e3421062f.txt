@@ -1,0 +1,227 @@
+INFO     root:story.py:1350 Cell 1: 2025-09-15T075636Z_2_RW495515092025RP1_RTRMADC_0_JAPAN-USA-DEFENCE-TYPHON.XML
+INFO     root:story.py:1350 Cell 2: TBD
+INFO     root:story.py:1350 Cell 3: Waiting
+INFO     root:story.py:1350 Cell 4: 
+INFO     root:story.py:1350 Cell 5: 2025-09-15T083625Z_5_RW497015092025RP1_RTRMADC_0_BELARUS-RUSSIA-DRILLS-USA.XML
+INFO     root:story.py:1350 Cell 6: TBD
+INFO     root:story.py:1350 Cell 7: Waiting
+INFO     root:story.py:1350 Cell 8: 
+INFO     root:story.py:1350 Cell 9: 2025-09-15T083215Z_4_RW495715092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-AFTERMATH.XML
+INFO     root:story.py:1350 Cell 10: TBD
+INFO     root:story.py:1350 Cell 11: Waiting
+INFO     root:story.py:1350 Cell 12: 
+INFO     root:story.py:1350 Cell 13: 2025-09-15T074756Z_3_RW497315092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-SPAIN.XML
+INFO     root:story.py:1350 Cell 14: TBD
+INFO     root:story.py:1350 Cell 15: Waiting
+INFO     root:story.py:1350 Cell 16: 
+INFO     root:story.py:1350 Cell 17: 2025-09-15T074215Z_6_RW495815092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1350 Cell 18: TBD
+INFO     root:story.py:1350 Cell 19: Waiting
+INFO     root:story.py:1350 Cell 20: 
+INFO     root:story.py:1350 Cell 21: 2025-09-15T080754Z_4_RW070529082025RP1_RTRMADC_0_MIGRATION-EUROPE-GAZA.XML
+INFO     root:story.py:1350 Cell 22: TBD
+INFO     root:story.py:1350 Cell 23: Waiting
+INFO     root:story.py:1350 Cell 24: 
+INFO     root:story.py:1350 Cell 25: 2025-09-15T082501Z_5_RW497915092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-TIKTOK-FILE.XML
+INFO     root:story.py:1350 Cell 26: TBD
+INFO     root:story.py:1350 Cell 27: Waiting
+INFO     root:story.py:1350 Cell 28: 
+INFO     root:story.py:1350 Cell 29: 2025-09-15T081738Z_5_RW495915092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-BESSENT.XML
+INFO     root:story.py:1350 Cell 30: TBD
+INFO     root:story.py:1350 Cell 31: Waiting
+INFO     root:story.py:1350 Cell 32: 
+INFO     root:story.py:1350 Cell 33: 2025-09-15T082323Z_4_RW493215092025RP1_RTRMADC_0_TURKEY-OPPOSITION-CRACKDOWN-RALLY.XML
+INFO     root:story.py:1350 Cell 34: TBD
+INFO     root:story.py:1350 Cell 35: Waiting
+INFO     root:story.py:1350 Cell 36: 
+INFO     root:story.py:1350 Cell 37: 2025-09-15T082212Z_4_RW499415092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-NETANYAHU-GPO.XML
+INFO     root:story.py:1350 Cell 38: TBD
+INFO     root:story.py:1350 Cell 39: Waiting
+INFO     root:story.py:1350 Cell 40: 
+INFO     root:story.py:1350 Cell 41: 2025-09-15T074249Z_5_RW496315092025RP1_RTRMADC_0_TURKEY-OPPOSITION-CRACKDOWN-COURT-MORNING.XML
+INFO     root:story.py:1350 Cell 42: TBD
+INFO     root:story.py:1350 Cell 43: Waiting
+INFO     root:story.py:1350 Cell 44: 
+INFO     root:story.py:1350 Cell 45: 2025-09-15T081452Z_6_RW494415092025RP1_RTRMADC_0_LIBYA-SPORTS-ROUGH-CUT.XML
+INFO     root:story.py:1350 Cell 46: TBD
+INFO     root:story.py:1350 Cell 47: Waiting
+INFO     root:story.py:1350 Cell 48: 
+INFO     root:story.py:1350 Cell 49: 2025-09-15T082434Z_3_RWMQYCKEN_RTRMADC_0_NEPAL-PROTESTS-CABINET.XML
+INFO     root:story.py:1350 Cell 50: TBD
+INFO     root:story.py:1350 Cell 51: Waiting
+INFO     root:story.py:1350 Cell 52: 
+INFO     root:story.py:1350 Cell 53: 2025-09-15T080927Z_6_RW496515092025RP1_RTRMADC_0_DEUTSCHALND-NRW-WAHL-UMFRAGE.XML
+INFO     root:story.py:1350 Cell 54: TBD
+INFO     root:story.py:1350 Cell 55: Waiting
+INFO     root:story.py:1350 Cell 56: 
+INFO     root:story.py:1350 Cell 57: 2025-09-15T080744Z_4_RW495115092025RP1_RTRMADC_0_ATHLETICS-WORLD-GOUT.XML
+INFO     root:story.py:1350 Cell 58: TBD
+INFO     root:story.py:1350 Cell 59: Waiting
+INFO     root:story.py:1350 Cell 60: 
+INFO     root:story.py:1350 Cell 61: 2025-09-15T082625Z_4_RW496815092025RP1_RTRMADC_0_EUROPE-STOCKS.XML
+INFO     root:story.py:1350 Cell 62: TBD
+INFO     root:story.py:1350 Cell 63: Waiting
+INFO     root:story.py:1350 Cell 64: 
+INFO     root:test_VFD.py:1340 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1348 
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                                  |
++=====+============================================================================================================================================================================================================================================================================================================+
+|   1 | 2025-09-15 08:39:56,166 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-15T081334Z_1_LWD493215092025RP1_RTRWNEV_C_4932-TURKEY-OPPOSITION-CRACKDOWN-RALLY.MP4 to the server: 553 Can't open that file: No such file or directory            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 |                                                                                                                                                                                                                                                                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-15 08:39:56,166 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-15T081334Z_1_LWD493215092025RP1_RTRWNEV_C_4932-TURKEY-OPPOSITION-CRACKDOWN-RALLY.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer. |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-15 08:39:56,175 INFO  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Beginning upload of file--> /home/Video/2025-09-15T081452Z_2_LWD494415092025RP1_RTRWNEV_C_4944-LIBYA-SPORTS-ROUGH-CUT.MP4 to 10.99.13.11 in directory /wneclient/data/QA/ftp/files/testJakub       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-15 08:39:57,614 WARN  [main] com.reuters.filedirect.distribution.method.FtpDistributionMethod : Unable to upload file - 2025-09-15T081452Z_2_LWD494415092025RP1_RTRWNEV_C_4944-LIBYA-SPORTS-ROUGH-CUT.MP4 to the server: 553 Can't open that file: No such file or directory                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 |                                                                                                                                                                                                                                                                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-15 08:39:57,614 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-15T081452Z_2_LWD494415092025RP1_RTRWNEV_C_4944-LIBYA-SPORTS-ROUGH-CUT.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer.            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-15 08:39:57,620 WARN  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : No process status for 161!                                                                                                                                                                           |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-15 08:39:57,621 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : Stop distributing because process has stopped                                                                                                                                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-15 08:39:57,622 ERROR [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Failed to change last update time for process "test1"                                                                                                                                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-15 08:39:57,628 INFO  [main] com.reuters.filedirect.db.DbLogger : "test1" has completed.  Successfully distributed 0 files of 48 queued files.                                                                                                                                                     |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-15 08:39:57,869 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Finished distribution process with name test1                                                                                                                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-15 08:39:57,869 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : --------------------------------------------------------------------------                                                                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-15 08:39:57,870 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                                                                                                                                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-15 08:39:57,871 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                                                                                                                                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-15 08:40:57,875 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                                                                                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-15 08:40:57,878 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                                                                                                                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-15 08:40:57,879 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                                                                                                                                                |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-15 08:40:57,879 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured.                                                                                                                             |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-15 08:40:57,879 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                                                                                                                                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:story.py:1406 Dropdown options available:
+INFO     root:story.py:1408 Option 1: My Videos
+INFO     root:story.py:1412 ✅ 'Distribution' option is not available in the dropdown.
+INFO     root:story.py:1350 Cell 1: 2025-09-15T080754Z_4_RW070529082025RP1_RTRMADC_0_MIGRATION-EUROPE-GAZA.XML
+INFO     root:story.py:1350 Cell 2: TBD
+INFO     root:story.py:1350 Cell 3: Waiting
+INFO     root:story.py:1350 Cell 4: 
+INFO     root:story.py:1350 Cell 5: 2025-09-15T082501Z_5_RW497915092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-TIKTOK-FILE.XML
+INFO     root:story.py:1350 Cell 6: TBD
+INFO     root:story.py:1350 Cell 7: Waiting
+INFO     root:story.py:1350 Cell 8: 
+INFO     root:story.py:1350 Cell 9: 2025-09-15T081738Z_5_RW495915092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-BESSENT.XML
+INFO     root:story.py:1350 Cell 10: TBD
+INFO     root:story.py:1350 Cell 11: Waiting
+INFO     root:story.py:1350 Cell 12: 
+INFO     root:story.py:1350 Cell 13: 2025-09-15T082323Z_4_RW493215092025RP1_RTRMADC_0_TURKEY-OPPOSITION-CRACKDOWN-RALLY.XML
+INFO     root:story.py:1350 Cell 14: TBD
+INFO     root:story.py:1350 Cell 15: Waiting
+INFO     root:story.py:1350 Cell 16: 
+INFO     root:story.py:1350 Cell 17: 2025-09-15T082212Z_4_RW499415092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-NETANYAHU-GPO.XML
+INFO     root:story.py:1350 Cell 18: TBD
+INFO     root:story.py:1350 Cell 19: Waiting
+INFO     root:story.py:1350 Cell 20: 
+INFO     root:story.py:1350 Cell 21: 2025-09-15T074249Z_5_RW496315092025RP1_RTRMADC_0_TURKEY-OPPOSITION-CRACKDOWN-COURT-MORNING.XML
+INFO     root:story.py:1350 Cell 22: TBD
+INFO     root:story.py:1350 Cell 23: Waiting
+INFO     root:story.py:1350 Cell 24: 
+INFO     root:story.py:1350 Cell 25: 2025-09-15T081452Z_6_RW494415092025RP1_RTRMADC_0_LIBYA-SPORTS-ROUGH-CUT.XML
+INFO     root:story.py:1350 Cell 26: TBD
+INFO     root:story.py:1350 Cell 27: Waiting
+INFO     root:story.py:1350 Cell 28: 
+INFO     root:story.py:1350 Cell 29: 2025-09-15T082434Z_3_RWMQYCKEN_RTRMADC_0_NEPAL-PROTESTS-CABINET.XML
+INFO     root:story.py:1350 Cell 30: TBD
+INFO     root:story.py:1350 Cell 31: Waiting
+INFO     root:story.py:1350 Cell 32: 
+INFO     root:story.py:1350 Cell 33: 2025-09-15T080927Z_6_RW496515092025RP1_RTRMADC_0_DEUTSCHALND-NRW-WAHL-UMFRAGE.XML
+INFO     root:story.py:1350 Cell 34: TBD
+INFO     root:story.py:1350 Cell 35: Waiting
+INFO     root:story.py:1350 Cell 36: 
+INFO     root:story.py:1350 Cell 37: 2025-09-15T080744Z_4_RW495115092025RP1_RTRMADC_0_ATHLETICS-WORLD-GOUT.XML
+INFO     root:story.py:1350 Cell 38: TBD
+INFO     root:story.py:1350 Cell 39: Waiting
+INFO     root:story.py:1350 Cell 40: 
+INFO     root:story.py:1350 Cell 41: 2025-09-15T082625Z_4_RW496815092025RP1_RTRMADC_0_EUROPE-STOCKS.XML
+INFO     root:story.py:1350 Cell 42: TBD
+INFO     root:story.py:1350 Cell 43: Waiting
+INFO     root:story.py:1350 Cell 44: 
+INFO     root:story.py:1350 Cell 45: 2025-09-15T075636Z_2_RW495515092025RP1_RTRMADC_0_JAPAN-USA-DEFENCE-TYPHON.XML
+INFO     root:story.py:1350 Cell 46: TBD
+INFO     root:story.py:1350 Cell 47: Waiting
+INFO     root:story.py:1350 Cell 48: 
+INFO     root:story.py:1350 Cell 49: 2025-09-15T083625Z_5_RW497015092025RP1_RTRMADC_0_BELARUS-RUSSIA-DRILLS-USA.XML
+INFO     root:story.py:1350 Cell 50: TBD
+INFO     root:story.py:1350 Cell 51: Waiting
+INFO     root:story.py:1350 Cell 52: 
+INFO     root:story.py:1350 Cell 53: 2025-09-15T083215Z_4_RW495715092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-AFTERMATH.XML
+INFO     root:story.py:1350 Cell 54: TBD
+INFO     root:story.py:1350 Cell 55: Waiting
+INFO     root:story.py:1350 Cell 56: 
+INFO     root:story.py:1350 Cell 57: 2025-09-15T074756Z_3_RW497315092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-SPAIN.XML
+INFO     root:story.py:1350 Cell 58: TBD
+INFO     root:story.py:1350 Cell 59: Waiting
+INFO     root:story.py:1350 Cell 60: 
+INFO     root:story.py:1350 Cell 61: 2025-09-15T074215Z_6_RW495815092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1350 Cell 62: TBD
+INFO     root:story.py:1350 Cell 63: Waiting
+INFO     root:story.py:1350 Cell 64: 
+INFO     root:test_VFD.py:1369 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1377 
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                                                                                                                                       |
++=====+=================================================================================================================================================================================================================================================================================================+
+|   1 |                                                                                                                                                                                                                                                                                                 |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-15 08:39:57,614 WARN  [main] com.reuters.filedirect.db.DbLogger : Failed to distribute 2025-09-15T081452Z_2_LWD494415092025RP1_RTRWNEV_C_4944-LIBYA-SPORTS-ROUGH-CUT.MP4 to ftp://wneqa@10.99.13.11:21//wneclient/data/QA/ftp/files/testJakub via FTP: Failed to complete FTP transfer. |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-15 08:39:57,620 WARN  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : No process status for 161!                                                                                                                                                                |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-15 08:39:57,621 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : Stop distributing because process has stopped                                                                                                                                     |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-15 08:39:57,622 ERROR [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Failed to change last update time for process "test1"                                                                                                                                     |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-15 08:39:57,628 INFO  [main] com.reuters.filedirect.db.DbLogger : "test1" has completed.  Successfully distributed 0 files of 48 queued files.                                                                                                                                          |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-15 08:39:57,869 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Finished distribution process with name test1                                                                                                                                           |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-15 08:39:57,869 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : --------------------------------------------------------------------------                                                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-15 08:39:57,870 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                                                                                                                                 |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-15 08:39:57,871 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                                                                                                                                   |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-15 08:40:57,875 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                                                                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-15 08:40:57,878 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                                                                                                                                         |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-15 08:40:57,879 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                                                                                                                                     |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-15 08:40:57,879 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured.                                                                                                                  |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-15 08:40:57,879 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                                                                                                                                   |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-15 08:41:57,885 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                                                                                                                              |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-15 08:41:57,889 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                                                                                                                                         |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-15 08:41:57,891 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                                                                                                                                     |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-15 08:41:57,891 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured.                                                                                                                  |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-15 08:41:57,891 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                                                                                                                                   |
++-----+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,5 @@
+INFO     root:test_User_management.py:323 Testing user - Username: alerpo, Password: av5*ATu2I$
+INFO     root:test_User_management.py:336 User successfully created
+INFO     root:test_User_management.py:340 Login successful
+INFO     root:test_User_management.py:352 Logout message verified
+INFO     root:test_User_management.py:357 Successfully logged out

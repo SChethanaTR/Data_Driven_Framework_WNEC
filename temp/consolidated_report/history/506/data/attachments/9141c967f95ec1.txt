@@ -1,0 +1,2 @@
+INFO:root:View of the Israel-Gaza border
+INFO:root:Live page exists

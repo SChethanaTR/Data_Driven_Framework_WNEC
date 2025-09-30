@@ -1,0 +1,2 @@
+INFO:root:Unions call for nationwide strike and protests in France
+INFO:root:Live page exists

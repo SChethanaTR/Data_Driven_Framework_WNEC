@@ -1,0 +1,5 @@
+INFO     root:test_history.py:120 Story added: Belgium-U.S. Steel Tariffs/Expert
+INFO     root:test_history.py:120 Story added: UKRAINE-CRISIS/ATTACK-KHARKIV-MOMENT-CLEAN
+INFO     root:test_history.py:120 Story added: CHINA-USA/XI-TRUMP-FILE
+INFO     root:test_history.py:122 All stories collected: ['Belgium-U.S. Steel Tariffs/Expert', 'UKRAINE-CRISIS/ATTACK-KHARKIV-MOMENT-CLEAN', 'CHINA-USA/XI-TRUMP-FILE']
+ERROR    root:test_history.py:145 The story 'Belgium-U.S. Steel Tariffs/Expert' is NOT present in the history page.

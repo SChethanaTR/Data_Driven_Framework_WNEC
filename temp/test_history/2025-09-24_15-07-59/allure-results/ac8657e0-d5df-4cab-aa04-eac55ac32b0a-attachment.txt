@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:56 Hong Kong braces as typhoon Ragasa’s draws closer
+INFO     root:test_User_Interface.py:58 Live page exists

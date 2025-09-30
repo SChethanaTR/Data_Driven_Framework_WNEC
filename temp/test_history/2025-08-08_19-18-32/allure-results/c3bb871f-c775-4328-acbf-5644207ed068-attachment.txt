@@ -1,0 +1,12 @@
+INFO:root:genlock offset done
+INFO:root:waiting video done
+INFO:root:rls done
+INFO:root:slug on video done
+INFO:root:video playout done
+INFO:root:sd525 done
+INFO:root:sd625 done
+INFO:root:hd50 done
+INFO:root:hd 60 done
+INFO:root:rlshd50 done
+INFO:root:rls hd60 done
+INFO:root:Playoutpage tested successfully

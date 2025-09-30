@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:532 EGYPT-ECONOMY/BILLBOARDS
+INFO     root:test_User_Interface.py:537 Extracted text: EGYPT-ECONOMY/BILLBOARDS
+INFO     root:test_User_Interface.py:550 EGYPT-ECONOMY/BILLBOARDS

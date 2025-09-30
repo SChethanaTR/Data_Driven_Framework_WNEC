@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: China-Xinjiang/Desertification Control
+INFO     root:test_history.py:123 Story added: UN-RIGHTS/
+INFO     root:test_history.py:123 Story added: China-Xinjiang/Desertification Control
+INFO     root:test_history.py:125 All stories collected: ['China-Xinjiang/Desertification Control', 'UN-RIGHTS/', 'China-Xinjiang/Desertification Control']
+ERROR    root:test_history.py:148 The story 'China-Xinjiang/Desertification Control' is NOT present in the history page.

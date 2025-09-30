@@ -1,0 +1,8 @@
+INFO:root:Story 1: TENNIS-MERIDA/
+INFO:root:Story 2: TENNIS-MERIDA/
+INFO:root:Story 3: TENNIS-MERIDA/
+INFO:root:
+INFO:root:('1', 'SDI 01', 'file', None, 1, 0, 'PlayNow', 'Playing', 'Waiting', 'manual', '', 'tag:reuters.com,2025:newsml_RWTEST20250513101711', 'Now playing: View of courthouse on last day of Pelicot mass rape trial in Avignon', 'View of courthouse on last day of Pelicot mass rape trial in Avignon', 0, 7, '', '', 0, '', '', '', 0, '')
+INFO:root:('2', '', 'file', 5, 1, 0, 'None', 'Playing', 'Waiting', 'loop', '', '', 'Now playing: 2025-04-22T153349Z_1_LWD839922042025RP1_RTRWNEV_C_8399-INDIA-KASHMIR-ATTACK-UPDATE.MP4', '2025-04-22T153349Z_1_LWD839922042025RP1_RTRWNEV_C_8399-INDIA-KASHMIR-ATTACK-UPDATE.MP4', 0, 0, '', '', 0, '', 'ad,aj,ao,ar,as,br,bu,bo,cc,ce,en,ey,ge,go,ht,ho,iv,io,la,li,lo,me,no,oh,om,qs,qt,rr,sb,sp,sr,te,uo,vi,wd', '', 0, '')
+INFO:root:('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO:root:('4', 'SDI output 04', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', 'sr', '', 0, '')

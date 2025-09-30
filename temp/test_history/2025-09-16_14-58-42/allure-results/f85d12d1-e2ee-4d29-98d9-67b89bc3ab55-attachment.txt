@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:1978 Slug on subcon page: INDIA-MAURITIUS/WREATH LAYING
+INFO     root:test_VFD.py:1982 Slug on cctv page: China-ASEAN Expo/Cooperation

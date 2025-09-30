@@ -1,0 +1,2 @@
+INFO:root:Found 17 videos under 'Live Now'.
+INFO:root:Live Now Video: View of damage after deadly floods in Kerrville, Texas

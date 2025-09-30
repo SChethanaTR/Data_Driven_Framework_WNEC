@@ -1,0 +1,1 @@
+INFO:root:Loop items checkbox is unchecked. Checking it to reveal Clear button.

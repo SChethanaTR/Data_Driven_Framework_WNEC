@@ -1,0 +1,4 @@
+INFO:root:Currently playing: ISRAEL-PALESTINIANS/GAZA-STRIKES6843
+INFO:root:After stopping: PLAYOUT STOPPEDPress Start button, and/or add videos to Playlist, or press Play Now button in Stories page
+INFO:root:Playout stopped successfully
+INFO:root:After playing: NOW PLAYING:

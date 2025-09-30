@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:404 Palestinian Mission to the UK holds special ceremony in London
+INFO     root:test_admin_playout.py:419 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY

@@ -1,0 +1,7 @@
+INFO:root:Loop configuration is currently hidden. Enabling it now.
+INFO:root:Loop configuration is now visible.
+INFO:root:TENNIS-SEOUL/
+INFO:root:TENNIS-SEOUL/
+INFO:root:USA-SHOOTING/KIRK-YOUTH
+INFO:root:USA-SHOOTING/KIRK-YOUTH
+INFO:root:INDIA-ECONOMY/TAX

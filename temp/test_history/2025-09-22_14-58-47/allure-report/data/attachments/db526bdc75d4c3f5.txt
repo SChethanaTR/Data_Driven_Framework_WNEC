@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:776 Currently playing: 
+INFO     root:test_admin_playout.py:783 After stopping: 
+INFO     root:test_admin_playout.py:787 Playout did not stop as expected
+INFO     root:test_admin_playout.py:794 After playing: NOW PLAYING:ISRAEL-PALESTINIANS/FRANCE-NEWSPAPERS6837

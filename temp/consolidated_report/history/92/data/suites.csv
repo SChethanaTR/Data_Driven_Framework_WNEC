@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25850","test_AdminSettingsPage_FileProcessor[chromium]","tests.Automation_tests","Sat Jul 12 20:57:54 IST 2025","passed","Sat Jul 12 20:58:20 IST 2025","","test_User_Interface","",""

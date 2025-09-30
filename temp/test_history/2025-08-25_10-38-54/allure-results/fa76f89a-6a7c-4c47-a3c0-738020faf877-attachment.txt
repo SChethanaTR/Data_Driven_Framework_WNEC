@@ -1,0 +1,4 @@
+INFO:root:Story 1: TENNIS-USOPEN/
+INFO:root:Story 2: TENNIS-USOPEN/
+INFO:root:Story 3: TENNIS-USOPEN/
+INFO:root:Cleared all items

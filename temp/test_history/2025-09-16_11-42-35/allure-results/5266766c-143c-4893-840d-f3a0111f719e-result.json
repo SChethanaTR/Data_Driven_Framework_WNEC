@@ -1,0 +1,1 @@
+{"name": "test_remove_distribution[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758004270671, "stop": 1758004271818, "uuid": "242924e8-9cdb-4365-8ffa-513e89c15d8f", "testCaseId": "3eba8177f1765afa247a0ebcec716f18", "fullName": "tests.Automation_tests.test_VFD#test_remove_distribution"}

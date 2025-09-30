@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:86 UN-ASSEMBLY/ESTONIA
+INFO     root:test_User_Interface.py:86 UN-ASSEMBLY/ESTONIA

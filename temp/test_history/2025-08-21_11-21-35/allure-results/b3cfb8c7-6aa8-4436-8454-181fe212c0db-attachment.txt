@@ -1,0 +1,2 @@
+INFO:root:Found 8 videos under 'Live Now'.
+INFO:root:Live Now Video: View of Israel-Gaza border

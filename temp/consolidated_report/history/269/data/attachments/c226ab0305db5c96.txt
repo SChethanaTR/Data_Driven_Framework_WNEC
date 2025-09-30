@@ -1,0 +1,5 @@
+INFO     root:test_User_management.py:430 Testing user - Username: oipqlg, Password: 4gPaP%B*4x
+INFO     root:test_User_management.py:443 User successfully found
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_7.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_User_management.py:456 Log file content retrieved successfully

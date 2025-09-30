@@ -1,0 +1,5 @@
+INFO     root:test_admin_playout.py:865 Story 1: LEBANON-NASRALLAH/PROFILE-SHORT
+INFO     root:test_admin_playout.py:865 Story 2: China-Xi/Xinjiang/Anniversary Gala
+INFO     root:test_admin_playout.py:865 Story 3: Various-Zelensky/Putin/Meeting Location
+INFO     root:test_admin_playout.py:873 Loop items checkbox is unchecked. Checking it to reveal Clear button.
+INFO     root:test_admin_playout.py:882 Clear button is visible. Clicking to clear history.

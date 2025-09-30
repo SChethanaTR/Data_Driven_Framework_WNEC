@@ -1,0 +1,1 @@
+INFO:root:A view of street and people movements in Khan Younis, southern Gaza Strip

@@ -1,0 +1,2 @@
+INFO:root:Story name: Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO:root:Story playing: USA-SHOOTING/KIRK-STADIUM --UPDATED DETAILS --

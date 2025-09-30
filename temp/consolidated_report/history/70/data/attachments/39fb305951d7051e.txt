@@ -1,0 +1,14 @@
+INFO     root:test_User_Interface.py:577 Found 18 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron arrives at 10 Downing Street
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron arrives at 10 Downing Street
+INFO     root:test_User_Interface.py:581 Live Now Video: View of Israel-Gaza border as Netanyahu says Trump meeting focused on hostage release efforts
+INFO     root:test_User_Interface.py:581 Live Now Video: European Trade Commissioner briefs parliament on trade negotiations with the US
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO     root:test_User_Interface.py:581 Live Now Video: Trump expected to meet with African leaders
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron arrives at 10 Downing Street
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO     root:test_User_Interface.py:581 Live Now Video: European Trade Commissioner briefs parliament on trade negotiations with the US
+INFO     root:test_User_Interface.py:581 Live Now Video: Merz, Rutte press conference after talks in Berlin
+INFO     root:test_User_Interface.py:581 Live Now Video: The Senate Foreign Relations Committee holds a hearing on nominations
+INFO     root:test_User_Interface.py:581 Live Now Video: Merz, Rutte mark the 70th anniversary of Germany joining the alliance

@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:577 Found 18 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron arrives at 10 Downing Street
+INFO     root:test_User_Interface.py:581 Live Now Video: Macron arrives at 10 Downing Street

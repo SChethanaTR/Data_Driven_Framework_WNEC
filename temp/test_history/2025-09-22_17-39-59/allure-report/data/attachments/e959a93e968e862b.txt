@@ -1,0 +1,37 @@
+INFO     root:test_User_Interface.py:316 Found 14 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:322 Live Now Video: Italians join a strike to stand in solidarity with Gaza and protest arm shipments
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: High-level Meeting to Commemorate the 80th Anniversary of the United Nations
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: High-level meeting to commemorate the 80th Anniversary of the United Nations
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Activists, hostage families protest by PM’s residence in Jerusalem
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: High-level meeting to mark 30th anniversary of key declaration on women's rights
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: NASA unveils its 2025 class of astronaut candidates
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Catholic groups led by Sant’Egidio hold Gaza peace vigil in Rome’s Trastevere
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Catholic groups led by Sant’Egidio hold Gaza peace vigil in Rome’s Trastevere
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: World leaders meet on two-state solution between Israel, Palestinians
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: World leaders meet on two-state solution between Israel, Palestinians
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Hong Kong braces for super typhoon Ragasa’s impact
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.
+INFO     root:test_User_Interface.py:322 Live Now Video: Reuters Editor-in-Chief Alessandra Galloni interviews Bill Gates
+INFO     root:test_User_Interface.py:330 Playout button visible and clicked
+INFO     root:test_User_Interface.py:340 No channel options available.

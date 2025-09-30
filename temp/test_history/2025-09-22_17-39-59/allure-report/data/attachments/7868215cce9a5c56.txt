@@ -1,0 +1,180 @@
+INFO:root:Cell 1: 2025-09-22T122450Z_6_RW686622092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RECOGNITION-IRAQ.XML
+INFO:root:Cell 2: TBD
+INFO:root:Cell 3: Waiting
+INFO:root:Cell 4: 
+INFO:root:Cell 5: 2025-09-22T124314Z_4_RW680522092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-WRAP.XML
+INFO:root:Cell 6: TBD
+INFO:root:Cell 7: Waiting
+INFO:root:Cell 8: 
+INFO:root:Cell 9: 2025-09-22T124028Z_11_RW723614082025RP1_RTRMADC_0_UKRAINE-CRISIS-NUCLEAR-ARMS-FILE.XML
+INFO:root:Cell 10: TBD
+INFO:root:Cell 11: Waiting
+INFO:root:Cell 12: 
+INFO:root:Cell 13: 2025-09-22T122353Z_12_RW213124112024RP1_RTRMADC_0_EGYPT-RIGHTS-BRITAIN-ABDELFATTAH.XML
+INFO:root:Cell 14: TBD
+INFO:root:Cell 15: Waiting
+INFO:root:Cell 16: 
+INFO:root:Cell 17: 2025-09-22T125432Z_4_RW688722092025RP1_RTRMADC_0_EUROPE-WEATHER-ITALY-FLOODS.XML
+INFO:root:Cell 18: TBD
+INFO:root:Cell 19: Waiting
+INFO:root:Cell 20: 
+INFO:root:Cell 21: 2025-09-22T124129Z_5_RW682922092025RP1_RTRMADC_0_UKRAINE-CRISIS-NATO-ANALYST.XML
+INFO:root:Cell 22: TBD
+INFO:root:Cell 23: Waiting
+INFO:root:Cell 24: 
+INFO:root:Cell 25: 2025-09-22T120229Z_19_RW544701032025RP1_RTRMADC_0_PALESTINIANS-WEST-BANK-SETTLEMENTS.XML
+INFO:root:Cell 26: TBD
+INFO:root:Cell 27: Waiting
+INFO:root:Cell 28: 
+INFO:root:Cell 29: 2025-09-22T124716Z_4_RW689122092025RP1_RTRMADC_0_RUSSIA-USA-NUCLEAR.XML
+INFO:root:Cell 30: TBD
+INFO:root:Cell 31: Waiting
+INFO:root:Cell 32: 
+INFO:root:Cell 33: 2025-09-22T122133Z_3_RW683322092025RP1_RTRMADC_0_SOCCER-SPAIN-LEV-RMA-PREVIEW.XML
+INFO:root:Cell 34: TBD
+INFO:root:Cell 35: Waiting
+INFO:root:Cell 36: 
+INFO:root:Cell 37: 2025-09-22T121236Z_3_RW676822092025RP1_RTRMADC_0_SOUTHSUDAN-MACHAR-PROFILE.XML
+INFO:root:Cell 38: TBD
+INFO:root:Cell 39: Waiting
+INFO:root:Cell 40: 
+INFO:root:Cell 41: 2025-09-22T122309Z_5_RW689222092025RP1_RTRMADC_0_MOTOR-F1-REDBULL-HORNER.XML
+INFO:root:Cell 42: TBD
+INFO:root:Cell 43: Waiting
+INFO:root:Cell 44: 
+INFO:root:Cell 45: 2025-09-22T122016Z_6_RW684622092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-BRITAIN-CEREMONY.XML
+INFO:root:Cell 46: TBD
+INFO:root:Cell 47: Waiting
+INFO:root:Cell 48: 
+INFO:root:Cell 49: 2025-09-22T124303Z_10_RW678422092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-RECOGNITION-BRITAIN-COOPER.XML
+INFO:root:Cell 50: TBD
+INFO:root:Cell 51: Waiting
+INFO:root:Cell 52: 
+INFO:root:Cell 53: 2025-09-22T125557Z_4_RW689822092025RP1_RTRMADC_0_BRITAIN-AIRPORTS-GATWICK.XML
+INFO:root:Cell 54: TBD
+INFO:root:Cell 55: Waiting
+INFO:root:Cell 56: 
+INFO:root:Cell 57: 2025-09-22T125215Z_3_RW684722092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-PORTUGAL.XML
+INFO:root:Cell 58: TBD
+INFO:root:Cell 59: Waiting
+INFO:root:Cell 60: 
+INFO:root:Cell 61: 2025-09-22T121107Z_6_RW678622092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GERMANY-RECOGNITION.XML
+INFO:root:Cell 62: TBD
+INFO:root:Cell 63: Waiting
+INFO:root:Cell 64: 
+INFO:root:Cell 65: 2025-09-22T125429Z_4_RW689922092025RP1_RTRMADC_0_EUROPE-WEATHER-SPAIN-UGC.XML
+INFO:root:Cell 66: TBD
+INFO:root:Cell 67: Waiting
+INFO:root:Cell 68: 
+INFO:root:Cell 69: 2025-09-22T124010Z_6_RW685322092025RP1_RTRMADC_0_FRANCE-WEATHER-FLOODS-UGC.XML
+INFO:root:Cell 70: TBD
+INFO:root:Cell 71: Waiting
+INFO:root:Cell 72: 
+INFO:root:Cell 73: 2025-09-22T130027Z_3_RW679122092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-ITALY.XML
+INFO:root:Cell 74: TBD
+INFO:root:Cell 75: Waiting
+INFO:root:Cell 76: 
+INFO:root:Cell 77: 2025-09-22T125145Z_6_RW712116042025RP1_RTRMADC_0_NUCLEAR-WEAPONS-EXPLAINER.XML
+INFO:root:Cell 78: TBD
+INFO:root:Cell 79: Waiting
+INFO:root:Cell 80: 
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                          |
++=====+====================================================================================================================================================================================+
+|   1 | 2025-09-22 13:01:45,349 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-22 13:01:45,349 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-22 13:02:45,353 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-22 13:02:45,357 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-22 13:02:45,449 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 1 distribution processes.                                        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-22 13:02:45,487 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of auto files : 3                                                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-22 13:02:45,487 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of manual files : 21                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-22 13:02:45,488 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Filtering 21 new files for distribution queuing by "test1"                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-22 13:02:45,488 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : 0 files passed filters and were queued for distribution by process "test1" |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-22 13:02:45,490 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : 24 rows were deleted from the distribution_files table.                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-22 13:02:45,490 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 24 processed/queued files from the distribution_files table.       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-22 13:02:45,491 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-22 13:02:45,491 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test1                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-22 13:02:45,492 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 0 files from queue for process 377                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-22 13:02:45,492 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test1"                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-22 13:02:45,493 INFO  [main] com.reuters.filedirect.db.DbLogger : "test1" file queue is empty. Nothing to distribute!                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-22 13:02:45,495 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Finished distribution process with name test1                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-22 13:02:45,495 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-22 13:02:45,496 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-22 13:02:45,496 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO:root:Dropdown options available:
+INFO:root:Option 1: My Videos
+INFO:root:✅ 'Distribution' option is not available in the dropdown.
+INFO:root:Cell 1: No records found
+INFO:root:
+📦 File Distributor Logs (Source Box):
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_9.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                          |
++=====+====================================================================================================================================================================================+
+|   1 | 2025-09-22 13:02:45,496 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-22 13:02:45,496 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-22 13:03:45,501 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-22 13:03:45,505 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                            |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-22 13:03:45,597 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 1 distribution processes.                                        |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-22 13:03:45,627 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of auto files : 2                                                       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-22 13:03:45,628 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of manual files : 20                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-22 13:03:45,628 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Filtering 2 new files for distribution queuing by "test2"                  |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-22 13:03:45,629 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : 0 files passed filters and were queued for distribution by process "test2" |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-22 13:03:45,630 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : 22 rows were deleted from the distribution_files table.                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-22 13:03:45,631 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 22 processed/queued files from the distribution_files table.       |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-22 13:03:45,631 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-22 13:03:45,631 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Starting distribution process with name test2                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-22 13:03:45,632 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Returning 0 files from queue for process 378                                 |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-22 13:03:45,633 INFO  [main] com.reuters.filedirect.db.DbLogger : File queue retrieved for "test2"                                                                         |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-22 13:03:45,635 INFO  [main] com.reuters.filedirect.db.DbLogger : "test2" file queue is empty. Nothing to distribute!                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-22 13:03:45,636 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Finished distribution process with name test2                              |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-22 13:03:45,637 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : -------------------------------------------------------------------------- |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-22 13:03:45,637 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                    |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-22 13:03:45,637 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                      |
++-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

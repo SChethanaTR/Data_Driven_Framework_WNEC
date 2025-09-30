@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE
+INFO     root:test_history.py:317 Story added: BELARUS-LUKASHENKO/
+INFO     root:test_history.py:317 Story added: AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE
+INFO     root:test_history.py:319 All stories collected: ['AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE', 'BELARUS-LUKASHENKO/', 'AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE']

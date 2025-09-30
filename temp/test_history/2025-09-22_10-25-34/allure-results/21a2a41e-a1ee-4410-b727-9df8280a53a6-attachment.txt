@@ -1,0 +1,5 @@
+INFO:root:Story added: China-Xinjiang/Kashgar Ancient City
+INFO:root:Story added: TENNIS-LAVERCUP/
+INFO:root:Story added: China-Xinjiang/Kashgar Ancient City
+INFO:root:All stories collected: ['China-Xinjiang/Kashgar Ancient City', 'TENNIS-LAVERCUP/', 'China-Xinjiang/Kashgar Ancient City']
+ERROR:root:The story 'China-Xinjiang/Kashgar Ancient City' is NOT present in the history page.

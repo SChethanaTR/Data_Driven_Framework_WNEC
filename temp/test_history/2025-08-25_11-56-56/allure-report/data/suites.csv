@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    Tests the 6X live preview playout functionality.
+    Verifies the content being played out and checks logs for validation.
+    ","29881","test_Administrator_6xLive_preview_playout_Fixed[chromium]","tests.Automation_tests","Mon Aug 25 11:57:13 IST 2025","broken","Mon Aug 25 11:57:43 IST 2025","","test_admin_playout","",""

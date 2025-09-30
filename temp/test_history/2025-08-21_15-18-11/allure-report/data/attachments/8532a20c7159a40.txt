@@ -1,0 +1,12 @@
+INFO     root:test_admin_playout.py:590 Navigated to playout page
+INFO     root:test_admin_playout.py:596 Radio button to disable channel is clicked
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:615 6X LIVE PREVIEW
+INFO     root:test_admin_playout.py:619 Channel is enabled
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:596 Radio button to enable channel is clicked
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:635 6X LIVE PREVIEW
+INFO     root:test_admin_playout.py:640 Channel is enabled

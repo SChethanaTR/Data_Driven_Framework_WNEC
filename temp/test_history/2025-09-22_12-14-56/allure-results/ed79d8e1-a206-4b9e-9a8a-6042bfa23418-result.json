@@ -1,0 +1,1 @@
+{"name": "test_distribution_history_exportascv[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758523565547, "stop": 1758523600211, "uuid": "902371d5-7fe6-42db-b822-47297c1c67f4", "testCaseId": "647ee30341a7f37163e696b0fc4a597e", "fullName": "tests.Automation_tests.test_history#test_distribution_history_exportascv"}

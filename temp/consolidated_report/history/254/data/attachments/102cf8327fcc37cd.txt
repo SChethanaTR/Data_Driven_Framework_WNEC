@@ -1,0 +1,2 @@
+INFO     root:test_User_management.py:325 Testing user 1 - Username: okcdzf, Password: ^Iwi6*8UiG
+INFO     root:test_User_management.py:343 Logout message: Log out from BOX 1

@@ -1,0 +1,19 @@
+{
+    "WNE Client Name": "GDANSK-V7-TESTBED-01",
+    "WNE Client PC Serial Number": "MXQ94502ZV",
+    "WNE Client PC Type": "ProLiant DL360 Gen10",
+    "WNE Receiver MAC Address": "Not applicable for internet-only customers",
+    "Guest User ID": "null",
+    "Host Name": "wneclient",
+    "Host ID": "GDANSK-V7-TESTBED-01_MXQ94502ZV",
+    "Time": "2024-08-16 05:54 GMT",
+    "Version": "7.4.129.1",
+    "Installed Patches": "",
+    "Username": "administrator",
+    "Privileges": "Admin",
+    "LoginUsername": "administrator",
+    "Password": "admin",
+    "NewUsername": "Chethana",
+    "Newpassword": "Qwerty!2345",
+    "NewPriviliges": "Add/Modify Playlist\nAdd to Distribution"
+}

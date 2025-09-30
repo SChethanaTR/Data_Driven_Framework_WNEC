@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:395 View of Oban Bay with Storm Floris set to bring strong wind and rains to UK
+INFO     root:test_admin_playout.py:410 EUROPE-WEATHER/BRITAIN-STORM

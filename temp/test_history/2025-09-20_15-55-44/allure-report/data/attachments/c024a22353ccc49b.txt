@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:711 Print media emulated successfully.
+INFO     root:test_User_Interface.py:720 Print button clicked, and test passed without manual intervention.

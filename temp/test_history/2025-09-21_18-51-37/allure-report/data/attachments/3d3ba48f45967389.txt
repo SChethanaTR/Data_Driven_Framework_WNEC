@@ -1,0 +1,40 @@
+INFO:root:Found 15 videos under 'Live Now'.
+INFO:root:Live Now Video: View of the Israel-Gaza border
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: SpaceX launches a satellite for the National Reconnaissance Office
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Donald Trump departs The White House en route Glendale
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Trump departs for Charlie Kirk's memorial service
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Mother of Israeli hostage delivers statement
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: View of the Israel-Gaza border
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Thousands attend a memorial service for conservative activist Charlie Kirk
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Turning Point USA holds memorial for Charlie Kirk
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Turning Point USA holds memorial for Charlie Kirk
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Turning Point USA holds memorial for Charlie Kirk
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Partial solar eclipse seen over New Zealand
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Trading opens at the Tokyo Stock Exchange
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.

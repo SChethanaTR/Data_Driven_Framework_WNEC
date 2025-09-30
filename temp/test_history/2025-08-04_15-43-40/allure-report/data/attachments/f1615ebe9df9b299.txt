@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: SUDAN-POLITICS/ALFASHIR
+INFO     root:test_history.py:317 Story added: ASIA-WEATHER/JAPAN-RICKSHAW
+INFO     root:test_history.py:317 Story added: PEOPLE-PHIL COLLINS/
+INFO     root:test_history.py:319 All stories collected: ['SUDAN-POLITICS/ALFASHIR', 'ASIA-WEATHER/JAPAN-RICKSHAW', 'PEOPLE-PHIL COLLINS/']

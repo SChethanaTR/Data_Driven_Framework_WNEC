@@ -1,0 +1,1 @@
+{"name": "test_add_multiple_users[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1756129355702, "stop": 1756129396911, "uuid": "9ac0764c-6551-40b2-af70-2852754df1d0", "testCaseId": "1991fffe4eb847b6eb4459b90f3e0e75", "fullName": "tests.Automation_tests.test_User_management#test_add_multiple_users"}

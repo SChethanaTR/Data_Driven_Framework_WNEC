@@ -1,0 +1,452 @@
+version: "3"
+
+services:
+  db:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/database:1.1.5
+    container_name: mysql
+    labels:
+      service.operations: "restart"
+      service.display: "true"
+      service.name: "wne database"
+    restart: on-failure
+    volumes:
+      - /wneclient/database/data.d:/var/lib/mysql
+    ports:
+      - 3306:3306
+    deploy:
+      resources:
+        limits:
+          cpus: "4"
+          memory: 4000m
+        reservations:
+          memory: 2000m
+  sqitch:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/sqitch:1.1.0
+    container_name: sqitch
+    labels:
+      service.operations: "restart"
+      service.display: "false"
+      service.name: "wne sqitch database versioning suite"
+  dbmanager:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/dbmanager:1.4.64-v0.4.45
+    container_name: dbmanager
+    labels:
+      service.operations: "restart"
+      service.display: "true"
+      service.name: "wne database manager"
+    restart: on-failure
+    volumes:
+      - /wneclient/database/sqitch:/wneclient/database/sqitch
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /wneclient/apps/dbmanager/log:/var/log/wnec/dbmanager
+    depends_on:
+      - db
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512m
+        reservations:
+          memory: 256m
+    environment:
+      HEAP_INIT: 128m
+      HEAP_MAX: 256m
+      META_INIT: 64M
+      META_MAX: 128M
+  processor:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/fileprocessor:1.4.79
+    container_name: wne-file-processor
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne file processor"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/fileprocessor/log:/var/log/wnec/fileprocessor
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "2"
+          memory: 1024m
+        reservations:
+          memory: 768m
+    environment:
+      HEAP_INIT: 256m
+      HEAP_MAX: 512m
+      META_INIT: 64M
+      META_MAX: 128M
+  purger:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/filepurger:1.4.30
+    container_name: wne-file-purger
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne file purger"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/filepurger/log:/var/log/wnec/filepurger
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512m
+        reservations:
+          memory: 256m
+    environment:
+      HEAP_INIT: 128m
+      HEAP_MAX: 256m
+      META_INIT: 64M
+      META_MAX: 128M
+  distribution:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/filedistributor:1.4.86
+    container_name: wne-file-distributor
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne file distributor"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/filedistributor/localcopy:/opt
+      - /wneclient/apps/filedistributor/log:/var/log/wnec/filedistributor
+    environment:
+      AutoRestart: TF1
+      FTP_ACTIVE_MIN_PORT: 5000
+      FTP_ACTIVE_MAX_PORT: 5004
+      FTP_ACTIVE_HOST_IP: ${HOST_IP}
+      HEAP_INIT: 128m
+      HEAP_MAX: 256m
+      META_INIT: 64M
+      META_MAX: 128M
+    ports:
+      - "5000-5004:5000-5004"
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512m
+        reservations:
+          memory: 256m
+  player1:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/player:1.4.93
+    container_name: wne-player-1
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne player-1"
+    restart: on-failure
+    devices:
+      - /dev/blackmagic/io0:/dev/blackmagic/io0
+    environment:
+      PLAYER_ID: 1
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/player/waiting_videos:/opt/wnec-player/defaultvideos
+      - /wneclient/apps/player/log1:/var/log/wnec-player
+      - /usr/lib/blackmagic:/usr/lib/blackmagic
+      - /usr/lib/libDeckLinkAPI.so:/usr/lib/libDeckLinkAPI.so
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "2"
+          memory: 1024m
+        reservations:
+          memory: 512m
+  player2:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/player:1.4.93
+    container_name: wne-player-2
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne player-2"
+    restart: on-failure
+    devices:
+      - /dev/blackmagic/io1:/dev/blackmagic/io0
+    environment:
+      PLAYER_ID: 2
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/player/waiting_videos:/opt/wnec-player/defaultvideos
+      - /wneclient/apps/player/log2:/var/log/wnec-player
+      - /usr/lib/blackmagic:/usr/lib/blackmagic
+      - /usr/lib/libDeckLinkAPI.so:/usr/lib/libDeckLinkAPI.so
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "2"
+          memory: 1024m
+        reservations:
+          memory: 512m
+  player3:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/player:1.4.93
+    container_name: wne-player-3
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne player-3"
+    restart: on-failure
+    devices:
+      - /dev/blackmagic/io2:/dev/blackmagic/io0
+    environment:
+      PLAYER_ID: 3
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/player/waiting_videos:/opt/wnec-player/defaultvideos
+      - /wneclient/apps/player/log3:/var/log/wnec-player
+      - /usr/lib/blackmagic:/usr/lib/blackmagic
+      - /usr/lib/libDeckLinkAPI.so:/usr/lib/libDeckLinkAPI.so
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "2"
+          memory: 1024m
+        reservations:
+          memory: 512m
+  player4:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/player:1.4.93
+    container_name: wne-player-4
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne player-4"
+    restart: on-failure
+    devices:
+      - /dev/blackmagic/io3:/dev/blackmagic/io0
+    environment:
+      PLAYER_ID: 4
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/player/waiting_videos:/opt/wnec-player/defaultvideos
+      - /wneclient/apps/player/log4:/var/log/wnec-player
+      - /usr/lib/blackmagic:/usr/lib/blackmagic
+      - /usr/lib/libDeckLinkAPI.so:/usr/lib/libDeckLinkAPI.so
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "2"
+          memory: 1024m
+        reservations:
+          memory: 512m
+  upgrader:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/upgrader:1.4.138
+    container_name: wne-upgrader
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne upgrader"
+    restart: on-failure
+    environment:
+      DISTRIBUTION: noble
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /wneclient:/wneclient
+      - /wneclient/apps/upgrader/log:/var/log/wnec-upgrader
+      - /opt/debs:/opt/debs
+    network_mode: host
+    depends_on:
+      - db
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512m
+        reservations:
+          memory: 256m
+  kencast:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/kencast:1.4.7
+    container_name: wne-kencast
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne kencast"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/fazzt/log:/var/log/fazzt
+      - /wneclient/apps/fazzt/license:/opt/Fazzt/license
+      - /wneclient/upgrade/package/staging:/home/upgrade/staging
+      - /wneclient/data/tmp/fazzt:/var/tmp/fazzt
+      - /wneclient/apps/fazzt/etc/fazzt.conf:/etc/fazzt.conf
+    ports:
+      - 4039:4039
+    network_mode: host
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 1024m
+        reservations:
+          memory: 512m
+  #  push client is started to only handle SendFromConnect
+  pushclient:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/pushclient:1.4.116
+    container_name: pushclient
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne push client"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/push-client:/opt/pushclient
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 1024m
+        reservations:
+          memory: 512m
+    environment:
+      HEAP_INIT: 128m
+      HEAP_MAX: 768m
+      META_INIT: 64M
+      META_MAX: 128M
+  healthreporter:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/healthreporter:1.4.37
+    container_name: wne-healthreporter
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne health reporter"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/healthreporter/log:/var/log/wnec/health-reporter
+      - /wneclient/apps/healthreporter/stats:/stats
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512m
+        reservations:
+          memory: 256m
+    environment:
+      HEAP_INIT: 128m
+      HEAP_MAX: 256m
+      META_INIT: 64M
+      META_MAX: 128M
+  ui:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/ui:0.4.54-1.4.165
+    container_name: wne-ui
+    labels:
+      service.operations: "restart"
+      service.display: "true"
+      service.name: "wne ui"
+    restart: on-failure
+    ports:
+      - 80:8040
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/uibackend/log:/var/log/wnec/uibackend
+      - /wneclient/apps/uibackend/log:/wneclient/apps/uibackend/log
+      - /wneclient/apps/fileprocessor/log:/wneclient/apps/fileprocessor/log
+      - /wneclient/apps/internet_backup/log:/wneclient/apps/internet_backup/log
+      - /wneclient/apps/push-client/log:/wneclient/apps/push-client/log
+      - /wneclient/apps/teamviewermanager/log:/wneclient/apps/teamviewer-manager/log
+      - /wneclient/apps/dbmanager/log:/wneclient/apps/dbmanager/log
+      - /wneclient/apps/filepurger/log:/wneclient/apps/filepurger/log
+      - /wneclient/apps/filedistributor/log:/wneclient/apps/filedistributor/log
+      - /wneclient/apps/player/log1:/wneclient/apps/wnec-player1/log
+      - /wneclient/apps/player/log2:/wneclient/apps/wnec-player2/log
+      - /wneclient/apps/player/log3:/wneclient/apps/wnec-player3/log
+      - /wneclient/apps/player/log4:/wneclient/apps/wnec-player4/log
+      - /wneclient/apps/upgrader/log:/wneclient/apps/wnec-upgrader/log
+      - /wneclient/apps/fazzt/log:/wneclient/apps/fazzt/log
+      - /wneclient/apps/healthreporter/log:/wneclient/apps/health-reporter/log
+      - /wneclient/compose/docker-compose.yml:/wneclient/compose/docker-compose.yml
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /etc/group:/tmp/hostgroup:ro
+      - /wneclient/apps/fazzt/license:/wneclient/apps/fazzt/license
+      - /wneclient/upgrade:/wneclient/upgrade
+    depends_on:
+      - db
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 1024m
+        reservations:
+          memory: 512m
+    environment:
+      HEAP_INIT: 256m
+      HEAP_MAX: 512m
+      META_INIT: 64M
+      META_MAX: 128M
+  # TODO: replace internet_backup with push client
+  internet_backup:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/internetbackup:0.4.32
+    container_name: wne-internet-backup
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne internet backup"
+    restart: on-failure
+    volumes:
+      - /wneclient/data:/home
+      - /wneclient/apps/internet_backup/log:/var/log/wnec/internet_backup
+    depends_on:
+      - db
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 1024m
+        reservations:
+          memory: 256m
+    environment:
+      HEAP_INIT: 128m
+      HEAP_MAX: 512m
+      META_INIT: 64M
+      META_MAX: 128M
+  teamviewermanager:
+    image: 552185127352.dkr.ecr.eu-west-1.amazonaws.com/wnec/teamviewermanager:0.4.20
+    container_name: wne-teamviewermanager
+    labels:
+      service.operations: "restart,stop,resume"
+      service.display: "true"
+      service.name: "wne teamviewer manager"
+    restart: on-failure
+    volumes:
+      - /wneclient/apps/teamviewermanager/log:/var/log/wnec-teamviewer-manager
+      - /wneclient/apps/teamviewermanager/cache:/home/cache
+    depends_on:
+      - db
+    network_mode: host
+    user: ${CONTAINER_USER}
+    deploy:
+      resources:
+        limits:
+          cpus: "1"
+          memory: 512m
+        reservations:
+          memory: 256m

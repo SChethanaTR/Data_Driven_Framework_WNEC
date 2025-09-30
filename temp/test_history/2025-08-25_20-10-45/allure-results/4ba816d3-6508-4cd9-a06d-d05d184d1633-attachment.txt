@@ -1,0 +1,4 @@
+INFO     root:test_User_management.py:323 Testing user - Username: bbqipm, Password: &2WTzj$Di1
+INFO     root:test_User_management.py:340 Login successful
+INFO     root:test_User_management.py:352 Logout message verified
+INFO     root:test_User_management.py:357 Successfully logged out

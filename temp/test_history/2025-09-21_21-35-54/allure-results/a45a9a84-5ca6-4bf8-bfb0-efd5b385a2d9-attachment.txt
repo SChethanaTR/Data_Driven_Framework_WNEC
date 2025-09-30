@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: View of the Israel-Gaza border
+INFO:root:Locator 1 text: ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER --INTERRUPTIBLE--

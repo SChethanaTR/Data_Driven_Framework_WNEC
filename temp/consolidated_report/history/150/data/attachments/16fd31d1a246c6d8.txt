@@ -1,0 +1,3 @@
+INFO     root:test_User_Interface.py:525 INDIA-AIR INDIA CRASH/LAWYER
+INFO     root:test_User_Interface.py:530 Extracted text: INDIA-AIR INDIA CRASH/LAWYER
+INFO     root:test_User_Interface.py:543 INDIA-AIR INDIA CRASH/LAWYER

@@ -1,0 +1,1 @@
+{"name": "test_MyVideos_Add_To_Distribution[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758185765494, "stop": 1758185783713, "uuid": "e40de87e-edea-48ff-a929-c3d27cbd045e", "testCaseId": "1c7d0b9f29c270bfb00eb13af01f79b8", "fullName": "tests.Automation_tests.test_User_Interface#test_MyVideos_Add_To_Distribution"}

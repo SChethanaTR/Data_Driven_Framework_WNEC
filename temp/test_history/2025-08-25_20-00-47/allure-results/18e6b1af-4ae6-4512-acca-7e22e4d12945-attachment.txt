@@ -1,0 +1,2 @@
+INFO:root:Testing user - Username: dgjooj, Password: *A1&BS0tkh
+INFO:root:User successfully created

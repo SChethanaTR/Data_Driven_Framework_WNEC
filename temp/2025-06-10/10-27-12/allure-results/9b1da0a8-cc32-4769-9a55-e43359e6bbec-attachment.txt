@@ -1,0 +1,8 @@
+INFO     root:test_admin_playout.py:330 Story 1: USA-MIGRATION/PROTEST-AUSTRALIA
+INFO     root:test_admin_playout.py:330 Story 2: USA-MIGRATION/PROTEST-TEXAS-UGC
+INFO     root:test_admin_playout.py:330 Story 3: UKRAINE-CRISIS/ATTACK-KYIV
+INFO     root:test_admin_playout.py:355 
+INFO     root:database.py:28 ('1', 'SDI output 01', 'file', None, 1, 0, 'PlayNow', 'Playing', 'Waiting', 'manual', '', 'tag:reuters.com,2025:newsml_RW059110062025RP1', 'Now playing: Reuters Live Online', 'Reuters Live Online', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('2', 'SDI output 02', 'file', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('3', 'SDI output 03', 'livepreview', None, 1, 0, 'None', 'Waiting', 'Waiting', '', '', '', 'Waiting for next video...', 'None', 0, 0, '', '', 0, '', '', '', 0, '')
+INFO     root:database.py:28 ('4', 'SDI output 04', 'live', None, 1, 0, 'None', 'Waiting', 'Waiting', 'manual', '', '', 'Stopped', 'None', 0, 0, '', '', 0, '', '', '', 0, '')

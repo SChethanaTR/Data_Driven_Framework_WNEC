@@ -1,0 +1,4 @@
+INFO:root:Currently playing: 
+INFO:root:After stopping: 
+INFO:root:Playout did not stop as expected
+INFO:root:After playing: NOW PLAYING:ISRAEL-PALESTINIANS/FRANCE-NEWSPAPERS6837

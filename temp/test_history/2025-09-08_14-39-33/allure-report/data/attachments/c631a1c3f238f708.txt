@@ -1,0 +1,2 @@
+INFO:root:Story name: French Prime Minister Francois Bayrou faces a vote of confidence
+INFO:root:Story playing: FRANCE-POLITICS/

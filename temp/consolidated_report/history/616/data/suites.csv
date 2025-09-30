@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","93306","test_distribution_history_clear_all[chromium]","tests.Automation_tests","Mon Sep 22 19:31:09 IST 2025","passed","Mon Sep 22 19:32:42 IST 2025","","test_history","",""

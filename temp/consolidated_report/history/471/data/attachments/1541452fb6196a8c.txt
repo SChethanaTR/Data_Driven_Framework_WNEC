@@ -1,0 +1,24 @@
+INFO     root:test_User_Interface.py:155 FRANCE-PROTEST/TRANSPORT STRIKE
+INFO     root:test_User_Interface.py:155 FRANCE-PROTEST/TRANSPORT STRIKE
+INFO     root:test_User_Interface.py:155 FRANCE-PROTEST/TRANSPORT STRIKE
+INFO     root:test_User_Interface.py:155 FRANCE-PROTEST/TRANSPORT STRIKE
+INFO     root:test_User_Interface.py:155 FRANCE-PROTEST/TRANSPORT STRIKE
+INFO     root:test_User_Interface.py:155 Gaza Strip-Displacement/High Costs
+INFO     root:test_User_Interface.py:155 FRANCE-ART/PICASSO
+INFO     root:test_User_Interface.py:155 NVIDIA-CHINA/CHIPS-MOFA
+INFO     root:test_User_Interface.py:155 Gaza Strip-Displacement/High Costs
+INFO     root:test_User_Interface.py:155 FRANCE-ART/PICASSO
+INFO     root:test_User_Interface.py:155 CHINA-NVIDIA/CHIPS-MOFA
+INFO     root:test_User_Interface.py:155 USA-SHOOTING/KIRK-KIMMEL ROUGH CUT
+INFO     root:test_User_Interface.py:155 BASEBALL-MLB-NYM-SD/
+INFO     root:test_User_Interface.py:155 BASEBALL-MLB-NYM-SD/
+INFO     root:test_User_Interface.py:155 TELECOMMS-AI/CHILDREN-APP
+INFO     root:test_User_Interface.py:155 CHINA-NVIDIA/CHIPS-MOFA
+INFO     root:test_User_Interface.py:155 USA-SHOOTING/KIRK-ANTIFA
+INFO     root:test_User_Interface.py:155 ISRAEL-PALESTINIANS/GAZA CITY-MORNING
+INFO     root:test_User_Interface.py:155 ATHLETICS-USA/
+INFO     root:test_User_Interface.py:155 GREENLAND-DEFENCE/
+INFO     root:test_User_Interface.py:155 GREENLAND-DEFENCE/
+INFO     root:test_User_Interface.py:155 FRANCE-PROTEST/MORNING
+INFO     root:test_User_Interface.py:155 GUINEA-ELECTION/CASH
+INFO     root:test_User_Interface.py:155 ISRAEL-PALESTINIANS/GAZA CITY-MORNING

@@ -1,0 +1,4 @@
+INFO:root:Story added: China-South Asia/Trade
+INFO:root:Story added: QA-JSON-DD-29-DAY-STORY-WITH-VIDEO-2
+INFO:root:Story added: CHINA-USA/XI-TRUMP-ANALYST
+INFO:root:All stories collected: ['China-South Asia/Trade', 'QA-JSON-DD-29-DAY-STORY-WITH-VIDEO-2', 'CHINA-USA/XI-TRUMP-ANALYST']

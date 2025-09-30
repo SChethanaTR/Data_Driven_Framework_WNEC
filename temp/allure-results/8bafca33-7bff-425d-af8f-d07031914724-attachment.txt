@@ -1,0 +1,16 @@
+INFO     root:tests_FD.py:934 Filter name: Subcon
+INFO     root:tests_FD.py:951 No story items in the page.
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_7.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:tests_FD.py:965 Tail command output:
+INFO     root:tests_FD.py:967 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+INFO     root:tests_FD.py:967 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+INFO     root:tests_FD.py:967 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+INFO     root:tests_FD.py:967 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+INFO     root:tests_FD.py:967 	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+INFO     root:tests_FD.py:967 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95)
+INFO     root:tests_FD.py:967 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+INFO     root:tests_FD.py:967 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+INFO     root:tests_FD.py:967 2025-03-27 13:03:44,892 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown initiated...
+INFO     root:tests_FD.py:967 2025-03-27 13:03:44,911 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource : HikariPool-1 - Shutdown completed.
+INFO     root:tests_FD.py:972 Validation from database

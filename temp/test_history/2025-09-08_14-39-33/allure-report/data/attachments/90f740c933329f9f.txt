@@ -1,0 +1,2 @@
+INFO:root:French Prime Minister Francois Bayrou faces a vote of confidence
+INFO:root:Live page exists

@@ -1,0 +1,9 @@
+INFO:root:Story playout initiated for story index: 3
+INFO:root:Story playout initiated for story index: 4
+INFO:root:Story playout initiated for story index: 5
+INFO:root:Story playout initiated for story index: 6
+INFO:root:Story playout initiated for story index: 7
+INFO:root:Story 1: CANADA-WILDFIRES/EVACUEES
+INFO:root:Story 2: USA-MIGRATION/PROTEST-LOS ANGELES-WRAP2
+INFO:root:Story 3: USA-TRUMP/TARIFFS-CHINA-TIMELINE
+INFO:root:Story 4: USA-TRUMP/MUSK

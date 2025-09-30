@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: MUSIC-BTS/MILITARY-FANS
+INFO     root:test_history.py:123 Story added: China-Road Logistics/May
+INFO     root:test_history.py:123 Story added: UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH
+INFO     root:test_history.py:125 All stories collected: ['MUSIC-BTS/MILITARY-FANS', 'China-Road Logistics/May', 'UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH']
+ERROR    root:test_history.py:148 The story 'MUSIC-BTS/MILITARY-FANS' is NOT present in the history page.

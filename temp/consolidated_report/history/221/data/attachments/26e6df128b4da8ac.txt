@@ -1,0 +1,5 @@
+INFO:root:Currently playing: 
+INFO:root:After stopping: 
+INFO:root:Playout did not stop as expected
+INFO:root:After playing: NOW PLAYING:ASIA-WEATHER/VIETNAM9443
+INFO:root:After pausing: NOW PLAYING:ASIA-WEATHER/VIETNAM9443

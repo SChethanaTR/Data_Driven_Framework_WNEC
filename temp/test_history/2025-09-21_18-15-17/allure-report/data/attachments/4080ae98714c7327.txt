@@ -1,0 +1,13 @@
+INFO:root:View of Gaza strip as seen from the Israeli side08:4712:00rl 2
+INFO:root:Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday12:4613:46rl 5
+INFO:root:Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday12:4913:49rls
+INFO:root:View of the Israel-Gaza border13:55 (-2)12:00rl 2
+INFO:root:SpaceX launches a satellite for the National Reconnaissance Office12:0012:00rl 6
+INFO:root:Donald Trump departs The White House en route Glendale13:2014:20rls
+INFO:root:Mother of Israeli hostage delivers statement14:3015:30rl 4
+INFO:root:Thousands attend a memorial service for conservative activist Charlie Kirk16:0017:00rl 4
+INFO:root:Turning Point USA holds memorial for Charlie Kirk17:0018:00rl 3
+INFO:root:Turning Point USA holds memorial for Charlie Kirk17:0018:00rl 2Ch 4
+INFO:root:Turning Point USA holds memorial for Charlie Kirk17:0018:00rls
+INFO:root:Partial solar eclipse seen over New Zealand17:3023:00rl 1
+INFO:root:Trading opens at the Tokyo Stock Exchange23:4501:10 (+1)rl 2Ch 4

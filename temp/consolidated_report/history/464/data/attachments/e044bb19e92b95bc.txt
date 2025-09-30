@@ -1,0 +1,5 @@
+INFO     root:test_User_Interface.py:581 Found 15 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:586 Live Now Video: Trump makes unprecedented second state visit to Britain - DAY 2
+INFO     root:test_User_Interface.py:592 Playout button visible and clicked
+INFO     root:test_User_Interface.py:602 No channel options available.
+INFO     root:test_User_Interface.py:586 Live Now Video: Trump makes unprecedented second state visit to Britain

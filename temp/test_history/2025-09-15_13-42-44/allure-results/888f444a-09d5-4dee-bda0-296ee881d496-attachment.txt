@@ -1,0 +1,3 @@
+INFO     root:story.py:1404 Dropdown options available:
+INFO     root:story.py:1410 ✅ 'Distribution' option is not available in the dropdown.
+INFO     root:story.py:1348 Cell 1: No records found

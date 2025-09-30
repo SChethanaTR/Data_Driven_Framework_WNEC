@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:1007 View of the Israel-Gaza border
+INFO     root:test_admin_playout.py:1022 ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER --INTERRUPTIBLE--

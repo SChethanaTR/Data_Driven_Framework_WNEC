@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: CLIMATE CHANGE-HUNGARY/DROUGHT
+INFO     root:test_history.py:123 Story added: USA-TRUMP/TARIFFS-FRANCE
+INFO     root:test_history.py:123 Story added: CLIMATE CHANGE-HUNGARY/DROUGHT
+INFO     root:test_history.py:125 All stories collected: ['CLIMATE CHANGE-HUNGARY/DROUGHT', 'USA-TRUMP/TARIFFS-FRANCE', 'CLIMATE CHANGE-HUNGARY/DROUGHT']
+ERROR    root:test_history.py:148 The story 'CLIMATE CHANGE-HUNGARY/DROUGHT' is NOT present in the history page.

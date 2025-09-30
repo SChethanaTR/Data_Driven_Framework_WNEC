@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:399 UKRAINE-CRISIS/ATTACK-KYIV
+INFO     root:test_User_Interface.py:399 UKRAINE-CRISIS/ATTACK-KYIV
+INFO     root:test_User_Interface.py:404 Extracted text: UKRAINE-CRISIS/ATTACK-KYIV
+INFO     root:test_User_Interface.py:416 UKRAINE-CRISIS/ATTACK-KYIV

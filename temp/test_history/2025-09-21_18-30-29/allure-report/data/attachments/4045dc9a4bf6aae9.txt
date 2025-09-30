@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:155 USA-SHOOTING/KIRK-YOUTH
+INFO     root:test_User_Interface.py:155 USA-SHOOTING/KIRK-YOUTH

@@ -1,0 +1,6 @@
+INFO:root:Testing with FD name: '_'
+INFO:root:FTP
+INFO:root:Name must contain only letters, numbers and whitespaces.
+INFO:root:Testing with FD name: '#'
+INFO:root:FTP
+INFO:root:Please specify a name for this distribution process.

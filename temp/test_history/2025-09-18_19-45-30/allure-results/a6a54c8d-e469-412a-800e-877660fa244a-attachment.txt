@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:52 Unions call for nationwide strike and protests in France
+INFO     root:test_User_Interface.py:54 Live page exists

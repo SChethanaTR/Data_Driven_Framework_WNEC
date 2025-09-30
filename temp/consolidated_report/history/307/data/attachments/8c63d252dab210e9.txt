@@ -1,0 +1,2 @@
+INFO:root:test1
+INFO:root:FTP

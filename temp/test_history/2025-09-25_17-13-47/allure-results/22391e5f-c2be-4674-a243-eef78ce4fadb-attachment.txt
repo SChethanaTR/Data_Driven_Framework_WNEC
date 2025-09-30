@@ -1,0 +1,4 @@
+INFO     root:test_User_management.py:246 Testing user - Username: dhpmku, Password: m2W%3%VsvV
+INFO     root:test_User_management.py:263 Login successful
+INFO     root:test_User_management.py:275 Logout message verified
+INFO     root:test_User_management.py:280 Successfully logged out

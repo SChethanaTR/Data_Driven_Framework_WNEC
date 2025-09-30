@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:630 Story added to playlist: High waves in Taiwan's east coast as typhoon Ragasa sweeps across Philippines
+INFO     root:test_User_Interface.py:649 Locator 1 text: ASIA-WEATHER/TAIWAN

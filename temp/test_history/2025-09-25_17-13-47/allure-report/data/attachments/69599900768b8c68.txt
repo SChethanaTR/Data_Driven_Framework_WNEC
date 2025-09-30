@@ -1,0 +1,3 @@
+INFO:root:Loop configuration is currently hidden. Enabling it now.
+INFO:root:Loop configuration is now visible.
+INFO:root:China-Xi/Xinjiang/Anniversary Gala

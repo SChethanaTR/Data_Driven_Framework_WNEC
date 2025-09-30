@@ -1,0 +1,1 @@
+INFO     root:test_history.py:169 Story added: ISRAEL-PALESTINIANS/GAZA-MORNING

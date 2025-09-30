@@ -1,0 +1,12 @@
+INFO:root:Navigated to playout page
+INFO:root:Radio button to disable channel is clicked
+INFO:root:
+INFO:root:
+INFO:root:PLAYOUT READYAdd videos to Playlist or press Play Now button in Stories page
+INFO:root:Channel is enabled
+INFO:root:
+INFO:root:Radio button to enable channel is clicked
+INFO:root:
+INFO:root:
+INFO:root:PLAYOUT READYAdd videos to Playlist or press Play Now button in Stories page
+INFO:root:Channel is enabled

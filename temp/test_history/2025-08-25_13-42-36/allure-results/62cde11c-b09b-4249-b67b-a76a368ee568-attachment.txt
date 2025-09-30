@@ -1,0 +1,1 @@
+INFO     root:test_admin_playout.py:1057 Playout status is not 'Playout ready:'. Actual content: PLAYOUT READYAdd videos to Playlist or press Play Now button in Stories page

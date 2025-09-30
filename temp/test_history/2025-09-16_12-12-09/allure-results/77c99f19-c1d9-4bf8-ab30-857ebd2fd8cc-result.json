@@ -1,0 +1,1 @@
+{"name": "test_Add_Dist_for_nonAdmin_user[chromium]", "status": "skipped", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758005526393, "stop": 1758005526393, "uuid": "a3f9276e-fb08-468f-9937-d4f57ebed4a2", "testCaseId": "44765112dd025dddefe44f8b68ae1ff7", "fullName": "tests.Automation_tests.test_VFD#test_Add_Dist_for_nonAdmin_user"}

@@ -1,0 +1,10 @@
+INFO     root:test_VFD.py:109 Selected protocol: FTP
+INFO     root:test_VFD.py:123 FTP Distribution History is empty
+INFO     root:test_VFD.py:131 Added story: ASIA-WEATHER/PAKISTAN-KARACHI
+INFO     root:test_VFD.py:131 Added story: DEUTSCHLAND-SOLINGEN/PROZESS REAKTIONEN
+INFO     root:test_VFD.py:131 Added story: FRANCE-PROTEST/STUDENT
+INFO     root:test_VFD.py:133 Files added to FTP distribution
+INFO     root:test_VFD.py:139 Distributed content: 2025-09-10T112442Z_4_RW375310092025RP1_RTRMADC_0_FRANCE-PROTEST-STUDENT.XML
+INFO     root:test_VFD.py:139 Distributed content: 2025-09-10T113020Z_4_RW377210092025RP1_RTRMADC_0_ASIA-WEATHER-PAKISTAN-KARACHI.XML
+INFO     root:test_VFD.py:139 Distributed content: 2025-09-10T110833Z_1_LWD375310092025RP1_RTRWNEV_B_3753-FRANCE-PROTEST-STUDENT.MPG
+INFO     root:test_VFD.py:141 Files distributed to FTP

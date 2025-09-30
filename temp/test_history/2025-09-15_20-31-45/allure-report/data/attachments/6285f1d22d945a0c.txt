@@ -1,0 +1,48 @@
+INFO     root:test_VFD.py:963 
+📦 File Distributor Logs (Source Box):
+ERROR    paramiko.transport:transport.py:1910 Exception (client): Error reading SSH protocol banner
+ERROR    paramiko.transport:transport.py:1908 Traceback (most recent call last):
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/transport.py", line 2328, in _check_banner
+ERROR    paramiko.transport:transport.py:1908     buf = self.packetizer.readline(timeout)
+ERROR    paramiko.transport:transport.py:1908           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/packet.py", line 381, in readline
+ERROR    paramiko.transport:transport.py:1908     buf += self._read_timeout(timeout)
+ERROR    paramiko.transport:transport.py:1908            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/packet.py", line 626, in _read_timeout
+ERROR    paramiko.transport:transport.py:1908     raise socket.timeout()
+ERROR    paramiko.transport:transport.py:1908 TimeoutError
+ERROR    paramiko.transport:transport.py:1908 
+ERROR    paramiko.transport:transport.py:1908 During handling of the above exception, another exception occurred:
+ERROR    paramiko.transport:transport.py:1908 
+ERROR    paramiko.transport:transport.py:1908 Traceback (most recent call last):
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/transport.py", line 2144, in run
+ERROR    paramiko.transport:transport.py:1908     self._check_banner()
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/transport.py", line 2332, in _check_banner
+ERROR    paramiko.transport:transport.py:1908     raise SSHException(
+ERROR    paramiko.transport:transport.py:1908 paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+ERROR    paramiko.transport:transport.py:1908 
+ERROR    root:test_VFD.py:973 ❌ Error fetching source logs: Error reading SSH protocol banner
+INFO     root:test_VFD.py:976 
+📁 Files Present in Target Directory:
+ERROR    paramiko.transport:transport.py:1910 Exception (client): Error reading SSH protocol banner
+ERROR    paramiko.transport:transport.py:1908 Traceback (most recent call last):
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/transport.py", line 2328, in _check_banner
+ERROR    paramiko.transport:transport.py:1908     buf = self.packetizer.readline(timeout)
+ERROR    paramiko.transport:transport.py:1908           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/packet.py", line 381, in readline
+ERROR    paramiko.transport:transport.py:1908     buf += self._read_timeout(timeout)
+ERROR    paramiko.transport:transport.py:1908            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/packet.py", line 626, in _read_timeout
+ERROR    paramiko.transport:transport.py:1908     raise socket.timeout()
+ERROR    paramiko.transport:transport.py:1908 TimeoutError
+ERROR    paramiko.transport:transport.py:1908 
+ERROR    paramiko.transport:transport.py:1908 During handling of the above exception, another exception occurred:
+ERROR    paramiko.transport:transport.py:1908 
+ERROR    paramiko.transport:transport.py:1908 Traceback (most recent call last):
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/transport.py", line 2144, in run
+ERROR    paramiko.transport:transport.py:1908     self._check_banner()
+ERROR    paramiko.transport:transport.py:1908   File "/Users/s.chethana/PycharmProjects/wnec_backend-automation/.venv/lib/python3.11/site-packages/paramiko/transport.py", line 2332, in _check_banner
+ERROR    paramiko.transport:transport.py:1908     raise SSHException(
+ERROR    paramiko.transport:transport.py:1908 paramiko.ssh_exception.SSHException: Error reading SSH protocol banner
+ERROR    paramiko.transport:transport.py:1908 
+ERROR    root:test_VFD.py:986 ❌ Error listing target directory files: Error reading SSH protocol banner

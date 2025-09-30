@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:126 World leaders gather at the U.N. for 80th General Assembly
+INFO     root:test_User_Interface.py:128 Live page exists

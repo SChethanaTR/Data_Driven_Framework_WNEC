@@ -1,0 +1,2 @@
+INFO:root:Story name: Hong Kong braces as typhoon Ragasa’s draws closer
+INFO:root:Story playing: ASIA-WEATHER/HONGKONG-SKYLINE

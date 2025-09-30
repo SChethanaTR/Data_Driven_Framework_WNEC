@@ -1,0 +1,28 @@
+INFO     root:test_User_Interface.py:454 Found 11 videos under 'Live Now'.
+INFO     root:test_User_Interface.py:459 Live Now Video: View of runway at Heathrow Airport after cyberattack causes disruption
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Danish presidency and EU commission press conference
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Barcelona coach Hansi Flick holds a press conference
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: View of Gaza City as seen from Israel
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Hostage families give statement in front of Israel's military headquarters
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Thousands of Israelis, including hostages families, gather at Hostage Square
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Exterior view of State Farm Stadium where Charlie Kirk's memorial will be held Sunday
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.
+INFO     root:test_User_Interface.py:459 Live Now Video: Hostages families and anti-government activists protest near PM residence in Jerusalem
+INFO     root:test_User_Interface.py:465 Playout button visible and clicked
+INFO     root:test_User_Interface.py:475 No channel options available.

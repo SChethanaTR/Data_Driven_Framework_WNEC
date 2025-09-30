@@ -1,0 +1,7 @@
+INFO     root:test_User_Interface.py:384 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:386 Loop configuration is now visible.
+INFO     root:test_User_Interface.py:395 China-Xinjiang/Village Chief
+INFO     root:test_User_Interface.py:395 China-UNESCO Institute/STEM Education
+INFO     root:test_User_Interface.py:395 China-UNESCO Institute/STEM Education
+INFO     root:test_User_Interface.py:395 China-World Manufacturing Convention Opening
+INFO     root:test_User_Interface.py:395 China-Laos Railway/Passenger Trips

@@ -1,0 +1,4 @@
+INFO:root:Currently playing: FRANCE-WEATHER/FLOODS-UGC6853
+INFO:root:After stopping: PLAYOUT READYAdd videos to Playlist or press Play Now button in Stories page
+INFO:root:Playout did not stop as expected
+INFO:root:After playing: NOW PLAYING:

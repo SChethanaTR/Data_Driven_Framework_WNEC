@@ -1,0 +1,1 @@
+{"name": "test_playout_print[chromium]", "status": "skipped", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1749447266944, "stop": 1749447266944, "uuid": "24348e72-cdfe-45c0-bfca-9f13cb9f9e19", "testCaseId": "61f5ccf36914eb5db78c9c5e32107c07", "fullName": "tests.Automation_tests.test_history#test_playout_print"}

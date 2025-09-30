@@ -1,0 +1,474 @@
+INFO     root:story.py:1348 Cell 1: 2025-09-14T123130Z_6_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO     root:story.py:1348 Cell 2: TBD
+INFO     root:story.py:1348 Cell 3: Waiting
+INFO     root:story.py:1348 Cell 4: 
+INFO     root:story.py:1348 Cell 5: 2025-09-14T130517Z_4_RW484514092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-SETTLEMENT.XML
+INFO     root:story.py:1348 Cell 6: TBD
+INFO     root:story.py:1348 Cell 7: Waiting
+INFO     root:story.py:1348 Cell 8: 
+INFO     root:story.py:1348 Cell 9: 2025-09-14T125916Z_7_RW484614092025RP1_RTRMADC_0_BRAZIL-BOLSONARO.XML
+INFO     root:story.py:1348 Cell 10: TBD
+INFO     root:story.py:1348 Cell 11: Waiting
+INFO     root:story.py:1348 Cell 12: 
+INFO     root:story.py:1348 Cell 13: 2025-09-14T125409Z_6_RW483514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED.XML
+INFO     root:story.py:1348 Cell 14: TBD
+INFO     root:story.py:1348 Cell 15: Waiting
+INFO     root:story.py:1348 Cell 16: 
+INFO     root:story.py:1348 Cell 17: 2025-09-14T125409Z_6_RW483514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED.XML
+INFO     root:story.py:1348 Cell 18: TBD
+INFO     root:story.py:1348 Cell 19: Waiting
+INFO     root:story.py:1348 Cell 20: 
+INFO     root:story.py:1348 Cell 21: 2025-09-14T124119Z_10_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO     root:story.py:1348 Cell 22: TBD
+INFO     root:story.py:1348 Cell 23: Waiting
+INFO     root:story.py:1348 Cell 24: 
+INFO     root:story.py:1348 Cell 25: 2025-09-14T124119Z_10_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO     root:story.py:1348 Cell 26: TBD
+INFO     root:story.py:1348 Cell 27: Waiting
+INFO     root:story.py:1348 Cell 28: 
+INFO     root:story.py:1348 Cell 29: 2025-09-14T125916Z_7_RW484614092025RP1_RTRMADC_0_BRAZIL-BOLSONARO.XML
+INFO     root:story.py:1348 Cell 30: TBD
+INFO     root:story.py:1348 Cell 31: Waiting
+INFO     root:story.py:1348 Cell 32: 
+INFO     root:story.py:1348 Cell 33: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO     root:story.py:1348 Cell 34: TBD
+INFO     root:story.py:1348 Cell 35: Waiting
+INFO     root:story.py:1348 Cell 36: 
+INFO     root:story.py:1348 Cell 37: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 38: TBD
+INFO     root:story.py:1348 Cell 39: Waiting
+INFO     root:story.py:1348 Cell 40: 
+INFO     root:story.py:1348 Cell 41: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 42: TBD
+INFO     root:story.py:1348 Cell 43: Waiting
+INFO     root:story.py:1348 Cell 44: 
+INFO     root:story.py:1348 Cell 45: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO     root:story.py:1348 Cell 46: TBD
+INFO     root:story.py:1348 Cell 47: Waiting
+INFO     root:story.py:1348 Cell 48: 
+INFO     root:story.py:1348 Cell 49: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO     root:story.py:1348 Cell 50: TBD
+INFO     root:story.py:1348 Cell 51: Waiting
+INFO     root:story.py:1348 Cell 52: 
+INFO     root:story.py:1348 Cell 53: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO     root:story.py:1348 Cell 54: TBD
+INFO     root:story.py:1348 Cell 55: Waiting
+INFO     root:story.py:1348 Cell 56: 
+INFO     root:story.py:1348 Cell 57: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 58: TBD
+INFO     root:story.py:1348 Cell 59: Waiting
+INFO     root:story.py:1348 Cell 60: 
+INFO     root:story.py:1348 Cell 61: 2025-09-14T123620Z_5_RW483714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MORE.XML
+INFO     root:story.py:1348 Cell 62: TBD
+INFO     root:story.py:1348 Cell 63: Waiting
+INFO     root:story.py:1348 Cell 64: 
+INFO     root:story.py:1348 Cell 65: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 66: TBD
+INFO     root:story.py:1348 Cell 67: Waiting
+INFO     root:story.py:1348 Cell 68: 
+INFO     root:story.py:1348 Cell 69: 2025-09-14T123620Z_5_RW483714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MORE.XML
+INFO     root:story.py:1348 Cell 70: TBD
+INFO     root:story.py:1348 Cell 71: Waiting
+INFO     root:story.py:1348 Cell 72: 
+INFO     root:story.py:1348 Cell 73: 2025-09-14T111707Z_5_RW481914092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 74: TBD
+INFO     root:story.py:1348 Cell 75: Waiting
+INFO     root:story.py:1348 Cell 76: 
+INFO     root:story.py:1348 Cell 77: 2025-09-14T111707Z_5_RW481914092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 78: TBD
+INFO     root:story.py:1348 Cell 79: Waiting
+INFO     root:story.py:1348 Cell 80: 
+INFO     root:story.py:1348 Cell 81: 2025-09-14T123948Z_2_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO     root:story.py:1348 Cell 82: TBD
+INFO     root:story.py:1348 Cell 83: Waiting
+INFO     root:story.py:1348 Cell 84: 
+INFO     root:story.py:1348 Cell 85: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 86: TBD
+INFO     root:story.py:1348 Cell 87: Waiting
+INFO     root:story.py:1348 Cell 88: 
+INFO     root:story.py:1348 Cell 89: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO     root:story.py:1348 Cell 90: TBD
+INFO     root:story.py:1348 Cell 91: Waiting
+INFO     root:story.py:1348 Cell 92: 
+INFO     root:story.py:1348 Cell 93: 2025-09-14T103527Z_5_RW478314092025RP1_RTRMADC_0_DEUTSCHLAND-KOMMUNALWAHL-NRW.XML
+INFO     root:story.py:1348 Cell 94: TBD
+INFO     root:story.py:1348 Cell 95: Waiting
+INFO     root:story.py:1348 Cell 96: 
+INFO     root:story.py:1348 Cell 97: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO     root:story.py:1348 Cell 98: TBD
+INFO     root:story.py:1348 Cell 99: Waiting
+INFO     root:story.py:1348 Cell 100: 
+INFO     root:story.py:1348 Cell 101: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 102: TBD
+INFO     root:story.py:1348 Cell 103: Waiting
+INFO     root:story.py:1348 Cell 104: 
+INFO     root:story.py:1348 Cell 105: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 106: TBD
+INFO     root:story.py:1348 Cell 107: Waiting
+INFO     root:story.py:1348 Cell 108: 
+INFO     root:story.py:1348 Cell 109: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 110: TBD
+INFO     root:story.py:1348 Cell 111: Waiting
+INFO     root:story.py:1348 Cell 112: 
+INFO     root:story.py:1348 Cell 113: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1348 Cell 114: TBD
+INFO     root:story.py:1348 Cell 115: Waiting
+INFO     root:story.py:1348 Cell 116: 
+INFO     root:story.py:1348 Cell 117: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO     root:story.py:1348 Cell 118: TBD
+INFO     root:story.py:1348 Cell 119: Waiting
+INFO     root:story.py:1348 Cell 120: 
+INFO     root:test_VFD.py:1267 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1275 
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                      |
++=====+================================================================================================================================================================================+
+|   1 | 2025-09-14 13:09:59,930 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 13:09:59,932 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-14 13:09:59,933 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 13:09:59,933 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 13:09:59,934 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 13:10:59,937 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-14 13:10:59,939 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 13:10:59,939 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 13:10:59,940 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 13:10:59,940 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-14 13:11:59,946 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-14 13:11:59,949 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 13:12:59,957 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 13:12:59,960 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:1278 
+📁 Files Present in Target Directory:
+INFO     root:story.py:1348 Cell 1: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 2: TBD
+INFO     root:story.py:1348 Cell 3: Waiting
+INFO     root:story.py:1348 Cell 4: 
+INFO     root:story.py:1348 Cell 5: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 6: TBD
+INFO     root:story.py:1348 Cell 7: Waiting
+INFO     root:story.py:1348 Cell 8: 
+INFO     root:story.py:1348 Cell 9: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO     root:story.py:1348 Cell 10: TBD
+INFO     root:story.py:1348 Cell 11: Waiting
+INFO     root:story.py:1348 Cell 12: 
+INFO     root:story.py:1348 Cell 13: 2025-09-14T103527Z_5_RW478314092025RP1_RTRMADC_0_DEUTSCHLAND-KOMMUNALWAHL-NRW.XML
+INFO     root:story.py:1348 Cell 14: TBD
+INFO     root:story.py:1348 Cell 15: Waiting
+INFO     root:story.py:1348 Cell 16: 
+INFO     root:story.py:1348 Cell 17: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO     root:story.py:1348 Cell 18: TBD
+INFO     root:story.py:1348 Cell 19: Waiting
+INFO     root:story.py:1348 Cell 20: 
+INFO     root:story.py:1348 Cell 21: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO     root:story.py:1348 Cell 22: TBD
+INFO     root:story.py:1348 Cell 23: Waiting
+INFO     root:story.py:1348 Cell 24: 
+INFO     root:story.py:1348 Cell 25: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO     root:story.py:1348 Cell 26: TBD
+INFO     root:story.py:1348 Cell 27: Waiting
+INFO     root:story.py:1348 Cell 28: 
+INFO     root:story.py:1348 Cell 29: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 30: TBD
+INFO     root:story.py:1348 Cell 31: Waiting
+INFO     root:story.py:1348 Cell 32: 
+INFO     root:story.py:1348 Cell 33: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 34: TBD
+INFO     root:story.py:1348 Cell 35: Waiting
+INFO     root:story.py:1348 Cell 36: 
+INFO     root:story.py:1348 Cell 37: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 38: TBD
+INFO     root:story.py:1348 Cell 39: Waiting
+INFO     root:story.py:1348 Cell 40: 
+INFO     root:story.py:1348 Cell 41: 2025-09-14T123620Z_5_RW483714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MORE.XML
+INFO     root:story.py:1348 Cell 42: TBD
+INFO     root:story.py:1348 Cell 43: Waiting
+INFO     root:story.py:1348 Cell 44: 
+INFO     root:story.py:1348 Cell 45: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1348 Cell 46: TBD
+INFO     root:story.py:1348 Cell 47: Waiting
+INFO     root:story.py:1348 Cell 48: 
+INFO     root:story.py:1348 Cell 49: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO     root:story.py:1348 Cell 50: TBD
+INFO     root:story.py:1348 Cell 51: Waiting
+INFO     root:story.py:1348 Cell 52: 
+INFO     root:story.py:1348 Cell 53: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1348 Cell 54: TBD
+INFO     root:story.py:1348 Cell 55: Waiting
+INFO     root:story.py:1348 Cell 56: 
+INFO     root:story.py:1348 Cell 57: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO     root:story.py:1348 Cell 58: TBD
+INFO     root:story.py:1348 Cell 59: Waiting
+INFO     root:story.py:1348 Cell 60: 
+INFO     root:story.py:1348 Cell 61: 2025-09-14T111707Z_5_RW481914092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 62: TBD
+INFO     root:story.py:1348 Cell 63: Waiting
+INFO     root:story.py:1348 Cell 64: 
+INFO     root:story.py:1348 Cell 65: 2025-09-14T123948Z_2_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO     root:story.py:1348 Cell 66: TBD
+INFO     root:story.py:1348 Cell 67: Waiting
+INFO     root:story.py:1348 Cell 68: 
+INFO     root:story.py:1348 Cell 69: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO     root:story.py:1348 Cell 70: TBD
+INFO     root:story.py:1348 Cell 71: Waiting
+INFO     root:story.py:1348 Cell 72: 
+INFO     root:story.py:1348 Cell 73: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO     root:story.py:1348 Cell 74: TBD
+INFO     root:story.py:1348 Cell 75: Waiting
+INFO     root:story.py:1348 Cell 76: 
+INFO     root:story.py:1348 Cell 77: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 78: TBD
+INFO     root:story.py:1348 Cell 79: Waiting
+INFO     root:story.py:1348 Cell 80: 
+INFO     root:story.py:1348 Cell 81: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO     root:story.py:1348 Cell 82: TBD
+INFO     root:story.py:1348 Cell 83: Waiting
+INFO     root:story.py:1348 Cell 84: 
+INFO     root:story.py:1348 Cell 85: 2025-09-14T104652Z_5_RW480614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.XML
+INFO     root:story.py:1348 Cell 86: TBD
+INFO     root:story.py:1348 Cell 87: Waiting
+INFO     root:story.py:1348 Cell 88: 
+INFO     root:story.py:1348 Cell 89: 2025-09-14T124612Z_4_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO     root:story.py:1348 Cell 90: TBD
+INFO     root:story.py:1348 Cell 91: Waiting
+INFO     root:story.py:1348 Cell 92: 
+INFO     root:story.py:1348 Cell 93: 2025-09-14T104652Z_5_RW480614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.XML
+INFO     root:story.py:1348 Cell 94: TBD
+INFO     root:story.py:1348 Cell 95: Waiting
+INFO     root:story.py:1348 Cell 96: 
+INFO     root:story.py:1348 Cell 97: 2025-09-14T124612Z_4_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO     root:story.py:1348 Cell 98: TBD
+INFO     root:story.py:1348 Cell 99: Waiting
+INFO     root:story.py:1348 Cell 100: 
+INFO     root:story.py:1348 Cell 101: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 102: TBD
+INFO     root:story.py:1348 Cell 103: Waiting
+INFO     root:story.py:1348 Cell 104: 
+INFO     root:story.py:1348 Cell 105: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 106: TBD
+INFO     root:story.py:1348 Cell 107: Waiting
+INFO     root:story.py:1348 Cell 108: 
+INFO     root:story.py:1348 Cell 109: 2025-09-14T120233Z_4_RW483414092025RP1_RTRMADC_0_ETHIOPIA-DAM-CELEBRATION.XML
+INFO     root:story.py:1348 Cell 110: TBD
+INFO     root:story.py:1348 Cell 111: Waiting
+INFO     root:story.py:1348 Cell 112: 
+INFO     root:story.py:1348 Cell 113: 2025-09-14T120233Z_4_RW483414092025RP1_RTRMADC_0_ETHIOPIA-DAM-CELEBRATION.XML
+INFO     root:story.py:1348 Cell 114: TBD
+INFO     root:story.py:1348 Cell 115: Waiting
+INFO     root:story.py:1348 Cell 116: 
+INFO     root:story.py:1348 Cell 117: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1348 Cell 118: TBD
+INFO     root:story.py:1348 Cell 119: Waiting
+INFO     root:story.py:1348 Cell 120: 
+INFO     root:test_VFD.py:1303 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1311 
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                      |
++=====+================================================================================================================================================================================+
+|   1 | 2025-09-14 13:09:59,930 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 13:09:59,932 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-14 13:09:59,933 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 13:09:59,933 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 13:09:59,934 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 13:10:59,937 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-14 13:10:59,939 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 13:10:59,939 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 13:10:59,940 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 13:10:59,940 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-14 13:11:59,946 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-14 13:11:59,949 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 13:12:59,957 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 13:12:59,960 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:1314 
+📁 Files Present in Target Directory:
+INFO     root:story.py:1348 Cell 1: 2025-09-14T104652Z_5_RW480614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-STRIKE-AFTERMATH.XML
+INFO     root:story.py:1348 Cell 2: TBD
+INFO     root:story.py:1348 Cell 3: Waiting
+INFO     root:story.py:1348 Cell 4: 
+INFO     root:story.py:1348 Cell 5: 2025-09-14T124612Z_4_RW484414092025RP1_RTRMADC_0_PEOPLE-BOXING-HATTON-FILE.XML
+INFO     root:story.py:1348 Cell 6: TBD
+INFO     root:story.py:1348 Cell 7: Waiting
+INFO     root:story.py:1348 Cell 8: 
+INFO     root:story.py:1348 Cell 9: 2025-09-14T120233Z_4_RW483414092025RP1_RTRMADC_0_ETHIOPIA-DAM-CELEBRATION.XML
+INFO     root:story.py:1348 Cell 10: TBD
+INFO     root:story.py:1348 Cell 11: Waiting
+INFO     root:story.py:1348 Cell 12: 
+INFO     root:story.py:1348 Cell 13: 2025-09-14T123130Z_6_RW481214092025RP1_RTRMADC_0_POPE-LEO-ANGELUS-BIRTHDAY.XML
+INFO     root:story.py:1348 Cell 14: TBD
+INFO     root:story.py:1348 Cell 15: Waiting
+INFO     root:story.py:1348 Cell 16: 
+INFO     root:story.py:1348 Cell 17: 2025-09-14T130517Z_4_RW484514092025RP1_RTRMADC_0_UKRAINE-CRISIS-RUSSIA-SETTLEMENT.XML
+INFO     root:story.py:1348 Cell 18: TBD
+INFO     root:story.py:1348 Cell 19: Waiting
+INFO     root:story.py:1348 Cell 20: 
+INFO     root:story.py:1348 Cell 21: 2025-09-14T125409Z_6_RW483514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-USA-RUBIO-JERUSALEM-RESTRICTED.XML
+INFO     root:story.py:1348 Cell 22: TBD
+INFO     root:story.py:1348 Cell 23: Waiting
+INFO     root:story.py:1348 Cell 24: 
+INFO     root:story.py:1348 Cell 25: 2025-09-14T124119Z_10_RW481414092025RP1_RTRMADC_0_USA-TRUMP-EPSTEIN-BRITAIN.XML
+INFO     root:story.py:1348 Cell 26: TBD
+INFO     root:story.py:1348 Cell 27: Waiting
+INFO     root:story.py:1348 Cell 28: 
+INFO     root:story.py:1348 Cell 29: 2025-09-14T125916Z_7_RW484614092025RP1_RTRMADC_0_BRAZIL-BOLSONARO.XML
+INFO     root:story.py:1348 Cell 30: TBD
+INFO     root:story.py:1348 Cell 31: Waiting
+INFO     root:story.py:1348 Cell 32: 
+INFO     root:story.py:1348 Cell 33: 2025-09-14T112553Z_5_RW483614092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MOMENT.XML
+INFO     root:story.py:1348 Cell 34: TBD
+INFO     root:story.py:1348 Cell 35: Waiting
+INFO     root:story.py:1348 Cell 36: 
+INFO     root:story.py:1348 Cell 37: 2025-09-14T115554Z_3_RW481514092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-EVACUATION.XML
+INFO     root:story.py:1348 Cell 38: TBD
+INFO     root:story.py:1348 Cell 39: Waiting
+INFO     root:story.py:1348 Cell 40: 
+INFO     root:story.py:1348 Cell 41: 2025-09-14T111328Z_4_RWMQTCJ0V_RTRMADC_0_CRICKET-ASIACUP-IND-PAK-REAX.XML
+INFO     root:story.py:1348 Cell 42: TBD
+INFO     root:story.py:1348 Cell 43: Waiting
+INFO     root:story.py:1348 Cell 44: 
+INFO     root:story.py:1348 Cell 45: 2025-09-14T123620Z_5_RW483714092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-CITY-STRIKE-MORE.XML
+INFO     root:story.py:1348 Cell 46: TBD
+INFO     root:story.py:1348 Cell 47: Waiting
+INFO     root:story.py:1348 Cell 48: 
+INFO     root:story.py:1348 Cell 49: 2025-09-14T111707Z_5_RW481914092025RP1_RTRMADC_0_BOXING-SUPERMIDDLEWEIGHT-ALVAREZ-CRAWFORD.XML
+INFO     root:story.py:1348 Cell 50: TBD
+INFO     root:story.py:1348 Cell 51: Waiting
+INFO     root:story.py:1348 Cell 52: 
+INFO     root:story.py:1348 Cell 53: 2025-09-14T123948Z_2_RWMQTCJTB_RTRMADC_0_NEPAL-POLITICS-KARKI.XML
+INFO     root:story.py:1348 Cell 54: TBD
+INFO     root:story.py:1348 Cell 55: Waiting
+INFO     root:story.py:1348 Cell 56: 
+INFO     root:story.py:1348 Cell 57: 2025-09-14T115130Z_5_RW477314092025RP1_RTRMADC_0_ATHLETICS-WORLD-MEDALS.XML
+INFO     root:story.py:1348 Cell 58: TBD
+INFO     root:story.py:1348 Cell 59: Waiting
+INFO     root:story.py:1348 Cell 60: 
+INFO     root:story.py:1348 Cell 61: 2025-09-14T125825Z_10_RW483914092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-GAZA-BORDER.XML
+INFO     root:story.py:1348 Cell 62: TBD
+INFO     root:story.py:1348 Cell 63: Waiting
+INFO     root:story.py:1348 Cell 64: 
+INFO     root:story.py:1348 Cell 65: 2025-09-14T114824Z_10_RW482414092025RP1_RTRMADC_0_UTAH-SHOOTING-KIRK-SPAIN.XML
+INFO     root:story.py:1348 Cell 66: TBD
+INFO     root:story.py:1348 Cell 67: Waiting
+INFO     root:story.py:1348 Cell 68: 
+INFO     root:story.py:1348 Cell 69: 2025-09-14T110150Z_2_RWMQTPT2H_RTRMADC_0_CHINA-CANAL-XINJIANG.XML
+INFO     root:story.py:1348 Cell 70: TBD
+INFO     root:story.py:1348 Cell 71: Waiting
+INFO     root:story.py:1348 Cell 72: 
+INFO     root:story.py:1348 Cell 73: 2025-09-14T105140Z_5_RW479114092025RP1_RTRMADC_0_ISRAEL-PALESTINIANS-QATAR-SUMMIT-PREPS.XML
+INFO     root:story.py:1348 Cell 74: TBD
+INFO     root:story.py:1348 Cell 75: Waiting
+INFO     root:story.py:1348 Cell 76: 
+INFO     root:story.py:1348 Cell 77: 2025-09-14T124523Z_5_RW484214092025RP1_RTRMADC_0_USA-TRUMP-TARIFFS-CHINA-ARRIVALS.XML
+INFO     root:story.py:1348 Cell 78: TBD
+INFO     root:story.py:1348 Cell 79: Waiting
+INFO     root:story.py:1348 Cell 80: 
+INFO     root:story.py:1348 Cell 81: 2025-09-14T104900Z_4_RW482914092025RP1_RTRMADC_0_USA-AFGHANISTAN-TALIBAN-STILLS.XML
+INFO     root:story.py:1348 Cell 82: TBD
+INFO     root:story.py:1348 Cell 83: Waiting
+INFO     root:story.py:1348 Cell 84: 
+INFO     root:test_VFD.py:1338 
+📦 File Distributor Logs (Source Box):
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_9.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_VFD.py:1346 
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   # | Log Entry                                                                                                                                                                      |
++=====+================================================================================================================================================================================+
+|   1 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   2 | 2025-09-14 13:11:59,951 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   3 | 2025-09-14 13:12:59,957 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   4 | 2025-09-14 13:12:59,960 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   5 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 0 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   6 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process command queue is empty.  No processes configured. |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   7 | 2025-09-14 13:12:59,962 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   8 | 2025-09-14 13:13:59,968 INFO  [main] com.reuters.filedirect.config.Properties : Load 184 settings.                                                                             |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   9 | 2025-09-14 13:13:59,971 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : Attempting to retrieve distribution processes ...                        |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  10 | 2025-09-14 13:13:59,976 INFO  [main] com.reuters.filedirect.distribution.process.DistributionProcessManager : Process 135 has stopped, no need to create an instance           |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  11 | 2025-09-14 13:13:59,976 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Retrieved 1 distribution processes.                                    |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  12 | 2025-09-14 13:14:00,056 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of auto files : 4                                                   |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  13 | 2025-09-14 13:14:00,056 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : No of manual files : 62                                                |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  14 | 2025-09-14 13:14:00,057 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process "test1" has been stopped: no files queued         |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  15 | 2025-09-14 13:14:00,058 INFO  [main] com.reuters.filedirect.db.hardware.HardwareDistributionDaoImpl : 66 rows were deleted from the distribution_files table.                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  16 | 2025-09-14 13:14:00,059 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Deleted 66 processed/queued files from the distribution_files table.   |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  17 | 2025-09-14 13:14:00,059 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Distribution process not loaded-> test1                                |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  18 | 2025-09-14 13:14:00,059 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Skipping processing for distribution process "test1"                   |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  19 | 2025-09-14 13:14:00,059 INFO  [main] com.reuters.filedirect.distribution.cache.DistributionFileCache : Marked 0 files as copied                                                |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  20 | 2025-09-14 13:14:00,059 INFO  [main] com.reuters.filedirect.distribution.DistributionCommandProcessor : Sleeping for 1 minute                                                  |
++-----+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+INFO     root:test_VFD.py:1349 
+📁 Files Present in Target Directory:

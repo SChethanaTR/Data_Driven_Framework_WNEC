@@ -1,0 +1,4 @@
+INFO     root:database.py:28 (541, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)
+INFO     root:test_VFD.py:1182 DB Query Result: [(541, '10.99.13.11', 'wneqa', 'nBhon2VaoHA8Fp8SpXnV+A==', 21, 0, '/wneclient/data/QA/ftp/files/testJakub', None, None, None, None, None, None, None, None, None, None, None, None, None, None, 0, 0, None, None, 0, None, 'tls', None, 'http', 0, None, 'tls', None, 'http', None, None, None, None, None)]
+INFO     root:test_VFD.py:1195 ✅ Distribution process has been stopped successfully.
+INFO     root:test_VFD.py:1205 ✅ Distribution process has been started successfully.

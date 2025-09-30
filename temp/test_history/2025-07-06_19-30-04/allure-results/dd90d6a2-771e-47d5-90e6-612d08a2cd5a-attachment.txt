@@ -1,0 +1,5 @@
+INFO     root:test_User_Interface.py:1029 Dialog did not become visible: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+waiting for locator("//div[@class=\"dialog-content\"]") to be visible
+
+INFO     root:test_User_Interface.py:1033 Screenshot of the dialog saved as 'dialog_screenshot.png'

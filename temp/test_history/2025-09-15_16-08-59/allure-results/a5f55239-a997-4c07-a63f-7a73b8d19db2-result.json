@@ -1,0 +1,1 @@
+{"name": "test_distribute_legacy_files[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1757932754868, "stop": 1757932774040, "uuid": "6ac2b2b8-1f60-4d39-823a-2618cb9c01a9", "testCaseId": "7283be4c3351bee039477d19d1d2adff", "fullName": "tests.Automation_tests.test_VFD#test_distribute_legacy_files"}

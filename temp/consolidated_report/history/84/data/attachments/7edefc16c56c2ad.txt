@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:1130 Story added to playlist: European Trade Commissioner briefs parliament on trade negotiations with the US
+INFO     root:test_User_Interface.py:1149 Locator 1 text: USA-TRUMP/TARIFFS-EU-PARLIAMENT--UPDATED SOURCE--

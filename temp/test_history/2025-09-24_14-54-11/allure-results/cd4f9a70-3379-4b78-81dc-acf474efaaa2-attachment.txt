@@ -1,0 +1,23 @@
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/FRANCE-FLAGS7479Reuters
+INFO     root:test_User_Interface.py:503 ASIA-WEATHER/TAIWAN-SHELTER7484Reuters
+INFO     root:test_User_Interface.py:503 JAPAN-POLITICS/7467Reuters
+INFO     root:test_User_Interface.py:503 GERMANY-ECONOMY/MERZ7512Reuters
+INFO     root:test_User_Interface.py:503 DEUTSCHLAND-BUNDESTAG/MERZ7505Reuters
+INFO     root:test_User_Interface.py:503 EUROPE-MIGRATION/HUNGARY7531Reuters
+INFO     root:test_User_Interface.py:503 BRITAIN-CHURCH/7532Reuters
+INFO     root:test_User_Interface.py:503 IRAQ-BEEKEEPERS/WATER-CRISIS6781Reuters
+INFO     root:test_User_Interface.py:503 ASEAN-MALAYSIA/ECONOMY7513Reuters
+INFO     root:test_User_Interface.py:503 ASIA-WEATHER/SHENZHEN-DAMAGE7500Reuters
+INFO     root:test_User_Interface.py:503 KENYA-ATHLETICS/ARRIVALS ROUGH CUT7489Reuters
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-DISPLACED7490Reuters
+INFO     root:test_User_Interface.py:503 BASEBALL-MLB-CLE-DET/MOMENT7526Reuters
+INFO     root:test_User_Interface.py:503 ASIA-WEATHER/TYPHOON-GRAPHICS7498Reuters
+INFO     root:test_User_Interface.py:503 USA-Gaza Genocide/Protest3613CCTV
+INFO     root:test_User_Interface.py:503 ISRAEL-PALESTINIANS/GAZA-AFTERMATH7501Reuters
+INFO     root:test_User_Interface.py:503 UKRAINE-CRISIS/TRUMP-RUSSIA-BULLETINS7504Reuters
+INFO     root:test_User_Interface.py:503 ASIA-WEATHER/TAIWAN-DRONE-UGC7503Reuters
+INFO     root:test_User_Interface.py:503 USA-TRUMP/CHICAGO7464Reuters
+INFO     root:test_User_Interface.py:503 USA-INDIA/TRADE MINISTER3032ANI
+INFO     root:test_User_Interface.py:503 BASEBALL-MLB-NYY-CHW/7496Reuters
+INFO     root:test_User_Interface.py:503 ASIA-WEATHER/TAIWAN-DRONE7491Reuters
+INFO     root:test_User_Interface.py:503 ASIA-WEATHER/7458Reuters

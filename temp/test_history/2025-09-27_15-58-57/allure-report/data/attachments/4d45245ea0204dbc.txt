@@ -1,0 +1,5 @@
+INFO:root:Currently playing: China-Xi/Xinjiang/Anniversary Gala4603
+INFO:root:After stopping: PLAYOUT READYWaiting for next video to be delivered
+INFO:root:Playout did not stop as expected
+INFO:root:After playing: NOW PLAYING:
+INFO:root:After pausing: NOW PLAYING:

@@ -1,0 +1,2 @@
+INFO:root:Story name: View of the Israel-Gaza border
+INFO:root:Story playing: ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER --INTERRUPTIBLE--

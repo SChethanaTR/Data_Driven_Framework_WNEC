@@ -1,0 +1,12 @@
+INFO     root:test_admin_playout.py:590 Navigated to playout page
+INFO     root:test_admin_playout.py:596 Radio button to disable channel is clicked
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:615 USA-TRUMP/TARIFFS-SWITZERLAND-TECH4310
+INFO     root:test_admin_playout.py:619 Channel is enabled
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:596 Radio button to enable channel is clicked
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:590 
+INFO     root:test_admin_playout.py:635 PLAYOUT STOPPEDPress Start button to begin Playout or press Play Now button in Stories page
+INFO     root:test_admin_playout.py:640 Channel is enabled

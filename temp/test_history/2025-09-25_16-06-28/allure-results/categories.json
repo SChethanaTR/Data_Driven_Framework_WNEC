@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Product defects",
+    "matchedStatuses": [
+      "failed",
+      "broken"
+    ]
+  },
+  {
+    "name": "Test defects",
+    "traceRegex": "AssertionError|AssertionFailed|Expect",
+    "matchedStatuses": [
+      "failed"
+    ]
+  },
+  {
+    "name": "Infrastructure issues",
+    "traceRegex": "Timeout|ConnectionRefused|DNS|Network",
+    "matchedStatuses": [
+      "broken"
+    ]
+  },
+  {
+    "name": "Ignored/Skipped",
+    "matchedStatuses": [
+      "skipped"
+    ]
+  }
+]

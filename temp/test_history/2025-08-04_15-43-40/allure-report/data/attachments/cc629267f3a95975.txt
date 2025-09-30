@@ -1,0 +1,20 @@
+INFO     root:test_FD.py:33 FTP
+INFO     root:test_FD.py:45 Distribution History is empty
+INFO     root:test_FD.py:57 EUROPE-STOCKS/
+INFO     root:test_FD.py:57 ASIA-WEATHER/INDIA
+INFO     root:test_FD.py:57 China-Service Trade/H1/Growth
+INFO     root:test_FD.py:59 Files added to FTP distribution
+INFO     root:test_FD.py:63 2025-08-04T100817Z_2_RW473704082025RP1_RTRMADC_0_ASIA-WEATHER-INDIA.XML
+INFO     root:test_FD.py:63 2025-08-04T093544Z_2_RWMKZYB8P_RTRMADC_0_CHINA-SERVICE-TRADE-H1-GROWTH.XML
+INFO     root:test_FD.py:63 2025-08-04T101136Z_6_RW471204082025RP1_RTRMADC_0_EUROPE-STOCKS.XML
+INFO     root:test_FD.py:65 Files distributed to FTP
+INFO     root:test_FD.py:33 FTPS
+INFO     root:test_FD.py:51 Distribution History is empty
+INFO     root:test_FD.py:57 RUSSIA-CHINA/NAVY-DRILLS
+INFO     root:test_FD.py:57 EUROPE-STOCKS/
+INFO     root:test_FD.py:57 ASIA-WEATHER/INDIA
+INFO     root:test_FD.py:59 Files added to FTPS distribution
+INFO     root:test_FD.py:63 2025-08-04T101456Z_1_LWD474004082025RP1_RTRWNEV_C_4740-RUSSIA-CHINA-NAVY-DRILLS.MP4
+INFO     root:test_FD.py:63 2025-08-04T101456Z_1_LWD474004082025RP1_RTRWNEV_C_4740-RUSSIA-CHINA-NAVY-DRILLS.MP4
+INFO     root:test_FD.py:63 2025-08-04T100817Z_1_LWD473704082025RP1_RTRWNEV_C_4737-ASIA-WEATHER-INDIA.MP4
+INFO     root:test_FD.py:65 Files distributed to FTPS

@@ -1,0 +1,13 @@
+INFO:root:Found 18 videos under 'Live Now'.
+INFO:root:Live Now Video: Macron arrives at 10 Downing Street
+INFO:root:Live Now Video: Macron arrives at 10 Downing Street
+INFO:root:Live Now Video: View of Israel-Gaza border as Netanyahu says Trump meeting focused on hostage release efforts
+INFO:root:Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO:root:Live Now Video: European Trade Commissioner briefs parliament on trade negotiations with the US
+INFO:root:Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO:root:Live Now Video: Trump expected to meet with African leaders
+INFO:root:Live Now Video: Macron arrives at 10 Downing Street
+INFO:root:Live Now Video: Macron and Starmer deliver speeches in Central London
+INFO:root:Live Now Video: European Trade Commissioner briefs parliament on trade negotiations with the US
+INFO:root:Live Now Video: Merz, Rutte press conference after talks in Berlin
+INFO:root:Live Now Video: Merz, Rutte mark the 70th anniversary of Germany joining the alliance

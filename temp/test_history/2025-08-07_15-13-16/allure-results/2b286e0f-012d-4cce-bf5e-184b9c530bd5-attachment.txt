@@ -1,0 +1,16 @@
+INFO:root:View of the central Maidan Square in Kyiv as diplomatic efforts intensify06:5412:00rl 6
+INFO:root:Firefighters battle wildfire in Southern France08:4112:00rl 3
+INFO:root:Firefighters battle wildfire in Southern France08:4612:00rls
+INFO:root:View of Keelung port on first day of US tariffs on Taiwan09:0110:30rl 5
+INFO:root:Firefighters give an update on wildfire situation09:3012:00rl 2
+INFO:root:Firefighters give an update on wildfire situation09:3012:00rls
+INFO:root:View of Cape Town port activity as US tariffs come into force10:5013:20rl 2
+INFO:root:Putin holds talks with UAE President as Kremlin confirms his meeting with Trump11:0012:00rl 2
+INFO:root:Putin holds talks with UAE President as Kremlin confirms his meeting with Trump11:0012:00rlsCh 3
+INFO:root:Dutch parliament debates government's response to Gaza war11:5014:00rl 1
+INFO:root:View of the central Maidan Square in Kyiv as diplomatic efforts intensify12:0012:00rlsCh 3
+INFO:root:View of the Israel-Gaza border13:0014:00rl 3
+INFO:root:Texas House meets again amid redistricting standoff13:3014:30rl 5
+INFO:root:Madrid residents face high temperatures as heatwave sweeps Europe13:5016:10rl 2
+INFO:root:Texas Senate holds meeting amid redistricting standoff14:0015:00rl 6
+INFO:root:Supporters rally in Bogota over Alvaro Uribe's conviction15:0016:00rl 4

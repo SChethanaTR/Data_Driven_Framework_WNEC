@@ -1,0 +1,5 @@
+INFO:root:Found 9 videos under 'Live Now'.
+INFO:root:Live Now Video: A view of Khan Younis
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Residents and tourists escape Spain's heatwave in Madrid public park

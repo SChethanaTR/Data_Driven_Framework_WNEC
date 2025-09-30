@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","219763","test_distribution_by_service_code[chromium]","tests.Automation_tests","Mon Sep 15 19:37:40 IST 2025","passed","Mon Sep 15 19:41:20 IST 2025","","test_VFD","",""

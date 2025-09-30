@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:395 View of Israel-Gaza border
+INFO     root:test_admin_playout.py:410 ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER

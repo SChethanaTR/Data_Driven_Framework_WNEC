@@ -1,0 +1,7 @@
+INFO:root:Found 4 videos under 'Live Now'.
+INFO:root:Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: World leaders gather at the U.N. for 80th General Assembly
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.

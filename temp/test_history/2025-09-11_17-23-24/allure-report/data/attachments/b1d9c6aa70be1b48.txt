@@ -1,0 +1,4 @@
+INFO:root:Selected protocol: FTP
+INFO:root:Selected protocol: FTP
+INFO:root:Please specify a valid Remote Base Directory.
+INFO:root:Please specify a valid Remote Base Directory.

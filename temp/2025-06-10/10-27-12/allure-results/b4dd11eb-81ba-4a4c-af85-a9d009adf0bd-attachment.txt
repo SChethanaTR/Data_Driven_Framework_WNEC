@@ -1,0 +1,5 @@
+INFO:root:Story added: MUSIC-BTS/MILITARY-FANS
+INFO:root:Story added: China-Road Logistics/May
+INFO:root:Story added: UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH
+INFO:root:All stories collected: ['MUSIC-BTS/MILITARY-FANS', 'China-Road Logistics/May', 'UKRAINE-CRISIS/ATTACK-KYIV-AFTERMATH']
+ERROR:root:The story 'MUSIC-BTS/MILITARY-FANS' is NOT present in the history page.

@@ -1,0 +1,4 @@
+INFO:root:Testing user - Username: bkvnye, Password: *aeSNxS2!4
+INFO:root:Login successful
+INFO:root:Logout message verified
+INFO:root:Successfully logged out

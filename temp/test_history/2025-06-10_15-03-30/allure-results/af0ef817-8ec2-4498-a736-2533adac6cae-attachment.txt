@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:53 DANI TEST EVENT
+INFO     root:test_User_Interface.py:55 Live page exists

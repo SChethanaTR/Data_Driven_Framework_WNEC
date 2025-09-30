@@ -1,0 +1,5 @@
+INFO:root:Found 14 videos under 'Live Now'.
+INFO:root:Live Now Video: Smoke over Gaza City as seen from Israel
+INFO:root:Playout button visible and clicked
+INFO:root:No channel options available.
+INFO:root:Live Now Video: Trump participates in farewell to UK's King Charles, Queen Camilla at Windsor Castle

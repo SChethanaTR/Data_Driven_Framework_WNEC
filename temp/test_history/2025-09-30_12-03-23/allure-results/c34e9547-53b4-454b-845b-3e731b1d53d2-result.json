@@ -1,0 +1,1 @@
+{"name": "test_Administrator_file_playout_loop[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1759214126337, "stop": 1759214126994, "uuid": "fcce482b-34bb-4994-b0e5-6908b3e5620f", "testCaseId": "f0181891c90a4b943520a45e144133b7", "fullName": "tests.Automation_tests.test_admin_playout#test_Administrator_file_playout_loop"}

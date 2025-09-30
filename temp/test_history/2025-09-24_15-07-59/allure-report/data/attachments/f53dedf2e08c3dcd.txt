@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:963 Germany's Merz discusses 2026 budget in parliament
+INFO     root:test_admin_playout.py:978 GERMANY-BUDGET/MERZ

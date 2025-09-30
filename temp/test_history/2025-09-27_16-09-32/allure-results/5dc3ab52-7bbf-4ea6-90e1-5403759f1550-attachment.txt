@@ -1,0 +1,5 @@
+INFO:root:Story 1: LEBANON-NASRALLAH/PROFILE-SHORT
+INFO:root:Story 2: China-Xi/Xinjiang/Anniversary Gala
+INFO:root:Story 3: Various-Zelensky/Putin/Meeting Location
+INFO:root:Loop items checkbox is unchecked. Checking it to reveal Clear button.
+INFO:root:Clear button is visible. Clicking to clear history.

@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:910 Story 1: ISRAEL-PALESTINIANS/GAZA-NUTRITION
+INFO     root:test_admin_playout.py:910 Story 2: SPAIN-VENEZUELA/MIGRATION
+INFO     root:test_admin_playout.py:910 Story 3: ISRAEL-PALESTINIANS/GAZA-NUTRITION
+INFO     root:test_admin_playout.py:917 Cleared all items

@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:404 Aftermath of shooting that killed four people in Jerusalem
+INFO     root:test_admin_playout.py:419 ISRAEL-PALESTINIANS/SHOOTING -- GRAPHIC WARNING --

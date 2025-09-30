@@ -1,0 +1,8 @@
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 3
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 4
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 5
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 6
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 7
+INFO     root:test_admin_playout.py:150 Story 1: UKRAINE-CRISIS/ATTACK-KYIV
+INFO     root:test_admin_playout.py:150 Story 2: BASKETBALL-NBA-OKC-IND/
+INFO     root:test_admin_playout.py:150 Story 3: 9947-QA-DELIVERY-DECIDER-IMAGE-INGEST-V7-REFEED-3

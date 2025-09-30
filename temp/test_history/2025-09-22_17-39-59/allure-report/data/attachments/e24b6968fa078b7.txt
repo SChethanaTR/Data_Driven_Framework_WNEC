@@ -1,0 +1,10 @@
+INFO     root:test_User_Interface.py:231 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:233 Loop configuration is now visible.
+INFO     root:test_User_Interface.py:242 CLIMATE-CHANGE/SWISS-GLACIERS
+INFO     root:test_User_Interface.py:242 CLIMATE-CHANGE/SWISS-GLACIERS
+INFO     root:test_User_Interface.py:242 ISRAEL-PALESTINIANS/PORTUGAL
+INFO     root:test_User_Interface.py:242 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY
+INFO     root:test_User_Interface.py:242 SOUTHSUDAN-POLITICS/COURT
+INFO     root:test_User_Interface.py:242 SOCCER-ENGLAND-LIN-CHE/PREVIEW
+INFO     root:test_User_Interface.py:242 ISRAEL-PALESTINIANS/BRITAIN-CEREMONY-MOMENT
+INFO     root:test_User_Interface.py:242 UKRAINE-CRISIS/POLAND-AIRSPACE

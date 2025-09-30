@@ -1,0 +1,2 @@
+INFO:root:Slug on subcon page: USA-TRUMP/VISAS-INDIA-EXPERT
+INFO:root:Slug on cctv page: China-Steel Industry/AI

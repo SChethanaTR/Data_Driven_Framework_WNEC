@@ -1,0 +1,2 @@
+INFO     root:tests_FD.py:554 CCTV News
+INFO     root:tests_FD.py:562

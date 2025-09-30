@@ -1,0 +1,9 @@
+INFO     root:test_User_Interface.py:563 View of coastline as Typhoon Kajiki to make landfall in central Vietnam03:2312:00
+INFO     root:test_User_Interface.py:563 View of coastline as Typhoon Kajiki to make landfall in central Vietnam03:2412:00
+INFO     root:test_User_Interface.py:563 International conference on Rohingya crisis held in Cox's Bazar04:4512:00
+INFO     root:test_User_Interface.py:563 A view of street and people movements in Khan Younis, southern Gaza Strip05:0312:00
+INFO     root:test_User_Interface.py:563 Emergency OIC meeting held in Jeddah on Israeli aggression in Gaza07:1512:00
+INFO     root:test_User_Interface.py:563 Poland’s Tusk holds bilateral talks with Canada’s Carney in Warsaw09:4512:00
+INFO     root:test_User_Interface.py:563 Wrongly deported immigrant Kilmer Abrego Garcia checks in at ICE field office11:0015:00
+INFO     root:test_User_Interface.py:563 SpaceX resupply mission arrives at ISS11:1512:00
+INFO     root:test_User_Interface.py:563 SpaceX expected to launch its tenth Starship test23:0000:00 (+1)

@@ -1,0 +1,1 @@
+{"name": "test_delete_process_with_active_transfer[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1758007545144, "stop": 1758007570663, "uuid": "00c50ba5-1109-40f5-8df3-2c1389ed5ff1", "testCaseId": "ff8830c0d2fb02a782b127a9cf6a20b7", "fullName": "tests.Automation_tests.test_VFD#test_delete_process_with_active_transfer"}

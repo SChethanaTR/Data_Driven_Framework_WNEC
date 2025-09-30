@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: TENNIS-MERIDA/
+INFO     root:test_history.py:123 Story added: TENNIS-MERIDA/
+INFO     root:test_history.py:123 Story added: TENNIS-MERIDA/
+INFO     root:test_history.py:125 All stories collected: ['TENNIS-MERIDA/', 'TENNIS-MERIDA/', 'TENNIS-MERIDA/']
+ERROR    root:test_history.py:148 The story 'TENNIS-MERIDA/' is NOT present in the history page.

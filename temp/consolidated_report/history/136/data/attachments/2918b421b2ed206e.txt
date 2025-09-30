@@ -1,0 +1,4 @@
+INFO     root:test_history.py:317 Story added: CLIMATE CHANGE-HUNGARY/DROUGHT
+INFO     root:test_history.py:317 Story added: AFRICA JOURNAL-PICTURES/
+INFO     root:test_history.py:317 Story added: POPE-HOLYYEAR/
+INFO     root:test_history.py:319 All stories collected: ['CLIMATE CHANGE-HUNGARY/DROUGHT', 'AFRICA JOURNAL-PICTURES/', 'POPE-HOLYYEAR/']

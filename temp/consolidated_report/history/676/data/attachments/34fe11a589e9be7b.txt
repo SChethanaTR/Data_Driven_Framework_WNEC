@@ -1,0 +1,21 @@
+INFO     root:test_VFD.py:185 Testing with FD name: ':'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_VFD.py:185 Testing with FD name: '&lt;&gt;'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_VFD.py:185 Testing with FD name: '$'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_VFD.py:185 Testing with FD name: ';'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_VFD.py:185 Testing with FD name: '*'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_VFD.py:185 Testing with FD name: '~'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.
+INFO     root:test_VFD.py:185 Testing with FD name: '+'
+INFO     root:story.py:770 FTP
+INFO     root:story.py:756 Name must contain only letters, numbers and whitespaces.

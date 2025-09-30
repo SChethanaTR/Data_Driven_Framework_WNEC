@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:184 View of the Israel-Gaza border as UK, Canada and  Australia recognise Palestinian state
+INFO     root:test_User_Interface.py:186 Live page exists

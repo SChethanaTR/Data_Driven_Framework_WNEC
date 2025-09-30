@@ -1,0 +1,1 @@
+{"name": "test_Create_with_existing_name[chromium]", "status": "skipped", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1749476616588, "stop": 1749476616588, "uuid": "560845c3-914e-44c2-8d91-e1b4e34bcf3a", "testCaseId": "9ad7967076d37499bcdfb970a00f603d", "fullName": "tests.Automation_tests.test_FD#test_Create_with_existing_name"}

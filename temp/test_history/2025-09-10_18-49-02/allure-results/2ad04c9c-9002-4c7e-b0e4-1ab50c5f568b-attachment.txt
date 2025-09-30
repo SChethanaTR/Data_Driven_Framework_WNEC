@@ -1,0 +1,3 @@
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_7.6p1)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:[]

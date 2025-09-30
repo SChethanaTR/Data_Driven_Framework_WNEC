@@ -1,0 +1,1 @@
+INFO     root:test_admin_playout.py:395 A view of street and people movements in Khan Younis, southern Gaza Strip

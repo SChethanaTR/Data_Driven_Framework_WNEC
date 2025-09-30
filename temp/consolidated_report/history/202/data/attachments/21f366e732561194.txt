@@ -1,0 +1,5 @@
+INFO     root:test_history.py:123 Story added: USA-MIGRATION/MEXICO-BOXER
+INFO     root:test_history.py:123 Story added: USA-MIGRATION/MEXICO-BOXER
+INFO     root:test_history.py:123 Story added: ASIA-WEATHER/VIETNAM-GRAPHICS
+INFO     root:test_history.py:125 All stories collected: ['USA-MIGRATION/MEXICO-BOXER', 'USA-MIGRATION/MEXICO-BOXER', 'ASIA-WEATHER/VIETNAM-GRAPHICS']
+ERROR    root:test_history.py:148 The story 'USA-MIGRATION/MEXICO-BOXER' is NOT present in the history page.

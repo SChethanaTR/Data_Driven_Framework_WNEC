@@ -1,0 +1,2 @@
+INFO     root:test_VFD.py:1279 Slug on subcon page: INDIA-PROTESTS/LADAKH
+INFO     root:test_VFD.py:1283 Slug on cctv page: China-Xi/Xinjiang/Anniversary Gala

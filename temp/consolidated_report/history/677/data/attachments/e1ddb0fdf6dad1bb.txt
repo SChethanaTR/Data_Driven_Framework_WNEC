@@ -1,0 +1,2 @@
+INFO:root:Slug on subcon page: INDIA-PROTESTS/LADAKH
+INFO:root:Slug on cctv page: China-Xi/Xinjiang/Anniversary Gala

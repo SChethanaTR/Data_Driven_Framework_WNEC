@@ -1,0 +1,2 @@
+INFO     root:test_User_management.py:311 Testing user - Username: dgjooj, Password: *A1&BS0tkh
+INFO     root:test_User_management.py:324 User successfully created

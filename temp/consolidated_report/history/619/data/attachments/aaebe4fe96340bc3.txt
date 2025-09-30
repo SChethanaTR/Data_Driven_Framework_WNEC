@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:630 Story added to playlist: Germany's Merz discusses 2026 budget in parliament
+INFO     root:test_User_Interface.py:649 Locator 1 text: GERMANY-BUDGET/MERZ

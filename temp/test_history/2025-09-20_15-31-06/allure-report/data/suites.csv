@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","103415","test_HistoryPage_Search_Playout_History[chromium]","tests.Automation_tests","Sat Sep 20 15:31:21 IST 2025","broken","Sat Sep 20 15:33:04 IST 2025","","test_User_Interface","",""

@@ -1,0 +1,3 @@
+INFO     root:test_admin_playout.py:910 Story 1: DEUTSCHLAND-NATIONALPREIS/MERZ
+INFO     root:test_admin_playout.py:910 Story 2: AUSTRIA-SCHOOL/ATTACK
+INFO     root:test_admin_playout.py:910 Story 3: INDIA-SHIP/INJURED

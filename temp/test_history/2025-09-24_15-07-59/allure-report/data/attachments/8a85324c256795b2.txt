@@ -1,0 +1,3 @@
+INFO     root:test_VFD.py:238 Selected protocol: FTP
+INFO     root:test_VFD.py:238 Selected protocol: FTP
+INFO     root:story.py:867 Please specify a valid Host.

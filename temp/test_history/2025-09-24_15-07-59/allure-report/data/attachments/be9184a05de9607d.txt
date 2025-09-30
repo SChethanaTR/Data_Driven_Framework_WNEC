@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:704 Story 1: ISRAEL-PALESTINIANS/JORDAN-CROSSING
+INFO     root:test_admin_playout.py:704 Story 2: GERMANY-ECONOMY/BUSINESS SENTIMENT
+INFO     root:test_admin_playout.py:704 Story 3: USA-RUSSIA/IRRITANTS-KREMLIN
+INFO     root:test_admin_playout.py:710 Data exported

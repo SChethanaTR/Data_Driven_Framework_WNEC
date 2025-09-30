@@ -1,0 +1,35 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","33258","test_LivePage_Add_To_Playlist[chromium]","tests.Automation_tests","Thu Sep 18 12:55:35 IST 2025","broken","Thu Sep 18 12:56:08 IST 2025","","test_User_Interface","",""
+"","46323","test_PlayoutNowPage_Playout_Now_Button_On_LivePage[chromium]","tests.Automation_tests","Thu Sep 18 12:53:00 IST 2025","passed","Thu Sep 18 12:53:46 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the playout page.
+    Clicks on the printer icon to open the print dialog box.
+    Logs the action of opening the print dialog.
+    :param user_interface_page:
+    ","10614","test_PlayoutPage_Print_MyPlayout_page[chromium]","tests.Automation_tests","Thu Sep 18 12:48:02 IST 2025","passed","Thu Sep 18 12:48:13 IST 2025","","test_User_Interface","",""
+"","37967","test_HistoryPage_Search_Playout_History[chromium]","tests.Automation_tests","Thu Sep 18 12:51:34 IST 2025","passed","Thu Sep 18 12:52:12 IST 2025","","test_User_Interface","",""
+"","1045","test_StoriesPage_AddTo_Distribution_With_No_Active_Distribution[chromium]","tests.Automation_tests","Thu Sep 18 12:55:33 IST 2025","broken","Thu Sep 18 12:55:34 IST 2025","","test_User_Interface","",""
+"
+
+    Navigates to the live page.
+    Checks if there is at least one video available to confirm that the live page is functioning.
+    Logs the status of the live page.
+
+    :param user_interface_page:
+    ","16657","test_LivePage_Check_LivePreview[chromium]","tests.Automation_tests","Thu Sep 18 12:48:14 IST 2025","passed","Thu Sep 18 12:48:30 IST 2025","","test_User_Interface","",""
+"","3459","test_StoriesPage_Add_To_Distribution[chromium]","tests.Automation_tests","Thu Sep 18 12:55:30 IST 2025","broken","Thu Sep 18 12:55:33 IST 2025","","test_User_Interface","",""
+"","36579","test_Livepage_actions[chromium]","tests.Automation_tests","Thu Sep 18 12:52:23 IST 2025","broken","Thu Sep 18 12:52:59 IST 2025","","test_User_Interface","",""
+"","6626","test_HistoryPage_Search_Distribution_History[chromium]","tests.Automation_tests","Thu Sep 18 12:50:48 IST 2025","broken","Thu Sep 18 12:50:55 IST 2025","","test_User_Interface","",""
+"","88339","test_MyVideosPage_Add_My_Videos_To_Playlist[chromium]","tests.Automation_tests","Thu Sep 18 12:53:54 IST 2025","passed","Thu Sep 18 12:55:22 IST 2025","","test_User_Interface","",""
+"","37161","test_HistoryPage_Distribution_History[chromium]","tests.Automation_tests","Thu Sep 18 12:50:10 IST 2025","broken","Thu Sep 18 12:50:47 IST 2025","","test_User_Interface","",""
+"","15636","test_AdminSettingsPage_FileProcessor[chromium]","tests.Automation_tests","Thu Sep 18 12:56:19 IST 2025","passed","Thu Sep 18 12:56:35 IST 2025","","test_User_Interface","",""
+"","43559","test_StoriesPage_CopyLink[chromium]","tests.Automation_tests","Thu Sep 18 12:48:31 IST 2025","passed","Thu Sep 18 12:49:14 IST 2025","","test_User_Interface","",""
+"","15924","test_Admin_Settings_Page_Playout_Options[chromium]","tests.Automation_tests","Thu Sep 18 12:56:35 IST 2025","passed","Thu Sep 18 12:56:51 IST 2025","","test_User_Interface","",""
+"","6766","test_MyVideos_Add_To_Distribution[chromium]","tests.Automation_tests","Thu Sep 18 12:53:47 IST 2025","broken","Thu Sep 18 12:53:53 IST 2025","","test_User_Interface","",""
+"","9576","test_LivePage_live_page_view[chromium]","tests.Automation_tests","Thu Sep 18 12:52:13 IST 2025","passed","Thu Sep 18 12:52:22 IST 2025","","test_User_Interface","",""
+"","6312","test_MyVideosPage_Print_My_Videos[chromium]","tests.Automation_tests","Thu Sep 18 12:55:23 IST 2025","failed","Thu Sep 18 12:55:29 IST 2025","","test_User_Interface","",""
+"","25629","test_HistoryPage_Hide_Or_Show_Loop_Configuration[chromium]","tests.Automation_tests","Thu Sep 18 12:50:55 IST 2025","passed","Thu Sep 18 12:51:21 IST 2025","","test_User_Interface","",""
+"","13017","test_HistoryPage_ClearHistory[chromium]","tests.Automation_tests","Thu Sep 18 12:51:21 IST 2025","passed","Thu Sep 18 12:51:34 IST 2025","","test_User_Interface","",""
+"","55212","test_HistoryPage_Playout_History[chromium]","tests.Automation_tests","Thu Sep 18 12:49:15 IST 2025","broken","Thu Sep 18 12:50:10 IST 2025","","test_User_Interface","",""
+"","9734","test_View_XML[chromium]","tests.Automation_tests","Thu Sep 18 12:56:09 IST 2025","passed","Thu Sep 18 12:56:19 IST 2025","","test_User_Interface","",""

@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: View of Macau's Senado Square as Typhoon Ragasa passes nearby
+INFO:root:Locator 1 text: ASIA-WEATHER/MACAU

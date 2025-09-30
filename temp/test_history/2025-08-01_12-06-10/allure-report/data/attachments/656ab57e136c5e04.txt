@@ -1,0 +1,4 @@
+INFO:root:Found 14 videos under 'Live Now'.
+INFO:root:Live Now Video: Trading opens at Frankfurt stock exchange
+INFO:root:Live Now Video: Chinese Foreign Ministry daily news conference
+INFO:root:Live Now Video: Chinese Foreign Ministry daily news conference

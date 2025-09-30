@@ -1,0 +1,3 @@
+INFO:root:Found 16 videos under 'Live Now'.
+INFO:root:Live Now Video: Firefighters battle wildfire in Southern France
+INFO:root:Live Now Video: View of Keelung port on first day of US tariffs on Taiwan

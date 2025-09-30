@@ -1,0 +1,32 @@
+INFO     root:test_User_Interface.py:291 Loop configuration is currently hidden. Enabling it now.
+INFO     root:test_User_Interface.py:293 Loop configuration is now visible.
+INFO     root:test_User_Interface.py:301 SOCCER-MESSI/ONEVONE
+INFO     root:test_User_Interface.py:301 FRANCE-OCEAN/CONSERVATION-SWIMMERS
+INFO     root:test_User_Interface.py:301 UKRAINE-CRISIS/ESTONIA-REAX MORE
+INFO     root:test_User_Interface.py:301 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:301 BASEBALL-MLB-LAD-SF/
+INFO     root:test_User_Interface.py:301 Yemen-Israeli Military Operations/Protest
+INFO     root:test_User_Interface.py:301 FRANCE-OCEAN/CONSERVATION-SWIMMERS
+INFO     root:test_User_Interface.py:301 UKRAINE-CRISIS/ESTONIA-REAX MORE
+INFO     root:test_User_Interface.py:301 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:301 BASEBALL-MLB-LAD-SF/
+INFO     root:test_User_Interface.py:301 Yemen-Israeli Military Operations/Protest
+INFO     root:test_User_Interface.py:301 FRANCE-OCEAN/CONSERVATION-SWIMMERS
+INFO     root:test_User_Interface.py:301 UKRAINE-CRISIS/ESTONIA-REAX MORE
+INFO     root:test_User_Interface.py:301 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:301 FRANCE-OCEAN/CONSERVATION-SWIMMERS
+INFO     root:test_User_Interface.py:301 TENNIS-SEOUL/
+INFO     root:test_User_Interface.py:301 UKRAINE-CRISIS/ESTONIA-REAX MORE
+INFO     root:test_User_Interface.py:301 BASEBALL-MLB-LAD-SF/
+INFO     root:test_User_Interface.py:301 Yemen-Israeli Military Operations/Protest
+INFO     root:test_User_Interface.py:301 UKRAINE-CRISIS/ATTACK-DNIPRO
+INFO     root:test_User_Interface.py:301 USA-TRUMP/JAMES INVESTIGATION
+INFO     root:test_User_Interface.py:301 China-Germ Warfare Film/Premiere
+INFO     root:test_User_Interface.py:301 USA-CHINA/REAX
+INFO     root:test_User_Interface.py:301 UKRAINE-CRISIS/ATTACK-DNIPRO
+INFO     root:test_User_Interface.py:301 TENNIS-LAVERCUP/
+INFO     root:test_User_Interface.py:301 USA-KIMMEL/PROTEST
+INFO     root:test_User_Interface.py:301 MEXICO-CANADA/UPDATE
+INFO     root:test_User_Interface.py:301 USA-SHOOTING/KIRK-COLORADO
+INFO     root:test_User_Interface.py:301 AUSTRALIA-WHALE/
+INFO     root:test_User_Interface.py:301 USA-SHOOTING/KIRK-COLORADO

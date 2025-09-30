@@ -1,0 +1,10 @@
+INFO     root:test_FD.py:33 FTP
+INFO     root:test_FD.py:45 Distribution History is empty
+INFO     root:test_FD.py:57 USA-STOCKS/OPEN
+INFO     root:test_FD.py:57 USA-TRUMP/MIGRATION-BAN-SOMALIA
+INFO     root:test_FD.py:57 Sudan-US Sanction/Analyst
+INFO     root:test_FD.py:59 Files added to FTP distribution
+INFO     root:test_FD.py:63 2025-06-06T054416Z_5_RW919606062025RA1_RTRMADC_0_9944-QA-DELIVERY-DECIDER-IMAGE-INGEST-V7-MULTIPLE-JPGS.XML
+INFO     root:test_FD.py:63 2025-06-09T103950Z_4_RW038309062025RP1_RTRMADC_0_SOCCER-CLUB-STADIUMS.XML
+INFO     root:test_FD.py:63 2025-06-09T094730Z_5_RW036009062025RP1_RTRMADC_0_BASEBALL-MLB-CHW-KC.XML
+INFO     root:test_FD.py:65 Files distributed to FTP

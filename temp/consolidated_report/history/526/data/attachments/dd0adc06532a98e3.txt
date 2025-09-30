@@ -1,0 +1,4 @@
+INFO     root:test_User_Interface.py:399 USA-SHOOTING/KIRK
+INFO     root:test_User_Interface.py:399 USA-SHOOTING/KIRK
+INFO     root:test_User_Interface.py:404 Extracted text: USA-SHOOTING/KIRK
+INFO     root:test_User_Interface.py:416 USA-SHOOTING/KIRK

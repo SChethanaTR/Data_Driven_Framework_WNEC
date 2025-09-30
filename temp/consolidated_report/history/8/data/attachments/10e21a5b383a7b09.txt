@@ -1,0 +1,2 @@
+INFO     root:test_admin_playout.py:851 Story 1: INDIA-SHIP/INJURED
+INFO     root:test_admin_playout.py:851 Story 2: NORTHKOREA-ACCIDENT/SHIP-SATELLITE

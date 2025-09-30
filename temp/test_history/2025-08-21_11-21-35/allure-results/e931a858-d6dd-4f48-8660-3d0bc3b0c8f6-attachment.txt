@@ -1,0 +1,8 @@
+INFO     root:test_User_Interface.py:563 View of Khan Younis in Gaza04:5912:00rls
+INFO     root:test_User_Interface.py:563 View of Khan Younis in Gaza05:0012:00rl 1
+INFO     root:test_User_Interface.py:563 View of Israel-Gaza border05:1012:00rl 3
+INFO     root:test_User_Interface.py:563 Lavrov hosts Indian counterpart Subrahmanyam Jaishankar08:1512:00rl 2
+INFO     root:test_User_Interface.py:563 Hurricane Erin offshore in Atlantic churns past Outer Banks10:1512:00rl 5
+INFO     root:test_User_Interface.py:563 Erin offshore in Atlantic triggers storm surge on U.S. East Coast12:0012:00rl 6
+INFO     root:test_User_Interface.py:563 Leader of Yemen's Houthis delivers his weekly speech12:4513:45rl 4
+INFO     root:test_User_Interface.py:563 Fentanyl Prevention and Awareness Day held in Times Square15:3016:30rl 5

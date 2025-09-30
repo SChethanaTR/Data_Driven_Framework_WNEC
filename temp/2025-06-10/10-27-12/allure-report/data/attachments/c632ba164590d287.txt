@@ -1,0 +1,9 @@
+INFO:root:Story playout initiated for story index: 3
+INFO:root:Story playout initiated for story index: 4
+INFO:root:Story playout initiated for story index: 5
+INFO:root:Story playout initiated for story index: 6
+INFO:root:Story playout initiated for story index: 7
+INFO:root:Story 1: UN-US Protest/Militarization
+INFO:root:Story 2: MUSIC-BTS/MILITARY-FANS
+INFO:root:Story 3: China-CELAC Forum/Briefing
+INFO:root:Story 4: UKRAINE-CRISIS/ATTACK-KYIV

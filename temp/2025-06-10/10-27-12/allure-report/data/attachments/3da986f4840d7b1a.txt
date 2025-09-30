@@ -1,0 +1,9 @@
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 3
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 4
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 5
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 6
+INFO     root:test_admin_playout.py:140 Story playout initiated for story index: 7
+INFO     root:test_admin_playout.py:150 Story 1: UN-US Protest/Militarization
+INFO     root:test_admin_playout.py:150 Story 2: MUSIC-BTS/MILITARY-FANS
+INFO     root:test_admin_playout.py:150 Story 3: China-CELAC Forum/Briefing
+INFO     root:test_admin_playout.py:150 Story 4: UKRAINE-CRISIS/ATTACK-KYIV

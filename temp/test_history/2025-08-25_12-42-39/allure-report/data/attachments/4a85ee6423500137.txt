@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:860 Story 1: UGANDA-FARMING/
+INFO     root:test_admin_playout.py:860 Story 2: UGANDA-FARMING/
+INFO     root:test_admin_playout.py:860 Story 3: UGANDA-FARMING/
+INFO     root:test_admin_playout.py:866 Data exported

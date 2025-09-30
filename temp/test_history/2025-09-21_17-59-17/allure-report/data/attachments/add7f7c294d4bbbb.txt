@@ -1,0 +1,2 @@
+INFO:root:Story added to playlist: View of Gaza strip as seen from the Israeli side
+INFO:root:Locator 1 text: ISRAEL-PALESTINIANS/GAZA-BORDER--UPDATED DETAILS--

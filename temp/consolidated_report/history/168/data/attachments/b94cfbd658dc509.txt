@@ -1,0 +1,4 @@
+INFO     root:test_admin_playout.py:851 Story 1: AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE
+INFO     root:test_admin_playout.py:851 Story 2: EUROPE-WEATHER/TURKEY-WILDFIRE
+INFO     root:test_admin_playout.py:851 Story 3: AUSTRALIA-DEATHS/MUSHROOMS-TIMELINE
+INFO     root:test_admin_playout.py:857 Data exported

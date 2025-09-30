@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:670 Story name: Macron visits Imperial College London
+INFO     root:test_User_Interface.py:681 Story playing: BRITAIN-FRANCE/MACRON-UNIVERSITY

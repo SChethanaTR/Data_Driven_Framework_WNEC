@@ -1,0 +1,2 @@
+INFO     root:test_User_Interface.py:582 Story name: View of Israel-Gaza border
+INFO     root:test_User_Interface.py:593 Story playing: ISRAEL-PALESTINIANS/ISRAEL-GAZA BORDER

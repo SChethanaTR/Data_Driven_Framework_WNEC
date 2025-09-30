@@ -1,0 +1,6 @@
+INFO     root:test_User_management.py:66 User user1 is added
+INFO     root:test_User_management.py:66 User user2 is added
+INFO     root:test_User_management.py:66 User admin1 is added
+INFO     paramiko.transport:transport.py:1910 Connected (version 2.0, client OpenSSH_7.6p1)
+INFO     paramiko.transport:transport.py:1910 Authentication (password) successful!
+INFO     root:test_User_management.py:79 Error:

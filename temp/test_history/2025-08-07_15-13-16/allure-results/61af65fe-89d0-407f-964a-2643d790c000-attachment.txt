@@ -1,0 +1,1 @@
+INFO     root:test_User_Interface.py:149 USA-TRUMP/TARIFFS-ITALY
